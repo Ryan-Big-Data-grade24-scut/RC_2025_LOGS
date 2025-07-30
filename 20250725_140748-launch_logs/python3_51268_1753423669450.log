@@ -1,0 +1,6 @@
+[INFO] [1753423669.582333313] [visualizer_node]: Using fixed frame: odom
+[INFO] [1753423669.589123996] [visualizer_node]: formatted_laser_config: [((0.37212, 1.55), 1.5708), ((0.37212, -1.55), -1.5708), ((0.37241, 0.45), 0.0), ((0.36471, 3.82), 3.1416)]
+[INFO] [1753423669.614630084] [visualizer_node]: Boundary publisher timer initialized
+[INFO] [1753423669.615417590] [visualizer_node]: VisualizerNode initialized and ready to visualize.
+[INFO] [1753423670.615848753] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753423670.617251953] [visualizer_node]: Drawing field boundaries: 9.998x8.0 meters

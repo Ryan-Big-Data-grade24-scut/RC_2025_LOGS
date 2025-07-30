@@ -1,0 +1,3 @@
+[INFO] [1753418714.976416757] [visualizer_node]: Configuration loaded successfully from /home/orin/rc2025_ros2_ws/install/laser_solver/share/laser_solver/config/laser_params.yaml
+[INFO] [1753418714.977506236] [visualizer_node]: Laser Config: [((0.37212, 1.55), 1.5708), ((0.37212, -1.55), -1.5708), ((0.37241, 0.45), 0.0), ((0.36471, 3.82), 3.1416)]
+[INFO] [1753418715.212713815] [visualizer_node]: Visualizer Node Initialized

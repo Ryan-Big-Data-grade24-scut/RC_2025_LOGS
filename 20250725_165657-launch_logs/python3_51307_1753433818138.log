@@ -1,0 +1,817 @@
+[INFO] [1753433818.251823862] [visualizer_node]: Initializing VisualizerNode...
+[INFO] [1753433818.253777919] [visualizer_node]: Using fixed frame: odom
+[INFO] [1753433818.254518222] [visualizer_node]: Loading configuration...
+[INFO] [1753433818.260542795] [visualizer_node]: formatted_laser_config: [((0.37212, 1.55), 1.5708), ((0.37212, -1.55), -1.5708), ((0.37241, 0.45), 0.0), ((0.36471, 3.82), 3.1416)]
+[INFO] [1753433818.261487519] [visualizer_node]: Configuration loaded successfully.
+[INFO] [1753433818.271401164] [visualizer_node]: TF broadcaster initialized
+[INFO] [1753433818.284723616] [visualizer_node]: Publisher initialized for boundary markers
+[INFO] [1753433818.289831594] [visualizer_node]: Subscribed to /laser_solutions topic
+[INFO] [1753433818.290604794] [visualizer_node]: Marker ID and color map initialized
+[INFO] [1753433818.291425355] [visualizer_node]: Boundary publisher timer initialized
+[INFO] [1753433818.292071449] [visualizer_node]: VisualizerNode initialized and ready to visualize.
+[INFO] [1753433818.292708166] [visualizer_node_main]: VisualizerNode is running...
+[INFO] [1753433818.384241839] [visualizer_node]: Received 8 solutions
+[INFO] [1753433818.465726408] [visualizer_node]: Received 8 solutions
+[INFO] [1753433818.562782403] [visualizer_node]: Received 8 solutions
+[INFO] [1753433818.657894550] [visualizer_node]: Received 8 solutions
+[INFO] [1753433818.759005542] [visualizer_node]: Received 8 solutions
+[INFO] [1753433818.857903976] [visualizer_node]: Received 8 solutions
+[INFO] [1753433818.958369386] [visualizer_node]: Received 8 solutions
+[INFO] [1753433819.058859405] [visualizer_node]: Received 8 solutions
+[INFO] [1753433819.160217089] [visualizer_node]: Received 8 solutions
+[INFO] [1753433819.258270481] [visualizer_node]: Received 8 solutions
+[INFO] [1753433819.293236070] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433819.294508961] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433819.295233616] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433819.362001943] [visualizer_node]: Received 8 solutions
+[INFO] [1753433819.462207252] [visualizer_node]: Received 8 solutions
+[INFO] [1753433819.561683394] [visualizer_node]: Received 8 solutions
+[INFO] [1753433819.658018670] [visualizer_node]: Received 8 solutions
+[INFO] [1753433819.767837555] [visualizer_node]: Received 8 solutions
+[INFO] [1753433819.859142359] [visualizer_node]: Received 8 solutions
+[INFO] [1753433819.966853935] [visualizer_node]: Received 8 solutions
+[INFO] [1753433820.070835258] [visualizer_node]: Received 8 solutions
+[INFO] [1753433820.165242303] [visualizer_node]: Received 8 solutions
+[INFO] [1753433820.261606188] [visualizer_node]: Received 8 solutions
+[INFO] [1753433820.301529288] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433820.302765601] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433820.303501329] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433820.358820203] [visualizer_node]: Received 8 solutions
+[INFO] [1753433820.459022696] [visualizer_node]: Received 8 solutions
+[INFO] [1753433820.564261581] [visualizer_node]: Received 8 solutions
+[INFO] [1753433820.666511828] [visualizer_node]: Received 8 solutions
+[INFO] [1753433820.760768694] [visualizer_node]: Received 8 solutions
+[INFO] [1753433820.863755180] [visualizer_node]: Received 8 solutions
+[INFO] [1753433820.959267592] [visualizer_node]: Received 8 solutions
+[INFO] [1753433821.062181149] [visualizer_node]: Received 8 solutions
+[INFO] [1753433821.157782458] [visualizer_node]: Received 8 solutions
+[INFO] [1753433821.264691586] [visualizer_node]: Received 8 solutions
+[INFO] [1753433821.304253814] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433821.305491952] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433821.306185758] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433821.360936941] [visualizer_node]: Received 8 solutions
+[INFO] [1753433821.458629173] [visualizer_node]: Received 8 solutions
+[INFO] [1753433821.564598186] [visualizer_node]: Received 8 solutions
+[INFO] [1753433821.657488623] [visualizer_node]: Received 8 solutions
+[INFO] [1753433821.760909358] [visualizer_node]: Received 8 solutions
+[INFO] [1753433821.860101782] [visualizer_node]: Received 8 solutions
+[INFO] [1753433821.966847483] [visualizer_node]: Received 8 solutions
+[INFO] [1753433822.065181937] [visualizer_node]: Received 8 solutions
+[INFO] [1753433822.158910375] [visualizer_node]: Received 8 solutions
+[INFO] [1753433822.259568174] [visualizer_node]: Received 8 solutions
+[INFO] [1753433822.292961314] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433822.294671333] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433822.295487702] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433822.358088104] [visualizer_node]: Received 8 solutions
+[INFO] [1753433822.469048579] [visualizer_node]: Received 8 solutions
+[INFO] [1753433822.559936863] [visualizer_node]: Received 8 solutions
+[INFO] [1753433822.660198301] [visualizer_node]: Received 8 solutions
+[INFO] [1753433822.757628000] [visualizer_node]: Received 8 solutions
+[INFO] [1753433822.864389797] [visualizer_node]: Received 8 solutions
+[INFO] [1753433822.958707144] [visualizer_node]: Received 8 solutions
+[INFO] [1753433823.070405523] [visualizer_node]: Received 8 solutions
+[INFO] [1753433823.159409768] [visualizer_node]: Received 8 solutions
+[INFO] [1753433823.262868328] [visualizer_node]: Received 8 solutions
+[INFO] [1753433823.297772892] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433823.299541088] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433823.300253647] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433823.359721919] [visualizer_node]: Received 8 solutions
+[INFO] [1753433823.466576262] [visualizer_node]: Received 8 solutions
+[INFO] [1753433823.561496501] [visualizer_node]: Received 8 solutions
+[INFO] [1753433823.663361301] [visualizer_node]: Received 8 solutions
+[INFO] [1753433823.757668599] [visualizer_node]: Received 8 solutions
+[INFO] [1753433823.858364702] [visualizer_node]: Received 8 solutions
+[INFO] [1753433823.961532665] [visualizer_node]: Received 8 solutions
+[INFO] [1753433824.071165145] [visualizer_node]: Received 8 solutions
+[INFO] [1753433824.170017786] [visualizer_node]: Received 8 solutions
+[INFO] [1753433824.258068475] [visualizer_node]: Received 8 solutions
+[INFO] [1753433824.299196303] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433824.300547179] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433824.301255482] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433824.362784021] [visualizer_node]: Received 8 solutions
+[INFO] [1753433824.461180269] [visualizer_node]: Received 8 solutions
+[INFO] [1753433824.564712718] [visualizer_node]: Received 8 solutions
+[INFO] [1753433824.663230472] [visualizer_node]: Received 8 solutions
+[INFO] [1753433824.758887271] [visualizer_node]: Received 8 solutions
+[INFO] [1753433824.860271708] [visualizer_node]: Received 8 solutions
+[INFO] [1753433824.963065743] [visualizer_node]: Received 8 solutions
+[INFO] [1753433825.062213878] [visualizer_node]: Received 8 solutions
+[INFO] [1753433825.162405458] [visualizer_node]: Received 8 solutions
+[INFO] [1753433825.259619985] [visualizer_node]: Received 8 solutions
+[INFO] [1753433825.298360180] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433825.301109261] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433825.303134999] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433825.363275638] [visualizer_node]: Received 8 solutions
+[INFO] [1753433825.458499339] [visualizer_node]: Received 8 solutions
+[INFO] [1753433825.569822159] [visualizer_node]: Received 8 solutions
+[INFO] [1753433825.659061736] [visualizer_node]: Received 8 solutions
+[INFO] [1753433825.767401550] [visualizer_node]: Received 8 solutions
+[INFO] [1753433825.861500428] [visualizer_node]: Received 8 solutions
+[INFO] [1753433825.958259778] [visualizer_node]: Received 8 solutions
+[INFO] [1753433826.061172407] [visualizer_node]: Received 8 solutions
+[INFO] [1753433826.175931969] [visualizer_node]: Received 8 solutions
+[INFO] [1753433826.267869971] [visualizer_node]: Received 8 solutions
+[INFO] [1753433826.301463051] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433826.302914857] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433826.303680249] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433826.359939687] [visualizer_node]: Received 8 solutions
+[INFO] [1753433826.466564681] [visualizer_node]: Received 8 solutions
+[INFO] [1753433826.560441539] [visualizer_node]: Received 8 solutions
+[INFO] [1753433826.665421891] [visualizer_node]: Received 8 solutions
+[INFO] [1753433826.759818599] [visualizer_node]: Received 8 solutions
+[INFO] [1753433826.859314614] [visualizer_node]: Received 8 solutions
+[INFO] [1753433826.961519740] [visualizer_node]: Received 8 solutions
+[INFO] [1753433827.058834429] [visualizer_node]: Received 8 solutions
+[INFO] [1753433827.160842527] [visualizer_node]: Received 8 solutions
+[INFO] [1753433827.258876399] [visualizer_node]: Received 8 solutions
+[INFO] [1753433827.307852774] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433827.309344197] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433827.310224216] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433827.358569186] [visualizer_node]: Received 8 solutions
+[INFO] [1753433827.462039554] [visualizer_node]: Received 8 solutions
+[INFO] [1753433827.559667690] [visualizer_node]: Received 8 solutions
+[INFO] [1753433827.674322130] [visualizer_node]: Received 8 solutions
+[INFO] [1753433827.758953420] [visualizer_node]: Received 8 solutions
+[INFO] [1753433827.861303030] [visualizer_node]: Received 8 solutions
+[INFO] [1753433827.970609487] [visualizer_node]: Received 8 solutions
+[INFO] [1753433828.062194201] [visualizer_node]: Received 8 solutions
+[INFO] [1753433828.169105441] [visualizer_node]: Received 8 solutions
+[INFO] [1753433828.260828623] [visualizer_node]: Received 8 solutions
+[INFO] [1753433828.295004883] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433828.300019579] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433828.301725758] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433828.368123742] [visualizer_node]: Received 8 solutions
+[INFO] [1753433828.469699352] [visualizer_node]: Received 8 solutions
+[INFO] [1753433828.562171957] [visualizer_node]: Received 8 solutions
+[INFO] [1753433828.659853341] [visualizer_node]: Received 8 solutions
+[INFO] [1753433828.762759378] [visualizer_node]: Received 8 solutions
+[INFO] [1753433828.862319394] [visualizer_node]: Received 8 solutions
+[INFO] [1753433828.966883929] [visualizer_node]: Received 8 solutions
+[INFO] [1753433829.062925632] [visualizer_node]: Received 8 solutions
+[INFO] [1753433829.164916354] [visualizer_node]: Received 8 solutions
+[INFO] [1753433829.260882055] [visualizer_node]: Received 8 solutions
+[INFO] [1753433829.304776501] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433829.306059503] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433829.306731645] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433829.365562560] [visualizer_node]: Received 8 solutions
+[INFO] [1753433829.466809299] [visualizer_node]: Received 8 solutions
+[INFO] [1753433829.560130017] [visualizer_node]: Received 8 solutions
+[INFO] [1753433829.658756670] [visualizer_node]: Received 8 solutions
+[INFO] [1753433829.764093093] [visualizer_node]: Received 8 solutions
+[INFO] [1753433829.874803420] [visualizer_node]: Received 8 solutions
+[INFO] [1753433829.972967790] [visualizer_node]: Received 8 solutions
+[INFO] [1753433830.059624210] [visualizer_node]: Received 8 solutions
+[INFO] [1753433830.162067070] [visualizer_node]: Received 8 solutions
+[INFO] [1753433830.279545025] [visualizer_node]: Received 8 solutions
+[INFO] [1753433830.320186859] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433830.322492315] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433830.323323084] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433830.368376658] [visualizer_node]: Received 8 solutions
+[INFO] [1753433830.458911975] [visualizer_node]: Received 8 solutions
+[INFO] [1753433830.561645624] [visualizer_node]: Received 8 solutions
+[INFO] [1753433830.676665608] [visualizer_node]: Received 8 solutions
+[INFO] [1753433830.761723691] [visualizer_node]: Received 8 solutions
+[INFO] [1753433830.860499306] [visualizer_node]: Received 8 solutions
+[INFO] [1753433830.959307786] [visualizer_node]: Received 8 solutions
+[INFO] [1753433831.069406037] [visualizer_node]: Received 8 solutions
+[INFO] [1753433831.160191310] [visualizer_node]: Received 8 solutions
+[INFO] [1753433831.263419114] [visualizer_node]: Received 8 solutions
+[INFO] [1753433831.303065664] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433831.304392539] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433831.305065225] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433831.364517177] [visualizer_node]: Received 8 solutions
+[INFO] [1753433831.464352655] [visualizer_node]: Received 8 solutions
+[INFO] [1753433831.560003181] [visualizer_node]: Received 8 solutions
+[INFO] [1753433831.659860419] [visualizer_node]: Received 8 solutions
+[INFO] [1753433831.760840528] [visualizer_node]: Received 8 solutions
+[INFO] [1753433831.858123601] [visualizer_node]: Received 8 solutions
+[INFO] [1753433831.962342689] [visualizer_node]: Received 8 solutions
+[INFO] [1753433832.057831004] [visualizer_node]: Received 8 solutions
+[INFO] [1753433832.166214499] [visualizer_node]: Received 8 solutions
+[INFO] [1753433832.264435447] [visualizer_node]: Received 8 solutions
+[INFO] [1753433832.312994597] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433832.314408226] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433832.315097457] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433832.366779392] [visualizer_node]: Received 8 solutions
+[INFO] [1753433832.464775695] [visualizer_node]: Received 8 solutions
+[INFO] [1753433832.562343029] [visualizer_node]: Received 8 solutions
+[INFO] [1753433832.661196534] [visualizer_node]: Received 8 solutions
+[INFO] [1753433832.758269043] [visualizer_node]: Received 8 solutions
+[INFO] [1753433832.866656921] [visualizer_node]: Received 8 solutions
+[INFO] [1753433832.960263949] [visualizer_node]: Received 8 solutions
+[INFO] [1753433833.068807095] [visualizer_node]: Received 8 solutions
+[INFO] [1753433833.158063281] [visualizer_node]: Received 8 solutions
+[INFO] [1753433833.260148213] [visualizer_node]: Received 8 solutions
+[INFO] [1753433833.292707128] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433833.294352122] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433833.295273037] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433833.358464619] [visualizer_node]: Received 8 solutions
+[INFO] [1753433833.460355147] [visualizer_node]: Received 8 solutions
+[INFO] [1753433833.561877540] [visualizer_node]: Received 8 solutions
+[INFO] [1753433833.663802468] [visualizer_node]: Received 8 solutions
+[INFO] [1753433833.761108709] [visualizer_node]: Received 8 solutions
+[INFO] [1753433833.860108457] [visualizer_node]: Received 8 solutions
+[INFO] [1753433833.961721827] [visualizer_node]: Received 8 solutions
+[INFO] [1753433834.060527268] [visualizer_node]: Received 8 solutions
+[INFO] [1753433834.158341007] [visualizer_node]: Received 8 solutions
+[INFO] [1753433834.265683232] [visualizer_node]: Received 8 solutions
+[INFO] [1753433834.298965010] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433834.300286413] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433834.301202496] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433834.360759411] [visualizer_node]: Received 8 solutions
+[INFO] [1753433834.459502481] [visualizer_node]: Received 8 solutions
+[INFO] [1753433834.559716431] [visualizer_node]: Received 8 solutions
+[INFO] [1753433834.657402904] [visualizer_node]: Received 8 solutions
+[INFO] [1753433834.766954102] [visualizer_node]: Received 8 solutions
+[INFO] [1753433834.859752634] [visualizer_node]: Received 8 solutions
+[INFO] [1753433834.963890984] [visualizer_node]: Received 8 solutions
+[INFO] [1753433835.059955440] [visualizer_node]: Received 8 solutions
+[INFO] [1753433835.161284964] [visualizer_node]: Received 8 solutions
+[INFO] [1753433835.264116952] [visualizer_node]: Received 8 solutions
+[INFO] [1753433835.306775788] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433835.308118024] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433835.308802774] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433835.360794379] [visualizer_node]: Received 8 solutions
+[INFO] [1753433835.459621580] [visualizer_node]: Received 8 solutions
+[INFO] [1753433835.559288766] [visualizer_node]: Received 8 solutions
+[INFO] [1753433835.659872643] [visualizer_node]: Received 8 solutions
+[INFO] [1753433835.757533803] [visualizer_node]: Received 8 solutions
+[INFO] [1753433835.860359231] [visualizer_node]: Received 8 solutions
+[INFO] [1753433835.963694940] [visualizer_node]: Received 8 solutions
+[INFO] [1753433836.073317277] [visualizer_node]: Received 8 solutions
+[INFO] [1753433836.160117604] [visualizer_node]: Received 8 solutions
+[INFO] [1753433836.260191134] [visualizer_node]: Received 8 solutions
+[INFO] [1753433836.296926392] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433836.298529817] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433836.299301001] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433836.361120106] [visualizer_node]: Received 8 solutions
+[INFO] [1753433836.462031446] [visualizer_node]: Received 8 solutions
+[INFO] [1753433836.557867769] [visualizer_node]: Received 8 solutions
+[INFO] [1753433836.674177892] [visualizer_node]: Received 8 solutions
+[INFO] [1753433836.758029230] [visualizer_node]: Received 8 solutions
+[INFO] [1753433836.867025793] [visualizer_node]: Received 8 solutions
+[INFO] [1753433836.959761187] [visualizer_node]: Received 8 solutions
+[INFO] [1753433837.059429237] [visualizer_node]: Received 8 solutions
+[INFO] [1753433837.171604138] [visualizer_node]: Received 8 solutions
+[INFO] [1753433837.262420421] [visualizer_node]: Received 8 solutions
+[INFO] [1753433837.300468282] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433837.301688339] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433837.302384609] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433837.367536008] [visualizer_node]: Received 8 solutions
+[INFO] [1753433837.469270565] [visualizer_node]: Received 8 solutions
+[INFO] [1753433837.558169271] [visualizer_node]: Received 8 solutions
+[INFO] [1753433837.659460139] [visualizer_node]: Received 8 solutions
+[INFO] [1753433837.763795678] [visualizer_node]: Received 8 solutions
+[INFO] [1753433837.866299690] [visualizer_node]: Received 8 solutions
+[INFO] [1753433837.962874076] [visualizer_node]: Received 8 solutions
+[INFO] [1753433838.062344650] [visualizer_node]: Received 8 solutions
+[INFO] [1753433838.158272623] [visualizer_node]: Received 8 solutions
+[INFO] [1753433838.271676957] [visualizer_node]: Received 8 solutions
+[INFO] [1753433838.306329100] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433838.307999246] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433838.308929953] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433838.359466809] [visualizer_node]: Received 8 solutions
+[INFO] [1753433838.464149267] [visualizer_node]: Received 8 solutions
+[INFO] [1753433838.557930251] [visualizer_node]: Received 8 solutions
+[INFO] [1753433838.663060910] [visualizer_node]: Received 8 solutions
+[INFO] [1753433838.760336175] [visualizer_node]: Received 8 solutions
+[INFO] [1753433838.858099769] [visualizer_node]: Received 8 solutions
+[INFO] [1753433838.966107000] [visualizer_node]: Received 8 solutions
+[INFO] [1753433839.077078836] [visualizer_node]: Received 8 solutions
+[INFO] [1753433839.159317501] [visualizer_node]: Received 8 solutions
+[INFO] [1753433839.265868126] [visualizer_node]: Received 8 solutions
+[INFO] [1753433839.297151654] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433839.298471553] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433839.299195152] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433839.362396622] [visualizer_node]: Received 8 solutions
+[INFO] [1753433839.457788424] [visualizer_node]: Received 8 solutions
+[INFO] [1753433839.564244935] [visualizer_node]: Received 8 solutions
+[INFO] [1753433839.657394801] [visualizer_node]: Received 8 solutions
+[INFO] [1753433839.762876220] [visualizer_node]: Received 8 solutions
+[INFO] [1753433839.858312694] [visualizer_node]: Received 8 solutions
+[INFO] [1753433839.959409894] [visualizer_node]: Received 8 solutions
+[INFO] [1753433840.058010754] [visualizer_node]: Received 8 solutions
+[INFO] [1753433840.163398986] [visualizer_node]: Received 8 solutions
+[INFO] [1753433840.258362107] [visualizer_node]: Received 8 solutions
+[INFO] [1753433840.294029534] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433840.295310425] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433840.296002599] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433840.358677626] [visualizer_node]: Received 8 solutions
+[INFO] [1753433840.460197075] [visualizer_node]: Received 8 solutions
+[INFO] [1753433840.565565275] [visualizer_node]: Received 8 solutions
+[INFO] [1753433840.664582047] [visualizer_node]: Received 8 solutions
+[INFO] [1753433840.766585634] [visualizer_node]: Received 8 solutions
+[INFO] [1753433840.860424891] [visualizer_node]: Received 8 solutions
+[INFO] [1753433840.957527800] [visualizer_node]: Received 8 solutions
+[INFO] [1753433841.064220315] [visualizer_node]: Received 8 solutions
+[INFO] [1753433841.159570708] [visualizer_node]: Received 8 solutions
+[INFO] [1753433841.259494091] [visualizer_node]: Received 8 solutions
+[INFO] [1753433841.301518322] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433841.302708427] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433841.303397721] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433841.359327969] [visualizer_node]: Received 8 solutions
+[INFO] [1753433841.467420257] [visualizer_node]: Received 8 solutions
+[INFO] [1753433841.558694917] [visualizer_node]: Received 8 solutions
+[INFO] [1753433841.663979852] [visualizer_node]: Received 8 solutions
+[INFO] [1753433841.757509247] [visualizer_node]: Received 8 solutions
+[INFO] [1753433841.865050196] [visualizer_node]: Received 8 solutions
+[INFO] [1753433841.957498448] [visualizer_node]: Received 8 solutions
+[INFO] [1753433842.066671111] [visualizer_node]: Received 8 solutions
+[INFO] [1753433842.158677723] [visualizer_node]: Received 8 solutions
+[INFO] [1753433842.269331472] [visualizer_node]: Received 8 solutions
+[INFO] [1753433842.302036118] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433842.304193827] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433842.305016084] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433842.370957035] [visualizer_node]: Received 8 solutions
+[INFO] [1753433842.468435312] [visualizer_node]: Received 8 solutions
+[INFO] [1753433842.562400875] [visualizer_node]: Received 8 solutions
+[INFO] [1753433842.661790392] [visualizer_node]: Received 8 solutions
+[INFO] [1753433842.757948161] [visualizer_node]: Received 8 solutions
+[INFO] [1753433842.860208233] [visualizer_node]: Received 8 solutions
+[INFO] [1753433842.958950920] [visualizer_node]: Received 8 solutions
+[INFO] [1753433843.058167920] [visualizer_node]: Received 8 solutions
+[INFO] [1753433843.162412481] [visualizer_node]: Received 8 solutions
+[INFO] [1753433843.261051486] [visualizer_node]: Received 8 solutions
+[INFO] [1753433843.295690316] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433843.297404656] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433843.298102878] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433843.359014541] [visualizer_node]: Received 8 solutions
+[INFO] [1753433843.458846018] [visualizer_node]: Received 8 solutions
+[INFO] [1753433843.562162528] [visualizer_node]: Received 8 solutions
+[INFO] [1753433843.661010241] [visualizer_node]: Received 8 solutions
+[INFO] [1753433843.762556282] [visualizer_node]: Received 8 solutions
+[INFO] [1753433843.857730959] [visualizer_node]: Received 8 solutions
+[INFO] [1753433843.963454910] [visualizer_node]: Received 8 solutions
+[INFO] [1753433844.058747702] [visualizer_node]: Received 8 solutions
+[INFO] [1753433844.162101044] [visualizer_node]: Received 8 solutions
+[INFO] [1753433844.258150843] [visualizer_node]: Received 8 solutions
+[INFO] [1753433844.296600408] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433844.297845682] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433844.298537600] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433844.360852844] [visualizer_node]: Received 8 solutions
+[INFO] [1753433844.458946206] [visualizer_node]: Received 8 solutions
+[INFO] [1753433844.560260626] [visualizer_node]: Received 8 solutions
+[INFO] [1753433844.659843202] [visualizer_node]: Received 8 solutions
+[INFO] [1753433844.763795085] [visualizer_node]: Received 8 solutions
+[INFO] [1753433844.858727901] [visualizer_node]: Received 8 solutions
+[INFO] [1753433844.965873450] [visualizer_node]: Received 8 solutions
+[INFO] [1753433845.058612109] [visualizer_node]: Received 8 solutions
+[INFO] [1753433845.164937193] [visualizer_node]: Received 8 solutions
+[INFO] [1753433845.257554153] [visualizer_node]: Received 8 solutions
+[INFO] [1753433845.292832612] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433845.294109566] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433845.294792076] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433845.364049224] [visualizer_node]: Received 8 solutions
+[INFO] [1753433845.459434497] [visualizer_node]: Received 8 solutions
+[INFO] [1753433845.558646346] [visualizer_node]: Received 8 solutions
+[INFO] [1753433845.657640046] [visualizer_node]: Received 8 solutions
+[INFO] [1753433845.762835795] [visualizer_node]: Received 8 solutions
+[INFO] [1753433845.858045417] [visualizer_node]: Received 8 solutions
+[INFO] [1753433845.963184684] [visualizer_node]: Received 8 solutions
+[INFO] [1753433846.060112869] [visualizer_node]: Received 8 solutions
+[INFO] [1753433846.164591483] [visualizer_node]: Received 8 solutions
+[INFO] [1753433846.258553271] [visualizer_node]: Received 8 solutions
+[INFO] [1753433846.299620362] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433846.300923109] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433846.301635188] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433846.361393195] [visualizer_node]: Received 8 solutions
+[INFO] [1753433846.460978971] [visualizer_node]: Received 8 solutions
+[INFO] [1753433846.567986790] [visualizer_node]: Received 8 solutions
+[INFO] [1753433846.662945078] [visualizer_node]: Received 8 solutions
+[INFO] [1753433846.758539124] [visualizer_node]: Received 8 solutions
+[INFO] [1753433846.861502346] [visualizer_node]: Received 8 solutions
+[INFO] [1753433846.960902679] [visualizer_node]: Received 8 solutions
+[INFO] [1753433847.062523473] [visualizer_node]: Received 8 solutions
+[INFO] [1753433847.160490176] [visualizer_node]: Received 8 solutions
+[INFO] [1753433847.269734905] [visualizer_node]: Received 8 solutions
+[INFO] [1753433847.303420275] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433847.305133879] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433847.306145388] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433847.363679284] [visualizer_node]: Received 8 solutions
+[INFO] [1753433847.459894463] [visualizer_node]: Received 8 solutions
+[INFO] [1753433847.566069944] [visualizer_node]: Received 8 solutions
+[INFO] [1753433847.661532627] [visualizer_node]: Received 8 solutions
+[INFO] [1753433847.764699629] [visualizer_node]: Received 8 solutions
+[INFO] [1753433847.863376715] [visualizer_node]: Received 8 solutions
+[INFO] [1753433847.959067275] [visualizer_node]: Received 8 solutions
+[INFO] [1753433848.064394738] [visualizer_node]: Received 8 solutions
+[INFO] [1753433848.159389667] [visualizer_node]: Received 8 solutions
+[INFO] [1753433848.278972402] [visualizer_node]: Received 8 solutions
+[INFO] [1753433848.321243583] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433848.322544634] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433848.323301065] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433848.358622982] [visualizer_node]: Received 8 solutions
+[INFO] [1753433848.459784567] [visualizer_node]: Received 8 solutions
+[INFO] [1753433848.565717899] [visualizer_node]: Received 8 solutions
+[INFO] [1753433848.664570572] [visualizer_node]: Received 8 solutions
+[INFO] [1753433848.766932534] [visualizer_node]: Received 8 solutions
+[INFO] [1753433848.860555915] [visualizer_node]: Received 8 solutions
+[INFO] [1753433848.964092141] [visualizer_node]: Received 8 solutions
+[INFO] [1753433849.078727093] [visualizer_node]: Received 8 solutions
+[INFO] [1753433849.170938573] [visualizer_node]: Received 8 solutions
+[INFO] [1753433849.258459555] [visualizer_node]: Received 8 solutions
+[INFO] [1753433849.294221833] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433849.295487587] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433849.296164273] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433849.364956963] [visualizer_node]: Received 8 solutions
+[INFO] [1753433849.463632193] [visualizer_node]: Received 8 solutions
+[INFO] [1753433849.569033674] [visualizer_node]: Received 8 solutions
+[INFO] [1753433849.658085088] [visualizer_node]: Received 8 solutions
+[INFO] [1753433849.770510170] [visualizer_node]: Received 8 solutions
+[INFO] [1753433849.857039740] [visualizer_node]: Received 8 solutions
+[INFO] [1753433849.966797727] [visualizer_node]: Received 8 solutions
+[INFO] [1753433850.061032065] [visualizer_node]: Received 8 solutions
+[INFO] [1753433850.159989636] [visualizer_node]: Received 8 solutions
+[INFO] [1753433850.258688099] [visualizer_node]: Received 8 solutions
+[INFO] [1753433850.294895025] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433850.296129867] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433850.296823993] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433850.360896073] [visualizer_node]: Received 8 solutions
+[INFO] [1753433850.459087197] [visualizer_node]: Received 8 solutions
+[INFO] [1753433850.561522568] [visualizer_node]: Received 8 solutions
+[INFO] [1753433850.660695600] [visualizer_node]: Received 8 solutions
+[INFO] [1753433850.763443298] [visualizer_node]: Received 8 solutions
+[INFO] [1753433850.859465609] [visualizer_node]: Received 8 solutions
+[INFO] [1753433850.957657533] [visualizer_node]: Received 8 solutions
+[INFO] [1753433851.062273845] [visualizer_node]: Received 8 solutions
+[INFO] [1753433851.160399944] [visualizer_node]: Received 8 solutions
+[INFO] [1753433851.261250450] [visualizer_node]: Received 8 solutions
+[INFO] [1753433851.299344360] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433851.302032128] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433851.303517854] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433851.359321251] [visualizer_node]: Received 8 solutions
+[INFO] [1753433851.459668900] [visualizer_node]: Received 8 solutions
+[INFO] [1753433851.562352628] [visualizer_node]: Received 8 solutions
+[INFO] [1753433851.657832592] [visualizer_node]: Received 8 solutions
+[INFO] [1753433851.761374290] [visualizer_node]: Received 8 solutions
+[INFO] [1753433851.861345483] [visualizer_node]: Received 8 solutions
+[INFO] [1753433851.965550779] [visualizer_node]: Received 8 solutions
+[INFO] [1753433852.063176931] [visualizer_node]: Received 8 solutions
+[INFO] [1753433852.161194963] [visualizer_node]: Received 8 solutions
+[INFO] [1753433852.262271938] [visualizer_node]: Received 8 solutions
+[INFO] [1753433852.298616276] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433852.299898990] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433852.300578844] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433852.359251645] [visualizer_node]: Received 8 solutions
+[INFO] [1753433852.459958084] [visualizer_node]: Received 8 solutions
+[INFO] [1753433852.557509099] [visualizer_node]: Received 8 solutions
+[INFO] [1753433852.669431323] [visualizer_node]: Received 8 solutions
+[INFO] [1753433852.757511037] [visualizer_node]: Received 8 solutions
+[INFO] [1753433852.868519610] [visualizer_node]: Received 8 solutions
+[INFO] [1753433852.964524768] [visualizer_node]: Received 8 solutions
+[INFO] [1753433853.059331918] [visualizer_node]: Received 8 solutions
+[INFO] [1753433853.160120343] [visualizer_node]: Received 8 solutions
+[INFO] [1753433853.264142468] [visualizer_node]: Received 8 solutions
+[INFO] [1753433853.297798525] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433853.299417439] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433853.300168527] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433853.360643220] [visualizer_node]: Received 8 solutions
+[INFO] [1753433853.465534195] [visualizer_node]: Received 8 solutions
+[INFO] [1753433853.560436162] [visualizer_node]: Received 8 solutions
+[INFO] [1753433853.662632969] [visualizer_node]: Received 8 solutions
+[INFO] [1753433853.774086447] [visualizer_node]: Received 8 solutions
+[INFO] [1753433853.860166120] [visualizer_node]: Received 8 solutions
+[INFO] [1753433853.961339161] [visualizer_node]: Received 8 solutions
+[INFO] [1753433854.062605741] [visualizer_node]: Received 8 solutions
+[INFO] [1753433854.158848280] [visualizer_node]: Received 8 solutions
+[INFO] [1753433854.259524447] [visualizer_node]: Received 8 solutions
+[INFO] [1753433854.293980937] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433854.295694733] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433854.296436828] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433854.359377749] [visualizer_node]: Received 8 solutions
+[INFO] [1753433854.459479344] [visualizer_node]: Received 8 solutions
+[INFO] [1753433854.558946270] [visualizer_node]: Received 8 solutions
+[INFO] [1753433854.659824458] [visualizer_node]: Received 8 solutions
+[INFO] [1753433854.766464461] [visualizer_node]: Received 8 solutions
+[INFO] [1753433854.860030368] [visualizer_node]: Received 8 solutions
+[INFO] [1753433854.959528335] [visualizer_node]: Received 8 solutions
+[INFO] [1753433855.059985330] [visualizer_node]: Received 8 solutions
+[INFO] [1753433855.164581066] [visualizer_node]: Received 8 solutions
+[INFO] [1753433855.257689236] [visualizer_node]: Received 8 solutions
+[INFO] [1753433855.299385237] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433855.300564141] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433855.301240987] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433855.363584264] [visualizer_node]: Received 8 solutions
+[INFO] [1753433855.457936908] [visualizer_node]: Received 8 solutions
+[INFO] [1753433855.560774112] [visualizer_node]: Received 8 solutions
+[INFO] [1753433855.668376534] [visualizer_node]: Received 8 solutions
+[INFO] [1753433855.757929015] [visualizer_node]: Received 8 solutions
+[INFO] [1753433855.866487169] [visualizer_node]: Received 8 solutions
+[INFO] [1753433855.958600279] [visualizer_node]: Received 8 solutions
+[INFO] [1753433856.060567801] [visualizer_node]: Received 8 solutions
+[INFO] [1753433856.160050311] [visualizer_node]: Received 8 solutions
+[INFO] [1753433856.258097912] [visualizer_node]: Received 8 solutions
+[INFO] [1753433856.292269884] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433856.293583128] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433856.294307175] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433856.367478004] [visualizer_node]: Received 8 solutions
+[INFO] [1753433856.464225161] [visualizer_node]: Received 8 solutions
+[INFO] [1753433856.558547821] [visualizer_node]: Received 8 solutions
+[INFO] [1753433856.662612570] [visualizer_node]: Received 8 solutions
+[INFO] [1753433856.763135070] [visualizer_node]: Received 8 solutions
+[INFO] [1753433856.858225298] [visualizer_node]: Received 8 solutions
+[INFO] [1753433856.962331136] [visualizer_node]: Received 8 solutions
+[INFO] [1753433857.057971583] [visualizer_node]: Received 8 solutions
+[INFO] [1753433857.164293083] [visualizer_node]: Received 8 solutions
+[INFO] [1753433857.257596841] [visualizer_node]: Received 8 solutions
+[INFO] [1753433857.301470487] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433857.302902836] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433857.303621731] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433857.362710220] [visualizer_node]: Received 8 solutions
+[INFO] [1753433857.469563604] [visualizer_node]: Received 8 solutions
+[INFO] [1753433857.558220066] [visualizer_node]: Received 8 solutions
+[INFO] [1753433857.669988943] [visualizer_node]: Received 8 solutions
+[INFO] [1753433857.761034670] [visualizer_node]: Received 8 solutions
+[INFO] [1753433857.862061853] [visualizer_node]: Received 8 solutions
+[INFO] [1753433857.963138668] [visualizer_node]: Received 8 solutions
+[INFO] [1753433858.061829354] [visualizer_node]: Received 8 solutions
+[INFO] [1753433858.160789390] [visualizer_node]: Received 8 solutions
+[INFO] [1753433858.262347623] [visualizer_node]: Received 8 solutions
+[INFO] [1753433858.317954152] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433858.319179841] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433858.320409947] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433858.366104302] [visualizer_node]: Received 8 solutions
+[INFO] [1753433858.463765719] [visualizer_node]: Received 8 solutions
+[INFO] [1753433858.568493682] [visualizer_node]: Received 8 solutions
+[INFO] [1753433858.663120092] [visualizer_node]: Received 8 solutions
+[INFO] [1753433858.768892653] [visualizer_node]: Received 8 solutions
+[INFO] [1753433858.857961283] [visualizer_node]: Received 8 solutions
+[INFO] [1753433858.959707937] [visualizer_node]: Received 8 solutions
+[INFO] [1753433859.060567244] [visualizer_node]: Received 8 solutions
+[INFO] [1753433859.164477686] [visualizer_node]: Received 8 solutions
+[INFO] [1753433859.258075242] [visualizer_node]: Received 8 solutions
+[INFO] [1753433859.292347313] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433859.293670476] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433859.294371035] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433859.359144858] [visualizer_node]: Received 8 solutions
+[INFO] [1753433859.457438096] [visualizer_node]: Received 8 solutions
+[INFO] [1753433859.559007849] [visualizer_node]: Received 8 solutions
+[INFO] [1753433859.659660976] [visualizer_node]: Received 8 solutions
+[INFO] [1753433859.763799679] [visualizer_node]: Received 8 solutions
+[INFO] [1753433859.868931395] [visualizer_node]: Received 8 solutions
+[INFO] [1753433859.959658332] [visualizer_node]: Received 8 solutions
+[INFO] [1753433860.059897178] [visualizer_node]: Received 8 solutions
+[INFO] [1753433860.160185657] [visualizer_node]: Received 8 solutions
+[INFO] [1753433860.260893505] [visualizer_node]: Received 8 solutions
+[INFO] [1753433860.298399338] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433860.299696389] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433860.300379924] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433860.364252128] [visualizer_node]: Received 8 solutions
+[INFO] [1753433860.460984053] [visualizer_node]: Received 8 solutions
+[INFO] [1753433860.562549167] [visualizer_node]: Received 8 solutions
+[INFO] [1753433860.658138317] [visualizer_node]: Received 8 solutions
+[INFO] [1753433860.765104374] [visualizer_node]: Received 8 solutions
+[INFO] [1753433860.857778424] [visualizer_node]: Received 8 solutions
+[INFO] [1753433860.964122132] [visualizer_node]: Received 8 solutions
+[INFO] [1753433861.064909214] [visualizer_node]: Received 8 solutions
+[INFO] [1753433861.162940590] [visualizer_node]: Received 8 solutions
+[INFO] [1753433861.264679211] [visualizer_node]: Received 8 solutions
+[INFO] [1753433861.307491523] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433861.308712252] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433861.309383498] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433861.357574065] [visualizer_node]: Received 8 solutions
+[INFO] [1753433861.465479471] [visualizer_node]: Received 8 solutions
+[INFO] [1753433861.558142160] [visualizer_node]: Received 8 solutions
+[INFO] [1753433861.663902752] [visualizer_node]: Received 8 solutions
+[INFO] [1753433861.761410406] [visualizer_node]: Received 8 solutions
+[INFO] [1753433861.859488343] [visualizer_node]: Received 8 solutions
+[INFO] [1753433861.964948290] [visualizer_node]: Received 8 solutions
+[INFO] [1753433862.058312273] [visualizer_node]: Received 8 solutions
+[INFO] [1753433862.165390077] [visualizer_node]: Received 8 solutions
+[INFO] [1753433862.260640564] [visualizer_node]: Received 8 solutions
+[INFO] [1753433862.294188076] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433862.295571624] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433862.296233270] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433862.362104652] [visualizer_node]: Received 8 solutions
+[INFO] [1753433862.460122300] [visualizer_node]: Received 8 solutions
+[INFO] [1753433862.558288495] [visualizer_node]: Received 8 solutions
+[INFO] [1753433862.662329308] [visualizer_node]: Received 8 solutions
+[INFO] [1753433862.758010652] [visualizer_node]: Received 8 solutions
+[INFO] [1753433862.860812175] [visualizer_node]: Received 8 solutions
+[INFO] [1753433862.958817919] [visualizer_node]: Received 8 solutions
+[INFO] [1753433863.063878625] [visualizer_node]: Received 8 solutions
+[INFO] [1753433863.158981973] [visualizer_node]: Received 8 solutions
+[INFO] [1753433863.271705334] [visualizer_node]: Received 8 solutions
+[INFO] [1753433863.305351023] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433863.307354009] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433863.308920025] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433863.359188268] [visualizer_node]: Received 8 solutions
+[INFO] [1753433863.458999969] [visualizer_node]: Received 8 solutions
+[INFO] [1753433863.568630082] [visualizer_node]: Received 8 solutions
+[INFO] [1753433863.661461382] [visualizer_node]: Received 8 solutions
+[INFO] [1753433863.768594388] [visualizer_node]: Received 8 solutions
+[INFO] [1753433863.861449753] [visualizer_node]: Received 8 solutions
+[INFO] [1753433863.961687447] [visualizer_node]: Received 8 solutions
+[INFO] [1753433864.060196209] [visualizer_node]: Received 8 solutions
+[INFO] [1753433864.165607803] [visualizer_node]: Received 8 solutions
+[INFO] [1753433864.259872253] [visualizer_node]: Received 8 solutions
+[INFO] [1753433864.296109004] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433864.298885574] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433864.299699799] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433864.358885346] [visualizer_node]: Received 8 solutions
+[INFO] [1753433864.459731213] [visualizer_node]: Received 8 solutions
+[INFO] [1753433864.559906794] [visualizer_node]: Received 8 solutions
+[INFO] [1753433864.664911019] [visualizer_node]: Received 8 solutions
+[INFO] [1753433864.758108919] [visualizer_node]: Received 8 solutions
+[INFO] [1753433864.869305176] [visualizer_node]: Received 8 solutions
+[INFO] [1753433864.957075060] [visualizer_node]: Received 8 solutions
+[INFO] [1753433865.061176258] [visualizer_node]: Received 8 solutions
+[INFO] [1753433865.157241130] [visualizer_node]: Received 8 solutions
+[INFO] [1753433865.262033799] [visualizer_node]: Received 8 solutions
+[INFO] [1753433865.296176394] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433865.297406212] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433865.298103250] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433865.374328799] [visualizer_node]: Received 8 solutions
+[INFO] [1753433865.459057115] [visualizer_node]: Received 8 solutions
+[INFO] [1753433865.566990873] [visualizer_node]: Received 8 solutions
+[INFO] [1753433865.666436487] [visualizer_node]: Received 8 solutions
+[INFO] [1753433865.758606462] [visualizer_node]: Received 8 solutions
+[INFO] [1753433865.861443986] [visualizer_node]: Received 8 solutions
+[INFO] [1753433865.966436755] [visualizer_node]: Received 8 solutions
+[INFO] [1753433866.065396535] [visualizer_node]: Received 8 solutions
+[INFO] [1753433866.164053524] [visualizer_node]: Received 8 solutions
+[INFO] [1753433866.261481880] [visualizer_node]: Received 8 solutions
+[INFO] [1753433866.293769653] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433866.294983695] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433866.295716830] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433866.358600118] [visualizer_node]: Received 8 solutions
+[INFO] [1753433866.460890430] [visualizer_node]: Received 8 solutions
+[INFO] [1753433866.559285238] [visualizer_node]: Received 8 solutions
+[INFO] [1753433866.659693144] [visualizer_node]: Received 8 solutions
+[INFO] [1753433866.769220023] [visualizer_node]: Received 8 solutions
+[INFO] [1753433866.860322872] [visualizer_node]: Received 8 solutions
+[INFO] [1753433866.971555674] [visualizer_node]: Received 8 solutions
+[INFO] [1753433867.060818773] [visualizer_node]: Received 8 solutions
+[INFO] [1753433867.171450954] [visualizer_node]: Received 8 solutions
+[INFO] [1753433867.265378342] [visualizer_node]: Received 8 solutions
+[INFO] [1753433867.304166954] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433867.305356835] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433867.306044465] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433867.363714461] [visualizer_node]: Received 8 solutions
+[INFO] [1753433867.460809306] [visualizer_node]: Received 8 solutions
+[INFO] [1753433867.561381663] [visualizer_node]: Received 8 solutions
+[INFO] [1753433867.663974350] [visualizer_node]: Received 8 solutions
+[INFO] [1753433867.759161380] [visualizer_node]: Received 8 solutions
+[INFO] [1753433867.861740370] [visualizer_node]: Received 8 solutions
+[INFO] [1753433867.958390758] [visualizer_node]: Received 8 solutions
+[INFO] [1753433868.060120707] [visualizer_node]: Received 8 solutions
+[INFO] [1753433868.158444634] [visualizer_node]: Received 8 solutions
+[INFO] [1753433868.259456520] [visualizer_node]: Received 8 solutions
+[INFO] [1753433868.296511913] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433868.297845348] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433868.298538707] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433868.364250213] [visualizer_node]: Received 8 solutions
+[INFO] [1753433868.458139136] [visualizer_node]: Received 8 solutions
+[INFO] [1753433868.560577483] [visualizer_node]: Received 8 solutions
+[INFO] [1753433868.659806901] [visualizer_node]: Received 8 solutions
+[INFO] [1753433868.767015908] [visualizer_node]: Received 8 solutions
+[INFO] [1753433868.858824531] [visualizer_node]: Received 8 solutions
+[INFO] [1753433868.962117937] [visualizer_node]: Received 8 solutions
+[INFO] [1753433869.060178562] [visualizer_node]: Received 8 solutions
+[INFO] [1753433869.163257627] [visualizer_node]: Received 8 solutions
+[INFO] [1753433869.260571613] [visualizer_node]: Received 8 solutions
+[INFO] [1753433869.294083316] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433869.295695669] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433869.296395747] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433869.374282034] [visualizer_node]: Received 8 solutions
+[INFO] [1753433869.460466061] [visualizer_node]: Received 8 solutions
+[INFO] [1753433869.557372262] [visualizer_node]: Received 8 solutions
+[INFO] [1753433869.662615852] [visualizer_node]: Received 8 solutions
+[INFO] [1753433869.764011011] [visualizer_node]: Received 8 solutions
+[INFO] [1753433869.862690817] [visualizer_node]: Received 8 solutions
+[INFO] [1753433869.962976992] [visualizer_node]: Received 8 solutions
+[INFO] [1753433870.063062619] [visualizer_node]: Received 8 solutions
+[INFO] [1753433870.177628354] [visualizer_node]: Received 8 solutions
+[INFO] [1753433870.257493978] [visualizer_node]: Received 8 solutions
+[INFO] [1753433870.293174334] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433870.294438520] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433870.295106438] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433870.360190028] [visualizer_node]: Received 8 solutions
+[INFO] [1753433870.458484194] [visualizer_node]: Received 8 solutions
+[INFO] [1753433870.559343917] [visualizer_node]: Received 8 solutions
+[INFO] [1753433870.665106206] [visualizer_node]: Received 8 solutions
+[INFO] [1753433870.757736862] [visualizer_node]: Received 8 solutions
+[INFO] [1753433870.860734390] [visualizer_node]: Received 8 solutions
+[INFO] [1753433870.966200256] [visualizer_node]: Received 8 solutions
+[INFO] [1753433871.069787556] [visualizer_node]: Received 8 solutions
+[INFO] [1753433871.158478195] [visualizer_node]: Received 8 solutions
+[INFO] [1753433871.260102094] [visualizer_node]: Received 8 solutions
+[INFO] [1753433871.296240827] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433871.297706266] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433871.298379368] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433871.357614324] [visualizer_node]: Received 8 solutions
+[INFO] [1753433871.463550184] [visualizer_node]: Received 8 solutions
+[INFO] [1753433871.559671153] [visualizer_node]: Received 8 solutions
+[INFO] [1753433871.658312110] [visualizer_node]: Received 8 solutions
+[INFO] [1753433871.762832262] [visualizer_node]: Received 8 solutions
+[INFO] [1753433871.858719434] [visualizer_node]: Received 8 solutions
+[INFO] [1753433871.966121564] [visualizer_node]: Received 8 solutions
+[INFO] [1753433872.059661648] [visualizer_node]: Received 8 solutions
+[INFO] [1753433872.162133981] [visualizer_node]: Received 8 solutions
+[INFO] [1753433872.260105004] [visualizer_node]: Received 8 solutions
+[INFO] [1753433872.305344790] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433872.306507022] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433872.307167612] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433872.363332648] [visualizer_node]: Received 8 solutions
+[INFO] [1753433872.462001158] [visualizer_node]: Received 8 solutions
+[INFO] [1753433872.559859955] [visualizer_node]: Received 8 solutions
+[INFO] [1753433872.664800755] [visualizer_node]: Received 8 solutions
+[INFO] [1753433872.763249516] [visualizer_node]: Received 8 solutions
+[INFO] [1753433872.862256913] [visualizer_node]: Received 8 solutions
+[INFO] [1753433872.959496721] [visualizer_node]: Received 8 solutions
+[INFO] [1753433873.059805105] [visualizer_node]: Received 8 solutions
+[INFO] [1753433873.161526734] [visualizer_node]: Received 8 solutions
+[INFO] [1753433873.257308976] [visualizer_node]: Received 8 solutions
+[INFO] [1753433873.294966301] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433873.297318893] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433873.298138622] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433873.365190285] [visualizer_node]: Received 8 solutions
+[INFO] [1753433873.458783361] [visualizer_node]: Received 8 solutions
+[INFO] [1753433873.566743584] [visualizer_node]: Received 8 solutions
+[INFO] [1753433873.659007705] [visualizer_node]: Received 8 solutions
+[INFO] [1753433873.765074000] [visualizer_node]: Received 8 solutions
+[INFO] [1753433873.857349225] [visualizer_node]: Received 8 solutions
+[INFO] [1753433873.961581306] [visualizer_node]: Received 8 solutions
+[INFO] [1753433874.059178978] [visualizer_node]: Received 8 solutions
+[INFO] [1753433874.164024992] [visualizer_node]: Received 8 solutions
+[INFO] [1753433874.264840394] [visualizer_node]: Received 8 solutions
+[INFO] [1753433874.302002605] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433874.303634958] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433874.304354461] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433874.365886361] [visualizer_node]: Received 8 solutions
+[INFO] [1753433874.455618878] [visualizer_node]: Received 0 solutions
+[INFO] [1753433874.561171466] [visualizer_node]: Received 0 solutions
+[INFO] [1753433874.654235412] [visualizer_node]: Received 0 solutions
+[INFO] [1753433874.759696095] [visualizer_node]: Received 0 solutions
+[INFO] [1753433874.854020738] [visualizer_node]: Received 0 solutions
+[INFO] [1753433874.956571697] [visualizer_node]: Received 0 solutions
+[INFO] [1753433875.054320923] [visualizer_node]: Received 0 solutions
+[INFO] [1753433875.157929824] [visualizer_node]: Received 0 solutions
+[INFO] [1753433875.258914541] [visualizer_node]: Received 0 solutions
+[INFO] [1753433875.293226645] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433875.297011075] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433875.298804777] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433875.362017031] [visualizer_node]: Received 0 solutions
+[INFO] [1753433875.465493737] [visualizer_node]: Received 0 solutions
+[INFO] [1753433875.557253719] [visualizer_node]: Received 0 solutions
+[INFO] [1753433875.661926706] [visualizer_node]: Received 0 solutions
+[INFO] [1753433875.755297858] [visualizer_node]: Received 0 solutions
+[INFO] [1753433875.856340145] [visualizer_node]: Received 0 solutions
+[INFO] [1753433875.954862923] [visualizer_node]: Received 0 solutions
+[INFO] [1753433876.059162910] [visualizer_node]: Received 0 solutions
+[INFO] [1753433876.154569272] [visualizer_node]: Received 0 solutions
+[INFO] [1753433876.257325739] [visualizer_node]: Received 0 solutions
+[INFO] [1753433876.293023567] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433876.295442017] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433876.296534392] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433876.353912350] [visualizer_node]: Received 0 solutions
+[INFO] [1753433876.456386634] [visualizer_node]: Received 0 solutions
+[INFO] [1753433876.555591635] [visualizer_node]: Received 0 solutions
+[INFO] [1753433876.657355473] [visualizer_node]: Received 0 solutions
+[INFO] [1753433876.766662604] [visualizer_node]: Received 0 solutions
+[INFO] [1753433876.854555210] [visualizer_node]: Received 0 solutions
+[INFO] [1753433876.958366995] [visualizer_node]: Received 0 solutions
+[INFO] [1753433877.058771380] [visualizer_node]: Received 0 solutions
+[INFO] [1753433877.157987646] [visualizer_node]: Received 0 solutions
+[INFO] [1753433877.259441653] [visualizer_node]: Received 0 solutions
+[INFO] [1753433877.293348372] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433877.295648836] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433877.296332402] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433877.355105589] [visualizer_node]: Received 0 solutions
+[INFO] [1753433877.457000950] [visualizer_node]: Received 0 solutions
+[INFO] [1753433877.560364853] [visualizer_node]: Received 0 solutions
+[INFO] [1753433877.654570518] [visualizer_node]: Received 0 solutions
+[INFO] [1753433877.764034740] [visualizer_node]: Received 0 solutions
+[INFO] [1753433877.856637716] [visualizer_node]: Received 0 solutions
+[INFO] [1753433877.960041108] [visualizer_node]: Received 4 solutions
+[INFO] [1753433878.061106372] [visualizer_node]: Received 4 solutions
+[INFO] [1753433878.178245056] [visualizer_node]: Received 4 solutions
+[INFO] [1753433878.257823314] [visualizer_node]: Received 4 solutions
+[INFO] [1753433878.294138051] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433878.297059456] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433878.297822640] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433878.361505560] [visualizer_node]: Received 4 solutions
+[INFO] [1753433878.461403344] [visualizer_node]: Received 10 solutions
+[INFO] [1753433878.558606575] [visualizer_node]: Received 10 solutions
+[INFO] [1753433878.658718987] [visualizer_node]: Received 10 solutions
+[INFO] [1753433878.770450520] [visualizer_node]: Received 10 solutions
+[INFO] [1753433878.863404895] [visualizer_node]: Received 10 solutions
+[INFO] [1753433878.961266220] [visualizer_node]: Received 0 solutions
+[INFO] [1753433879.056734632] [visualizer_node]: Received 0 solutions
+[INFO] [1753433879.160595985] [visualizer_node]: Received 8 solutions
+[INFO] [1753433879.260274628] [visualizer_node]: Received 8 solutions
+[INFO] [1753433879.294517642] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433879.295982024] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433879.296679479] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433879.358005167] [visualizer_node]: Received 8 solutions
+[INFO] [1753433879.471219130] [visualizer_node]: Received 4 solutions
+[INFO] [1753433879.562669410] [visualizer_node]: Received 4 solutions
+[INFO] [1753433880.164069560] [visualizer_node]: Received 6 solutions
+[INFO] [1753433880.264647582] [visualizer_node]: Received 6 solutions
+[INFO] [1753433880.292887047] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753433880.294772686] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753433880.295569759] [visualizer_node]: Published all markers and TFs
+[INFO] [1753433880.358674587] [visualizer_node]: Received 6 solutions
+[INFO] [1753433880.460063154] [visualizer_node]: Received 12 solutions
+[ERROR] [1753433880.497173939] [visualizer_node_main]: An error occurred: math domain error
+[ERROR] [1753433880.497830593] [visualizer_node]: An error occurred: math domain error

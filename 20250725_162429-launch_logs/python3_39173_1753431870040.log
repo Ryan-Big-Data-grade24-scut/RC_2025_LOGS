@@ -1,0 +1,2199 @@
+[INFO] [1753431870.119706024] [visualizer_node]: Initializing VisualizerNode...
+[INFO] [1753431870.121269421] [visualizer_node]: Using fixed frame: odom
+[INFO] [1753431870.121979486] [visualizer_node]: Loading configuration...
+[INFO] [1753431870.128049070] [visualizer_node]: formatted_laser_config: [((0.37212, 1.55), 1.5708), ((0.37212, -1.55), -1.5708), ((0.37241, 0.45), 0.0), ((0.36471, 3.82), 3.1416)]
+[INFO] [1753431870.128842433] [visualizer_node]: Configuration loaded successfully.
+[INFO] [1753431870.153515659] [visualizer_node]: TF broadcaster initialized
+[INFO] [1753431870.173497285] [visualizer_node]: Publisher initialized for boundary markers
+[INFO] [1753431870.177364929] [visualizer_node]: Subscribed to /laser_solutions topic
+[INFO] [1753431870.178066001] [visualizer_node]: Marker ID and color map initialized
+[INFO] [1753431870.178796803] [visualizer_node]: Boundary publisher timer initialized
+[INFO] [1753431870.179582645] [visualizer_node]: VisualizerNode initialized and ready to visualize.
+[INFO] [1753431870.180202244] [visualizer_node_main]: VisualizerNode is running...
+[INFO] [1753431871.180426463] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431871.182225897] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431871.182912666] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431872.180240874] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431872.181735373] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431872.182410973] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431873.180320598] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431873.181912924] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431873.182618413] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431874.180341532] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431874.183404005] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431874.184216440] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431875.180239641] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431875.181735645] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431875.182436589] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431876.180279701] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431876.181857914] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431876.182547594] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431877.180659315] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431877.182136310] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431877.182809606] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431878.180243512] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431878.181768125] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431878.182414924] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431879.180310660] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431879.181771879] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431879.182427894] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431880.180276137] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431880.181739371] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431880.182405435] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431881.180331210] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431881.181917775] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431881.182600927] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431882.180274819] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431882.181738629] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431882.182511736] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431883.180342745] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431883.181983584] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431883.182739090] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431884.180318025] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431884.181849709] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431884.182529949] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431885.180294355] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431885.181823991] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431885.182497159] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431886.180300440] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431886.181782075] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431886.182441483] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431887.180274936] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431887.181718490] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431887.182383785] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431888.180253074] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431888.181793014] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431888.182528968] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431889.180289512] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431889.181814700] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431889.182497660] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431890.180442972] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431890.182021026] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431890.182727922] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431891.180252195] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431891.181758023] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431891.182446327] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431892.180306538] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431892.181857199] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431892.182560287] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431893.180208713] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431893.181655083] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431893.182328667] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431894.180268134] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431894.181689095] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431894.182368951] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431895.180222811] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431895.181700094] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431895.182364142] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431896.180201068] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431896.181621549] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431896.182328446] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431897.180287642] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431897.181867807] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431897.182566064] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431898.180335234] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431898.181946088] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431898.182619352] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431899.180247522] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431899.181677668] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431899.182366516] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431900.180381666] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431900.183920725] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431900.184711368] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431901.180364217] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431901.181799515] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431901.182449290] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431902.180250761] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431902.181740428] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431902.182423772] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431903.180338745] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431903.181962847] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431903.182664975] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431904.180249183] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431904.181721026] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431904.182500148] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431905.180250114] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431905.181723685] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431905.182398325] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431906.180368099] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431906.182079340] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431906.182802493] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431907.180276570] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431907.181835391] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431907.182529103] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431908.180233294] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431908.181665071] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431908.182348351] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431909.180295582] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431909.182018983] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431909.182703767] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431910.180248167] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431910.181779019] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431910.182463803] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431911.180227756] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431911.181687182] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431911.182357598] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431912.180296974] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431912.181864467] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431912.182551523] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431913.180105124] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431913.181519878] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431913.182193269] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431914.180375681] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431914.181888260] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431914.182575061] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431915.180213358] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431915.181677041] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431915.182332480] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431916.180178298] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431916.181662653] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431916.182332268] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431917.180381542] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431917.181870217] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431917.182540473] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431918.180232069] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431918.181771177] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431918.182453657] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431919.180227874] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431919.181736773] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431919.182435286] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431920.180244955] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431920.181695581] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431920.182366477] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431921.180267439] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431921.181778258] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431921.182446562] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431922.180232541] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431922.181679839] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431922.182338606] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431923.180279176] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431923.181904494] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431923.182643775] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431924.180254316] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431924.181784272] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431924.182490529] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431925.180164650] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431925.181584747] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431925.182247131] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431926.180241639] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431926.182152660] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431926.182880837] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431927.180248606] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431927.181768545] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431927.182469490] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431928.180240815] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431928.181750450] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431928.182452355] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431929.180216571] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431929.181690590] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431929.182464720] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431930.180235299] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431930.181893194] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431930.182610395] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431931.180274375] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431931.181797003] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431931.182496059] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431932.180274661] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431932.181879051] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431932.182591388] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431933.180195101] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431933.181689312] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431933.182359728] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431934.180267699] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431934.181751670] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431934.182457095] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431935.180247619] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431935.181768454] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431935.182438518] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431936.180249390] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431936.181673199] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431936.182339551] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431937.180212979] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431937.181638101] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431937.182295108] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431938.180212917] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431938.181656855] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431938.182341159] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431939.180187601] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431939.181622579] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431939.182298947] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431940.180177161] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431940.181649548] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431940.182345212] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431941.180221725] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431941.181721633] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431941.182401968] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431942.180233260] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431942.181678382] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431942.182334014] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431943.180232790] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431943.181666872] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431943.182341096] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431944.180267356] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431944.181838273] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431944.182528561] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431945.180241596] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431945.181910563] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431945.182642837] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431946.180261177] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431946.181775164] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431946.182455244] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431947.180206415] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431947.181667697] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431947.182353793] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431948.180197441] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431948.181654851] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431948.182329395] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431949.180217104] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431949.181673842] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431949.182337121] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431950.180177624] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431950.181634362] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431950.182310538] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431951.180117435] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431951.181537564] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431951.182193644] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431952.180131100] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431952.181603998] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431952.182257901] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431953.180174840] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431953.181594553] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431953.182239560] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431954.180172015] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431954.181583600] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431954.182223455] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431955.180149857] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431955.181530433] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431955.182172016] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431956.180133838] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431956.181516686] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431956.182158653] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431957.180210713] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431957.181693211] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431957.182371307] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431958.180088890] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431958.181557981] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431958.182210156] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431959.180162524] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431959.181607742] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431959.182278093] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431960.180283706] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431960.181687483] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431960.182457037] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431961.180188879] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431961.181569039] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431961.182220670] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431962.180206498] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431962.181711749] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431962.182383860] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431963.180245584] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431963.181666833] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431963.182313856] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431964.180217753] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431964.181714492] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431964.182395404] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431965.180253375] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431965.181746433] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431965.182419441] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431966.180197726] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431966.181600158] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431966.182250253] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431967.180238138] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431967.181645723] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431967.182294346] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431968.180088878] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431968.181456110] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431968.182091741] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431969.180214244] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431969.181657573] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431969.182326773] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431970.180123184] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431970.181496880] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431970.182181152] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431971.180135802] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431971.181514074] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431971.182164426] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431972.180061534] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431972.181420574] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431972.182064589] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431973.180275652] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431973.181889354] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431973.182614683] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431974.180186751] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431974.181876678] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431974.182586903] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431975.180115637] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431975.181485237] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431975.182123556] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431976.180136874] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431976.181645677] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431976.182302364] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431977.180218811] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431977.181646812] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431977.182314764] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431978.180250567] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431978.181698056] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431978.182392280] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431979.180129579] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431979.181495530] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431979.182133273] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431980.180511766] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431980.183484091] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431980.184277613] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431981.180398033] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431981.182161498] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431981.184526961] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431982.180378474] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431982.181971599] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431982.182674175] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431983.180277725] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431983.181814305] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431983.182515697] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431984.180330383] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431984.181883891] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431984.182732775] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431985.180566305] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431985.182272040] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431985.182973273] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431986.180220769] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431986.181633314] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431986.182299441] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431987.180224901] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431987.181609637] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431987.182226931] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431988.180290918] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431988.181868331] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431988.182548922] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431989.180244768] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431989.181669825] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431989.182347473] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431990.180253656] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431990.181712761] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431990.182364296] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431991.180505072] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431991.182310426] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431991.183090188] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431992.180318970] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431992.181772796] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431992.182436203] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431993.180383430] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431993.181981163] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431993.182698235] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431994.180433901] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431994.182176373] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431994.182912774] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431995.180595826] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431995.182447709] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431995.183354066] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431996.180489869] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431996.182018513] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431996.182712705] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431997.180359203] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431997.181897639] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431997.182580055] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431998.180771458] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431998.182998421] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431998.183877866] [visualizer_node]: Published all markers and TFs
+[INFO] [1753431999.182202196] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753431999.184812880] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753431999.186227409] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432000.180668573] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432000.182297922] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432000.182967762] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432001.180400063] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432001.183119358] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432001.183931824] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432002.180466756] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432002.181951815] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432002.182609846] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432003.180457892] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432003.182043401] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432003.182695224] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432004.180721222] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432004.182784246] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432004.183583784] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432005.180588283] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432005.182246657] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432005.182950641] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432006.180384585] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432006.181886028] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432006.182546203] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432007.180402585] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432007.182100896] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432007.182954260] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432008.180406948] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432008.182231246] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432008.182923678] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432009.180373834] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432009.181923406] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432009.182612510] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432010.180299596] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432010.181944946] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432010.182919816] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432011.180987002] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432011.182961736] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432011.183796987] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432012.180574635] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432012.183352939] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432012.184099773] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432013.180420958] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432013.182103653] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432013.182850614] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432014.180452434] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432014.182111704] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432014.182861097] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432015.180387710] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432015.182055077] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432015.182789078] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432016.180355144] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432016.181996590] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432016.182732127] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432017.180420304] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432017.182067126] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432017.182804231] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432018.180331440] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432018.181825074] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432018.182526754] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432019.180321870] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432019.182022293] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432019.182715717] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432020.180304231] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432020.182341110] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432020.183074695] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432021.180399840] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432021.182107911] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432021.182866776] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432022.180424274] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432022.181942517] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432022.182598436] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432023.180632869] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432023.182496240] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432023.183249665] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432024.180761650] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432024.182480633] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432024.183246923] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432025.180470609] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432025.184244360] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432025.185839597] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432026.180881116] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432026.182394527] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432026.183050702] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432027.180315181] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432027.181866417] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432027.182557985] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432028.180548141] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432028.183788695] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432028.184516488] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432029.180333950] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432029.183122302] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432029.184481661] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432030.182778536] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432030.186654465] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432030.187432531] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432031.180382655] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432031.182033381] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432031.182695252] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432032.180478155] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432032.184009852] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432032.184707916] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432033.180535763] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432033.182334652] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432033.183122382] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432034.180391890] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432034.181950005] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432034.182626661] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432035.180334991] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432035.181927315] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432035.182627619] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432036.180696977] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432036.182788865] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432036.183698902] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432037.180479395] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432037.182256300] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432037.182966620] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432038.180536055] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432038.182196445] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432038.182904237] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432039.181012336] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432039.182732312] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432039.183493385] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432040.180428910] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432040.182031730] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432040.182701154] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432041.180339634] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432041.181839221] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432041.182502180] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432042.180582011] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432042.182146207] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432042.182820942] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432043.180379765] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432043.182139326] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432043.182844142] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432044.180855004] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432044.182864842] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432044.184061317] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432045.180319239] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432045.181806217] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432045.182494041] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432046.180327323] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432046.181820061] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432046.182482764] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432047.180329578] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432047.181834253] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432047.182514908] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432048.180439737] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432048.182951026] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432048.183867271] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432049.180693575] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432049.182927642] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432049.183813934] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432050.180374980] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432050.181989865] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432050.182643832] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432051.180447910] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432051.182114956] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432051.182819420] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432052.180529572] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432052.182306957] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432052.182979132] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432053.180443483] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432053.182023967] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432053.182717103] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432054.180393007] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432054.181953171] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432054.182730981] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432055.180311263] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432055.181771584] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432055.182442831] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432056.180324300] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432056.181769421] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432056.182434493] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432057.180415128] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432057.181994684] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432057.182681868] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432058.180354653] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432058.182194983] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432058.183043802] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432059.180291678] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432059.181806752] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432059.182471376] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432060.181931170] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432060.184888325] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432060.185644311] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432061.180282455] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432061.181730744] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432061.182372263] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432062.180346895] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432062.181809041] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432062.182448223] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432063.180372547] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432063.181888550] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432063.182556117] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432064.180360819] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432064.181875349] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432064.182530916] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432065.180873738] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432065.183577704] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432065.185129228] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432066.180410184] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432066.182087918] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432066.182802239] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432067.180408652] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432067.182088051] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432067.182851428] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432068.180366668] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432068.181938448] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432068.182640256] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432069.180440651] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432069.182356855] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432069.183061159] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432070.180433796] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432070.182333072] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432070.183013407] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432071.180763074] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432071.182965876] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432071.184073581] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432072.180357579] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432072.181909998] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432072.182577885] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432073.180326297] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432073.181789882] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432073.182458345] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432074.180357572] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432074.181833414] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432074.182478549] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432075.180332299] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432075.181789292] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432075.182450331] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432076.180315086] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432076.181774383] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432076.182427582] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432077.180322382] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432077.181851697] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432077.182523936] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432078.180432237] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432078.181988849] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432078.182680064] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432079.180421190] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432079.182054827] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432079.182754459] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432080.180812036] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432080.182621101] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432080.183391711] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432081.180495502] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432081.182678560] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432081.183435825] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432082.180804067] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432082.182796369] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432082.183554210] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432083.180708332] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432083.182906398] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432083.183780082] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432084.180377739] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432084.181968239] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432084.182851107] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432085.180635636] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432085.182901544] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432085.184029185] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432086.180666005] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432086.182268889] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432086.182975561] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432087.180627888] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432087.182431129] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432087.183133289] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432088.180375811] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432088.181856324] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432088.182492819] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432089.180482970] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432089.182211394] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432089.182922514] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432090.180420234] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432090.182089616] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432090.182790144] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432091.180452345] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432091.182158912] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432091.182858128] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432092.180382178] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432092.181910405] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432092.182569812] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432093.180323144] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432093.181786089] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432093.182431736] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432094.180401837] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432094.181966161] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432094.182635552] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432095.180390445] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432095.182075283] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432095.182812516] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432096.180315272] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432096.181798730] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432096.182462297] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432097.180518694] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432097.182116970] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432097.182786201] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432098.180340951] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432098.181839449] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432098.182508937] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432099.180346506] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432099.181858764] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432099.182552060] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432100.180368633] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432100.181996766] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432100.182656045] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432101.180440806] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432101.182110988] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432101.182946399] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432102.180431021] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432102.181934351] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432102.182596670] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432103.180326383] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432103.181785680] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432103.182436447] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432104.180360273] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432104.181923956] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432104.182622116] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432105.180333870] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432105.181835408] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432105.182489631] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432106.180422570] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432106.182002286] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432106.182695997] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432107.180319134] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432107.181777759] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432107.182445038] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432108.180779324] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432108.183050319] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432108.183876066] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432109.180316609] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432109.181871844] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432109.182680695] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432110.180313549] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432110.181940466] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432110.182766245] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432111.180313239] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432111.181761111] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432111.182413350] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432112.180290364] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432112.181772413] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432112.182452461] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432113.180307038] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432113.181789216] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432113.182445583] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432114.181050670] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432114.183603560] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432114.184319032] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432115.180358298] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432115.181943678] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432115.182666062] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432116.180345650] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432116.181837940] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432116.182508291] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432117.180404136] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432117.181982060] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432117.182669532] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432118.180868036] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432118.182401383] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432118.183074582] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432119.180409160] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432119.182066638] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432119.182773470] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432120.180344433] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432120.182514115] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432120.183321109] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432121.180422203] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432121.182162946] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432121.182893875] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432122.181594362] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432122.184065042] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432122.185262925] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432123.184624383] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432123.188350516] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432123.189555567] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432124.183118299] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432124.187661154] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432124.188492596] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432125.181542321] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432125.183531326] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432125.184233358] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432126.180329197] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432126.182099445] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432126.183034698] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432127.180374626] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432127.181937861] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432127.182642069] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432128.180400147] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432128.181943606] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432128.182603141] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432129.181241299] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432129.183774252] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432129.184777155] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432130.182082384] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432130.185652769] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432130.187945429] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432131.180395952] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432131.182198073] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432131.182986123] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432132.180352691] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432132.181872917] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432132.182656487] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432133.180383764] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432133.181941207] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432133.182621734] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432134.180377233] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432134.181992149] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432134.182661252] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432135.180494317] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432135.182583196] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432135.183362510] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432136.181955429] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432136.183830223] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432136.184509118] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432137.181720019] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432137.183286710] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432137.183933669] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432138.180319011] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432138.181790660] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432138.182462771] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432139.180313008] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432139.181758000] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432139.182392191] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432140.180339450] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432140.181830748] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432140.182478666] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432141.180428482] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432141.185442772] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432141.187847978] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432142.180555529] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432142.182405266] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432142.183106914] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432143.180700620] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432143.182654008] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432143.183458154] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432144.180499364] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432144.182409040] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432144.183280163] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432145.180582752] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432145.183013079] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432145.183927180] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432146.180289904] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432146.181747889] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432146.182403712] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432147.180310340] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432147.181771013] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432147.182438804] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432148.180321845] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432148.181962714] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432148.182661417] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432149.180297153] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432149.181773538] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432149.182419729] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432150.180308587] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432150.181762668] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432150.182404315] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432151.180447605] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432151.182086394] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432151.182779754] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432152.180361303] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432152.182083966] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432152.182968242] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432153.180391961] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432153.181943964] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432153.182624875] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432154.180371126] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432154.181845655] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432154.182516486] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432155.180387664] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432155.181938515] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432155.182651428] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432156.180433385] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432156.182063118] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432156.182771070] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432157.180630497] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432157.182468395] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432157.183197691] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432158.180731349] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432158.182901542] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432158.185411134] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432159.180326810] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432159.182039136] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432159.182870259] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432160.180708621] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432160.182998561] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432160.183770130] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432161.180349741] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432161.182168950] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432161.182939592] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432162.180325970] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432162.181855156] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432162.182552004] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432163.180403669] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432163.182023802] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432163.182762026] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432164.180452885] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432164.182035065] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432164.182713128] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432165.180654645] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432165.182346139] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432165.183022250] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432166.180390376] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432166.181932138] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432166.182616890] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432167.182326217] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432167.186242785] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432167.188287407] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432168.181382918] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432168.186671709] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432168.189151605] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432169.180339582] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432169.181833248] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432169.182495535] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432170.180364075] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432170.183022919] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432170.184290148] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432171.180330580] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432171.181760148] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432171.182389187] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432172.180451133] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432172.182091586] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432172.182745137] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432173.181059151] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432173.182619410] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432173.183303905] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432174.181221203] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432174.182909017] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432174.183760460] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432175.180732677] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432175.182369994] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432175.183036313] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432176.180291062] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432176.181770615] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432176.182454183] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432177.180320814] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432177.181772431] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432177.182431902] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432178.180316739] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432178.181800516] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432178.182439826] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432179.180312212] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432179.181784405] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432179.182557287] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432180.180315427] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432180.181756099] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432180.182422546] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432181.180375536] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432181.181949075] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432181.182617282] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432182.180362392] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432182.181825113] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432182.182494792] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432183.182689299] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432183.184885028] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432183.186639563] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432184.185216270] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432184.188296659] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432184.189683026] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432185.180388866] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432185.181920804] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432185.182676533] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432186.180340510] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432186.181782814] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432186.182429516] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432187.180333048] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432187.181758520] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432187.182421894] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432188.180342799] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432188.181797104] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432188.182429054] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432189.180361700] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432189.182070602] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432189.182757881] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432190.180773022] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432190.182302113] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432190.182955119] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432191.180493798] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432191.182023465] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432191.182705400] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432192.180380784] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432192.181859473] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432192.182509023] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432193.180443770] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432193.181856697] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432193.182490184] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432194.180337149] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432194.181799166] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432194.182456909] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432195.180358817] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432195.182037830] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432195.182707893] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432196.182195562] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432196.185467603] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432196.186162787] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432197.180953131] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432197.182552591] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432197.183243999] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432198.180412377] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432198.181898203] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432198.182569226] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432199.180310063] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432199.181766607] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432199.182431710] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432200.180296067] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432200.181764708] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432200.182432883] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432201.181391245] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432201.185550187] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432201.186299035] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432202.180356101] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432202.181864167] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432202.182587671] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432203.180392402] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432203.184323946] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432203.185131004] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432204.180313018] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432204.181806139] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432204.182493995] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432205.180356961] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432205.181902244] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432205.182641364] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432206.180356581] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432206.181877959] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432206.182561430] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432207.180380710] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432207.181939369] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432207.182683514] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432208.180306051] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432208.181764611] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432208.182402450] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432209.180358783] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432209.181894050] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432209.182567345] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432210.180394329] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432210.181942043] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432210.182619338] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432211.180936250] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432211.183185453] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432211.184076897] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432212.180403937] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432212.181942148] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432212.182598387] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432213.180322992] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432213.181768336] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432213.182423167] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432214.180339326] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432214.181808094] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432214.182454381] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432215.180401578] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432215.181881739] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432215.182564794] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432216.180344112] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432216.181834610] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432216.182509313] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432217.180330805] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432217.181796950] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432217.182461285] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432218.181278573] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432218.182885489] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432218.183562240] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432219.180347991] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432219.181908442] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432219.182586473] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432220.180328116] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432220.181818933] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432220.182503557] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432221.180306734] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432221.181762382] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432221.182421181] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432222.180330470] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432222.181806343] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432222.182460629] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432223.180315674] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432223.181807419] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432223.182476106] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432224.180332012] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432224.181819502] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432224.182489629] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432225.180295515] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432225.181767932] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432225.182412906] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432226.180335016] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432226.181862410] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432226.182677405] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432227.180306226] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432227.181770834] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432227.182446209] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432228.180302457] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432228.181802362] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432228.182499562] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432229.180321726] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432229.181819231] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432229.182496174] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432230.180369920] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432230.181848385] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432230.182499440] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432231.182140199] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432231.184369561] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432231.185110410] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432232.180689443] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432232.183285437] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432232.184036174] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432233.180723358] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432233.183214325] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432233.183918373] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432234.181962417] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432234.185050454] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432234.185812647] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432235.180331777] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432235.182908506] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432235.184114517] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432236.180450261] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432236.182016376] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432236.182709256] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432237.180365506] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432237.181863748] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432237.182532883] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432238.180327182] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432238.181769838] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432238.182411261] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432239.180332408] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432239.181835642] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432239.182528809] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432240.181098065] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432240.182734517] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432240.183427652] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432241.180372805] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432241.184957995] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432241.186395755] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432242.180357703] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432242.181933322] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432242.182587608] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432243.180337094] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432243.181779590] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432243.182433012] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432244.180974993] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432244.182551380] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432244.183227619] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432245.180329724] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432245.181771837] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432245.182415915] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432246.180562777] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432246.182112860] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432246.182755978] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432247.180319625] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432247.181906508] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432247.182569115] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432248.180333596] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432248.181927007] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432248.182683760] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432249.180293738] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432249.181772715] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432249.182415994] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432250.180290296] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432250.181727864] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432250.182393510] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432251.180368580] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432251.181850021] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432251.182488499] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432252.180476335] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432252.182035377] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432252.182661759] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432253.180397362] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432253.181926484] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432253.182592291] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432254.181022435] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432254.182655240] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432254.183346615] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432255.182063547] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432255.184069223] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432255.184822808] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432256.180304241] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432256.181776370] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432256.182435297] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432257.180324717] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432257.181775309] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432257.182562175] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432258.180409000] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432258.182033644] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432258.182725531] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432259.180508544] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432259.182047043] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432259.182722098] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432260.180630007] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432260.182378174] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432260.183084013] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432261.180566342] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432261.182250476] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432261.182974780] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432262.180517876] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432262.182069175] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432262.182760902] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432263.181659418] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432263.184536922] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432263.185383692] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432264.180761263] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432264.184211068] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432264.185744990] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432265.180500465] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432265.182368506] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432265.183109451] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432266.180360850] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432266.181861683] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432266.182541955] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432267.180623066] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432267.182444835] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432267.183147506] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432268.180310035] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432268.181787924] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432268.182498339] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432269.180328016] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432269.181794609] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432269.182429823] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432270.180754612] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432270.184208801] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432270.185906343] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432271.180341731] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432271.181842821] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432271.182501875] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432272.182990420] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432272.188548335] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432272.189304064] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432273.180345516] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432273.181955472] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432273.182613343] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432274.181695675] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432274.185315660] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432274.186000443] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432275.181537190] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432275.184452519] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432275.186291888] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432276.180296470] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432276.181736278] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432276.182387333] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432277.180321440] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432277.181780449] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432277.182445295] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432278.180477131] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432278.182370261] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432278.183028099] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432279.180394413] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432279.182511836] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432279.183192172] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432280.182843430] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432280.186651194] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432280.187904406] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432281.180323214] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432281.181794446] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432281.182483710] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432282.180366668] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432282.182014512] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432282.182710848] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432283.180386343] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432283.181943114] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432283.182636313] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432284.181498936] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432284.184785729] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432284.185598707] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432285.181893943] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432285.184955035] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432285.186744483] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432286.181307934] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432286.184525093] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432286.186132873] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432287.180310809] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432287.181754265] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432287.182416519] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432288.180299399] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432288.181759688] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432288.182395734] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432289.180354133] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432289.181799957] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432289.182471556] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432290.180431937] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432290.181968355] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432290.182626673] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432291.180345574] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432291.181862120] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432291.182528375] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432292.180313899] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432292.181746507] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432292.182388889] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432293.180331310] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432293.181813807] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432293.182482846] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432294.182609313] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432294.184280486] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432294.184983478] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432295.180299180] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432295.181741068] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432295.182385594] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432296.181440961] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432296.183674291] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432296.184356834] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432297.180376387] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432297.181929638] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432297.182570548] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432298.180386938] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432298.181846043] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432298.182509353] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432299.180322190] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432299.182358075] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432299.183231406] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432300.180371681] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432300.182005701] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432300.182724533] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432301.180302032] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432301.181753552] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432301.182396254] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432302.180381471] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432302.182115206] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432302.182862230] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432303.180364138] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432303.181896140] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432303.182578171] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432304.180492758] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432304.182094554] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432304.182893515] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432305.180331226] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432305.181779386] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432305.182445992] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432306.181121423] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432306.183091739] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432306.183799179] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432307.180956526] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432307.184554238] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432307.185321551] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432308.180367233] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432308.181853314] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432308.182512112] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432309.180283068] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432309.181719100] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432309.182376683] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432310.180299480] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432310.181849690] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432310.182530153] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432311.180328978] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432311.181827379] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432311.182500226] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432312.180294792] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432312.181748008] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432312.182398614] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432313.180664196] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432313.182497261] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432313.183171964] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432314.180316591] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432314.181783311] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432314.182440286] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432315.180310750] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432315.181755358] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432315.182429485] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432316.180313100] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432316.181819853] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432316.182480156] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432317.181005927] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432317.183253176] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432317.183937672] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432318.180331905] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432318.181788417] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432318.182437871] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432319.180381257] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432319.182002861] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432319.182665179] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432320.180328972] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432320.182005105] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432320.182649759] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432321.180301550] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432321.181777134] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432321.182550848] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432322.180420177] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432322.181991987] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432322.182658018] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432323.181453669] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432323.186452468] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432323.187550444] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432324.180364937] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432324.183310442] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432324.184948622] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432325.181565533] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432325.190223964] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432325.191142800] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432326.180409338] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432326.181961789] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432326.182670284] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432327.180667157] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432327.182744227] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432327.183799770] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432328.180541445] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432328.182468975] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432328.183150302] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432329.180555318] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432329.182666116] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432329.183485270] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432330.180358912] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432330.181816864] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432330.182458894] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432331.180331115] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432331.181818028] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432331.182488539] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432332.180337973] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432332.181808534] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432332.182482916] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432333.181119118] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432333.183350431] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432333.184041999] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432334.181565501] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432334.185528789] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432334.186606221] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432335.180291909] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432335.181740741] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432335.182383539] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432336.180310918] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432336.181787207] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432336.182443413] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432337.180308229] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432337.181761509] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432337.182405235] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432338.180382947] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432338.181854532] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432338.182511602] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432339.181488374] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432339.184599611] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432339.185281962] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432340.180518298] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432340.182361634] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432340.183073874] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432341.180674899] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432341.182813826] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432341.184008509] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432342.180316255] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432342.181832641] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432342.182491503] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432343.180338738] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432343.181890068] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432343.182564803] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432344.182151466] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432344.184366203] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432344.185099627] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432345.180721016] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432345.182988970] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432345.183729530] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432346.180707267] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432346.183085752] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432346.183901930] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432347.180437863] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432347.182042730] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432347.182747482] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432348.180406093] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432348.181920943] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432348.182584925] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432349.180577910] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432349.182268347] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432349.182967147] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432350.180626138] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432350.182283327] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432350.182949774] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432351.180716541] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432351.183086097] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432351.184570866] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432352.180836415] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432352.183390935] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432352.184299563] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432353.180732281] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432353.182984939] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432353.184067331] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432354.180355339] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432354.181893389] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432354.182573532] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432355.180323299] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432355.181777667] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432355.182431634] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432356.180413212] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432356.182073984] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432356.182763471] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432357.180422192] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432357.182036020] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432357.182748035] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432358.180406210] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432358.181974148] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432358.182649939] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432359.180325168] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432359.181822865] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432359.182573250] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432360.180425696] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432360.181941218] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432360.182603792] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432361.180340619] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432361.181792330] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432361.182450489] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432362.180419830] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432362.181994681] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432362.182675400] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432363.180396253] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432363.181958656] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432363.182657199] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432364.180429796] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432364.181979078] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432364.182639253] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432365.180330533] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432365.181803590] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432365.182463700] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432366.180354984] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432366.181804840] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432366.182461334] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432367.180698927] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432367.184331967] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432367.185127664] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432368.180842383] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432368.183283333] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432368.184150200] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432369.180855339] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432369.184065362] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432369.185987644] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432370.180370106] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432370.181903676] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432370.182556522] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432371.180315792] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432371.181772880] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432371.182533793] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432372.181565249] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432372.184228188] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432372.184965868] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432373.180307417] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432373.181876699] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432373.182523305] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432374.180373323] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432374.181920813] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432374.183728981] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432375.180327674] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432375.181754841] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432375.182414664] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432376.180306823] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432376.181773895] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432376.182414421] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432377.180317874] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432377.181768338] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432377.182430529] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432378.180945481] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432378.182581901] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432378.183302461] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432379.180383684] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432379.181850308] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432379.182603125] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432380.180911893] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432380.182835167] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432380.183567503] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432381.180388365] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432381.181898254] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432381.182530140] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432382.181923600] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432382.183540435] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432382.184460167] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432383.181764779] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432383.183351950] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432383.184359460] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432384.180347882] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432384.181911756] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432384.182593243] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432385.180344709] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432385.181881575] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432385.183601548] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432386.180295261] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432386.181756669] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432386.182413420] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432387.180360982] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432387.182500485] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432387.183271030] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432388.180857910] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432388.182540219] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432388.183246923] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432389.182113445] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432389.183735145] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432389.184386423] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432390.180288526] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432390.181783983] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432390.182479519] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432391.180271133] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432391.181690717] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432391.182356459] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432392.180867000] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432392.182673696] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432392.183353903] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432393.182220033] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432393.185299653] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432393.186077686] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432394.182517746] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432394.184361722] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432394.185066090] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432395.180351562] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432395.183142535] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432395.183901624] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432396.180424497] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432396.182001236] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432396.182686051] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432397.180411765] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432397.182021752] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432397.182734472] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432398.180434775] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432398.182023130] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432398.182822507] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432399.180315476] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432399.181777108] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432399.182411330] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432400.180342867] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432400.181872820] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432400.182657958] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432401.180320174] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432401.181809487] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432401.182466046] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432402.180415243] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432402.181972621] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432402.182644764] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432403.180673545] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432403.182768343] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432403.183562472] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432404.180739040] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432404.183177494] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432404.183970695] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432405.180751157] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432405.183055176] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432405.183876826] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432406.180441473] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432406.182262313] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432406.182986425] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432407.180303599] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432407.181774895] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432407.182472574] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432408.181021805] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432408.183430338] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432408.184211795] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432409.180500335] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432409.182631837] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432409.183493936] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432410.180528410] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432410.182724234] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432410.183590205] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432411.180346911] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432411.181922882] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432411.182720723] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432412.180310022] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432412.181754501] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432412.182390099] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432413.180288554] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432413.181755947] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432413.182411257] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432414.180389008] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432414.181925298] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432414.182584160] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432415.180398066] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432415.181954676] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432415.182654371] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432416.180553173] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432416.182180153] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432416.182842535] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432417.180487762] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432417.181994227] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432417.182672577] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432418.180415820] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432418.181963822] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432418.182630044] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432419.180366277] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432419.181936263] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432419.183179075] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432420.180807495] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432420.182720401] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432420.183507458] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432421.180475830] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432421.182122170] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432421.182806985] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432422.180390761] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432422.181957419] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432422.182619738] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432423.181376497] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432423.183728901] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432423.184585272] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432424.186376240] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432424.190749488] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432424.191958442] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432425.182566027] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432425.184978816] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432425.185916437] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432426.180366504] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432426.181935755] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432426.182629274] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432427.180378036] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432427.181980119] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432427.182678343] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432428.180552098] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432428.182903413] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432428.183682918] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432429.180261827] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432429.181728419] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432429.182514004] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432430.180337739] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432430.181866188] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432430.182534075] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432431.180291470] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432431.181825135] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432431.182482270] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432432.180554646] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432432.182878185] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432432.184609775] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432433.180365042] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432433.181960181] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432433.182651684] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432434.180302800] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432434.181860754] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432434.182518560] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432435.180360878] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432435.181951345] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432435.182612415] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432436.180394314] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432436.182001229] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432436.182690492] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432437.180528102] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432437.182618996] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432437.183454182] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432438.180340186] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432438.181787929] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432438.182434280] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432439.180343216] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432439.181826032] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432439.186307410] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432440.180416741] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432440.182549492] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432440.183450152] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432441.180490681] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432441.182245599] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432441.182958447] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432442.180419304] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432442.181897224] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432442.182536278] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432443.180430487] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432443.181935320] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432443.182589670] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432444.180678761] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432444.184515165] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432444.185206092] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432445.180380716] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432445.182023628] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432445.182679641] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432446.180513179] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432446.181959031] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432446.182613380] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432447.180361094] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432447.181810466] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432447.182465103] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432448.180355799] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432448.181899445] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432448.182560642] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432449.180287465] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432449.182037323] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432449.182737913] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432450.180321023] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432450.181772283] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432450.182413960] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432451.181588336] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432451.183392595] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432451.184034304] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432452.182572318] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432452.185399381] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432452.187307002] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432453.180328623] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432453.181960047] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432453.182642780] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432454.180334926] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432454.181884012] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432454.182553849] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432455.180331536] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432455.181850541] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432455.182491226] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432456.180422165] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432456.182019125] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432456.182699586] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432457.180365531] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432457.181956506] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432457.182620295] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432458.180374116] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432458.181839905] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432458.182513006] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432459.180337230] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432459.181824843] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432459.182513625] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432460.180437918] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432460.182115615] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432460.182816364] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432461.180318827] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432461.181792584] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432461.182469622] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432462.180304254] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432462.181800859] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432462.182465128] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432463.180334515] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432463.181914674] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432463.182603647] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432464.180320234] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432464.181857480] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432464.182534581] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432465.180388420] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432465.181972899] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432465.182669873] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432466.180320127] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432466.181809724] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432466.182475017] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432467.180408767] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432467.182078015] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432467.182749804] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432468.180501345] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432468.182147969] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432468.182820910] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432469.180342944] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432469.181838526] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432469.182513867] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432470.180358566] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432470.181850467] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432470.182500208] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432471.180641971] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432471.182701883] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432471.183494731] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432472.180447417] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432472.182684389] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432472.183580918] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432473.180335618] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432473.181786975] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432473.182434348] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432474.180370130] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432474.181832910] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432474.182485467] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432475.180363586] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432475.181885248] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432475.182574061] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432476.180697180] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432476.182327996] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432476.183108075] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432477.180707953] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432477.183544905] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432477.185849910] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432478.180653991] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432478.182910004] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432478.183892327] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432479.180567744] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432479.182832172] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432479.183759422] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432480.180571356] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432480.182181115] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432480.182910282] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432481.180561626] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432481.182359517] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432481.183063531] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432482.180464761] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432482.182080568] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432482.182736133] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432483.180553725] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432483.182519428] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432483.183217042] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432484.182166594] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432484.185807210] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432484.186590009] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432485.181874276] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432485.184878847] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432485.185620398] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432486.180393777] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432486.181857837] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432486.182501498] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432487.180436605] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432487.181891738] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432487.182553063] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432488.180523213] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432488.182336593] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432488.184371865] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432489.182243104] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432489.184974453] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432489.186452562] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432490.180386766] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432490.181905196] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432490.183765168] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432491.180429635] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432491.182883732] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432491.183616482] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432492.182404225] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432492.187169215] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432492.189114982] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432493.182746178] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432493.187907047] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432493.189085246] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432494.182002575] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432494.183868499] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432494.184540417] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432495.180906423] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432495.183860625] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432495.184879525] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432496.180996505] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432496.182710298] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432496.183858129] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432497.180322478] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432497.182325237] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432497.184354781] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432498.180681209] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432498.182586527] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432498.183384974] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432499.180759009] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432499.182748808] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432499.183472311] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432500.180449348] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432500.182813747] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432500.183545921] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432501.181548389] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432501.183975124] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432501.184696899] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432502.182383074] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432502.185277883] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432502.185977193] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432503.180379754] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432503.181831335] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432503.182469619] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432504.180396636] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432504.181913978] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432504.182581031] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432505.180432113] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432505.181958607] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432505.182637404] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432506.180406118] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432506.181865219] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432506.182535248] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432507.180384254] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432507.181813498] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432507.182467655] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432508.181124422] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432508.182852425] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432508.183595735] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432509.180636025] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432509.182615136] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432509.183298126] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432510.180753850] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432510.182863460] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432510.183535345] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432511.183122473] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432511.186268551] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432511.187878503] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432512.180288820] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432512.181736017] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432512.182381118] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432513.180389339] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432513.181967898] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432513.182649256] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432514.180310881] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432514.181756317] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432514.182400746] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432515.180315690] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432515.181756135] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432515.182404851] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432516.180669373] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432516.182123961] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432516.182792678] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432517.180497799] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432517.182092550] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432517.182753779] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432518.180396948] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432518.182045877] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432518.182769283] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432519.180684204] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432519.182141800] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432519.182794581] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432520.180388826] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432520.181840630] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432520.182469923] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432521.180307374] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432521.181758219] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432521.182411288] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432522.180344935] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432522.182228652] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432522.182899449] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432523.180331489] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432523.181944929] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432523.182825362] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432524.180299708] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432524.181727256] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432524.182365893] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432525.180447838] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432525.182654953] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432525.183437561] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432526.180397789] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432526.182656234] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432526.183346199] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432527.180357183] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432527.181864092] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432527.182516617] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432528.180427653] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432528.181878657] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432528.182533934] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432529.180357802] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432529.181805094] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432529.182469940] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432530.180392467] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432530.181836208] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432530.182481341] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432531.180366942] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432531.181844699] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432531.182526792] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432532.180361002] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432532.181816071] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432532.182475092] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432533.180420218] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432533.181925880] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432533.182594181] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432534.180440300] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432534.182679096] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432534.183387622] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432535.180924840] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432535.182569129] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432535.183243606] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432536.180318001] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432536.181854736] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432536.182534077] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432537.180358089] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432537.181823846] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432537.182471603] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432538.180466085] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432538.181904193] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432538.182538382] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432539.180403934] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432539.181997694] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432539.182666507] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432540.180446140] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432540.181897241] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432540.182535462] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432541.180420475] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432541.181890328] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432541.182552389] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432542.180491774] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432542.181950235] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432542.182597384] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432543.180717286] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432543.182189123] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432543.182838128] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432544.180435269] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432544.182028997] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432544.182709298] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432545.180550639] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432545.182198543] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432545.182861789] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432546.180624410] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432546.182319515] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432546.182994248] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432547.180511171] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432547.182705774] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432547.183630720] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432548.180442351] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432548.182172017] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432548.182872671] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432549.180384221] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432549.181851290] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432549.182501511] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432550.180468496] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432550.182065391] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432550.182880447] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432551.180462275] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432551.181936160] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432551.182618894] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432552.180461880] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432552.182111577] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432552.182835335] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432553.180634227] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432553.182319124] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432553.183047907] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432554.180641228] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432554.182271084] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432554.183132189] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432555.181675292] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432555.188096795] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432555.189922239] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432556.180339422] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432556.181843868] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432556.183781347] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432557.180551298] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432557.184143273] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432557.184878359] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432558.180463233] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432558.182180227] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432558.182855120] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432559.180386755] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432559.182087684] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432559.182925685] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432560.180499946] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432560.182132906] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432560.182817400] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432561.181611495] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432561.183799826] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432561.184515232] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432562.180417080] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432562.181914038] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432562.182621188] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432563.180398082] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432563.181906912] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432563.182572077] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432564.180476561] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432564.182120977] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432564.182804447] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432565.180500704] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432565.182013406] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432565.182674187] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432566.181273856] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432566.182794814] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432566.183609710] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432567.180574628] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432567.182134723] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432567.182804209] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432568.183045418] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432568.184746476] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432568.185379832] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432569.180358091] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432569.182151439] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432569.183652876] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432570.180451173] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432570.181907458] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432570.182697010] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432571.180339165] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432571.181879516] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432571.182584202] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432572.180692704] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432572.184176421] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432572.184904788] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432573.180351960] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432573.181783156] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432573.182440545] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432574.180355960] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432574.181816021] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432574.182482498] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432575.180333113] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432575.181774966] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432575.182431843] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432576.180321788] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432576.181812666] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432576.182563977] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432577.180337634] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432577.181790175] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432577.182455596] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432578.180410283] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432578.181890409] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432578.182592375] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432579.180491382] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432579.182037141] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432579.182687522] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432580.180383071] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432580.181960031] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432580.182651212] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432581.180694899] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432581.182119791] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432581.182761404] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432582.180742210] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432582.182172415] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432582.182815468] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432583.181120955] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432583.182718907] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432583.183394472] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432584.180357438] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432584.181809083] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432584.182447976] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432585.180367635] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432585.181827728] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432585.182469405] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432586.180348105] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432586.181770469] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432586.182405202] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432587.180351265] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432587.181809118] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432587.182465899] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432588.180355484] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432588.181848569] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432588.182486694] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432589.180359640] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432589.181832181] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432589.182489986] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432590.182683460] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432590.184682123] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432590.186614098] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432591.180356661] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432591.181802418] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432591.182463167] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432592.180378615] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432592.181830164] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432592.182469889] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432593.180484028] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432593.181956154] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432593.182636551] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432594.180706278] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432594.182330054] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432594.182995699] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432595.180811855] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432595.183879852] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432595.184650363] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432596.180405968] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432596.181892429] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432596.182767039] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432597.180599870] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432597.182241983] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432597.182897580] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432598.181020339] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432598.182508273] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432598.183177406] [visualizer_node]: Published all markers and TFs
+[INFO] [1753432599.180385749] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753432599.181922291] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753432599.182564160] [visualizer_node]: Published all markers and TFs

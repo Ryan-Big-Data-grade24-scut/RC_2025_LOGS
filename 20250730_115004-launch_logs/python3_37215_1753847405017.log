@@ -1,0 +1,232 @@
+[INFO] [1753847405.103426779] [visualizer_node]: Initializing VisualizerNode...
+[INFO] [1753847405.104882617] [visualizer_node]: Using fixed frame: laser_dist_map
+[INFO] [1753847405.105583959] [visualizer_node]: Loading configuration...
+[INFO] [1753847405.111939143] [visualizer_node]: formatted_laser_config: [((0.37212, 1.55), 1.5708), ((0.37212, -1.55), -1.5708), ((0.37241, 0.45), 0.0), ((0.36471, 3.82), 3.1416)]
+[INFO] [1753847405.112753930] [visualizer_node]: Configuration loaded successfully.
+[INFO] [1753847405.125196029] [visualizer_node]: TF broadcaster initialized
+[INFO] [1753847405.164077051] [visualizer_node]: Publisher initialized for boundary markers
+[INFO] [1753847405.168394675] [visualizer_node]: Subscribed to /laser_solutions topic
+[INFO] [1753847405.169121394] [visualizer_node]: Marker ID and color map initialized
+[INFO] [1753847405.169873778] [visualizer_node]: Boundary publisher timer initialized
+[INFO] [1753847405.170578160] [visualizer_node]: Solution visualization timer initialized
+[INFO] [1753847405.171207531] [visualizer_node]: VisualizerNode initialized and ready to visualize.
+[INFO] [1753847405.171872712] [visualizer_node_main]: VisualizerNode is running...
+[INFO] [1753847405.192852456] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847405.281316044] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847405.300392828] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847405.373769755] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847405.400887170] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847405.473471583] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847405.499969100] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847405.574888365] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847405.600600728] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847405.672813542] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847405.698294470] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847405.774746665] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847405.803379697] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847405.872878539] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847405.894773650] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847405.972677267] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847405.993491501] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847406.072615103] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847406.093555549] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847406.171784360] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753847406.172564746] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753847406.174775752] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847406.199123704] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847406.273084397] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847406.296975689] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847406.374017218] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847406.404038212] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847406.474874772] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847406.500240015] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847406.572757671] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847406.594626412] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847406.674254612] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847406.697156709] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847406.773666344] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847406.793730720] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847406.873818683] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847406.896216311] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847406.972811869] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847406.992825332] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847407.072762022] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847407.095875263] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847407.172215159] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753847407.173220994] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753847407.176063196] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847407.193587143] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847407.274021486] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847407.294834405] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847407.372749857] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847407.394729770] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847407.472841646] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847407.497018037] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847407.573687771] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847407.593641774] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847407.672895458] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847407.699221445] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847407.772845545] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847407.793928300] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847407.872814417] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847407.893833073] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847407.972918559] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847407.995504194] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847408.073219602] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847408.110549544] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847408.172550394] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753847408.173726125] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753847408.177302757] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847408.204002263] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847408.272712006] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847408.292883650] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847408.372675178] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847408.396293657] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847408.472816213] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847408.493554953] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847408.572773721] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847408.597427571] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847408.672652473] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847408.693655896] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847408.772711328] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847408.796811523] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847408.873562922] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847408.893689763] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847408.972769613] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847408.993730602] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847409.072797041] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847409.099078768] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847409.171772422] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753847409.173340585] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753847409.176679383] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847409.195895465] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847409.275566473] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847409.297388778] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847409.373012349] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847409.397661111] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847409.472760340] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847409.493421572] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847409.572699411] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847409.605318015] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847409.672740086] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847409.697396783] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847409.772687220] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847409.793900444] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847409.873213068] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847409.894153736] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847409.975135007] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847409.994890632] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847410.072754712] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847410.092850639] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847410.171597188] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753847410.172392646] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753847410.174498592] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847410.192210161] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847410.272595948] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847410.295566557] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847410.372778929] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847410.392806309] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847410.472633608] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847410.495017408] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847410.572757611] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847410.593717414] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847410.672655459] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847410.698566193] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847410.772871626] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847410.793720993] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847410.872729409] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847410.895721683] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847410.972794081] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847410.992836853] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847411.072819741] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847411.094479989] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847411.171796586] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753847411.172814358] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753847411.175583499] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847411.193666924] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847411.273117276] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847411.295611896] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847411.373039378] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847411.396301838] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847411.472674812] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847411.497068424] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847411.572737656] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847411.592418844] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847411.672794227] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847411.693837745] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847411.772817998] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847411.792718331] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847411.872830375] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847411.892704180] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847411.972770590] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847411.992673964] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847412.072747540] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847412.093881653] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847412.172441468] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753847412.173219645] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753847412.175467389] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847412.192306535] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847412.272686844] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847412.293968707] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847412.372870041] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847412.392372949] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847412.472712136] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847412.493683010] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847412.572772832] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847412.595509765] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847412.672813431] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847412.695825384] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847412.772640965] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847412.794269019] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847412.872759295] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847412.894947533] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847412.972621806] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847412.992906604] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847413.072750823] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847413.092785528] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847413.171676106] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753847413.172435275] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753847413.174592230] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847413.192666021] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847413.272788843] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847413.293275600] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847413.372684312] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847413.393644945] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847413.472676425] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847413.493547870] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847413.572717276] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847413.592665642] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847413.672583144] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847413.692416337] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847413.772516534] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847413.792452068] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847413.872819989] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847413.892965355] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847413.972620926] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847413.993493523] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847414.072658894] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847414.093191348] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847414.171589422] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753847414.172330286] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753847414.174447687] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847414.192570983] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847414.272607111] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847414.292497426] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847414.372496880] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847414.392575427] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847414.472533055] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847414.492361383] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847414.572908892] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847414.592534908] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847414.672514329] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847414.692970812] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847414.772581577] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847414.792568920] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847414.872524212] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847414.892106162] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847414.972549571] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847414.993674018] [visualizer_node]: Received 16 solutions, updated cache
+[INFO] [1753847415.072607216] [visualizer_node]: Visualizing 16 solutions
+[INFO] [1753847415.092784134] [visualizer_node]: Received 16 solutions, updated cache
+[ERROR] [1753847415.125163393] [visualizer_node_main]: An error occurred: 
+[ERROR] [1753847415.127499556] [visualizer_node]: An error occurred: 

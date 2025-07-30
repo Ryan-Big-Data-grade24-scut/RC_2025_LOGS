@@ -1,0 +1,221 @@
+[INFO] [1753424737.815837819] [visualizer_node]: Initializing VisualizerNode...
+[INFO] [1753424737.817291583] [visualizer_node]: Using fixed frame: odom
+[INFO] [1753424737.817983889] [visualizer_node]: Loading configuration...
+[INFO] [1753424737.823856069] [visualizer_node]: formatted_laser_config: [((0.37212, 1.55), 1.5708), ((0.37212, -1.55), -1.5708), ((0.37241, 0.45), 0.0), ((0.36471, 3.82), 3.1416)]
+[INFO] [1753424737.824594872] [visualizer_node]: Configuration loaded successfully.
+[INFO] [1753424737.835444746] [visualizer_node]: TF broadcaster initialized
+[INFO] [1753424737.844188006] [visualizer_node]: Publisher initialized for boundary markers
+[INFO] [1753424737.844892024] [visualizer_node]: Marker ID and color map initialized
+[INFO] [1753424737.845674508] [visualizer_node]: Boundary publisher timer initialized
+[INFO] [1753424737.846317564] [visualizer_node]: VisualizerNode initialized and ready to visualize.
+[INFO] [1753424737.846990829] [visualizer_node_main]: VisualizerNode is running...
+[INFO] [1753424738.847764193] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753424738.848798972] [visualizer_node]: Drawing field boundaries: 9.998x8.0 meters
+[INFO] [1753424738.850514311] [visualizer_node]: Adding boundary point: [0.0, 0.0]
+[INFO] [1753424738.851421598] [visualizer_node]: Adding boundary point: [0.0, 0.0]
+[INFO] [1753424738.852154608] [visualizer_node]: Adding boundary point: [9.998, 0.0]
+[INFO] [1753424738.853649174] [visualizer_node]: Adding boundary point: [9.998, 0.0]
+[INFO] [1753424738.854391529] [visualizer_node]: Adding boundary point: [9.998, 8.0]
+[INFO] [1753424738.855138108] [visualizer_node]: Adding boundary point: [9.998, 8.0]
+[INFO] [1753424738.855773452] [visualizer_node]: Adding boundary point: [0.0, 8.0]
+[INFO] [1753424738.856417724] [visualizer_node]: Adding boundary point: [0.0, 8.0]
+[INFO] [1753424738.857163151] [visualizer_node]: Boundary points: [geometry_msgs.msg.Point(x=0.0, y=0.0, z=0.0), geometry_msgs.msg.Point(x=9.998, y=0.0, z=0.0), geometry_msgs.msg.Point(x=9.998, y=8.0, z=0.0), geometry_msgs.msg.Point(x=0.0, y=8.0, z=0.0), geometry_msgs.msg.Point(x=0.0, y=0.0, z=0.0)]
+[INFO] [1753424738.858814712] [visualizer_node]: Published field boundaries marker
+[INFO] [1753424738.859477481] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753424738.860148186] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424739.847430042] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753424739.848272080] [visualizer_node]: Drawing field boundaries: 9.998x8.0 meters
+[INFO] [1753424739.849639250] [visualizer_node]: Adding boundary point: [0.0, 0.0]
+[INFO] [1753424739.850387461] [visualizer_node]: Adding boundary point: [0.0, 0.0]
+[INFO] [1753424739.851148056] [visualizer_node]: Adding boundary point: [9.998, 0.0]
+[INFO] [1753424739.851883851] [visualizer_node]: Adding boundary point: [9.998, 0.0]
+[INFO] [1753424739.852566012] [visualizer_node]: Adding boundary point: [9.998, 8.0]
+[INFO] [1753424739.853265390] [visualizer_node]: Adding boundary point: [9.998, 8.0]
+[INFO] [1753424739.855174846] [visualizer_node]: Adding boundary point: [0.0, 8.0]
+[INFO] [1753424739.855950866] [visualizer_node]: Adding boundary point: [0.0, 8.0]
+[INFO] [1753424739.856740134] [visualizer_node]: Boundary points: [geometry_msgs.msg.Point(x=0.0, y=0.0, z=0.0), geometry_msgs.msg.Point(x=9.998, y=0.0, z=0.0), geometry_msgs.msg.Point(x=9.998, y=8.0, z=0.0), geometry_msgs.msg.Point(x=0.0, y=8.0, z=0.0), geometry_msgs.msg.Point(x=0.0, y=0.0, z=0.0)]
+[INFO] [1753424739.858233643] [visualizer_node]: Published field boundaries marker
+[INFO] [1753424739.858964286] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753424739.859643951] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424740.847055891] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753424740.847780037] [visualizer_node]: Drawing field boundaries: 9.998x8.0 meters
+[INFO] [1753424740.848878881] [visualizer_node]: Adding boundary point: [0.0, 0.0]
+[INFO] [1753424740.849514321] [visualizer_node]: Adding boundary point: [0.0, 0.0]
+[INFO] [1753424740.850258116] [visualizer_node]: Adding boundary point: [9.998, 0.0]
+[INFO] [1753424740.850907956] [visualizer_node]: Adding boundary point: [9.998, 0.0]
+[INFO] [1753424740.851533380] [visualizer_node]: Adding boundary point: [9.998, 8.0]
+[INFO] [1753424740.852197941] [visualizer_node]: Adding boundary point: [9.998, 8.0]
+[INFO] [1753424740.853087403] [visualizer_node]: Adding boundary point: [0.0, 8.0]
+[INFO] [1753424740.853794621] [visualizer_node]: Adding boundary point: [0.0, 8.0]
+[INFO] [1753424740.854525712] [visualizer_node]: Boundary points: [geometry_msgs.msg.Point(x=0.0, y=0.0, z=0.0), geometry_msgs.msg.Point(x=9.998, y=0.0, z=0.0), geometry_msgs.msg.Point(x=9.998, y=8.0, z=0.0), geometry_msgs.msg.Point(x=0.0, y=8.0, z=0.0), geometry_msgs.msg.Point(x=0.0, y=0.0, z=0.0)]
+[INFO] [1753424740.855881106] [visualizer_node]: Published field boundaries marker
+[INFO] [1753424740.856528578] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753424740.857205779] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424741.847234202] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753424741.848004238] [visualizer_node]: Drawing field boundaries: 9.998x8.0 meters
+[INFO] [1753424741.849186156] [visualizer_node]: Adding boundary point: [0.0, 0.0]
+[INFO] [1753424741.849868221] [visualizer_node]: Adding boundary point: [0.0, 0.0]
+[INFO] [1753424741.850520717] [visualizer_node]: Adding boundary point: [9.998, 0.0]
+[INFO] [1753424741.851234687] [visualizer_node]: Adding boundary point: [9.998, 0.0]
+[INFO] [1753424741.852068053] [visualizer_node]: Adding boundary point: [9.998, 8.0]
+[INFO] [1753424741.852796295] [visualizer_node]: Adding boundary point: [9.998, 8.0]
+[INFO] [1753424741.853435863] [visualizer_node]: Adding boundary point: [0.0, 8.0]
+[INFO] [1753424741.854259244] [visualizer_node]: Adding boundary point: [0.0, 8.0]
+[INFO] [1753424741.855067968] [visualizer_node]: Boundary points: [geometry_msgs.msg.Point(x=0.0, y=0.0, z=0.0), geometry_msgs.msg.Point(x=9.998, y=0.0, z=0.0), geometry_msgs.msg.Point(x=9.998, y=8.0, z=0.0), geometry_msgs.msg.Point(x=0.0, y=8.0, z=0.0), geometry_msgs.msg.Point(x=0.0, y=0.0, z=0.0)]
+[INFO] [1753424741.857013297] [visualizer_node]: Published field boundaries marker
+[INFO] [1753424741.857817126] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753424741.859096614] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424742.847637320] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753424742.848487134] [visualizer_node]: Drawing field boundaries: 9.998x8.0 meters
+[INFO] [1753424742.849701276] [visualizer_node]: Adding boundary point: [0.0, 0.0]
+[INFO] [1753424742.850357677] [visualizer_node]: Adding boundary point: [0.0, 0.0]
+[INFO] [1753424742.851083007] [visualizer_node]: Adding boundary point: [9.998, 0.0]
+[INFO] [1753424742.851720015] [visualizer_node]: Adding boundary point: [9.998, 0.0]
+[INFO] [1753424742.852585285] [visualizer_node]: Adding boundary point: [9.998, 8.0]
+[INFO] [1753424742.853520317] [visualizer_node]: Adding boundary point: [9.998, 8.0]
+[INFO] [1753424742.854343761] [visualizer_node]: Adding boundary point: [0.0, 8.0]
+[INFO] [1753424742.855278953] [visualizer_node]: Adding boundary point: [0.0, 8.0]
+[INFO] [1753424742.855987899] [visualizer_node]: Boundary points: [geometry_msgs.msg.Point(x=0.0, y=0.0, z=0.0), geometry_msgs.msg.Point(x=9.998, y=0.0, z=0.0), geometry_msgs.msg.Point(x=9.998, y=8.0, z=0.0), geometry_msgs.msg.Point(x=0.0, y=8.0, z=0.0), geometry_msgs.msg.Point(x=0.0, y=0.0, z=0.0)]
+[INFO] [1753424742.857227738] [visualizer_node]: Published field boundaries marker
+[INFO] [1753424742.857977901] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753424742.858827683] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424743.847529897] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753424743.848294493] [visualizer_node]: Drawing field boundaries: 9.998x8.0 meters
+[INFO] [1753424743.850249614] [visualizer_node]: Adding boundary point: [0.0, 0.0]
+[INFO] [1753424743.850971680] [visualizer_node]: Adding boundary point: [0.0, 0.0]
+[INFO] [1753424743.851780405] [visualizer_node]: Adding boundary point: [9.998, 0.0]
+[INFO] [1753424743.853504864] [visualizer_node]: Adding boundary point: [9.998, 0.0]
+[INFO] [1753424743.854546171] [visualizer_node]: Adding boundary point: [9.998, 8.0]
+[INFO] [1753424743.855414097] [visualizer_node]: Adding boundary point: [9.998, 8.0]
+[INFO] [1753424743.856051809] [visualizer_node]: Adding boundary point: [0.0, 8.0]
+[INFO] [1753424743.856751346] [visualizer_node]: Adding boundary point: [0.0, 8.0]
+[INFO] [1753424743.857433252] [visualizer_node]: Boundary points: [geometry_msgs.msg.Point(x=0.0, y=0.0, z=0.0), geometry_msgs.msg.Point(x=9.998, y=0.0, z=0.0), geometry_msgs.msg.Point(x=9.998, y=8.0, z=0.0), geometry_msgs.msg.Point(x=0.0, y=8.0, z=0.0), geometry_msgs.msg.Point(x=0.0, y=0.0, z=0.0)]
+[INFO] [1753424743.858848743] [visualizer_node]: Published field boundaries marker
+[INFO] [1753424743.859482039] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753424743.860110855] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424744.847322633] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753424744.848088860] [visualizer_node]: Drawing field boundaries: 9.998x8.0 meters
+[INFO] [1753424744.849221017] [visualizer_node]: Adding boundary point: [0.0, 0.0]
+[INFO] [1753424744.849896106] [visualizer_node]: Adding boundary point: [0.0, 0.0]
+[INFO] [1753424744.850515066] [visualizer_node]: Adding boundary point: [9.998, 0.0]
+[INFO] [1753424744.851200491] [visualizer_node]: Adding boundary point: [9.998, 0.0]
+[INFO] [1753424744.851824859] [visualizer_node]: Adding boundary point: [9.998, 8.0]
+[INFO] [1753424744.852469067] [visualizer_node]: Adding boundary point: [9.998, 8.0]
+[INFO] [1753424744.853197917] [visualizer_node]: Adding boundary point: [0.0, 8.0]
+[INFO] [1753424744.853854542] [visualizer_node]: Adding boundary point: [0.0, 8.0]
+[INFO] [1753424744.854560544] [visualizer_node]: Boundary points: [geometry_msgs.msg.Point(x=0.0, y=0.0, z=0.0), geometry_msgs.msg.Point(x=9.998, y=0.0, z=0.0), geometry_msgs.msg.Point(x=9.998, y=8.0, z=0.0), geometry_msgs.msg.Point(x=0.0, y=8.0, z=0.0), geometry_msgs.msg.Point(x=0.0, y=0.0, z=0.0)]
+[INFO] [1753424744.855857792] [visualizer_node]: Published field boundaries marker
+[INFO] [1753424744.856507953] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753424744.857145857] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424745.848801012] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753424745.849798349] [visualizer_node]: Drawing field boundaries: 9.998x8.0 meters
+[INFO] [1753424745.851236209] [visualizer_node]: Adding boundary point: [0.0, 0.0]
+[INFO] [1753424745.852015301] [visualizer_node]: Adding boundary point: [0.0, 0.0]
+[INFO] [1753424745.852700406] [visualizer_node]: Adding boundary point: [9.998, 0.0]
+[INFO] [1753424745.855006384] [visualizer_node]: Adding boundary point: [9.998, 0.0]
+[INFO] [1753424745.855820101] [visualizer_node]: Adding boundary point: [9.998, 8.0]
+[INFO] [1753424745.856528407] [visualizer_node]: Adding boundary point: [9.998, 8.0]
+[INFO] [1753424745.857191880] [visualizer_node]: Adding boundary point: [0.0, 8.0]
+[INFO] [1753424745.857810327] [visualizer_node]: Adding boundary point: [0.0, 8.0]
+[INFO] [1753424745.860071696] [visualizer_node]: Boundary points: [geometry_msgs.msg.Point(x=0.0, y=0.0, z=0.0), geometry_msgs.msg.Point(x=9.998, y=0.0, z=0.0), geometry_msgs.msg.Point(x=9.998, y=8.0, z=0.0), geometry_msgs.msg.Point(x=0.0, y=8.0, z=0.0), geometry_msgs.msg.Point(x=0.0, y=0.0, z=0.0)]
+[INFO] [1753424745.861311600] [visualizer_node]: Published field boundaries marker
+[INFO] [1753424745.861931423] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753424745.862551343] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424746.847425527] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753424746.848621013] [visualizer_node]: Drawing field boundaries: 9.998x8.0 meters
+[INFO] [1753424746.850263679] [visualizer_node]: Adding boundary point: [0.0, 0.0]
+[INFO] [1753424746.851159029] [visualizer_node]: Adding boundary point: [0.0, 0.0]
+[INFO] [1753424746.851927273] [visualizer_node]: Adding boundary point: [9.998, 0.0]
+[INFO] [1753424746.852612538] [visualizer_node]: Adding boundary point: [9.998, 0.0]
+[INFO] [1753424746.853223401] [visualizer_node]: Adding boundary point: [9.998, 8.0]
+[INFO] [1753424746.855256221] [visualizer_node]: Adding boundary point: [9.998, 8.0]
+[INFO] [1753424746.856057329] [visualizer_node]: Adding boundary point: [0.0, 8.0]
+[INFO] [1753424746.856713153] [visualizer_node]: Adding boundary point: [0.0, 8.0]
+[INFO] [1753424746.857390899] [visualizer_node]: Boundary points: [geometry_msgs.msg.Point(x=0.0, y=0.0, z=0.0), geometry_msgs.msg.Point(x=9.998, y=0.0, z=0.0), geometry_msgs.msg.Point(x=9.998, y=8.0, z=0.0), geometry_msgs.msg.Point(x=0.0, y=8.0, z=0.0), geometry_msgs.msg.Point(x=0.0, y=0.0, z=0.0)]
+[INFO] [1753424746.858721172] [visualizer_node]: Published field boundaries marker
+[INFO] [1753424746.859335972] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753424746.859958931] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424747.847236569] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753424747.848843585] [visualizer_node]: Drawing field boundaries: 9.998x8.0 meters
+[INFO] [1753424747.850930966] [visualizer_node]: Adding boundary point: [0.0, 0.0]
+[INFO] [1753424747.851762987] [visualizer_node]: Adding boundary point: [0.0, 0.0]
+[INFO] [1753424747.852378523] [visualizer_node]: Adding boundary point: [9.998, 0.0]
+[INFO] [1753424747.852984810] [visualizer_node]: Adding boundary point: [9.998, 0.0]
+[INFO] [1753424747.853564473] [visualizer_node]: Adding boundary point: [9.998, 8.0]
+[INFO] [1753424747.854147879] [visualizer_node]: Adding boundary point: [9.998, 8.0]
+[INFO] [1753424747.854788887] [visualizer_node]: Adding boundary point: [0.0, 8.0]
+[INFO] [1753424747.855384615] [visualizer_node]: Adding boundary point: [0.0, 8.0]
+[INFO] [1753424747.856036119] [visualizer_node]: Boundary points: [geometry_msgs.msg.Point(x=0.0, y=0.0, z=0.0), geometry_msgs.msg.Point(x=9.998, y=0.0, z=0.0), geometry_msgs.msg.Point(x=9.998, y=8.0, z=0.0), geometry_msgs.msg.Point(x=0.0, y=8.0, z=0.0), geometry_msgs.msg.Point(x=0.0, y=0.0, z=0.0)]
+[INFO] [1753424747.857322423] [visualizer_node]: Published field boundaries marker
+[INFO] [1753424747.857932391] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753424747.858573367] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424748.847092860] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753424748.847824175] [visualizer_node]: Drawing field boundaries: 9.998x8.0 meters
+[INFO] [1753424748.848896074] [visualizer_node]: Adding boundary point: [0.0, 0.0]
+[INFO] [1753424748.849546778] [visualizer_node]: Adding boundary point: [0.0, 0.0]
+[INFO] [1753424748.850152106] [visualizer_node]: Adding boundary point: [9.998, 0.0]
+[INFO] [1753424748.850791322] [visualizer_node]: Adding boundary point: [9.998, 0.0]
+[INFO] [1753424748.851397801] [visualizer_node]: Adding boundary point: [9.998, 8.0]
+[INFO] [1753424748.851997912] [visualizer_node]: Adding boundary point: [9.998, 8.0]
+[INFO] [1753424748.852582119] [visualizer_node]: Adding boundary point: [0.0, 8.0]
+[INFO] [1753424748.854157455] [visualizer_node]: Adding boundary point: [0.0, 8.0]
+[INFO] [1753424748.856199042] [visualizer_node]: Boundary points: [geometry_msgs.msg.Point(x=0.0, y=0.0, z=0.0), geometry_msgs.msg.Point(x=9.998, y=0.0, z=0.0), geometry_msgs.msg.Point(x=9.998, y=8.0, z=0.0), geometry_msgs.msg.Point(x=0.0, y=8.0, z=0.0), geometry_msgs.msg.Point(x=0.0, y=0.0, z=0.0)]
+[INFO] [1753424748.858760483] [visualizer_node]: Published field boundaries marker
+[INFO] [1753424748.859965505] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753424748.861581706] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424749.847478030] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753424749.848242241] [visualizer_node]: Drawing field boundaries: 9.998x8.0 meters
+[INFO] [1753424749.849323357] [visualizer_node]: Adding boundary point: [0.0, 0.0]
+[INFO] [1753424749.849958253] [visualizer_node]: Adding boundary point: [0.0, 0.0]
+[INFO] [1753424749.850572508] [visualizer_node]: Adding boundary point: [9.998, 0.0]
+[INFO] [1753424749.851387761] [visualizer_node]: Adding boundary point: [9.998, 0.0]
+[INFO] [1753424749.852012897] [visualizer_node]: Adding boundary point: [9.998, 8.0]
+[INFO] [1753424749.852603631] [visualizer_node]: Adding boundary point: [9.998, 8.0]
+[INFO] [1753424749.853179422] [visualizer_node]: Adding boundary point: [0.0, 8.0]
+[INFO] [1753424749.853746476] [visualizer_node]: Adding boundary point: [0.0, 8.0]
+[INFO] [1753424749.854389085] [visualizer_node]: Boundary points: [geometry_msgs.msg.Point(x=0.0, y=0.0, z=0.0), geometry_msgs.msg.Point(x=9.998, y=0.0, z=0.0), geometry_msgs.msg.Point(x=9.998, y=8.0, z=0.0), geometry_msgs.msg.Point(x=0.0, y=8.0, z=0.0), geometry_msgs.msg.Point(x=0.0, y=0.0, z=0.0)]
+[INFO] [1753424749.857471562] [visualizer_node]: Published field boundaries marker
+[INFO] [1753424749.860720540] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753424749.861619891] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424750.848162024] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753424750.849055806] [visualizer_node]: Drawing field boundaries: 9.998x8.0 meters
+[INFO] [1753424750.850495811] [visualizer_node]: Adding boundary point: [0.0, 0.0]
+[INFO] [1753424750.851385241] [visualizer_node]: Adding boundary point: [0.0, 0.0]
+[INFO] [1753424750.852123404] [visualizer_node]: Adding boundary point: [9.998, 0.0]
+[INFO] [1753424750.852811645] [visualizer_node]: Adding boundary point: [9.998, 0.0]
+[INFO] [1753424750.853509167] [visualizer_node]: Adding boundary point: [9.998, 8.0]
+[INFO] [1753424750.854180480] [visualizer_node]: Adding boundary point: [9.998, 8.0]
+[INFO] [1753424750.854889202] [visualizer_node]: Adding boundary point: [0.0, 8.0]
+[INFO] [1753424750.855618084] [visualizer_node]: Adding boundary point: [0.0, 8.0]
+[INFO] [1753424750.856422936] [visualizer_node]: Boundary points: [geometry_msgs.msg.Point(x=0.0, y=0.0, z=0.0), geometry_msgs.msg.Point(x=9.998, y=0.0, z=0.0), geometry_msgs.msg.Point(x=9.998, y=8.0, z=0.0), geometry_msgs.msg.Point(x=0.0, y=8.0, z=0.0), geometry_msgs.msg.Point(x=0.0, y=0.0, z=0.0)]
+[INFO] [1753424750.858290408] [visualizer_node]: Published field boundaries marker
+[INFO] [1753424750.860125974] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753424750.860903498] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424751.847283067] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753424751.848147409] [visualizer_node]: Drawing field boundaries: 9.998x8.0 meters
+[INFO] [1753424751.849562580] [visualizer_node]: Adding boundary point: [0.0, 0.0]
+[INFO] [1753424751.850339368] [visualizer_node]: Adding boundary point: [0.0, 0.0]
+[INFO] [1753424751.851135356] [visualizer_node]: Adding boundary point: [9.998, 0.0]
+[INFO] [1753424751.851866991] [visualizer_node]: Adding boundary point: [9.998, 0.0]
+[INFO] [1753424751.852592321] [visualizer_node]: Adding boundary point: [9.998, 8.0]
+[INFO] [1753424751.853450775] [visualizer_node]: Adding boundary point: [9.998, 8.0]
+[INFO] [1753424751.854092007] [visualizer_node]: Adding boundary point: [0.0, 8.0]
+[INFO] [1753424751.854811865] [visualizer_node]: Adding boundary point: [0.0, 8.0]
+[INFO] [1753424751.856095833] [visualizer_node]: Boundary points: [geometry_msgs.msg.Point(x=0.0, y=0.0, z=0.0), geometry_msgs.msg.Point(x=9.998, y=0.0, z=0.0), geometry_msgs.msg.Point(x=9.998, y=8.0, z=0.0), geometry_msgs.msg.Point(x=0.0, y=8.0, z=0.0), geometry_msgs.msg.Point(x=0.0, y=0.0, z=0.0)]
+[INFO] [1753424751.857505981] [visualizer_node]: Published field boundaries marker
+[INFO] [1753424751.858145901] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753424751.858828862] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424752.847214851] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753424752.847975126] [visualizer_node]: Drawing field boundaries: 9.998x8.0 meters
+[INFO] [1753424752.849014736] [visualizer_node]: Adding boundary point: [0.0, 0.0]
+[INFO] [1753424752.849649088] [visualizer_node]: Adding boundary point: [0.0, 0.0]
+[INFO] [1753424752.850246864] [visualizer_node]: Adding boundary point: [9.998, 0.0]
+[INFO] [1753424752.850869279] [visualizer_node]: Adding boundary point: [9.998, 0.0]
+[INFO] [1753424752.851451822] [visualizer_node]: Adding boundary point: [9.998, 8.0]
+[INFO] [1753424752.852044381] [visualizer_node]: Adding boundary point: [9.998, 8.0]
+[INFO] [1753424752.852651404] [visualizer_node]: Adding boundary point: [0.0, 8.0]
+[INFO] [1753424752.853250907] [visualizer_node]: Adding boundary point: [0.0, 8.0]
+[INFO] [1753424752.853917580] [visualizer_node]: Boundary points: [geometry_msgs.msg.Point(x=0.0, y=0.0, z=0.0), geometry_msgs.msg.Point(x=9.998, y=0.0, z=0.0), geometry_msgs.msg.Point(x=9.998, y=8.0, z=0.0), geometry_msgs.msg.Point(x=0.0, y=8.0, z=0.0), geometry_msgs.msg.Point(x=0.0, y=0.0, z=0.0)]
+[INFO] [1753424752.855056809] [visualizer_node]: Published field boundaries marker
+[INFO] [1753424752.855693881] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753424752.856318953] [visualizer_node]: Published all markers and TFs

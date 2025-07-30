@@ -1,0 +1,48 @@
+[INFO] [1753424145.889050005] [visualizer_node]: Initializing VisualizerNode...
+[INFO] [1753424145.890998628] [visualizer_node]: Using fixed frame: odom
+[INFO] [1753424145.891696534] [visualizer_node]: Loading configuration...
+[INFO] [1753424145.899583095] [visualizer_node]: formatted_laser_config: [((0.37212, 1.55), 1.5708), ((0.37212, -1.55), -1.5708), ((0.37241, 0.45), 0.0), ((0.36471, 3.82), 3.1416)]
+[INFO] [1753424145.900412395] [visualizer_node]: Configuration loaded successfully.
+[INFO] [1753424145.913034625] [visualizer_node]: TF broadcaster initialized
+[INFO] [1753424145.921658356] [visualizer_node]: Publisher initialized for boundary markers
+[INFO] [1753424145.922367750] [visualizer_node]: Marker ID and color map initialized
+[INFO] [1753424145.923125560] [visualizer_node]: Boundary publisher timer initialized
+[INFO] [1753424145.923735335] [visualizer_node]: VisualizerNode initialized and ready to visualize.
+[INFO] [1753424145.924335126] [visualizer_node_main]: VisualizerNode is running...
+[INFO] [1753424146.924016505] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424147.923914180] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424148.924423904] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424149.924478835] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424150.923921593] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424151.924021201] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424152.925951577] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424153.925332611] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424154.923897244] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424155.923846872] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424156.923929466] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424157.924221091] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424158.923912032] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424159.923939270] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424160.923989039] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424161.924393411] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424162.924751416] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424163.924407102] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424164.926243099] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424165.923832497] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424166.923948104] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424167.923991167] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424168.923948374] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424169.924258008] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424170.924030414] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424171.923957258] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424172.924844448] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424173.923923787] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424174.924757219] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424175.926566869] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424176.924183362] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424177.924851388] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424178.924194744] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424179.926400987] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424180.923890669] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424181.923843933] [visualizer_node]: Published all markers and TFs
+[INFO] [1753424182.924510625] [visualizer_node]: Published all markers and TFs

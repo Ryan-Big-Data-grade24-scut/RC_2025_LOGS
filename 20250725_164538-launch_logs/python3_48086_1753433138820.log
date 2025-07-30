@@ -1,0 +1,395 @@
+[INFO] [1753433138.986893366] [solver_node]: [Case1BatchSolver] Case1BatchSolver初始化完成: 场地尺寸: 9.998x8.0, 容差: 0.001
+[INFO] [1753433138.987986156] [solver_node]: [Case3BatchSolver] Case3BatchSolver初始化完成: 场地尺寸: 9.998x8.0, 容差: 0.001
+[INFO] [1753433138.988689755] [solver_node]: [PoseSolver] PoseSolver初始化完成: 场地(9.998x8.0), 4个激光
+[INFO] [1753433139.142153603] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.4259999990463257, 0.27799999713897705, 5.308000087738037])
+[INFO] [1753433139.143837670] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 0.426      0.278      5.30800009]
+[ERROR] [1753433139.144607382] [solver_node]: 求解错误: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+[ERROR] [1753433139.145966353] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 101, in solve
+    valid_mask = distances > self.tol & distances < np.sqrt(self.m**2 + self.n**2)  # 可用激光的掩码
+TypeError: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+
+[INFO] [1753433139.208238925] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.4259999990463257, 0.27799999713897705, 5.308000087738037])
+[INFO] [1753433139.209798893] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 0.426      0.278      5.30800009]
+[ERROR] [1753433139.210532124] [solver_node]: 求解错误: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+[ERROR] [1753433139.211416654] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 101, in solve
+    valid_mask = distances > self.tol & distances < np.sqrt(self.m**2 + self.n**2)  # 可用激光的掩码
+TypeError: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+
+[INFO] [1753433139.305499350] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.4259999990463257, 0.27799999713897705, 5.308000087738037])
+[INFO] [1753433139.307712323] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 0.426      0.278      5.30800009]
+[ERROR] [1753433139.308854459] [solver_node]: 求解错误: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+[ERROR] [1753433139.310115413] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 101, in solve
+    valid_mask = distances > self.tol & distances < np.sqrt(self.m**2 + self.n**2)  # 可用激光的掩码
+TypeError: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+
+[INFO] [1753433139.405203985] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.4259999990463257, 0.27799999713897705, 5.308000087738037])
+[INFO] [1753433139.406643279] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 0.426      0.278      5.30800009]
+[ERROR] [1753433139.407424031] [solver_node]: 求解错误: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+[ERROR] [1753433139.408244911] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 101, in solve
+    valid_mask = distances > self.tol & distances < np.sqrt(self.m**2 + self.n**2)  # 可用激光的掩码
+TypeError: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+
+[INFO] [1753433139.506102020] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.4259999990463257, 0.27799999713897705, 5.308000087738037])
+[INFO] [1753433139.507671429] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 0.426      0.278      5.30800009]
+[ERROR] [1753433139.508420788] [solver_node]: 求解错误: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+[ERROR] [1753433139.509276741] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 101, in solve
+    valid_mask = distances > self.tol & distances < np.sqrt(self.m**2 + self.n**2)  # 可用激光的掩码
+TypeError: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+
+[INFO] [1753433139.605128209] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.4259999990463257, 0.27799999713897705, 5.308000087738037])
+[INFO] [1753433139.606611280] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 0.426      0.278      5.30800009]
+[ERROR] [1753433139.607390464] [solver_node]: 求解错误: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+[ERROR] [1753433139.608200400] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 101, in solve
+    valid_mask = distances > self.tol & distances < np.sqrt(self.m**2 + self.n**2)  # 可用激光的掩码
+TypeError: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+
+[INFO] [1753433139.705639773] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.4259999990463257, 0.27799999713897705, 5.308000087738037])
+[INFO] [1753433139.707892203] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 0.426      0.278      5.30800009]
+[ERROR] [1753433139.708944992] [solver_node]: 求解错误: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+[ERROR] [1753433139.710187418] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 101, in solve
+    valid_mask = distances > self.tol & distances < np.sqrt(self.m**2 + self.n**2)  # 可用激光的掩码
+TypeError: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+
+[INFO] [1753433139.806272555] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.4259999990463257, 0.27799999713897705, 5.308000087738037])
+[INFO] [1753433139.809446316] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 0.426      0.278      5.30800009]
+[ERROR] [1753433139.810514306] [solver_node]: 求解错误: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+[ERROR] [1753433139.811473269] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 101, in solve
+    valid_mask = distances > self.tol & distances < np.sqrt(self.m**2 + self.n**2)  # 可用激光的掩码
+TypeError: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+
+[INFO] [1753433139.905155477] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.4259999990463257, 0.27799999713897705, 5.308000087738037])
+[INFO] [1753433139.906590930] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 0.426      0.278      5.30800009]
+[ERROR] [1753433139.907336929] [solver_node]: 求解错误: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+[ERROR] [1753433139.908142994] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 101, in solve
+    valid_mask = distances > self.tol & distances < np.sqrt(self.m**2 + self.n**2)  # 可用激光的掩码
+TypeError: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+
+[INFO] [1753433140.005463836] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.4259999990463257, 0.27799999713897705, 5.308000087738037])
+[INFO] [1753433140.006919418] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 0.426      0.278      5.30800009]
+[ERROR] [1753433140.007752523] [solver_node]: 求解错误: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+[ERROR] [1753433140.008691550] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 101, in solve
+    valid_mask = distances > self.tol & distances < np.sqrt(self.m**2 + self.n**2)  # 可用激光的掩码
+TypeError: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+
+[INFO] [1753433140.105208536] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.4259999990463257, 0.27799999713897705, 5.308000087738037])
+[INFO] [1753433140.106613301] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 0.426      0.278      5.30800009]
+[ERROR] [1753433140.107361924] [solver_node]: 求解错误: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+[ERROR] [1753433140.108165108] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 101, in solve
+    valid_mask = distances > self.tol & distances < np.sqrt(self.m**2 + self.n**2)  # 可用激光的掩码
+TypeError: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+
+[INFO] [1753433140.206081739] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.4259999990463257, 0.27799999713897705, 5.308000087738037])
+[INFO] [1753433140.207820398] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 0.426      0.278      5.30800009]
+[ERROR] [1753433140.208639679] [solver_node]: 求解错误: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+[ERROR] [1753433140.209547058] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 101, in solve
+    valid_mask = distances > self.tol & distances < np.sqrt(self.m**2 + self.n**2)  # 可用激光的掩码
+TypeError: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+
+[INFO] [1753433140.305222010] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.4259999990463257, 0.27799999713897705, 5.308000087738037])
+[INFO] [1753433140.306858076] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 0.426      0.278      5.30800009]
+[ERROR] [1753433140.307649132] [solver_node]: 求解错误: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+[ERROR] [1753433140.308503773] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 101, in solve
+    valid_mask = distances > self.tol & distances < np.sqrt(self.m**2 + self.n**2)  # 可用激光的掩码
+TypeError: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+
+[INFO] [1753433140.407138498] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.4259999990463257, 0.27799999713897705, 5.308000087738037])
+[INFO] [1753433140.408680962] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 0.426      0.278      5.30800009]
+[ERROR] [1753433140.409452786] [solver_node]: 求解错误: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+[ERROR] [1753433140.410316355] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 101, in solve
+    valid_mask = distances > self.tol & distances < np.sqrt(self.m**2 + self.n**2)  # 可用激光的掩码
+TypeError: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+
+[INFO] [1753433140.506036205] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.4259999990463257, 0.27799999713897705, 5.308000087738037])
+[INFO] [1753433140.507561996] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 0.426      0.278      5.30800009]
+[ERROR] [1753433140.508299067] [solver_node]: 求解错误: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+[ERROR] [1753433140.509137356] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 101, in solve
+    valid_mask = distances > self.tol & distances < np.sqrt(self.m**2 + self.n**2)  # 可用激光的掩码
+TypeError: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+
+[INFO] [1753433140.607579309] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.4259999990463257, 0.27799999713897705, 5.308000087738037])
+[INFO] [1753433140.609050956] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 0.426      0.278      5.30800009]
+[ERROR] [1753433140.609787835] [solver_node]: 求解错误: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+[ERROR] [1753433140.610623276] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 101, in solve
+    valid_mask = distances > self.tol & distances < np.sqrt(self.m**2 + self.n**2)  # 可用激光的掩码
+TypeError: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+
+[INFO] [1753433140.706033039] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.4259999990463257, 0.27799999713897705, 5.308000087738037])
+[INFO] [1753433140.707540494] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 0.426      0.278      5.30800009]
+[ERROR] [1753433140.708275037] [solver_node]: 求解错误: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+[ERROR] [1753433140.709100494] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 101, in solve
+    valid_mask = distances > self.tol & distances < np.sqrt(self.m**2 + self.n**2)  # 可用激光的掩码
+TypeError: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+
+[INFO] [1753433140.808176572] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.4259999990463257, 0.27799999713897705, 5.308000087738037])
+[INFO] [1753433140.809692571] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 0.426      0.278      5.30800009]
+[ERROR] [1753433140.810459882] [solver_node]: 求解错误: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+[ERROR] [1753433140.811393950] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 101, in solve
+    valid_mask = distances > self.tol & distances < np.sqrt(self.m**2 + self.n**2)  # 可用激光的掩码
+TypeError: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+
+[INFO] [1753433140.906068177] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.4259999990463257, 0.27799999713897705, 5.308000087738037])
+[INFO] [1753433140.907533583] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 0.426      0.278      5.30800009]
+[ERROR] [1753433140.908259966] [solver_node]: 求解错误: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+[ERROR] [1753433140.909089199] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 101, in solve
+    valid_mask = distances > self.tol & distances < np.sqrt(self.m**2 + self.n**2)  # 可用激光的掩码
+TypeError: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+
+[INFO] [1753433141.006418778] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.4259999990463257, 0.27799999713897705, 5.308000087738037])
+[INFO] [1753433141.007989850] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 0.426      0.278      5.30800009]
+[ERROR] [1753433141.008741065] [solver_node]: 求解错误: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+[ERROR] [1753433141.009587003] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 101, in solve
+    valid_mask = distances > self.tol & distances < np.sqrt(self.m**2 + self.n**2)  # 可用激光的掩码
+TypeError: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+
+[INFO] [1753433141.107030471] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.4259999990463257, 0.27799999713897705, 5.308000087738037])
+[INFO] [1753433141.108519334] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 0.426      0.278      5.30800009]
+[ERROR] [1753433141.109235412] [solver_node]: 求解错误: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+[ERROR] [1753433141.110058341] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 101, in solve
+    valid_mask = distances > self.tol & distances < np.sqrt(self.m**2 + self.n**2)  # 可用激光的掩码
+TypeError: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+
+[INFO] [1753433141.206640352] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.4259999990463257, 0.27799999713897705, 5.308000087738037])
+[INFO] [1753433141.209437242] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 0.426      0.278      5.30800009]
+[ERROR] [1753433141.211038330] [solver_node]: 求解错误: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+[ERROR] [1753433141.211956845] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 101, in solve
+    valid_mask = distances > self.tol & distances < np.sqrt(self.m**2 + self.n**2)  # 可用激光的掩码
+TypeError: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+
+[INFO] [1753433141.305182595] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.4259999990463257, 0.27799999713897705, 5.308000087738037])
+[INFO] [1753433141.306579744] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 0.426      0.278      5.30800009]
+[ERROR] [1753433141.307300911] [solver_node]: 求解错误: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+[ERROR] [1753433141.308129216] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 101, in solve
+    valid_mask = distances > self.tol & distances < np.sqrt(self.m**2 + self.n**2)  # 可用激光的掩码
+TypeError: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+
+[INFO] [1753433141.409308537] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.4259999990463257, 0.27799999713897705, 5.308000087738037])
+[INFO] [1753433141.410829560] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 0.426      0.278      5.30800009]
+[ERROR] [1753433141.411646441] [solver_node]: 求解错误: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+[ERROR] [1753433141.412483226] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 101, in solve
+    valid_mask = distances > self.tol & distances < np.sqrt(self.m**2 + self.n**2)  # 可用激光的掩码
+TypeError: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+
+[INFO] [1753433141.505183942] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.4259999990463257, 0.27799999713897705, 5.308000087738037])
+[INFO] [1753433141.506710725] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 0.426      0.278      5.30800009]
+[ERROR] [1753433141.507459636] [solver_node]: 求解错误: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+[ERROR] [1753433141.508273637] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 101, in solve
+    valid_mask = distances > self.tol & distances < np.sqrt(self.m**2 + self.n**2)  # 可用激光的掩码
+TypeError: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+
+[INFO] [1753433141.606826088] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.4259999990463257, 0.27799999713897705, 5.308000087738037])
+[INFO] [1753433141.608555916] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 0.426      0.278      5.30800009]
+[ERROR] [1753433141.609308155] [solver_node]: 求解错误: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+[ERROR] [1753433141.610098315] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 101, in solve
+    valid_mask = distances > self.tol & distances < np.sqrt(self.m**2 + self.n**2)  # 可用激光的掩码
+TypeError: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+
+[INFO] [1753433141.705183976] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.4259999990463257, 0.27799999713897705, 5.308000087738037])
+[INFO] [1753433141.706646662] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 0.426      0.278      5.30800009]
+[ERROR] [1753433141.707408405] [solver_node]: 求解错误: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+[ERROR] [1753433141.708223718] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 101, in solve
+    valid_mask = distances > self.tol & distances < np.sqrt(self.m**2 + self.n**2)  # 可用激光的掩码
+TypeError: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+
+[INFO] [1753433141.806474019] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.4259999990463257, 0.27799999713897705, 5.308000087738037])
+[INFO] [1753433141.809629092] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 0.426      0.278      5.30800009]
+[ERROR] [1753433141.810394612] [solver_node]: 求解错误: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+[ERROR] [1753433141.811238053] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 101, in solve
+    valid_mask = distances > self.tol & distances < np.sqrt(self.m**2 + self.n**2)  # 可用激光的掩码
+TypeError: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+

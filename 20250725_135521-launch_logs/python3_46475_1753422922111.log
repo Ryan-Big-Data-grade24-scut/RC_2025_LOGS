@@ -1,0 +1,7 @@
+[INFO] [1753422922.263706650] [solver_node]: [Case1BatchSolver] Case1BatchSolver初始化完成: 场地尺寸: 9.998x8.0, 容差: 0.001
+[INFO] [1753422922.265418244] [solver_node]: [Case3BatchSolver] Case3BatchSolver初始化完成: 场地尺寸: 9.998x8.0, 容差: 0.001
+[INFO] [1753422922.266216887] [solver_node]: [PoseSolver] PoseSolver初始化完成: 场地(9.998x8.0), 4个激光
+[WARN] [1753422923.495273309] [solver_node]: 收到空的激光扫描数据，跳过处理
+[WARN] [1753422924.498531219] [solver_node]: 收到空的激光扫描数据，跳过处理
+[WARN] [1753422925.502174646] [solver_node]: 收到空的激光扫描数据，跳过处理
+[WARN] [1753422926.505947583] [solver_node]: 收到空的激光扫描数据，跳过处理

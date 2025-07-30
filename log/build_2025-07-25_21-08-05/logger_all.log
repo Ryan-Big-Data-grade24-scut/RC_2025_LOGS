@@ -1,0 +1,932 @@
+[0.276s] [34mcolcon[0m [1;30mDEBUG[0m [32mCommand line arguments: ['/usr/bin/colcon', 'build', '--packages-select', 'laser_solver'][0m
+[0.276s] [34mcolcon[0m [1;30mDEBUG[0m [32mParsed command line arguments: Namespace(log_base=None, log_level=None, verb_name='build', build_base='build', install_base='install', merge_install=False, symlink_install=False, test_result_base=None, continue_on_error=False, executor='parallel', parallel_workers=6, event_handlers=None, ignore_user_meta=False, metas=['./colcon.meta'], base_paths=['.'], packages_ignore=None, packages_ignore_regex=None, paths=None, packages_up_to=None, packages_up_to_regex=None, packages_above=None, packages_above_and_dependencies=None, packages_above_depth=None, packages_select_by_dep=None, packages_skip_by_dep=None, packages_skip_up_to=None, packages_select_build_failed=False, packages_skip_build_finished=False, packages_select_test_failures=False, packages_skip_test_passed=False, packages_select=['laser_solver'], packages_skip=None, packages_select_regex=None, packages_skip_regex=None, packages_start=None, packages_end=None, allow_overriding=[], cmake_args=None, cmake_target=None, cmake_target_skip_unavailable=False, cmake_clean_cache=False, cmake_clean_first=False, cmake_force_configure=False, ament_cmake_args=None, catkin_cmake_args=None, catkin_skip_building_tests=False, verb_parser=<colcon_defaults.argument_parser.defaults.DefaultArgumentsDecorator object at 0xffff9070bdc0>, verb_extension=<colcon_core.verb.build.BuildVerb object at 0xffff908e2320>, main=<bound method BuildVerb.main of <colcon_core.verb.build.BuildVerb object at 0xffff908e2320>>)[0m
+[0.365s] [34mcolcon.colcon_core.package_discovery[0m [1;30mLevel 1[0m discover_packages(colcon_meta) check parameters
+[0.365s] [34mcolcon.colcon_core.package_discovery[0m [1;30mLevel 1[0m discover_packages(recursive) check parameters
+[0.365s] [34mcolcon.colcon_core.package_discovery[0m [1;30mLevel 1[0m discover_packages(ignore) check parameters
+[0.365s] [34mcolcon.colcon_core.package_discovery[0m [1;30mLevel 1[0m discover_packages(path) check parameters
+[0.365s] [34mcolcon.colcon_core.package_discovery[0m [1;30mLevel 1[0m discover_packages(colcon_meta) discover
+[0.365s] [34mcolcon.colcon_core.package_discovery[0m [1;30mLevel 1[0m discover_packages(recursive) discover
+[0.366s] [34mcolcon.colcon_core.package_discovery[0m [1;30mINFO[0m Crawling recursively for packages in '/home/orin/RC_2025_LOGS'
+[0.366s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(.) by extensions ['ignore', 'ignore_ament_install']
+[0.366s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(.) by extension 'ignore'
+[0.366s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(.) by extension 'ignore_ament_install'
+[0.367s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(.) by extensions ['colcon_pkg']
+[0.367s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(.) by extension 'colcon_pkg'
+[0.367s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(.) by extensions ['colcon_meta']
+[0.367s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(.) by extension 'colcon_meta'
+[0.367s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(.) by extensions ['ros']
+[0.367s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(.) by extension 'ros'
+[0.399s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(.) by extensions ['cmake', 'python']
+[0.399s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(.) by extension 'cmake'
+[0.399s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(.) by extension 'python'
+[0.399s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(.) by extensions ['python_setup_py']
+[0.399s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(.) by extension 'python_setup_py'
+[0.400s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_115626-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.400s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_115626-launch_logs) by extension 'ignore'
+[0.400s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_115626-launch_logs) by extension 'ignore_ament_install'
+[0.400s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_115626-launch_logs) by extensions ['colcon_pkg']
+[0.400s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_115626-launch_logs) by extension 'colcon_pkg'
+[0.400s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_115626-launch_logs) by extensions ['colcon_meta']
+[0.400s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_115626-launch_logs) by extension 'colcon_meta'
+[0.400s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_115626-launch_logs) by extensions ['ros']
+[0.401s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_115626-launch_logs) by extension 'ros'
+[0.401s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_115626-launch_logs) by extensions ['cmake', 'python']
+[0.401s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_115626-launch_logs) by extension 'cmake'
+[0.401s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_115626-launch_logs) by extension 'python'
+[0.401s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_115626-launch_logs) by extensions ['python_setup_py']
+[0.401s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_115626-launch_logs) by extension 'python_setup_py'
+[0.401s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120024-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.401s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120024-launch_logs) by extension 'ignore'
+[0.401s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120024-launch_logs) by extension 'ignore_ament_install'
+[0.402s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120024-launch_logs) by extensions ['colcon_pkg']
+[0.402s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120024-launch_logs) by extension 'colcon_pkg'
+[0.402s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120024-launch_logs) by extensions ['colcon_meta']
+[0.402s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120024-launch_logs) by extension 'colcon_meta'
+[0.402s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120024-launch_logs) by extensions ['ros']
+[0.402s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120024-launch_logs) by extension 'ros'
+[0.402s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120024-launch_logs) by extensions ['cmake', 'python']
+[0.402s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120024-launch_logs) by extension 'cmake'
+[0.402s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120024-launch_logs) by extension 'python'
+[0.402s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120024-launch_logs) by extensions ['python_setup_py']
+[0.402s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120024-launch_logs) by extension 'python_setup_py'
+[0.403s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120501-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.403s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120501-launch_logs) by extension 'ignore'
+[0.403s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120501-launch_logs) by extension 'ignore_ament_install'
+[0.403s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120501-launch_logs) by extensions ['colcon_pkg']
+[0.403s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120501-launch_logs) by extension 'colcon_pkg'
+[0.403s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120501-launch_logs) by extensions ['colcon_meta']
+[0.403s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120501-launch_logs) by extension 'colcon_meta'
+[0.403s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120501-launch_logs) by extensions ['ros']
+[0.403s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120501-launch_logs) by extension 'ros'
+[0.404s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120501-launch_logs) by extensions ['cmake', 'python']
+[0.404s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120501-launch_logs) by extension 'cmake'
+[0.404s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120501-launch_logs) by extension 'python'
+[0.404s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120501-launch_logs) by extensions ['python_setup_py']
+[0.404s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120501-launch_logs) by extension 'python_setup_py'
+[0.404s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120514-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.404s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120514-launch_logs) by extension 'ignore'
+[0.404s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120514-launch_logs) by extension 'ignore_ament_install'
+[0.405s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120514-launch_logs) by extensions ['colcon_pkg']
+[0.405s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120514-launch_logs) by extension 'colcon_pkg'
+[0.405s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120514-launch_logs) by extensions ['colcon_meta']
+[0.405s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120514-launch_logs) by extension 'colcon_meta'
+[0.405s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120514-launch_logs) by extensions ['ros']
+[0.405s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120514-launch_logs) by extension 'ros'
+[0.405s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120514-launch_logs) by extensions ['cmake', 'python']
+[0.405s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120514-launch_logs) by extension 'cmake'
+[0.405s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120514-launch_logs) by extension 'python'
+[0.405s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120514-launch_logs) by extensions ['python_setup_py']
+[0.405s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120514-launch_logs) by extension 'python_setup_py'
+[0.406s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120647-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.406s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120647-launch_logs) by extension 'ignore'
+[0.406s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120647-launch_logs) by extension 'ignore_ament_install'
+[0.406s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120647-launch_logs) by extensions ['colcon_pkg']
+[0.406s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120647-launch_logs) by extension 'colcon_pkg'
+[0.406s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120647-launch_logs) by extensions ['colcon_meta']
+[0.406s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120647-launch_logs) by extension 'colcon_meta'
+[0.406s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120647-launch_logs) by extensions ['ros']
+[0.406s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120647-launch_logs) by extension 'ros'
+[0.407s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120647-launch_logs) by extensions ['cmake', 'python']
+[0.407s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120647-launch_logs) by extension 'cmake'
+[0.407s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120647-launch_logs) by extension 'python'
+[0.407s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120647-launch_logs) by extensions ['python_setup_py']
+[0.407s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_120647-launch_logs) by extension 'python_setup_py'
+[0.407s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_122342-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.407s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_122342-launch_logs) by extension 'ignore'
+[0.407s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_122342-launch_logs) by extension 'ignore_ament_install'
+[0.407s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_122342-launch_logs) by extensions ['colcon_pkg']
+[0.407s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_122342-launch_logs) by extension 'colcon_pkg'
+[0.408s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_122342-launch_logs) by extensions ['colcon_meta']
+[0.408s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_122342-launch_logs) by extension 'colcon_meta'
+[0.408s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_122342-launch_logs) by extensions ['ros']
+[0.408s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_122342-launch_logs) by extension 'ros'
+[0.408s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_122342-launch_logs) by extensions ['cmake', 'python']
+[0.408s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_122342-launch_logs) by extension 'cmake'
+[0.408s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_122342-launch_logs) by extension 'python'
+[0.408s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_122342-launch_logs) by extensions ['python_setup_py']
+[0.408s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_122342-launch_logs) by extension 'python_setup_py'
+[0.408s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_123626-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.409s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_123626-launch_logs) by extension 'ignore'
+[0.409s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_123626-launch_logs) by extension 'ignore_ament_install'
+[0.409s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_123626-launch_logs) by extensions ['colcon_pkg']
+[0.409s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_123626-launch_logs) by extension 'colcon_pkg'
+[0.409s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_123626-launch_logs) by extensions ['colcon_meta']
+[0.409s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_123626-launch_logs) by extension 'colcon_meta'
+[0.409s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_123626-launch_logs) by extensions ['ros']
+[0.409s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_123626-launch_logs) by extension 'ros'
+[0.409s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_123626-launch_logs) by extensions ['cmake', 'python']
+[0.409s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_123626-launch_logs) by extension 'cmake'
+[0.410s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_123626-launch_logs) by extension 'python'
+[0.410s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_123626-launch_logs) by extensions ['python_setup_py']
+[0.410s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_123626-launch_logs) by extension 'python_setup_py'
+[0.410s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_124135-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.410s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_124135-launch_logs) by extension 'ignore'
+[0.410s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_124135-launch_logs) by extension 'ignore_ament_install'
+[0.410s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_124135-launch_logs) by extensions ['colcon_pkg']
+[0.410s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_124135-launch_logs) by extension 'colcon_pkg'
+[0.410s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_124135-launch_logs) by extensions ['colcon_meta']
+[0.411s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_124135-launch_logs) by extension 'colcon_meta'
+[0.411s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_124135-launch_logs) by extensions ['ros']
+[0.411s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_124135-launch_logs) by extension 'ros'
+[0.411s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_124135-launch_logs) by extensions ['cmake', 'python']
+[0.411s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_124135-launch_logs) by extension 'cmake'
+[0.411s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_124135-launch_logs) by extension 'python'
+[0.411s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_124135-launch_logs) by extensions ['python_setup_py']
+[0.411s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_124135-launch_logs) by extension 'python_setup_py'
+[0.411s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_124513-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.411s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_124513-launch_logs) by extension 'ignore'
+[0.412s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_124513-launch_logs) by extension 'ignore_ament_install'
+[0.412s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_124513-launch_logs) by extensions ['colcon_pkg']
+[0.412s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_124513-launch_logs) by extension 'colcon_pkg'
+[0.412s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_124513-launch_logs) by extensions ['colcon_meta']
+[0.412s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_124513-launch_logs) by extension 'colcon_meta'
+[0.412s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_124513-launch_logs) by extensions ['ros']
+[0.412s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_124513-launch_logs) by extension 'ros'
+[0.412s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_124513-launch_logs) by extensions ['cmake', 'python']
+[0.412s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_124513-launch_logs) by extension 'cmake'
+[0.412s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_124513-launch_logs) by extension 'python'
+[0.413s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_124513-launch_logs) by extensions ['python_setup_py']
+[0.413s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_124513-launch_logs) by extension 'python_setup_py'
+[0.413s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_124750-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.413s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_124750-launch_logs) by extension 'ignore'
+[0.413s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_124750-launch_logs) by extension 'ignore_ament_install'
+[0.413s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_124750-launch_logs) by extensions ['colcon_pkg']
+[0.413s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_124750-launch_logs) by extension 'colcon_pkg'
+[0.413s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_124750-launch_logs) by extensions ['colcon_meta']
+[0.413s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_124750-launch_logs) by extension 'colcon_meta'
+[0.413s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_124750-launch_logs) by extensions ['ros']
+[0.414s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_124750-launch_logs) by extension 'ros'
+[0.414s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_124750-launch_logs) by extensions ['cmake', 'python']
+[0.414s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_124750-launch_logs) by extension 'cmake'
+[0.414s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_124750-launch_logs) by extension 'python'
+[0.414s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_124750-launch_logs) by extensions ['python_setup_py']
+[0.414s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_124750-launch_logs) by extension 'python_setup_py'
+[0.414s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_125135-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.414s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_125135-launch_logs) by extension 'ignore'
+[0.414s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_125135-launch_logs) by extension 'ignore_ament_install'
+[0.415s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_125135-launch_logs) by extensions ['colcon_pkg']
+[0.415s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_125135-launch_logs) by extension 'colcon_pkg'
+[0.415s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_125135-launch_logs) by extensions ['colcon_meta']
+[0.415s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_125135-launch_logs) by extension 'colcon_meta'
+[0.415s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_125135-launch_logs) by extensions ['ros']
+[0.415s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_125135-launch_logs) by extension 'ros'
+[0.415s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_125135-launch_logs) by extensions ['cmake', 'python']
+[0.415s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_125135-launch_logs) by extension 'cmake'
+[0.415s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_125135-launch_logs) by extension 'python'
+[0.415s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_125135-launch_logs) by extensions ['python_setup_py']
+[0.415s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_125135-launch_logs) by extension 'python_setup_py'
+[0.416s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_125256-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.416s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_125256-launch_logs) by extension 'ignore'
+[0.416s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_125256-launch_logs) by extension 'ignore_ament_install'
+[0.416s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_125256-launch_logs) by extensions ['colcon_pkg']
+[0.416s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_125256-launch_logs) by extension 'colcon_pkg'
+[0.416s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_125256-launch_logs) by extensions ['colcon_meta']
+[0.416s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_125256-launch_logs) by extension 'colcon_meta'
+[0.416s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_125256-launch_logs) by extensions ['ros']
+[0.416s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_125256-launch_logs) by extension 'ros'
+[0.417s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_125256-launch_logs) by extensions ['cmake', 'python']
+[0.417s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_125256-launch_logs) by extension 'cmake'
+[0.417s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_125256-launch_logs) by extension 'python'
+[0.417s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_125256-launch_logs) by extensions ['python_setup_py']
+[0.417s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_125256-launch_logs) by extension 'python_setup_py'
+[0.417s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_125925-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.417s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_125925-launch_logs) by extension 'ignore'
+[0.417s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_125925-launch_logs) by extension 'ignore_ament_install'
+[0.418s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_125925-launch_logs) by extensions ['colcon_pkg']
+[0.418s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_125925-launch_logs) by extension 'colcon_pkg'
+[0.418s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_125925-launch_logs) by extensions ['colcon_meta']
+[0.418s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_125925-launch_logs) by extension 'colcon_meta'
+[0.418s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_125925-launch_logs) by extensions ['ros']
+[0.418s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_125925-launch_logs) by extension 'ros'
+[0.418s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_125925-launch_logs) by extensions ['cmake', 'python']
+[0.418s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_125925-launch_logs) by extension 'cmake'
+[0.418s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_125925-launch_logs) by extension 'python'
+[0.418s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_125925-launch_logs) by extensions ['python_setup_py']
+[0.418s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_125925-launch_logs) by extension 'python_setup_py'
+[0.419s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_130438-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.419s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_130438-launch_logs) by extension 'ignore'
+[0.419s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_130438-launch_logs) by extension 'ignore_ament_install'
+[0.419s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_130438-launch_logs) by extensions ['colcon_pkg']
+[0.419s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_130438-launch_logs) by extension 'colcon_pkg'
+[0.419s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_130438-launch_logs) by extensions ['colcon_meta']
+[0.419s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_130438-launch_logs) by extension 'colcon_meta'
+[0.419s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_130438-launch_logs) by extensions ['ros']
+[0.419s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_130438-launch_logs) by extension 'ros'
+[0.419s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_130438-launch_logs) by extensions ['cmake', 'python']
+[0.419s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_130438-launch_logs) by extension 'cmake'
+[0.420s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_130438-launch_logs) by extension 'python'
+[0.420s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_130438-launch_logs) by extensions ['python_setup_py']
+[0.420s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_130438-launch_logs) by extension 'python_setup_py'
+[0.420s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_130545-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.420s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_130545-launch_logs) by extension 'ignore'
+[0.420s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_130545-launch_logs) by extension 'ignore_ament_install'
+[0.420s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_130545-launch_logs) by extensions ['colcon_pkg']
+[0.420s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_130545-launch_logs) by extension 'colcon_pkg'
+[0.420s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_130545-launch_logs) by extensions ['colcon_meta']
+[0.421s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_130545-launch_logs) by extension 'colcon_meta'
+[0.421s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_130545-launch_logs) by extensions ['ros']
+[0.421s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_130545-launch_logs) by extension 'ros'
+[0.421s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_130545-launch_logs) by extensions ['cmake', 'python']
+[0.421s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_130545-launch_logs) by extension 'cmake'
+[0.421s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_130545-launch_logs) by extension 'python'
+[0.421s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_130545-launch_logs) by extensions ['python_setup_py']
+[0.421s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_130545-launch_logs) by extension 'python_setup_py'
+[0.421s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_131453-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.421s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_131453-launch_logs) by extension 'ignore'
+[0.422s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_131453-launch_logs) by extension 'ignore_ament_install'
+[0.422s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_131453-launch_logs) by extensions ['colcon_pkg']
+[0.422s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_131453-launch_logs) by extension 'colcon_pkg'
+[0.422s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_131453-launch_logs) by extensions ['colcon_meta']
+[0.422s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_131453-launch_logs) by extension 'colcon_meta'
+[0.422s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_131453-launch_logs) by extensions ['ros']
+[0.422s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_131453-launch_logs) by extension 'ros'
+[0.422s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_131453-launch_logs) by extensions ['cmake', 'python']
+[0.422s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_131453-launch_logs) by extension 'cmake'
+[0.422s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_131453-launch_logs) by extension 'python'
+[0.422s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_131453-launch_logs) by extensions ['python_setup_py']
+[0.423s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_131453-launch_logs) by extension 'python_setup_py'
+[0.423s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_131525-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.423s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_131525-launch_logs) by extension 'ignore'
+[0.423s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_131525-launch_logs) by extension 'ignore_ament_install'
+[0.423s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_131525-launch_logs) by extensions ['colcon_pkg']
+[0.423s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_131525-launch_logs) by extension 'colcon_pkg'
+[0.423s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_131525-launch_logs) by extensions ['colcon_meta']
+[0.423s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_131525-launch_logs) by extension 'colcon_meta'
+[0.423s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_131525-launch_logs) by extensions ['ros']
+[0.423s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_131525-launch_logs) by extension 'ros'
+[0.424s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_131525-launch_logs) by extensions ['cmake', 'python']
+[0.424s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_131525-launch_logs) by extension 'cmake'
+[0.424s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_131525-launch_logs) by extension 'python'
+[0.424s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_131525-launch_logs) by extensions ['python_setup_py']
+[0.424s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_131525-launch_logs) by extension 'python_setup_py'
+[0.424s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_131544-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.424s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_131544-launch_logs) by extension 'ignore'
+[0.424s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_131544-launch_logs) by extension 'ignore_ament_install'
+[0.425s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_131544-launch_logs) by extensions ['colcon_pkg']
+[0.425s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_131544-launch_logs) by extension 'colcon_pkg'
+[0.425s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_131544-launch_logs) by extensions ['colcon_meta']
+[0.425s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_131544-launch_logs) by extension 'colcon_meta'
+[0.425s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_131544-launch_logs) by extensions ['ros']
+[0.425s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_131544-launch_logs) by extension 'ros'
+[0.425s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_131544-launch_logs) by extensions ['cmake', 'python']
+[0.425s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_131544-launch_logs) by extension 'cmake'
+[0.425s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_131544-launch_logs) by extension 'python'
+[0.425s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_131544-launch_logs) by extensions ['python_setup_py']
+[0.425s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_131544-launch_logs) by extension 'python_setup_py'
+[0.426s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_134320-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.426s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_134320-launch_logs) by extension 'ignore'
+[0.426s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_134320-launch_logs) by extension 'ignore_ament_install'
+[0.426s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_134320-launch_logs) by extensions ['colcon_pkg']
+[0.426s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_134320-launch_logs) by extension 'colcon_pkg'
+[0.426s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_134320-launch_logs) by extensions ['colcon_meta']
+[0.426s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_134320-launch_logs) by extension 'colcon_meta'
+[0.426s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_134320-launch_logs) by extensions ['ros']
+[0.426s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_134320-launch_logs) by extension 'ros'
+[0.426s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_134320-launch_logs) by extensions ['cmake', 'python']
+[0.426s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_134320-launch_logs) by extension 'cmake'
+[0.427s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_134320-launch_logs) by extension 'python'
+[0.427s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_134320-launch_logs) by extensions ['python_setup_py']
+[0.427s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_134320-launch_logs) by extension 'python_setup_py'
+[0.427s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_134537-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.427s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_134537-launch_logs) by extension 'ignore'
+[0.427s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_134537-launch_logs) by extension 'ignore_ament_install'
+[0.427s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_134537-launch_logs) by extensions ['colcon_pkg']
+[0.427s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_134537-launch_logs) by extension 'colcon_pkg'
+[0.427s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_134537-launch_logs) by extensions ['colcon_meta']
+[0.427s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_134537-launch_logs) by extension 'colcon_meta'
+[0.428s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_134537-launch_logs) by extensions ['ros']
+[0.428s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_134537-launch_logs) by extension 'ros'
+[0.428s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_134537-launch_logs) by extensions ['cmake', 'python']
+[0.428s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_134537-launch_logs) by extension 'cmake'
+[0.428s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_134537-launch_logs) by extension 'python'
+[0.428s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_134537-launch_logs) by extensions ['python_setup_py']
+[0.428s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_134537-launch_logs) by extension 'python_setup_py'
+[0.428s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135521-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.428s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135521-launch_logs) by extension 'ignore'
+[0.429s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135521-launch_logs) by extension 'ignore_ament_install'
+[0.429s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135521-launch_logs) by extensions ['colcon_pkg']
+[0.429s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135521-launch_logs) by extension 'colcon_pkg'
+[0.429s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135521-launch_logs) by extensions ['colcon_meta']
+[0.429s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135521-launch_logs) by extension 'colcon_meta'
+[0.429s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135521-launch_logs) by extensions ['ros']
+[0.429s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135521-launch_logs) by extension 'ros'
+[0.429s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135521-launch_logs) by extensions ['cmake', 'python']
+[0.429s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135521-launch_logs) by extension 'cmake'
+[0.429s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135521-launch_logs) by extension 'python'
+[0.429s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135521-launch_logs) by extensions ['python_setup_py']
+[0.430s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135521-launch_logs) by extension 'python_setup_py'
+[0.430s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135556-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.430s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135556-launch_logs) by extension 'ignore'
+[0.430s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135556-launch_logs) by extension 'ignore_ament_install'
+[0.430s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135556-launch_logs) by extensions ['colcon_pkg']
+[0.430s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135556-launch_logs) by extension 'colcon_pkg'
+[0.430s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135556-launch_logs) by extensions ['colcon_meta']
+[0.430s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135556-launch_logs) by extension 'colcon_meta'
+[0.430s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135556-launch_logs) by extensions ['ros']
+[0.430s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135556-launch_logs) by extension 'ros'
+[0.431s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135556-launch_logs) by extensions ['cmake', 'python']
+[0.431s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135556-launch_logs) by extension 'cmake'
+[0.431s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135556-launch_logs) by extension 'python'
+[0.431s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135556-launch_logs) by extensions ['python_setup_py']
+[0.431s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135556-launch_logs) by extension 'python_setup_py'
+[0.431s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135806-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.431s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135806-launch_logs) by extension 'ignore'
+[0.431s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135806-launch_logs) by extension 'ignore_ament_install'
+[0.431s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135806-launch_logs) by extensions ['colcon_pkg']
+[0.432s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135806-launch_logs) by extension 'colcon_pkg'
+[0.432s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135806-launch_logs) by extensions ['colcon_meta']
+[0.432s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135806-launch_logs) by extension 'colcon_meta'
+[0.432s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135806-launch_logs) by extensions ['ros']
+[0.432s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135806-launch_logs) by extension 'ros'
+[0.432s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135806-launch_logs) by extensions ['cmake', 'python']
+[0.432s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135806-launch_logs) by extension 'cmake'
+[0.432s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135806-launch_logs) by extension 'python'
+[0.432s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135806-launch_logs) by extensions ['python_setup_py']
+[0.432s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135806-launch_logs) by extension 'python_setup_py'
+[0.432s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135903-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.433s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135903-launch_logs) by extension 'ignore'
+[0.433s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135903-launch_logs) by extension 'ignore_ament_install'
+[0.433s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135903-launch_logs) by extensions ['colcon_pkg']
+[0.433s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135903-launch_logs) by extension 'colcon_pkg'
+[0.433s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135903-launch_logs) by extensions ['colcon_meta']
+[0.433s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135903-launch_logs) by extension 'colcon_meta'
+[0.433s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135903-launch_logs) by extensions ['ros']
+[0.433s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135903-launch_logs) by extension 'ros'
+[0.433s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135903-launch_logs) by extensions ['cmake', 'python']
+[0.433s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135903-launch_logs) by extension 'cmake'
+[0.434s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135903-launch_logs) by extension 'python'
+[0.434s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135903-launch_logs) by extensions ['python_setup_py']
+[0.434s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_135903-launch_logs) by extension 'python_setup_py'
+[0.434s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_140601-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.434s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_140601-launch_logs) by extension 'ignore'
+[0.434s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_140601-launch_logs) by extension 'ignore_ament_install'
+[0.435s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_140601-launch_logs) by extensions ['colcon_pkg']
+[0.435s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_140601-launch_logs) by extension 'colcon_pkg'
+[0.435s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_140601-launch_logs) by extensions ['colcon_meta']
+[0.435s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_140601-launch_logs) by extension 'colcon_meta'
+[0.435s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_140601-launch_logs) by extensions ['ros']
+[0.435s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_140601-launch_logs) by extension 'ros'
+[0.435s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_140601-launch_logs) by extensions ['cmake', 'python']
+[0.435s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_140601-launch_logs) by extension 'cmake'
+[0.435s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_140601-launch_logs) by extension 'python'
+[0.435s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_140601-launch_logs) by extensions ['python_setup_py']
+[0.436s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_140601-launch_logs) by extension 'python_setup_py'
+[0.436s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_140748-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.436s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_140748-launch_logs) by extension 'ignore'
+[0.436s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_140748-launch_logs) by extension 'ignore_ament_install'
+[0.436s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_140748-launch_logs) by extensions ['colcon_pkg']
+[0.436s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_140748-launch_logs) by extension 'colcon_pkg'
+[0.436s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_140748-launch_logs) by extensions ['colcon_meta']
+[0.436s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_140748-launch_logs) by extension 'colcon_meta'
+[0.436s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_140748-launch_logs) by extensions ['ros']
+[0.436s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_140748-launch_logs) by extension 'ros'
+[0.437s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_140748-launch_logs) by extensions ['cmake', 'python']
+[0.437s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_140748-launch_logs) by extension 'cmake'
+[0.437s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_140748-launch_logs) by extension 'python'
+[0.437s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_140748-launch_logs) by extensions ['python_setup_py']
+[0.437s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_140748-launch_logs) by extension 'python_setup_py'
+[0.437s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_140905-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.437s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_140905-launch_logs) by extension 'ignore'
+[0.437s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_140905-launch_logs) by extension 'ignore_ament_install'
+[0.438s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_140905-launch_logs) by extensions ['colcon_pkg']
+[0.438s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_140905-launch_logs) by extension 'colcon_pkg'
+[0.438s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_140905-launch_logs) by extensions ['colcon_meta']
+[0.438s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_140905-launch_logs) by extension 'colcon_meta'
+[0.438s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_140905-launch_logs) by extensions ['ros']
+[0.438s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_140905-launch_logs) by extension 'ros'
+[0.438s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_140905-launch_logs) by extensions ['cmake', 'python']
+[0.438s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_140905-launch_logs) by extension 'cmake'
+[0.438s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_140905-launch_logs) by extension 'python'
+[0.438s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_140905-launch_logs) by extensions ['python_setup_py']
+[0.438s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_140905-launch_logs) by extension 'python_setup_py'
+[0.439s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141004-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.439s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141004-launch_logs) by extension 'ignore'
+[0.439s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141004-launch_logs) by extension 'ignore_ament_install'
+[0.439s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141004-launch_logs) by extensions ['colcon_pkg']
+[0.439s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141004-launch_logs) by extension 'colcon_pkg'
+[0.439s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141004-launch_logs) by extensions ['colcon_meta']
+[0.439s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141004-launch_logs) by extension 'colcon_meta'
+[0.439s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141004-launch_logs) by extensions ['ros']
+[0.439s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141004-launch_logs) by extension 'ros'
+[0.439s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141004-launch_logs) by extensions ['cmake', 'python']
+[0.440s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141004-launch_logs) by extension 'cmake'
+[0.440s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141004-launch_logs) by extension 'python'
+[0.440s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141004-launch_logs) by extensions ['python_setup_py']
+[0.440s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141004-launch_logs) by extension 'python_setup_py'
+[0.440s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141226-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.440s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141226-launch_logs) by extension 'ignore'
+[0.440s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141226-launch_logs) by extension 'ignore_ament_install'
+[0.440s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141226-launch_logs) by extensions ['colcon_pkg']
+[0.440s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141226-launch_logs) by extension 'colcon_pkg'
+[0.441s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141226-launch_logs) by extensions ['colcon_meta']
+[0.441s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141226-launch_logs) by extension 'colcon_meta'
+[0.441s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141226-launch_logs) by extensions ['ros']
+[0.441s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141226-launch_logs) by extension 'ros'
+[0.441s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141226-launch_logs) by extensions ['cmake', 'python']
+[0.441s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141226-launch_logs) by extension 'cmake'
+[0.441s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141226-launch_logs) by extension 'python'
+[0.441s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141226-launch_logs) by extensions ['python_setup_py']
+[0.441s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141226-launch_logs) by extension 'python_setup_py'
+[0.441s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141338-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.442s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141338-launch_logs) by extension 'ignore'
+[0.442s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141338-launch_logs) by extension 'ignore_ament_install'
+[0.442s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141338-launch_logs) by extensions ['colcon_pkg']
+[0.442s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141338-launch_logs) by extension 'colcon_pkg'
+[0.442s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141338-launch_logs) by extensions ['colcon_meta']
+[0.442s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141338-launch_logs) by extension 'colcon_meta'
+[0.442s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141338-launch_logs) by extensions ['ros']
+[0.442s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141338-launch_logs) by extension 'ros'
+[0.442s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141338-launch_logs) by extensions ['cmake', 'python']
+[0.442s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141338-launch_logs) by extension 'cmake'
+[0.443s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141338-launch_logs) by extension 'python'
+[0.443s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141338-launch_logs) by extensions ['python_setup_py']
+[0.443s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141338-launch_logs) by extension 'python_setup_py'
+[0.443s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141444-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.443s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141444-launch_logs) by extension 'ignore'
+[0.443s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141444-launch_logs) by extension 'ignore_ament_install'
+[0.443s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141444-launch_logs) by extensions ['colcon_pkg']
+[0.443s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141444-launch_logs) by extension 'colcon_pkg'
+[0.443s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141444-launch_logs) by extensions ['colcon_meta']
+[0.444s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141444-launch_logs) by extension 'colcon_meta'
+[0.444s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141444-launch_logs) by extensions ['ros']
+[0.444s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141444-launch_logs) by extension 'ros'
+[0.444s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141444-launch_logs) by extensions ['cmake', 'python']
+[0.444s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141444-launch_logs) by extension 'cmake'
+[0.444s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141444-launch_logs) by extension 'python'
+[0.444s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141444-launch_logs) by extensions ['python_setup_py']
+[0.444s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141444-launch_logs) by extension 'python_setup_py'
+[0.444s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141524-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.445s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141524-launch_logs) by extension 'ignore'
+[0.445s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141524-launch_logs) by extension 'ignore_ament_install'
+[0.445s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141524-launch_logs) by extensions ['colcon_pkg']
+[0.445s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141524-launch_logs) by extension 'colcon_pkg'
+[0.445s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141524-launch_logs) by extensions ['colcon_meta']
+[0.445s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141524-launch_logs) by extension 'colcon_meta'
+[0.445s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141524-launch_logs) by extensions ['ros']
+[0.445s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141524-launch_logs) by extension 'ros'
+[0.445s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141524-launch_logs) by extensions ['cmake', 'python']
+[0.445s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141524-launch_logs) by extension 'cmake'
+[0.445s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141524-launch_logs) by extension 'python'
+[0.445s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141524-launch_logs) by extensions ['python_setup_py']
+[0.446s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141524-launch_logs) by extension 'python_setup_py'
+[0.446s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141544-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.446s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141544-launch_logs) by extension 'ignore'
+[0.446s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141544-launch_logs) by extension 'ignore_ament_install'
+[0.446s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141544-launch_logs) by extensions ['colcon_pkg']
+[0.446s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141544-launch_logs) by extension 'colcon_pkg'
+[0.446s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141544-launch_logs) by extensions ['colcon_meta']
+[0.446s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141544-launch_logs) by extension 'colcon_meta'
+[0.446s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141544-launch_logs) by extensions ['ros']
+[0.446s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141544-launch_logs) by extension 'ros'
+[0.447s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141544-launch_logs) by extensions ['cmake', 'python']
+[0.447s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141544-launch_logs) by extension 'cmake'
+[0.447s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141544-launch_logs) by extension 'python'
+[0.447s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141544-launch_logs) by extensions ['python_setup_py']
+[0.447s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141544-launch_logs) by extension 'python_setup_py'
+[0.447s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141657-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.447s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141657-launch_logs) by extension 'ignore'
+[0.447s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141657-launch_logs) by extension 'ignore_ament_install'
+[0.447s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141657-launch_logs) by extensions ['colcon_pkg']
+[0.448s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141657-launch_logs) by extension 'colcon_pkg'
+[0.448s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141657-launch_logs) by extensions ['colcon_meta']
+[0.448s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141657-launch_logs) by extension 'colcon_meta'
+[0.448s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141657-launch_logs) by extensions ['ros']
+[0.448s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141657-launch_logs) by extension 'ros'
+[0.448s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141657-launch_logs) by extensions ['cmake', 'python']
+[0.448s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141657-launch_logs) by extension 'cmake'
+[0.448s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141657-launch_logs) by extension 'python'
+[0.448s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141657-launch_logs) by extensions ['python_setup_py']
+[0.448s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_141657-launch_logs) by extension 'python_setup_py'
+[0.448s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142250-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.449s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142250-launch_logs) by extension 'ignore'
+[0.449s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142250-launch_logs) by extension 'ignore_ament_install'
+[0.449s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142250-launch_logs) by extensions ['colcon_pkg']
+[0.449s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142250-launch_logs) by extension 'colcon_pkg'
+[0.449s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142250-launch_logs) by extensions ['colcon_meta']
+[0.449s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142250-launch_logs) by extension 'colcon_meta'
+[0.449s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142250-launch_logs) by extensions ['ros']
+[0.449s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142250-launch_logs) by extension 'ros'
+[0.449s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142250-launch_logs) by extensions ['cmake', 'python']
+[0.449s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142250-launch_logs) by extension 'cmake'
+[0.450s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142250-launch_logs) by extension 'python'
+[0.450s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142250-launch_logs) by extensions ['python_setup_py']
+[0.450s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142250-launch_logs) by extension 'python_setup_py'
+[0.450s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142343-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.450s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142343-launch_logs) by extension 'ignore'
+[0.450s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142343-launch_logs) by extension 'ignore_ament_install'
+[0.450s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142343-launch_logs) by extensions ['colcon_pkg']
+[0.450s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142343-launch_logs) by extension 'colcon_pkg'
+[0.450s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142343-launch_logs) by extensions ['colcon_meta']
+[0.450s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142343-launch_logs) by extension 'colcon_meta'
+[0.451s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142343-launch_logs) by extensions ['ros']
+[0.451s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142343-launch_logs) by extension 'ros'
+[0.451s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142343-launch_logs) by extensions ['cmake', 'python']
+[0.451s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142343-launch_logs) by extension 'cmake'
+[0.451s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142343-launch_logs) by extension 'python'
+[0.451s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142343-launch_logs) by extensions ['python_setup_py']
+[0.451s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142343-launch_logs) by extension 'python_setup_py'
+[0.451s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142429-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.451s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142429-launch_logs) by extension 'ignore'
+[0.451s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142429-launch_logs) by extension 'ignore_ament_install'
+[0.452s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142429-launch_logs) by extensions ['colcon_pkg']
+[0.452s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142429-launch_logs) by extension 'colcon_pkg'
+[0.452s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142429-launch_logs) by extensions ['colcon_meta']
+[0.452s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142429-launch_logs) by extension 'colcon_meta'
+[0.452s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142429-launch_logs) by extensions ['ros']
+[0.452s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142429-launch_logs) by extension 'ros'
+[0.452s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142429-launch_logs) by extensions ['cmake', 'python']
+[0.452s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142429-launch_logs) by extension 'cmake'
+[0.452s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142429-launch_logs) by extension 'python'
+[0.452s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142429-launch_logs) by extensions ['python_setup_py']
+[0.452s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142429-launch_logs) by extension 'python_setup_py'
+[0.453s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142505-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.453s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142505-launch_logs) by extension 'ignore'
+[0.453s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142505-launch_logs) by extension 'ignore_ament_install'
+[0.453s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142505-launch_logs) by extensions ['colcon_pkg']
+[0.453s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142505-launch_logs) by extension 'colcon_pkg'
+[0.453s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142505-launch_logs) by extensions ['colcon_meta']
+[0.453s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142505-launch_logs) by extension 'colcon_meta'
+[0.453s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142505-launch_logs) by extensions ['ros']
+[0.453s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142505-launch_logs) by extension 'ros'
+[0.454s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142505-launch_logs) by extensions ['cmake', 'python']
+[0.454s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142505-launch_logs) by extension 'cmake'
+[0.454s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142505-launch_logs) by extension 'python'
+[0.454s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142505-launch_logs) by extensions ['python_setup_py']
+[0.454s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142505-launch_logs) by extension 'python_setup_py'
+[0.454s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142536-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.454s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142536-launch_logs) by extension 'ignore'
+[0.454s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142536-launch_logs) by extension 'ignore_ament_install'
+[0.454s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142536-launch_logs) by extensions ['colcon_pkg']
+[0.455s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142536-launch_logs) by extension 'colcon_pkg'
+[0.455s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142536-launch_logs) by extensions ['colcon_meta']
+[0.455s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142536-launch_logs) by extension 'colcon_meta'
+[0.455s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142536-launch_logs) by extensions ['ros']
+[0.455s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142536-launch_logs) by extension 'ros'
+[0.455s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142536-launch_logs) by extensions ['cmake', 'python']
+[0.455s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142536-launch_logs) by extension 'cmake'
+[0.455s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142536-launch_logs) by extension 'python'
+[0.455s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142536-launch_logs) by extensions ['python_setup_py']
+[0.455s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142536-launch_logs) by extension 'python_setup_py'
+[0.455s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142815-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.456s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142815-launch_logs) by extension 'ignore'
+[0.456s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142815-launch_logs) by extension 'ignore_ament_install'
+[0.456s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142815-launch_logs) by extensions ['colcon_pkg']
+[0.456s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142815-launch_logs) by extension 'colcon_pkg'
+[0.456s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142815-launch_logs) by extensions ['colcon_meta']
+[0.456s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142815-launch_logs) by extension 'colcon_meta'
+[0.456s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142815-launch_logs) by extensions ['ros']
+[0.456s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142815-launch_logs) by extension 'ros'
+[0.456s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142815-launch_logs) by extensions ['cmake', 'python']
+[0.456s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142815-launch_logs) by extension 'cmake'
+[0.457s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142815-launch_logs) by extension 'python'
+[0.457s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142815-launch_logs) by extensions ['python_setup_py']
+[0.457s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_142815-launch_logs) by extension 'python_setup_py'
+[0.457s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_162429-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.457s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_162429-launch_logs) by extension 'ignore'
+[0.457s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_162429-launch_logs) by extension 'ignore_ament_install'
+[0.457s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_162429-launch_logs) by extensions ['colcon_pkg']
+[0.457s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_162429-launch_logs) by extension 'colcon_pkg'
+[0.457s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_162429-launch_logs) by extensions ['colcon_meta']
+[0.457s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_162429-launch_logs) by extension 'colcon_meta'
+[0.458s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_162429-launch_logs) by extensions ['ros']
+[0.458s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_162429-launch_logs) by extension 'ros'
+[0.458s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_162429-launch_logs) by extensions ['cmake', 'python']
+[0.458s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_162429-launch_logs) by extension 'cmake'
+[0.458s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_162429-launch_logs) by extension 'python'
+[0.458s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_162429-launch_logs) by extensions ['python_setup_py']
+[0.458s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_162429-launch_logs) by extension 'python_setup_py'
+[0.458s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_164538-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.458s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_164538-launch_logs) by extension 'ignore'
+[0.459s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_164538-launch_logs) by extension 'ignore_ament_install'
+[0.459s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_164538-launch_logs) by extensions ['colcon_pkg']
+[0.459s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_164538-launch_logs) by extension 'colcon_pkg'
+[0.459s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_164538-launch_logs) by extensions ['colcon_meta']
+[0.459s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_164538-launch_logs) by extension 'colcon_meta'
+[0.459s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_164538-launch_logs) by extensions ['ros']
+[0.459s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_164538-launch_logs) by extension 'ros'
+[0.459s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_164538-launch_logs) by extensions ['cmake', 'python']
+[0.459s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_164538-launch_logs) by extension 'cmake'
+[0.459s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_164538-launch_logs) by extension 'python'
+[0.459s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_164538-launch_logs) by extensions ['python_setup_py']
+[0.459s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_164538-launch_logs) by extension 'python_setup_py'
+[0.460s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_164900-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.460s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_164900-launch_logs) by extension 'ignore'
+[0.460s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_164900-launch_logs) by extension 'ignore_ament_install'
+[0.460s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_164900-launch_logs) by extensions ['colcon_pkg']
+[0.460s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_164900-launch_logs) by extension 'colcon_pkg'
+[0.460s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_164900-launch_logs) by extensions ['colcon_meta']
+[0.460s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_164900-launch_logs) by extension 'colcon_meta'
+[0.460s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_164900-launch_logs) by extensions ['ros']
+[0.460s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_164900-launch_logs) by extension 'ros'
+[0.461s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_164900-launch_logs) by extensions ['cmake', 'python']
+[0.461s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_164900-launch_logs) by extension 'cmake'
+[0.461s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_164900-launch_logs) by extension 'python'
+[0.461s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_164900-launch_logs) by extensions ['python_setup_py']
+[0.461s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_164900-launch_logs) by extension 'python_setup_py'
+[0.461s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_165426-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.461s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_165426-launch_logs) by extension 'ignore'
+[0.461s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_165426-launch_logs) by extension 'ignore_ament_install'
+[0.461s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_165426-launch_logs) by extensions ['colcon_pkg']
+[0.461s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_165426-launch_logs) by extension 'colcon_pkg'
+[0.462s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_165426-launch_logs) by extensions ['colcon_meta']
+[0.462s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_165426-launch_logs) by extension 'colcon_meta'
+[0.462s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_165426-launch_logs) by extensions ['ros']
+[0.462s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_165426-launch_logs) by extension 'ros'
+[0.462s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_165426-launch_logs) by extensions ['cmake', 'python']
+[0.462s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_165426-launch_logs) by extension 'cmake'
+[0.462s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_165426-launch_logs) by extension 'python'
+[0.462s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_165426-launch_logs) by extensions ['python_setup_py']
+[0.462s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_165426-launch_logs) by extension 'python_setup_py'
+[0.462s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_165657-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.463s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_165657-launch_logs) by extension 'ignore'
+[0.463s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_165657-launch_logs) by extension 'ignore_ament_install'
+[0.463s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_165657-launch_logs) by extensions ['colcon_pkg']
+[0.463s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_165657-launch_logs) by extension 'colcon_pkg'
+[0.463s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_165657-launch_logs) by extensions ['colcon_meta']
+[0.463s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_165657-launch_logs) by extension 'colcon_meta'
+[0.463s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_165657-launch_logs) by extensions ['ros']
+[0.463s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_165657-launch_logs) by extension 'ros'
+[0.463s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_165657-launch_logs) by extensions ['cmake', 'python']
+[0.463s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_165657-launch_logs) by extension 'cmake'
+[0.463s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_165657-launch_logs) by extension 'python'
+[0.464s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_165657-launch_logs) by extensions ['python_setup_py']
+[0.464s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_165657-launch_logs) by extension 'python_setup_py'
+[0.464s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_170010-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.464s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_170010-launch_logs) by extension 'ignore'
+[0.464s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_170010-launch_logs) by extension 'ignore_ament_install'
+[0.464s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_170010-launch_logs) by extensions ['colcon_pkg']
+[0.464s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_170010-launch_logs) by extension 'colcon_pkg'
+[0.464s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_170010-launch_logs) by extensions ['colcon_meta']
+[0.464s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_170010-launch_logs) by extension 'colcon_meta'
+[0.465s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_170010-launch_logs) by extensions ['ros']
+[0.465s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_170010-launch_logs) by extension 'ros'
+[0.465s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_170010-launch_logs) by extensions ['cmake', 'python']
+[0.465s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_170010-launch_logs) by extension 'cmake'
+[0.465s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_170010-launch_logs) by extension 'python'
+[0.465s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_170010-launch_logs) by extensions ['python_setup_py']
+[0.465s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_170010-launch_logs) by extension 'python_setup_py'
+[0.465s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_170948-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.465s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_170948-launch_logs) by extension 'ignore'
+[0.465s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_170948-launch_logs) by extension 'ignore_ament_install'
+[0.466s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_170948-launch_logs) by extensions ['colcon_pkg']
+[0.466s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_170948-launch_logs) by extension 'colcon_pkg'
+[0.466s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_170948-launch_logs) by extensions ['colcon_meta']
+[0.466s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_170948-launch_logs) by extension 'colcon_meta'
+[0.466s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_170948-launch_logs) by extensions ['ros']
+[0.466s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_170948-launch_logs) by extension 'ros'
+[0.466s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_170948-launch_logs) by extensions ['cmake', 'python']
+[0.466s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_170948-launch_logs) by extension 'cmake'
+[0.466s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_170948-launch_logs) by extension 'python'
+[0.466s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_170948-launch_logs) by extensions ['python_setup_py']
+[0.466s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_170948-launch_logs) by extension 'python_setup_py'
+[0.467s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_171434-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.467s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_171434-launch_logs) by extension 'ignore'
+[0.467s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_171434-launch_logs) by extension 'ignore_ament_install'
+[0.467s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_171434-launch_logs) by extensions ['colcon_pkg']
+[0.467s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_171434-launch_logs) by extension 'colcon_pkg'
+[0.467s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_171434-launch_logs) by extensions ['colcon_meta']
+[0.467s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_171434-launch_logs) by extension 'colcon_meta'
+[0.467s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_171434-launch_logs) by extensions ['ros']
+[0.467s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_171434-launch_logs) by extension 'ros'
+[0.467s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_171434-launch_logs) by extensions ['cmake', 'python']
+[0.468s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_171434-launch_logs) by extension 'cmake'
+[0.468s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_171434-launch_logs) by extension 'python'
+[0.468s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_171434-launch_logs) by extensions ['python_setup_py']
+[0.468s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_171434-launch_logs) by extension 'python_setup_py'
+[0.468s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_171519-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.468s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_171519-launch_logs) by extension 'ignore'
+[0.468s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_171519-launch_logs) by extension 'ignore_ament_install'
+[0.468s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_171519-launch_logs) by extensions ['colcon_pkg']
+[0.468s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_171519-launch_logs) by extension 'colcon_pkg'
+[0.469s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_171519-launch_logs) by extensions ['colcon_meta']
+[0.469s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_171519-launch_logs) by extension 'colcon_meta'
+[0.469s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_171519-launch_logs) by extensions ['ros']
+[0.469s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_171519-launch_logs) by extension 'ros'
+[0.469s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_171519-launch_logs) by extensions ['cmake', 'python']
+[0.469s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_171519-launch_logs) by extension 'cmake'
+[0.469s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_171519-launch_logs) by extension 'python'
+[0.469s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_171519-launch_logs) by extensions ['python_setup_py']
+[0.469s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_171519-launch_logs) by extension 'python_setup_py'
+[0.469s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_173345-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.470s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_173345-launch_logs) by extension 'ignore'
+[0.470s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_173345-launch_logs) by extension 'ignore_ament_install'
+[0.470s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_173345-launch_logs) by extensions ['colcon_pkg']
+[0.470s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_173345-launch_logs) by extension 'colcon_pkg'
+[0.470s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_173345-launch_logs) by extensions ['colcon_meta']
+[0.470s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_173345-launch_logs) by extension 'colcon_meta'
+[0.470s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_173345-launch_logs) by extensions ['ros']
+[0.470s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_173345-launch_logs) by extension 'ros'
+[0.470s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_173345-launch_logs) by extensions ['cmake', 'python']
+[0.470s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_173345-launch_logs) by extension 'cmake'
+[0.470s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_173345-launch_logs) by extension 'python'
+[0.470s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_173345-launch_logs) by extensions ['python_setup_py']
+[0.471s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_173345-launch_logs) by extension 'python_setup_py'
+[0.471s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_173926-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.471s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_173926-launch_logs) by extension 'ignore'
+[0.471s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_173926-launch_logs) by extension 'ignore_ament_install'
+[0.471s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_173926-launch_logs) by extensions ['colcon_pkg']
+[0.471s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_173926-launch_logs) by extension 'colcon_pkg'
+[0.471s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_173926-launch_logs) by extensions ['colcon_meta']
+[0.471s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_173926-launch_logs) by extension 'colcon_meta'
+[0.471s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_173926-launch_logs) by extensions ['ros']
+[0.471s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_173926-launch_logs) by extension 'ros'
+[0.472s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_173926-launch_logs) by extensions ['cmake', 'python']
+[0.472s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_173926-launch_logs) by extension 'cmake'
+[0.472s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_173926-launch_logs) by extension 'python'
+[0.472s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_173926-launch_logs) by extensions ['python_setup_py']
+[0.472s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_173926-launch_logs) by extension 'python_setup_py'
+[0.472s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_174415-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.472s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_174415-launch_logs) by extension 'ignore'
+[0.472s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_174415-launch_logs) by extension 'ignore_ament_install'
+[0.472s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_174415-launch_logs) by extensions ['colcon_pkg']
+[0.473s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_174415-launch_logs) by extension 'colcon_pkg'
+[0.473s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_174415-launch_logs) by extensions ['colcon_meta']
+[0.473s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_174415-launch_logs) by extension 'colcon_meta'
+[0.473s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_174415-launch_logs) by extensions ['ros']
+[0.473s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_174415-launch_logs) by extension 'ros'
+[0.473s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_174415-launch_logs) by extensions ['cmake', 'python']
+[0.473s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_174415-launch_logs) by extension 'cmake'
+[0.473s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_174415-launch_logs) by extension 'python'
+[0.473s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_174415-launch_logs) by extensions ['python_setup_py']
+[0.473s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_174415-launch_logs) by extension 'python_setup_py'
+[0.473s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_174751-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.474s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_174751-launch_logs) by extension 'ignore'
+[0.474s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_174751-launch_logs) by extension 'ignore_ament_install'
+[0.474s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_174751-launch_logs) by extensions ['colcon_pkg']
+[0.474s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_174751-launch_logs) by extension 'colcon_pkg'
+[0.474s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_174751-launch_logs) by extensions ['colcon_meta']
+[0.474s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_174751-launch_logs) by extension 'colcon_meta'
+[0.474s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_174751-launch_logs) by extensions ['ros']
+[0.474s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_174751-launch_logs) by extension 'ros'
+[0.474s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_174751-launch_logs) by extensions ['cmake', 'python']
+[0.474s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_174751-launch_logs) by extension 'cmake'
+[0.475s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_174751-launch_logs) by extension 'python'
+[0.475s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_174751-launch_logs) by extensions ['python_setup_py']
+[0.475s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_174751-launch_logs) by extension 'python_setup_py'
+[0.475s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_175230-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.475s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_175230-launch_logs) by extension 'ignore'
+[0.475s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_175230-launch_logs) by extension 'ignore_ament_install'
+[0.475s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_175230-launch_logs) by extensions ['colcon_pkg']
+[0.475s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_175230-launch_logs) by extension 'colcon_pkg'
+[0.475s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_175230-launch_logs) by extensions ['colcon_meta']
+[0.475s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_175230-launch_logs) by extension 'colcon_meta'
+[0.475s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_175230-launch_logs) by extensions ['ros']
+[0.476s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_175230-launch_logs) by extension 'ros'
+[0.476s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_175230-launch_logs) by extensions ['cmake', 'python']
+[0.476s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_175230-launch_logs) by extension 'cmake'
+[0.476s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_175230-launch_logs) by extension 'python'
+[0.476s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_175230-launch_logs) by extensions ['python_setup_py']
+[0.476s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_175230-launch_logs) by extension 'python_setup_py'
+[0.476s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_175843-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.476s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_175843-launch_logs) by extension 'ignore'
+[0.476s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_175843-launch_logs) by extension 'ignore_ament_install'
+[0.477s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_175843-launch_logs) by extensions ['colcon_pkg']
+[0.477s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_175843-launch_logs) by extension 'colcon_pkg'
+[0.477s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_175843-launch_logs) by extensions ['colcon_meta']
+[0.477s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_175843-launch_logs) by extension 'colcon_meta'
+[0.477s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_175843-launch_logs) by extensions ['ros']
+[0.477s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_175843-launch_logs) by extension 'ros'
+[0.477s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_175843-launch_logs) by extensions ['cmake', 'python']
+[0.477s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_175843-launch_logs) by extension 'cmake'
+[0.477s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_175843-launch_logs) by extension 'python'
+[0.477s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_175843-launch_logs) by extensions ['python_setup_py']
+[0.477s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_175843-launch_logs) by extension 'python_setup_py'
+[0.478s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_180230-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.478s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_180230-launch_logs) by extension 'ignore'
+[0.478s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_180230-launch_logs) by extension 'ignore_ament_install'
+[0.478s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_180230-launch_logs) by extensions ['colcon_pkg']
+[0.478s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_180230-launch_logs) by extension 'colcon_pkg'
+[0.478s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_180230-launch_logs) by extensions ['colcon_meta']
+[0.478s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_180230-launch_logs) by extension 'colcon_meta'
+[0.478s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_180230-launch_logs) by extensions ['ros']
+[0.478s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_180230-launch_logs) by extension 'ros'
+[0.478s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_180230-launch_logs) by extensions ['cmake', 'python']
+[0.478s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_180230-launch_logs) by extension 'cmake'
+[0.479s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_180230-launch_logs) by extension 'python'
+[0.479s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_180230-launch_logs) by extensions ['python_setup_py']
+[0.479s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_180230-launch_logs) by extension 'python_setup_py'
+[0.479s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_180434-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.479s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_180434-launch_logs) by extension 'ignore'
+[0.479s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_180434-launch_logs) by extension 'ignore_ament_install'
+[0.480s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_180434-launch_logs) by extensions ['colcon_pkg']
+[0.480s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_180434-launch_logs) by extension 'colcon_pkg'
+[0.480s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_180434-launch_logs) by extensions ['colcon_meta']
+[0.480s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_180434-launch_logs) by extension 'colcon_meta'
+[0.480s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_180434-launch_logs) by extensions ['ros']
+[0.480s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_180434-launch_logs) by extension 'ros'
+[0.480s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_180434-launch_logs) by extensions ['cmake', 'python']
+[0.480s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_180434-launch_logs) by extension 'cmake'
+[0.480s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_180434-launch_logs) by extension 'python'
+[0.480s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_180434-launch_logs) by extensions ['python_setup_py']
+[0.480s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_180434-launch_logs) by extension 'python_setup_py'
+[0.481s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_180720-launch_logs) by extensions ['ignore', 'ignore_ament_install']
+[0.481s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_180720-launch_logs) by extension 'ignore'
+[0.481s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_180720-launch_logs) by extension 'ignore_ament_install'
+[0.481s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_180720-launch_logs) by extensions ['colcon_pkg']
+[0.481s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_180720-launch_logs) by extension 'colcon_pkg'
+[0.481s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_180720-launch_logs) by extensions ['colcon_meta']
+[0.481s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_180720-launch_logs) by extension 'colcon_meta'
+[0.481s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_180720-launch_logs) by extensions ['ros']
+[0.481s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_180720-launch_logs) by extension 'ros'
+[0.481s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_180720-launch_logs) by extensions ['cmake', 'python']
+[0.482s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_180720-launch_logs) by extension 'cmake'
+[0.482s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_180720-launch_logs) by extension 'python'
+[0.482s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_180720-launch_logs) by extensions ['python_setup_py']
+[0.482s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(20250725_180720-launch_logs) by extension 'python_setup_py'
+[0.482s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(build) by extensions ['ignore', 'ignore_ament_install']
+[0.482s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(build) by extension 'ignore'
+[0.482s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(build) ignored
+[0.483s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(install) by extensions ['ignore', 'ignore_ament_install']
+[0.483s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(install) by extension 'ignore'
+[0.483s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(install) ignored
+[0.483s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(log) by extensions ['ignore', 'ignore_ament_install']
+[0.483s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(log) by extension 'ignore'
+[0.483s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(log) ignored
+[0.483s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-18_01_42) by extensions ['ignore', 'ignore_ament_install']
+[0.484s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-18_01_42) by extension 'ignore'
+[0.484s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-18_01_42) by extension 'ignore_ament_install'
+[0.484s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-18_01_42) by extensions ['colcon_pkg']
+[0.484s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-18_01_42) by extension 'colcon_pkg'
+[0.484s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-18_01_42) by extensions ['colcon_meta']
+[0.484s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-18_01_42) by extension 'colcon_meta'
+[0.484s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-18_01_42) by extensions ['ros']
+[0.484s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-18_01_42) by extension 'ros'
+[0.484s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-18_01_42) by extensions ['cmake', 'python']
+[0.484s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-18_01_42) by extension 'cmake'
+[0.484s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-18_01_42) by extension 'python'
+[0.485s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-18_01_42) by extensions ['python_setup_py']
+[0.485s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-18_01_42) by extension 'python_setup_py'
+[0.485s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-18_02_35) by extensions ['ignore', 'ignore_ament_install']
+[0.485s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-18_02_35) by extension 'ignore'
+[0.485s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-18_02_35) by extension 'ignore_ament_install'
+[0.485s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-18_02_35) by extensions ['colcon_pkg']
+[0.485s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-18_02_35) by extension 'colcon_pkg'
+[0.485s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-18_02_35) by extensions ['colcon_meta']
+[0.485s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-18_02_35) by extension 'colcon_meta'
+[0.485s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-18_02_35) by extensions ['ros']
+[0.486s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-18_02_35) by extension 'ros'
+[0.486s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-18_02_35) by extensions ['cmake', 'python']
+[0.486s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-18_02_35) by extension 'cmake'
+[0.486s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-18_02_35) by extension 'python'
+[0.486s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-18_02_35) by extensions ['python_setup_py']
+[0.486s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-18_02_35) by extension 'python_setup_py'
+[0.486s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-18_08_21) by extensions ['ignore', 'ignore_ament_install']
+[0.486s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-18_08_21) by extension 'ignore'
+[0.486s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-18_08_21) by extension 'ignore_ament_install'
+[0.486s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-18_08_21) by extensions ['colcon_pkg']
+[0.487s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-18_08_21) by extension 'colcon_pkg'
+[0.487s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-18_08_21) by extensions ['colcon_meta']
+[0.487s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-18_08_21) by extension 'colcon_meta'
+[0.487s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-18_08_21) by extensions ['ros']
+[0.487s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-18_08_21) by extension 'ros'
+[0.487s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-18_08_21) by extensions ['cmake', 'python']
+[0.487s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-18_08_21) by extension 'cmake'
+[0.487s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-18_08_21) by extension 'python'
+[0.487s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-18_08_21) by extensions ['python_setup_py']
+[0.487s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-18_08_21) by extension 'python_setup_py'
+[0.487s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-20_58_49) by extensions ['ignore', 'ignore_ament_install']
+[0.488s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-20_58_49) by extension 'ignore'
+[0.488s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-20_58_49) by extension 'ignore_ament_install'
+[0.488s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-20_58_49) by extensions ['colcon_pkg']
+[0.488s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-20_58_49) by extension 'colcon_pkg'
+[0.488s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-20_58_49) by extensions ['colcon_meta']
+[0.488s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-20_58_49) by extension 'colcon_meta'
+[0.488s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-20_58_49) by extensions ['ros']
+[0.488s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-20_58_49) by extension 'ros'
+[0.488s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-20_58_49) by extensions ['cmake', 'python']
+[0.488s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-20_58_49) by extension 'cmake'
+[0.489s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-20_58_49) by extension 'python'
+[0.489s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-20_58_49) by extensions ['python_setup_py']
+[0.489s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(rosbag2_2025_07_25-20_58_49) by extension 'python_setup_py'
+[0.489s] [34mcolcon.colcon_core.package_discovery[0m [1;30mLevel 1[0m discover_packages(recursive) using defaults
+[0.489s] [34mcolcon.colcon_core.package_discovery[0m [1;30mLevel 1[0m discover_packages(ignore) discover
+[0.489s] [34mcolcon.colcon_core.package_discovery[0m [1;30mLevel 1[0m discover_packages(ignore) using defaults
+[0.489s] [34mcolcon.colcon_core.package_discovery[0m [1;30mLevel 1[0m discover_packages(path) discover
+[0.489s] [34mcolcon.colcon_core.package_discovery[0m [1;30mLevel 1[0m discover_packages(path) using defaults
+[0.490s] [34mcolcon.colcon_core.package_selection[0m [1;30mWARNING[0m [33mignoring unknown package 'laser_solver' in --packages-select[0m
+[0.526s] [34mcolcon.colcon_core.package_discovery[0m [1;30mLevel 1[0m discover_packages(prefix_path) check parameters
+[0.526s] [34mcolcon.colcon_core.package_discovery[0m [1;30mLevel 1[0m discover_packages(prefix_path) discover
+[0.534s] [34mcolcon.colcon_installed_package_information.package_discovery[0m [1;30mDEBUG[0m [32mFound 31 installed packages in /home/orin/rc2025_ros2_ws/install[0m
+[0.537s] [34mcolcon.colcon_installed_package_information.package_discovery[0m [1;30mDEBUG[0m [32mFound 309 installed packages in /opt/ros/humble[0m
+[0.540s] [34mcolcon.colcon_core.package_discovery[0m [1;30mLevel 1[0m discover_packages(prefix_path) using defaults
+[0.630s] [34mcolcon.colcon_core.executor[0m [1;30mINFO[0m Executing jobs using 'parallel' executor
+[0.633s] [34mcolcon.colcon_parallel_executor.executor.parallel[0m [1;30mDEBUG[0m [32mrun_until_complete[0m
+[0.633s] [34mcolcon.colcon_parallel_executor.executor.parallel[0m [1;30mDEBUG[0m [32mclosing loop[0m
+[0.634s] [34mcolcon.colcon_parallel_executor.executor.parallel[0m [1;30mDEBUG[0m [32mloop closed[0m
+[0.634s] [34mcolcon.colcon_parallel_executor.executor.parallel[0m [1;30mDEBUG[0m [32mrun_until_complete finished with '0'[0m
+[0.634s] [34mcolcon.colcon_core.event_reactor[0m [1;30mDEBUG[0m [32mjoining thread[0m
+[0.645s] [34mcolcon.colcon_core.plugin_system[0m [1;30mINFO[0m Skipping extension 'colcon_notification.desktop_notification.terminal_notifier': Not used on non-Darwin systems
+[0.646s] [34mcolcon.colcon_core.plugin_system[0m [1;30mINFO[0m Skipping extension 'colcon_notification.desktop_notification.win32': Not used on non-Windows systems
+[0.646s] [34mcolcon.colcon_notification.desktop_notification[0m [1;30mINFO[0m Sending desktop notification using 'notify2'
+[0.670s] [34mcolcon.colcon_core.event_reactor[0m [1;30mDEBUG[0m [32mjoined thread[0m
+[0.676s] [34mcolcon.colcon_core.plugin_system[0m [1;30mINFO[0m Skipping extension 'colcon_core.shell.bat': Not used on non-Windows systems
+[0.677s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating prefix script '/home/orin/RC_2025_LOGS/install/local_setup.ps1'
+[0.679s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating prefix util module '/home/orin/RC_2025_LOGS/install/_local_setup_util_ps1.py'
+[0.682s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating prefix chain script '/home/orin/RC_2025_LOGS/install/setup.ps1'
+[0.686s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating prefix script '/home/orin/RC_2025_LOGS/install/local_setup.sh'
+[0.687s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating prefix util module '/home/orin/RC_2025_LOGS/install/_local_setup_util_sh.py'
+[0.688s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating prefix chain script '/home/orin/RC_2025_LOGS/install/setup.sh'
+[0.693s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating prefix script '/home/orin/RC_2025_LOGS/install/local_setup.bash'
+[0.694s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating prefix chain script '/home/orin/RC_2025_LOGS/install/setup.bash'
+[0.698s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating prefix script '/home/orin/RC_2025_LOGS/install/local_setup.zsh'
+[0.699s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating prefix chain script '/home/orin/RC_2025_LOGS/install/setup.zsh'

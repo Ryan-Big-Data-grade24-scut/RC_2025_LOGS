@@ -1,0 +1,18 @@
+[INFO] [1753436027.501366068] [visualizer_node]: Initializing VisualizerNode...
+[INFO] [1753436027.504966506] [visualizer_node]: Using fixed frame: odom
+[INFO] [1753436027.505945665] [visualizer_node]: Loading configuration...
+[INFO] [1753436027.512257272] [visualizer_node]: formatted_laser_config: [((0.37212, 1.55), 1.5708), ((0.37212, -1.55), -1.5708), ((0.37241, 0.45), 0.0), ((0.36471, 3.82), 3.1416)]
+[INFO] [1753436027.513062187] [visualizer_node]: Configuration loaded successfully.
+[INFO] [1753436027.534881267] [visualizer_node]: TF broadcaster initialized
+[INFO] [1753436027.551722468] [visualizer_node]: Publisher initialized for boundary markers
+[INFO] [1753436027.562440036] [visualizer_node]: Subscribed to /laser_solutions topic
+[INFO] [1753436027.563166901] [visualizer_node]: Marker ID and color map initialized
+[INFO] [1753436027.563967336] [visualizer_node]: Boundary publisher timer initialized
+[INFO] [1753436027.564641592] [visualizer_node]: Solution visualization timer initialized
+[INFO] [1753436027.565276327] [visualizer_node]: VisualizerNode initialized and ready to visualize.
+[INFO] [1753436027.565890902] [visualizer_node_main]: VisualizerNode is running...
+[INFO] [1753436027.571042481] [visualizer_node]: Received 12 solutions, updated cache
+[INFO] [1753436027.665362265] [visualizer_node]: Received 12 solutions, updated cache
+[INFO] [1753436027.668189148] [visualizer_node]: Visualizing 12 solutions
+[ERROR] [1753436027.673374712] [visualizer_node_main]: An error occurred: The 'id' field must be of type 'int'
+[ERROR] [1753436027.674040807] [visualizer_node]: An error occurred: The 'id' field must be of type 'int'

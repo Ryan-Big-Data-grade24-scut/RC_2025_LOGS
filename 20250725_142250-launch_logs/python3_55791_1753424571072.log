@@ -1,0 +1,15 @@
+[INFO] [1753424571.186561488] [visualizer_node]: Initializing VisualizerNode...
+[INFO] [1753424571.191501548] [visualizer_node]: Using fixed frame: odom
+[INFO] [1753424571.192489733] [visualizer_node]: Loading configuration...
+[INFO] [1753424571.198772579] [visualizer_node]: formatted_laser_config: [((0.37212, 1.55), 1.5708), ((0.37212, -1.55), -1.5708), ((0.37241, 0.45), 0.0), ((0.36471, 3.82), 3.1416)]
+[INFO] [1753424571.199564823] [visualizer_node]: Configuration loaded successfully.
+[INFO] [1753424571.209633811] [visualizer_node]: TF broadcaster initialized
+[INFO] [1753424571.218586484] [visualizer_node]: Publisher initialized for boundary markers
+[INFO] [1753424571.219427145] [visualizer_node]: Marker ID and color map initialized
+[INFO] [1753424571.220280991] [visualizer_node]: Boundary publisher timer initialized
+[INFO] [1753424571.221700259] [visualizer_node]: VisualizerNode initialized and ready to visualize.
+[INFO] [1753424571.222347379] [visualizer_node_main]: VisualizerNode is running...
+[INFO] [1753424572.223768631] [visualizer_node]: 发布静态TF: odom -> map
+[INFO] [1753424572.224649197] [visualizer_node]: Drawing field boundaries: 9.998x8.0 meters
+[ERROR] [1753424572.226049393] [visualizer_node_main]: An error occurred: The 'x' field must be of type 'float'
+[ERROR] [1753424572.226708001] [visualizer_node]: An error occurred: The 'x' field must be of type 'float'

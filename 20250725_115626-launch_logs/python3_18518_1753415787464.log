@@ -1,0 +1,1195 @@
+[INFO] [1753415787.619347612] [solver_node]: [Case1BatchSolver] Case1BatchSolver初始化完成: 场地尺寸: 9.998x8.0, 容差: 0.001
+[INFO] [1753415787.620887209] [solver_node]: [Case3BatchSolver] Case3BatchSolver初始化完成: 场地尺寸: 9.998x8.0, 容差: 0.001
+[INFO] [1753415787.622003891] [solver_node]: [PoseSolver] PoseSolver初始化完成: 场地(9.998x8.0), 4个激光
+[INFO] [1753415787.798929582] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.0, 0.0, 0.0])
+[WARN] [1753415787.800041944] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415787.869094798] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.0, 0.0, 0.0])
+[WARN] [1753415787.871043519] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415787.968933262] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.0, 0.0, 0.0])
+[WARN] [1753415787.969989783] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415788.068657634] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.0, 0.0, 0.0])
+[WARN] [1753415788.070509394] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415788.168318016] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.0, 0.0, 0.0])
+[WARN] [1753415788.169600523] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415788.268401921] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.0, 0.0, 0.0])
+[WARN] [1753415788.271097369] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415788.368369409] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.0, 0.0, 0.0])
+[WARN] [1753415788.369712270] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415788.468693701] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.0, 0.0, 0.0])
+[WARN] [1753415788.471788481] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415788.567983072] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.0, 0.0, 0.0])
+[WARN] [1753415788.569017801] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415788.668174146] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.0, 0.0, 0.0])
+[WARN] [1753415788.669335020] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415788.768057378] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.0, 0.0, 0.0])
+[WARN] [1753415788.769126315] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415788.868056322] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.0, 0.0, 0.0])
+[WARN] [1753415788.869294830] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415788.967995747] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.0, 0.0, 0.0])
+[WARN] [1753415788.969284046] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415789.068922784] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.0, 0.0, 0.0])
+[WARN] [1753415789.070064491] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415789.169677767] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.0, 0.0, 0.0])
+[WARN] [1753415789.170856818] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415789.269879880] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.0, 0.0, 0.0])
+[WARN] [1753415789.271027923] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415789.369543109] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.0, 0.0, 0.0])
+[WARN] [1753415789.370612751] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415789.469012448] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.0, 0.0, 0.0])
+[WARN] [1753415789.470086314] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415789.568046326] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.0, 0.0, 0.0])
+[WARN] [1753415789.569126784] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415789.668598203] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.0, 0.0, 0.0])
+[WARN] [1753415789.669682565] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415789.768000885] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.0, 0.0, 0.0])
+[WARN] [1753415789.769056159] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415789.868003829] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.0, 0.0, 0.0])
+[WARN] [1753415789.869066303] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415789.967972532] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.0, 0.0, 0.0])
+[WARN] [1753415789.969026046] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415790.068004680] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.0, 0.0, 0.0])
+[WARN] [1753415790.069078067] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415790.168045607] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.0, 0.0, 0.0])
+[WARN] [1753415790.169122257] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415790.267962884] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.0, 0.0, 0.0])
+[WARN] [1753415790.269130480] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415790.368106628] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.0, 0.0, 0.0])
+[WARN] [1753415790.369227983] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415790.468111299] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.0, 0.0, 0.0])
+[WARN] [1753415790.469207053] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415790.567927807] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.0, 0.0, 0.0])
+[WARN] [1753415790.569002953] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415790.667953374] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.0, 0.0, 0.0])
+[WARN] [1753415790.668997416] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415790.767900219] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.0, 0.0, 0.0])
+[WARN] [1753415790.768964998] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415790.868031995] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.0, 0.0, 0.0])
+[WARN] [1753415790.869074277] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415790.968040441] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.0, 0.0, 0.0])
+[WARN] [1753415790.969152100] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415791.068620049] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.0, 0.0, 0.0])
+[WARN] [1753415791.075398068] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415791.169169908] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.0, 0.0, 0.0])
+[WARN] [1753415791.170299967] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415791.268085894] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.0, 0.0, 0.0])
+[WARN] [1753415791.269291089] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415791.369496304] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.0, 0.0, 0.0])
+[WARN] [1753415791.370649884] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415791.468308769] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.0, 0.0, 0.0])
+[WARN] [1753415791.469393708] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415791.568079164] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.0, 0.0, 0.0])
+[WARN] [1753415791.569157030] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415791.668020408] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.0, 0.0, 0.0])
+[WARN] [1753415791.669107715] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415791.768033749] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.0, 0.0, 0.0])
+[WARN] [1753415791.769144992] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415791.867904208] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.0, 0.0, 0.0])
+[WARN] [1753415791.868952347] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415791.967964110] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.0, 0.0, 0.0])
+[WARN] [1753415791.969023544] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415792.067945790] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.0, 0.0, 0.0])
+[WARN] [1753415792.069045001] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415792.169205734] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 0.0, 0.0, 0.0])
+[WARN] [1753415792.170330481] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415792.268040245] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2430000305175781, 0.0, 0.0])
+[WARN] [1753415792.269082943] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415792.368015983] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2430000305175781, 0.0, 0.0])
+[WARN] [1753415792.369069306] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415792.468090987] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2430000305175781, 0.0, 0.0])
+[WARN] [1753415792.469182358] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415792.568140806] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2430000305175781, 0.0, 0.0])
+[WARN] [1753415792.569235058] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415792.668043744] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2430000305175781, 0.0, 0.0])
+[WARN] [1753415792.669117483] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415792.768064539] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 0.0, 0.0])
+[WARN] [1753415792.769102534] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415792.868104663] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 0.0, 0.0])
+[WARN] [1753415792.869149185] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415792.968101266] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 0.0, 0.0])
+[WARN] [1753415792.969129340] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415793.068051648] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 0.0, 0.0])
+[WARN] [1753415793.069109003] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415793.168334811] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 0.0, 0.0])
+[WARN] [1753415793.169413767] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415793.268280852] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 0.0, 0.0])
+[WARN] [1753415793.269432800] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415793.368128939] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 0.0, 0.0])
+[WARN] [1753415793.369168950] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415793.468360198] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 0.0, 0.0])
+[WARN] [1753415793.469437298] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415793.568182973] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 0.0, 0.0])
+[WARN] [1753415793.569260617] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415793.668176950] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 0.0, 0.0])
+[WARN] [1753415793.669231809] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415793.768148239] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2430000305175781, 0.0, 0.0])
+[WARN] [1753415793.769224570] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415793.868306345] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2430000305175781, 2.2990000247955322, 0.0])
+[WARN] [1753415793.869372084] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415793.969263052] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2430000305175781, 2.2990000247955322, 0.0])
+[WARN] [1753415793.970332119] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415794.068251662] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2430000305175781, 2.2990000247955322, 0.0])
+[WARN] [1753415794.069345818] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415794.168312101] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2430000305175781, 2.2990000247955322, 0.0])
+[WARN] [1753415794.169544882] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415794.268201083] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 2.2990000247955322, 0.0])
+[WARN] [1753415794.269491432] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415794.368674966] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 2.2990000247955322, 0.0])
+[WARN] [1753415794.370119590] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415794.468174471] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 2.2990000247955322, 0.0])
+[WARN] [1753415794.469305012] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415794.567957212] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 2.2990000247955322, 0.0])
+[WARN] [1753415794.568990663] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415794.668214421] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 2.2990000247955322, 0.0])
+[WARN] [1753415794.670135914] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415794.768892115] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 2.2990000247955322, 0.0])
+[WARN] [1753415794.773204033] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415794.869823412] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 2.2990000247955322, 0.0])
+[WARN] [1753415794.875814932] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415794.968661758] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 2.2990000247955322, 0.0])
+[WARN] [1753415794.969784426] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415795.068784297] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 2.2990000247955322, 0.0])
+[WARN] [1753415795.069883861] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415795.168260535] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 2.2990000247955322, 0.0])
+[WARN] [1753415795.169567430] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415795.268108618] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 2.2990000247955322, 0.0])
+[WARN] [1753415795.269143861] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415795.368199263] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 2.2990000247955322, 0.0])
+[WARN] [1753415795.369222794] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415795.468316852] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 2.2990000247955322, 0.0])
+[WARN] [1753415795.469360320] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415795.568235047] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 2.2990000247955322, 0.0])
+[WARN] [1753415795.569368180] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415795.668090682] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 2.2990000247955322, 0.0])
+[WARN] [1753415795.669117829] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415795.768080046] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 2.2990000247955322, 0.0])
+[WARN] [1753415795.769102009] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415795.868105378] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 2.2990000247955322, 0.0])
+[WARN] [1753415795.869158222] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415795.968114550] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 2.2990000247955322, 0.0])
+[WARN] [1753415795.969196994] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415796.068055965] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 2.2990000247955322, 0.0])
+[WARN] [1753415796.069088776] [solver_node]: 有效激光数据点不足3个，跳过本次解算
+[INFO] [1753415796.168016814] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 2.2990000247955322, 2.4189999103546143])
+[INFO] [1753415796.170163878] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 1.24199998 2.29900002 2.41899991]
+[ERROR] [1753415796.171043472] [solver_node]: 求解错误: 'PoseSolver' object has no attribute 'laser_params'
+[ERROR] [1753415796.171894330] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 161, in solve
+    collision_params = self._calculate_collision_vectors(distances, valid_mask)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 213, in _calculate_collision_vectors
+    x = self.laser_params[valid_indice, 0] * np.cos(self.laser_params[valid_indice, 1]) + distances[valid_indice] * np.cos(self.laser_params[valid_indice, 2])
+AttributeError: 'PoseSolver' object has no attribute 'laser_params'
+
+[INFO] [1753415796.269863060] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 2.2990000247955322, 2.4189999103546143])
+[INFO] [1753415796.271950412] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 1.24199998 2.29900002 2.41899991]
+[ERROR] [1753415796.272790677] [solver_node]: 求解错误: 'PoseSolver' object has no attribute 'laser_params'
+[ERROR] [1753415796.273623743] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 161, in solve
+    collision_params = self._calculate_collision_vectors(distances, valid_mask)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 213, in _calculate_collision_vectors
+    x = self.laser_params[valid_indice, 0] * np.cos(self.laser_params[valid_indice, 1]) + distances[valid_indice] * np.cos(self.laser_params[valid_indice, 2])
+AttributeError: 'PoseSolver' object has no attribute 'laser_params'
+
+[INFO] [1753415796.368083153] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.24399995803833, 2.2990000247955322, 2.4189999103546143])
+[INFO] [1753415796.369509537] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 1.24399996 2.29900002 2.41899991]
+[ERROR] [1753415796.370298282] [solver_node]: 求解错误: 'PoseSolver' object has no attribute 'laser_params'
+[ERROR] [1753415796.371139540] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 161, in solve
+    collision_params = self._calculate_collision_vectors(distances, valid_mask)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 213, in _calculate_collision_vectors
+    x = self.laser_params[valid_indice, 0] * np.cos(self.laser_params[valid_indice, 1]) + distances[valid_indice] * np.cos(self.laser_params[valid_indice, 2])
+AttributeError: 'PoseSolver' object has no attribute 'laser_params'
+
+[INFO] [1753415796.468087426] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.24399995803833, 2.2990000247955322, 2.4189999103546143])
+[INFO] [1753415796.469516659] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 1.24399996 2.29900002 2.41899991]
+[ERROR] [1753415796.470308796] [solver_node]: 求解错误: 'PoseSolver' object has no attribute 'laser_params'
+[ERROR] [1753415796.471179141] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 161, in solve
+    collision_params = self._calculate_collision_vectors(distances, valid_mask)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 213, in _calculate_collision_vectors
+    x = self.laser_params[valid_indice, 0] * np.cos(self.laser_params[valid_indice, 1]) + distances[valid_indice] * np.cos(self.laser_params[valid_indice, 2])
+AttributeError: 'PoseSolver' object has no attribute 'laser_params'
+
+[INFO] [1753415796.568329110] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.24399995803833, 2.2990000247955322, 2.4189999103546143])
+[INFO] [1753415796.569834311] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 1.24399996 2.29900002 2.41899991]
+[ERROR] [1753415796.570726674] [solver_node]: 求解错误: 'PoseSolver' object has no attribute 'laser_params'
+[ERROR] [1753415796.571577467] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 161, in solve
+    collision_params = self._calculate_collision_vectors(distances, valid_mask)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 213, in _calculate_collision_vectors
+    x = self.laser_params[valid_indice, 0] * np.cos(self.laser_params[valid_indice, 1]) + distances[valid_indice] * np.cos(self.laser_params[valid_indice, 2])
+AttributeError: 'PoseSolver' object has no attribute 'laser_params'
+
+[INFO] [1753415796.668050916] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.24399995803833, 2.2990000247955322, 2.4210000038146973])
+[INFO] [1753415796.669583606] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 1.24399996 2.29900002 2.421     ]
+[ERROR] [1753415796.670386623] [solver_node]: 求解错误: 'PoseSolver' object has no attribute 'laser_params'
+[ERROR] [1753415796.671241097] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 161, in solve
+    collision_params = self._calculate_collision_vectors(distances, valid_mask)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 213, in _calculate_collision_vectors
+    x = self.laser_params[valid_indice, 0] * np.cos(self.laser_params[valid_indice, 1]) + distances[valid_indice] * np.cos(self.laser_params[valid_indice, 2])
+AttributeError: 'PoseSolver' object has no attribute 'laser_params'
+
+[INFO] [1753415796.768510075] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.24399995803833, 2.2990000247955322, 2.4210000038146973])
+[INFO] [1753415796.770063053] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 1.24399996 2.29900002 2.421     ]
+[ERROR] [1753415796.770926262] [solver_node]: 求解错误: 'PoseSolver' object has no attribute 'laser_params'
+[ERROR] [1753415796.771787392] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 161, in solve
+    collision_params = self._calculate_collision_vectors(distances, valid_mask)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 213, in _calculate_collision_vectors
+    x = self.laser_params[valid_indice, 0] * np.cos(self.laser_params[valid_indice, 1]) + distances[valid_indice] * np.cos(self.laser_params[valid_indice, 2])
+AttributeError: 'PoseSolver' object has no attribute 'laser_params'
+
+[INFO] [1753415796.868095560] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.24399995803833, 2.2990000247955322, 2.4210000038146973])
+[INFO] [1753415796.869609273] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 1.24399996 2.29900002 2.421     ]
+[ERROR] [1753415796.870527523] [solver_node]: 求解错误: 'PoseSolver' object has no attribute 'laser_params'
+[ERROR] [1753415796.871455182] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 161, in solve
+    collision_params = self._calculate_collision_vectors(distances, valid_mask)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 213, in _calculate_collision_vectors
+    x = self.laser_params[valid_indice, 0] * np.cos(self.laser_params[valid_indice, 1]) + distances[valid_indice] * np.cos(self.laser_params[valid_indice, 2])
+AttributeError: 'PoseSolver' object has no attribute 'laser_params'
+
+[INFO] [1753415796.968279195] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.24399995803833, 2.2990000247955322, 2.4210000038146973])
+[INFO] [1753415796.969717419] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 1.24399996 2.29900002 2.421     ]
+[ERROR] [1753415796.970492692] [solver_node]: 求解错误: 'PoseSolver' object has no attribute 'laser_params'
+[ERROR] [1753415796.971356030] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 161, in solve
+    collision_params = self._calculate_collision_vectors(distances, valid_mask)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 213, in _calculate_collision_vectors
+    x = self.laser_params[valid_indice, 0] * np.cos(self.laser_params[valid_indice, 1]) + distances[valid_indice] * np.cos(self.laser_params[valid_indice, 2])
+AttributeError: 'PoseSolver' object has no attribute 'laser_params'
+
+[INFO] [1753415797.068155870] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.24399995803833, 2.2990000247955322, 2.4210000038146973])
+[INFO] [1753415797.069779153] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 1.24399996 2.29900002 2.421     ]
+[ERROR] [1753415797.070727196] [solver_node]: 求解错误: 'PoseSolver' object has no attribute 'laser_params'
+[ERROR] [1753415797.071641479] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 161, in solve
+    collision_params = self._calculate_collision_vectors(distances, valid_mask)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 213, in _calculate_collision_vectors
+    x = self.laser_params[valid_indice, 0] * np.cos(self.laser_params[valid_indice, 1]) + distances[valid_indice] * np.cos(self.laser_params[valid_indice, 2])
+AttributeError: 'PoseSolver' object has no attribute 'laser_params'
+
+[INFO] [1753415797.168000010] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.24399995803833, 2.2990000247955322, 2.4260001182556152])
+[INFO] [1753415797.169461691] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 1.24399996 2.29900002 2.42600012]
+[ERROR] [1753415797.170255685] [solver_node]: 求解错误: 'PoseSolver' object has no attribute 'laser_params'
+[ERROR] [1753415797.171214736] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 161, in solve
+    collision_params = self._calculate_collision_vectors(distances, valid_mask)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 213, in _calculate_collision_vectors
+    x = self.laser_params[valid_indice, 0] * np.cos(self.laser_params[valid_indice, 1]) + distances[valid_indice] * np.cos(self.laser_params[valid_indice, 2])
+AttributeError: 'PoseSolver' object has no attribute 'laser_params'
+
+[INFO] [1753415797.268032601] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.24399995803833, 2.2990000247955322, 2.4260001182556152])
+[INFO] [1753415797.269504906] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 1.24399996 2.29900002 2.42600012]
+[ERROR] [1753415797.270302932] [solver_node]: 求解错误: 'PoseSolver' object has no attribute 'laser_params'
+[ERROR] [1753415797.271198558] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 161, in solve
+    collision_params = self._calculate_collision_vectors(distances, valid_mask)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 213, in _calculate_collision_vectors
+    x = self.laser_params[valid_indice, 0] * np.cos(self.laser_params[valid_indice, 1]) + distances[valid_indice] * np.cos(self.laser_params[valid_indice, 2])
+AttributeError: 'PoseSolver' object has no attribute 'laser_params'
+
+[INFO] [1753415797.368032455] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 2.2990000247955322, 2.4260001182556152])
+[INFO] [1753415797.369579226] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 1.24199998 2.29900002 2.42600012]
+[ERROR] [1753415797.370408291] [solver_node]: 求解错误: 'PoseSolver' object has no attribute 'laser_params'
+[ERROR] [1753415797.371301518] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 161, in solve
+    collision_params = self._calculate_collision_vectors(distances, valid_mask)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 213, in _calculate_collision_vectors
+    x = self.laser_params[valid_indice, 0] * np.cos(self.laser_params[valid_indice, 1]) + distances[valid_indice] * np.cos(self.laser_params[valid_indice, 2])
+AttributeError: 'PoseSolver' object has no attribute 'laser_params'
+
+[INFO] [1753415797.468020982] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 2.2990000247955322, 2.4260001182556152])
+[INFO] [1753415797.469491687] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 1.24199998 2.29900002 2.42600012]
+[ERROR] [1753415797.470297520] [solver_node]: 求解错误: 'PoseSolver' object has no attribute 'laser_params'
+[ERROR] [1753415797.471173178] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 161, in solve
+    collision_params = self._calculate_collision_vectors(distances, valid_mask)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 213, in _calculate_collision_vectors
+    x = self.laser_params[valid_indice, 0] * np.cos(self.laser_params[valid_indice, 1]) + distances[valid_indice] * np.cos(self.laser_params[valid_indice, 2])
+AttributeError: 'PoseSolver' object has no attribute 'laser_params'
+
+[INFO] [1753415797.568030276] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 2.2990000247955322, 2.4260001182556152])
+[INFO] [1753415797.569532534] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 1.24199998 2.29900002 2.42600012]
+[ERROR] [1753415797.570316511] [solver_node]: 求解错误: 'PoseSolver' object has no attribute 'laser_params'
+[ERROR] [1753415797.571284266] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 161, in solve
+    collision_params = self._calculate_collision_vectors(distances, valid_mask)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 213, in _calculate_collision_vectors
+    x = self.laser_params[valid_indice, 0] * np.cos(self.laser_params[valid_indice, 1]) + distances[valid_indice] * np.cos(self.laser_params[valid_indice, 2])
+AttributeError: 'PoseSolver' object has no attribute 'laser_params'
+
+[INFO] [1753415797.668190004] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 2.2990000247955322, 2.4260001182556152])
+[INFO] [1753415797.669641125] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 1.24199998 2.29900002 2.42600012]
+[ERROR] [1753415797.670569232] [solver_node]: 求解错误: 'PoseSolver' object has no attribute 'laser_params'
+[ERROR] [1753415797.671495739] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 161, in solve
+    collision_params = self._calculate_collision_vectors(distances, valid_mask)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 213, in _calculate_collision_vectors
+    x = self.laser_params[valid_indice, 0] * np.cos(self.laser_params[valid_indice, 1]) + distances[valid_indice] * np.cos(self.laser_params[valid_indice, 2])
+AttributeError: 'PoseSolver' object has no attribute 'laser_params'
+
+[INFO] [1753415797.769665780] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 2.2990000247955322, 2.4260001182556152])
+[INFO] [1753415797.772058960] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 1.24199998 2.29900002 2.42600012]
+[ERROR] [1753415797.772942650] [solver_node]: 求解错误: 'PoseSolver' object has no attribute 'laser_params'
+[ERROR] [1753415797.773842405] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 161, in solve
+    collision_params = self._calculate_collision_vectors(distances, valid_mask)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 213, in _calculate_collision_vectors
+    x = self.laser_params[valid_indice, 0] * np.cos(self.laser_params[valid_indice, 1]) + distances[valid_indice] * np.cos(self.laser_params[valid_indice, 2])
+AttributeError: 'PoseSolver' object has no attribute 'laser_params'
+
+[INFO] [1753415797.868570677] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 2.2990000247955322, 2.4260001182556152])
+[INFO] [1753415797.870081319] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 1.24199998 2.29900002 2.42600012]
+[ERROR] [1753415797.870929329] [solver_node]: 求解错误: 'PoseSolver' object has no attribute 'laser_params'
+[ERROR] [1753415797.871774203] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 161, in solve
+    collision_params = self._calculate_collision_vectors(distances, valid_mask)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 213, in _calculate_collision_vectors
+    x = self.laser_params[valid_indice, 0] * np.cos(self.laser_params[valid_indice, 1]) + distances[valid_indice] * np.cos(self.laser_params[valid_indice, 2])
+AttributeError: 'PoseSolver' object has no attribute 'laser_params'
+
+[INFO] [1753415797.968195647] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 2.2990000247955322, 2.4260001182556152])
+[INFO] [1753415797.969793330] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 1.24199998 2.29900002 2.42600012]
+[ERROR] [1753415797.970557723] [solver_node]: 求解错误: 'PoseSolver' object has no attribute 'laser_params'
+[ERROR] [1753415797.971409701] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 161, in solve
+    collision_params = self._calculate_collision_vectors(distances, valid_mask)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 213, in _calculate_collision_vectors
+    x = self.laser_params[valid_indice, 0] * np.cos(self.laser_params[valid_indice, 1]) + distances[valid_indice] * np.cos(self.laser_params[valid_indice, 2])
+AttributeError: 'PoseSolver' object has no attribute 'laser_params'
+
+[INFO] [1753415798.068079519] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 2.2990000247955322, 2.4260001182556152])
+[INFO] [1753415798.069528849] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 1.24199998 2.29900002 2.42600012]
+[ERROR] [1753415798.070314586] [solver_node]: 求解错误: 'PoseSolver' object has no attribute 'laser_params'
+[ERROR] [1753415798.071217093] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 161, in solve
+    collision_params = self._calculate_collision_vectors(distances, valid_mask)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 213, in _calculate_collision_vectors
+    x = self.laser_params[valid_indice, 0] * np.cos(self.laser_params[valid_indice, 1]) + distances[valid_indice] * np.cos(self.laser_params[valid_indice, 2])
+AttributeError: 'PoseSolver' object has no attribute 'laser_params'
+
+[INFO] [1753415798.168097995] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 2.2990000247955322, 2.4260001182556152])
+[INFO] [1753415798.169632701] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 1.24199998 2.29900002 2.42600012]
+[ERROR] [1753415798.170429606] [solver_node]: 求解错误: 'PoseSolver' object has no attribute 'laser_params'
+[ERROR] [1753415798.171266480] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 161, in solve
+    collision_params = self._calculate_collision_vectors(distances, valid_mask)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 213, in _calculate_collision_vectors
+    x = self.laser_params[valid_indice, 0] * np.cos(self.laser_params[valid_indice, 1]) + distances[valid_indice] * np.cos(self.laser_params[valid_indice, 2])
+AttributeError: 'PoseSolver' object has no attribute 'laser_params'
+
+[INFO] [1753415798.268119606] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 2.2990000247955322, 2.4189999103546143])
+[INFO] [1753415798.269577767] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 1.24199998 2.29900002 2.41899991]
+[ERROR] [1753415798.270356849] [solver_node]: 求解错误: 'PoseSolver' object has no attribute 'laser_params'
+[ERROR] [1753415798.271239355] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 161, in solve
+    collision_params = self._calculate_collision_vectors(distances, valid_mask)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 213, in _calculate_collision_vectors
+    x = self.laser_params[valid_indice, 0] * np.cos(self.laser_params[valid_indice, 1]) + distances[valid_indice] * np.cos(self.laser_params[valid_indice, 2])
+AttributeError: 'PoseSolver' object has no attribute 'laser_params'
+
+[INFO] [1753415798.368044576] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 2.2990000247955322, 2.4189999103546143])
+[INFO] [1753415798.369527442] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 1.24199998 2.29900002 2.41899991]
+[ERROR] [1753415798.370312091] [solver_node]: 求解错误: 'PoseSolver' object has no attribute 'laser_params'
+[ERROR] [1753415798.371181542] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 161, in solve
+    collision_params = self._calculate_collision_vectors(distances, valid_mask)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 213, in _calculate_collision_vectors
+    x = self.laser_params[valid_indice, 0] * np.cos(self.laser_params[valid_indice, 1]) + distances[valid_indice] * np.cos(self.laser_params[valid_indice, 2])
+AttributeError: 'PoseSolver' object has no attribute 'laser_params'
+
+[INFO] [1753415798.468083692] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 2.2990000247955322, 2.4189999103546143])
+[INFO] [1753415798.469578878] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 1.24199998 2.29900002 2.41899991]
+[ERROR] [1753415798.470380455] [solver_node]: 求解错误: 'PoseSolver' object has no attribute 'laser_params'
+[ERROR] [1753415798.471227921] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 161, in solve
+    collision_params = self._calculate_collision_vectors(distances, valid_mask)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 213, in _calculate_collision_vectors
+    x = self.laser_params[valid_indice, 0] * np.cos(self.laser_params[valid_indice, 1]) + distances[valid_indice] * np.cos(self.laser_params[valid_indice, 2])
+AttributeError: 'PoseSolver' object has no attribute 'laser_params'
+
+[INFO] [1753415798.568150584] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 2.2990000247955322, 2.4189999103546143])
+[INFO] [1753415798.569688682] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 1.24199998 2.29900002 2.41899991]
+[ERROR] [1753415798.570498900] [solver_node]: 求解错误: 'PoseSolver' object has no attribute 'laser_params'
+[ERROR] [1753415798.571375806] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 161, in solve
+    collision_params = self._calculate_collision_vectors(distances, valid_mask)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 213, in _calculate_collision_vectors
+    x = self.laser_params[valid_indice, 0] * np.cos(self.laser_params[valid_indice, 1]) + distances[valid_indice] * np.cos(self.laser_params[valid_indice, 2])
+AttributeError: 'PoseSolver' object has no attribute 'laser_params'
+
+[INFO] [1753415798.668147523] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 2.2990000247955322, 2.4189999103546143])
+[INFO] [1753415798.669687413] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 1.24199998 2.29900002 2.41899991]
+[ERROR] [1753415798.670578304] [solver_node]: 求解错误: 'PoseSolver' object has no attribute 'laser_params'
+[ERROR] [1753415798.671437578] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 161, in solve
+    collision_params = self._calculate_collision_vectors(distances, valid_mask)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 213, in _calculate_collision_vectors
+    x = self.laser_params[valid_indice, 0] * np.cos(self.laser_params[valid_indice, 1]) + distances[valid_indice] * np.cos(self.laser_params[valid_indice, 2])
+AttributeError: 'PoseSolver' object has no attribute 'laser_params'
+
+[INFO] [1753415798.768185294] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 2.2990000247955322, 2.4189999103546143])
+[INFO] [1753415798.769622112] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 1.24199998 2.29900002 2.41899991]
+[ERROR] [1753415798.770384841] [solver_node]: 求解错误: 'PoseSolver' object has no attribute 'laser_params'
+[ERROR] [1753415798.771241427] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 161, in solve
+    collision_params = self._calculate_collision_vectors(distances, valid_mask)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 213, in _calculate_collision_vectors
+    x = self.laser_params[valid_indice, 0] * np.cos(self.laser_params[valid_indice, 1]) + distances[valid_indice] * np.cos(self.laser_params[valid_indice, 2])
+AttributeError: 'PoseSolver' object has no attribute 'laser_params'
+
+[INFO] [1753415798.868101977] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 2.2990000247955322, 2.4189999103546143])
+[INFO] [1753415798.869589866] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 1.24199998 2.29900002 2.41899991]
+[ERROR] [1753415798.870370292] [solver_node]: 求解错误: 'PoseSolver' object has no attribute 'laser_params'
+[ERROR] [1753415798.871249886] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 161, in solve
+    collision_params = self._calculate_collision_vectors(distances, valid_mask)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 213, in _calculate_collision_vectors
+    x = self.laser_params[valid_indice, 0] * np.cos(self.laser_params[valid_indice, 1]) + distances[valid_indice] * np.cos(self.laser_params[valid_indice, 2])
+AttributeError: 'PoseSolver' object has no attribute 'laser_params'
+
+[INFO] [1753415798.968070563] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 2.2990000247955322, 2.4189999103546143])
+[INFO] [1753415798.969506324] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 1.24199998 2.29900002 2.41899991]
+[ERROR] [1753415798.970270110] [solver_node]: 求解错误: 'PoseSolver' object has no attribute 'laser_params'
+[ERROR] [1753415798.971148008] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 161, in solve
+    collision_params = self._calculate_collision_vectors(distances, valid_mask)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 213, in _calculate_collision_vectors
+    x = self.laser_params[valid_indice, 0] * np.cos(self.laser_params[valid_indice, 1]) + distances[valid_indice] * np.cos(self.laser_params[valid_indice, 2])
+AttributeError: 'PoseSolver' object has no attribute 'laser_params'
+
+[INFO] [1753415799.068144866] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 2.2990000247955322, 2.4189999103546143])
+[INFO] [1753415799.070036697] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 1.24199998 2.29900002 2.41899991]
+[ERROR] [1753415799.071163783] [solver_node]: 求解错误: 'PoseSolver' object has no attribute 'laser_params'
+[ERROR] [1753415799.072175379] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 161, in solve
+    collision_params = self._calculate_collision_vectors(distances, valid_mask)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 213, in _calculate_collision_vectors
+    x = self.laser_params[valid_indice, 0] * np.cos(self.laser_params[valid_indice, 1]) + distances[valid_indice] * np.cos(self.laser_params[valid_indice, 2])
+AttributeError: 'PoseSolver' object has no attribute 'laser_params'
+
+[INFO] [1753415799.168041032] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 2.2990000247955322, 2.4189999103546143])
+[INFO] [1753415799.169536219] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 1.24199998 2.29900002 2.41899991]
+[ERROR] [1753415799.170315844] [solver_node]: 求解错误: 'PoseSolver' object has no attribute 'laser_params'
+[ERROR] [1753415799.171188815] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 161, in solve
+    collision_params = self._calculate_collision_vectors(distances, valid_mask)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 213, in _calculate_collision_vectors
+    x = self.laser_params[valid_indice, 0] * np.cos(self.laser_params[valid_indice, 1]) + distances[valid_indice] * np.cos(self.laser_params[valid_indice, 2])
+AttributeError: 'PoseSolver' object has no attribute 'laser_params'
+
+[INFO] [1753415799.269212639] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 2.2990000247955322, 2.4189999103546143])
+[INFO] [1753415799.271698717] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 1.24199998 2.29900002 2.41899991]
+[ERROR] [1753415799.273135791] [solver_node]: 求解错误: 'PoseSolver' object has no attribute 'laser_params'
+[ERROR] [1753415799.274503455] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 161, in solve
+    collision_params = self._calculate_collision_vectors(distances, valid_mask)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 213, in _calculate_collision_vectors
+    x = self.laser_params[valid_indice, 0] * np.cos(self.laser_params[valid_indice, 1]) + distances[valid_indice] * np.cos(self.laser_params[valid_indice, 2])
+AttributeError: 'PoseSolver' object has no attribute 'laser_params'
+
+[INFO] [1753415799.368628223] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.2419999837875366, 2.2990000247955322, 2.4189999103546143])
+[INFO] [1753415799.370616727] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 1.24199998 2.29900002 2.41899991]
+[ERROR] [1753415799.371631556] [solver_node]: 求解错误: 'PoseSolver' object has no attribute 'laser_params'
+[ERROR] [1753415799.372468782] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 161, in solve
+    collision_params = self._calculate_collision_vectors(distances, valid_mask)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 213, in _calculate_collision_vectors
+    x = self.laser_params[valid_indice, 0] * np.cos(self.laser_params[valid_indice, 1]) + distances[valid_indice] * np.cos(self.laser_params[valid_indice, 2])
+AttributeError: 'PoseSolver' object has no attribute 'laser_params'
+
+[INFO] [1753415799.468178625] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.24399995803833, 2.2990000247955322, 2.4189999103546143])
+[INFO] [1753415799.469625299] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 1.24399996 2.29900002 2.41899991]
+[ERROR] [1753415799.470414685] [solver_node]: 求解错误: 'PoseSolver' object has no attribute 'laser_params'
+[ERROR] [1753415799.471312488] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 161, in solve
+    collision_params = self._calculate_collision_vectors(distances, valid_mask)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 213, in _calculate_collision_vectors
+    x = self.laser_params[valid_indice, 0] * np.cos(self.laser_params[valid_indice, 1]) + distances[valid_indice] * np.cos(self.laser_params[valid_indice, 2])
+AttributeError: 'PoseSolver' object has no attribute 'laser_params'
+
+[INFO] [1753415799.570636391] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.24399995803833, 2.2990000247955322, 2.4189999103546143])
+[INFO] [1753415799.574539991] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 1.24399996 2.29900002 2.41899991]
+[ERROR] [1753415799.575425602] [solver_node]: 求解错误: 'PoseSolver' object has no attribute 'laser_params'
+[ERROR] [1753415799.576254572] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 161, in solve
+    collision_params = self._calculate_collision_vectors(distances, valid_mask)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 213, in _calculate_collision_vectors
+    x = self.laser_params[valid_indice, 0] * np.cos(self.laser_params[valid_indice, 1]) + distances[valid_indice] * np.cos(self.laser_params[valid_indice, 2])
+AttributeError: 'PoseSolver' object has no attribute 'laser_params'
+
+[INFO] [1753415799.670583598] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.24399995803833, 2.2990000247955322, 2.4189999103546143])
+[INFO] [1753415799.672147649] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 1.24399996 2.29900002 2.41899991]
+[ERROR] [1753415799.672994348] [solver_node]: 求解错误: 'PoseSolver' object has no attribute 'laser_params'
+[ERROR] [1753415799.673867734] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 161, in solve
+    collision_params = self._calculate_collision_vectors(distances, valid_mask)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 213, in _calculate_collision_vectors
+    x = self.laser_params[valid_indice, 0] * np.cos(self.laser_params[valid_indice, 1]) + distances[valid_indice] * np.cos(self.laser_params[valid_indice, 2])
+AttributeError: 'PoseSolver' object has no attribute 'laser_params'
+
+[INFO] [1753415799.768806784] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.24399995803833, 2.2990000247955322, 2.4210000038146973])
+[INFO] [1753415799.770739320] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 1.24399996 2.29900002 2.421     ]
+[ERROR] [1753415799.771629443] [solver_node]: 求解错误: 'PoseSolver' object has no attribute 'laser_params'
+[ERROR] [1753415799.772557518] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 161, in solve
+    collision_params = self._calculate_collision_vectors(distances, valid_mask)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 213, in _calculate_collision_vectors
+    x = self.laser_params[valid_indice, 0] * np.cos(self.laser_params[valid_indice, 1]) + distances[valid_indice] * np.cos(self.laser_params[valid_indice, 2])
+AttributeError: 'PoseSolver' object has no attribute 'laser_params'
+
+[INFO] [1753415799.870072183] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.24399995803833, 2.2990000247955322, 2.4210000038146973])
+[INFO] [1753415799.871662635] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 1.24399996 2.29900002 2.421     ]
+[ERROR] [1753415799.872502965] [solver_node]: 求解错误: 'PoseSolver' object has no attribute 'laser_params'
+[ERROR] [1753415799.873352735] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 161, in solve
+    collision_params = self._calculate_collision_vectors(distances, valid_mask)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 213, in _calculate_collision_vectors
+    x = self.laser_params[valid_indice, 0] * np.cos(self.laser_params[valid_indice, 1]) + distances[valid_indice] * np.cos(self.laser_params[valid_indice, 2])
+AttributeError: 'PoseSolver' object has no attribute 'laser_params'
+
+[INFO] [1753415799.969549593] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.24399995803833, 2.2990000247955322, 2.4210000038146973])
+[INFO] [1753415799.971846389] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 1.24399996 2.29900002 2.421     ]
+[ERROR] [1753415799.972714175] [solver_node]: 求解错误: 'PoseSolver' object has no attribute 'laser_params'
+[ERROR] [1753415799.973575530] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 161, in solve
+    collision_params = self._calculate_collision_vectors(distances, valid_mask)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 213, in _calculate_collision_vectors
+    x = self.laser_params[valid_indice, 0] * np.cos(self.laser_params[valid_indice, 1]) + distances[valid_indice] * np.cos(self.laser_params[valid_indice, 2])
+AttributeError: 'PoseSolver' object has no attribute 'laser_params'
+
+[INFO] [1753415800.069486610] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.24399995803833, 2.2990000247955322, 2.4210000038146973])
+[INFO] [1753415800.071111207] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 1.24399996 2.29900002 2.421     ]
+[ERROR] [1753415800.071945585] [solver_node]: 求解错误: 'PoseSolver' object has no attribute 'laser_params'
+[ERROR] [1753415800.072769212] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 161, in solve
+    collision_params = self._calculate_collision_vectors(distances, valid_mask)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 213, in _calculate_collision_vectors
+    x = self.laser_params[valid_indice, 0] * np.cos(self.laser_params[valid_indice, 1]) + distances[valid_indice] * np.cos(self.laser_params[valid_indice, 2])
+AttributeError: 'PoseSolver' object has no attribute 'laser_params'
+
+[INFO] [1753415800.169756250] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.24399995803833, 2.2990000247955322, 2.4210000038146973])
+[INFO] [1753415800.171367630] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 1.24399996 2.29900002 2.421     ]
+[ERROR] [1753415800.172189112] [solver_node]: 求解错误: 'PoseSolver' object has no attribute 'laser_params'
+[ERROR] [1753415800.173045731] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 161, in solve
+    collision_params = self._calculate_collision_vectors(distances, valid_mask)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 213, in _calculate_collision_vectors
+    x = self.laser_params[valid_indice, 0] * np.cos(self.laser_params[valid_indice, 1]) + distances[valid_indice] * np.cos(self.laser_params[valid_indice, 2])
+AttributeError: 'PoseSolver' object has no attribute 'laser_params'
+
+[INFO] [1753415800.269902112] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.24399995803833, 2.2990000247955322, 2.421999931335449])
+[INFO] [1753415800.271481460] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 1.24399996 2.29900002 2.42199993]
+[ERROR] [1753415800.272309630] [solver_node]: 求解错误: 'PoseSolver' object has no attribute 'laser_params'
+[ERROR] [1753415800.273190729] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 161, in solve
+    collision_params = self._calculate_collision_vectors(distances, valid_mask)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 213, in _calculate_collision_vectors
+    x = self.laser_params[valid_indice, 0] * np.cos(self.laser_params[valid_indice, 1]) + distances[valid_indice] * np.cos(self.laser_params[valid_indice, 2])
+AttributeError: 'PoseSolver' object has no attribute 'laser_params'
+
+[INFO] [1753415800.371110899] [solver_node]: 数据详情:
+- 第一个元素类型: <class 'float'>
+- 整个数组类型: <class 'array.array'>
+- 数组长度: 4
+- 示例值: array('f', [0.0, 1.24399995803833, 2.2990000247955322, 2.421999931335449])
+[INFO] [1753415800.372563045] [solver_node]: 调用求解器前，distances shape: (4,), values: [       nan 1.24399996 2.29900002 2.42199993]
+[ERROR] [1753415800.373345839] [solver_node]: 求解错误: 'PoseSolver' object has no attribute 'laser_params'
+[ERROR] [1753415800.374170585] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 111, in scan_callback
+    solutions = self.solver.solve(distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 161, in solve
+    collision_params = self._calculate_collision_vectors(distances, valid_mask)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 213, in _calculate_collision_vectors
+    x = self.laser_params[valid_indice, 0] * np.cos(self.laser_params[valid_indice, 1]) + distances[valid_indice] * np.cos(self.laser_params[valid_indice, 2])
+AttributeError: 'PoseSolver' object has no attribute 'laser_params'
+

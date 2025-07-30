@@ -1,0 +1,14 @@
+[INFO] [1753423144.763720400] [visualizer_node]: Using fixed frame: odom
+[INFO] [1753423144.769575778] [visualizer_node]: formatted_laser_config: [((0.37212, 1.55), 1.5708), ((0.37212, -1.55), -1.5708), ((0.37241, 0.45), 0.0), ((0.36471, 3.82), 3.1416)]
+[INFO] [1753423144.791971858] [visualizer_node]: Boundary publisher timer initialized
+[INFO] [1753423144.792710052] [visualizer_node]: VisualizerNode initialized and ready to visualize.
+[INFO] [1753423144.879101043] [visualizer_node]: Received 4 solutions
+[INFO] [1753423144.979672740] [visualizer_node]: Received 4 solutions
+[INFO] [1753423145.074946161] [visualizer_node]: Received 4 solutions
+[INFO] [1753423145.182298507] [visualizer_node]: Received 4 solutions
+[INFO] [1753423145.277260336] [visualizer_node]: Received 4 solutions
+[INFO] [1753423145.375639243] [visualizer_node]: Received 4 solutions
+[INFO] [1753423145.477743650] [visualizer_node]: Received 4 solutions
+[INFO] [1753423145.574191405] [visualizer_node]: Received 4 solutions
+[INFO] [1753423145.674877601] [visualizer_node]: Received 4 solutions
+[INFO] [1753423145.776129667] [visualizer_node]: Received 4 solutions
