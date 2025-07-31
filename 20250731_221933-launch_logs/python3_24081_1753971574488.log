@@ -1,0 +1,16 @@
+[INFO] [1753971574.608093338] [visualizer_node]: Initializing VisualizerNode...
+[INFO] [1753971574.609762257] [visualizer_node]: Using fixed frame: laser_dist_map
+[INFO] [1753971574.610408538] [visualizer_node]: Loading configuration...
+[INFO] [1753971574.617831812] [visualizer_node]: formatted_laser_config: [((1.55456, 0.36453), 1.25663), ((-1.55456, 0.36453), -1.25663), ((0.47385, 0.37645), 0.0), ((2.40907, 0.37537), 2.51327), ((-2.4253, 0.37537), -2.51327)]
+[INFO] [1753971574.619444443] [visualizer_node]: Configuration loaded successfully.
+[INFO] [1753971574.629513322] [visualizer_node]: TF broadcaster initialized
+[INFO] [1753971574.642543908] [visualizer_node]: Publisher initialized for boundary markers
+[INFO] [1753971574.648742172] [visualizer_node]: Subscribed to /laser_solutions topic
+[INFO] [1753971574.650380531] [visualizer_node]: Marker ID and color map initialized
+[INFO] [1753971574.651984682] [visualizer_node]: Boundary publisher timer initialized
+[INFO] [1753971574.652663796] [visualizer_node]: VisualizerNode initialized and ready to visualize.
+[INFO] [1753971574.653291325] [visualizer_node_main]: VisualizerNode is running...
+[INFO] [1753971574.696328705] [visualizer_node]: Received 46 solutions, visualizing...
+[INFO] [1753971574.697141613] [visualizer_node]: Visualizing 46 solutions
+[ERROR] [1753971574.698060890] [visualizer_node_main]: An error occurred: math domain error
+[ERROR] [1753971574.698734915] [visualizer_play]: An error occurred: math domain error

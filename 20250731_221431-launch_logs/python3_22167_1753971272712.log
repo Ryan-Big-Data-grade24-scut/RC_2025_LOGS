@@ -1,0 +1,101 @@
+[INFO] [1753971272.791668517] [visualizer_node]: Initializing VisualizerNode...
+[INFO] [1753971272.792996549] [visualizer_node]: Using fixed frame: laser_dist_map
+[INFO] [1753971272.793640070] [visualizer_node]: Loading configuration...
+[INFO] [1753971272.800231432] [visualizer_node]: formatted_laser_config: [((0.37212, 1.55), 1.5708), ((0.37212, -1.55), -1.5708), ((0.37241, 0.45), 0.0), ((0.36471, 3.82), 3.1416)]
+[INFO] [1753971272.800950344] [visualizer_node]: Configuration loaded successfully.
+[INFO] [1753971272.812992780] [visualizer_node]: TF broadcaster initialized
+[INFO] [1753971272.821527247] [visualizer_node]: Publisher initialized for boundary markers
+[INFO] [1753971272.825044816] [visualizer_node]: Subscribed to /laser_solutions topic
+[INFO] [1753971272.825744369] [visualizer_node]: Marker ID and color map initialized
+[INFO] [1753971272.826524433] [visualizer_node]: Boundary publisher timer initialized
+[INFO] [1753971272.827222161] [visualizer_node]: Solution visualization timer initialized
+[INFO] [1753971272.827881329] [visualizer_node]: VisualizerNode initialized and ready to visualize.
+[INFO] [1753971272.828520146] [visualizer_node_main]: VisualizerNode is running...
+[INFO] [1753971273.829012762] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753971273.830710587] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753971274.828355615] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753971274.829133055] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753971275.828128992] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753971275.828883361] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753971276.829779839] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753971276.831388448] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753971277.828185049] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753971277.828939097] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753971278.828244464] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753971278.828993584] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753971279.829105731] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753971279.829896836] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753971280.828081553] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753971280.828838866] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753971281.828112252] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753971281.828890781] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753971282.828228739] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753971282.828983524] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753971283.828217029] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753971283.828983174] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753971284.828296291] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753971284.829035236] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753971285.828195868] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753971285.828927453] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753971286.828185361] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753971286.828964178] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753971287.828063584] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753971287.828802561] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753971288.828192908] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753971288.829080429] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753971289.828195537] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753971289.828938866] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753971290.828147218] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753971290.829061811] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753971291.829337135] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753971291.830148592] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753971292.828057283] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753971292.828854181] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753971293.829856855] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753971293.831218489] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753971294.829626498] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753971294.830932516] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753971295.828090852] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753971295.828817862] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753971296.828061028] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753971296.828791141] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753971297.828231614] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753971297.829175199] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753971298.828079473] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753971298.828933298] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753971299.828109822] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753971299.828846624] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753971300.828136613] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753971300.828906567] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753971301.828833095] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753971301.830217610] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753971302.828247616] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753971302.828993186] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753971303.828147539] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753971303.828887829] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753971304.828136608] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753971304.828877794] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753971305.827901670] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753971305.828666215] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753971306.827885829] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753971306.828656934] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753971307.827890172] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753971307.828611326] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753971308.828408590] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753971308.829245393] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753971309.828682553] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753971309.829664219] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753971310.828499738] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753971310.829260732] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753971311.828274100] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753971311.829023254] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753971312.828815209] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753971312.829547627] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753971313.829224277] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753971313.830013175] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753971314.829212632] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753971314.829942138] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753971315.829133012] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753971315.829872438] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753971316.828853990] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753971316.829640616] [visualizer_node]: Published boundary markers and TFs

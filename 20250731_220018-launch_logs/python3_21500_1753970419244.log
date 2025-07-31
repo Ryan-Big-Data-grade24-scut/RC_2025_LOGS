@@ -1,0 +1,820 @@
+[INFO] [1753970419.472245497] [solver_node]: 收到7个激光点，处理后7个有效点
+[INFO] [1753970419.475030947] [solver_node]: 调用求解器前，distances shape: (7,), values: [ 0.353  7.982 70.353  7.982  7.06   0.977  7.332]
+[ERROR] [1753970419.476031189] [solver_node]: 求解器调用失败: 距离数组长度(7)与激光配置数量(4)不匹配
+[ERROR] [1753970419.477764459] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(7)与激光配置数量(4)不匹配
+
+[INFO] [1753970419.541758921] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970419.544108990] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.06  0.977 7.332]
+[ERROR] [1753970419.545017675] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970419.546114177] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970419.641708347] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970419.643705630] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.06  0.977 7.332]
+[ERROR] [1753970419.644421441] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970419.645224905] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970419.741562280] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970419.743431461] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.06  0.977 7.332]
+[ERROR] [1753970419.744152009] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970419.744982130] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970419.841653889] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970419.843599042] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.06  0.976 7.332]
+[ERROR] [1753970419.844408650] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970419.845232498] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970419.942584708] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970419.944584775] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.976 7.332]
+[ERROR] [1753970419.945292778] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970419.946095506] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970420.041687980] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970420.043485925] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970420.044155366] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970420.044945133] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970420.141583196] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970420.143333202] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970420.144038261] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970420.144840637] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970420.241765625] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970420.243562258] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970420.244265077] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970420.245200643] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970420.341722732] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970420.343550438] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970420.344243305] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970420.345053297] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970420.441945132] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970420.443821577] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970420.444516363] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970420.445324947] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970420.541410214] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970420.543220640] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970420.543942115] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970420.544723978] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970420.641751052] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970420.643637993] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970420.644355788] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970420.645151764] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970420.741992108] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970420.743950797] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970420.744684401] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970420.745505114] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970420.841920381] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970420.843986852] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970420.844746377] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970420.845572082] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970420.941590370] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970420.943445662] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970420.944153985] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970420.944967977] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970421.041777248] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970421.043666589] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970421.044407298] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970421.045219498] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970421.141268092] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970421.143048884] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970421.143770424] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970421.144567615] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970421.241757641] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970421.243637030] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970421.244368618] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970421.245204308] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970421.342511043] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970421.344584426] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970421.345280460] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970421.346085460] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970421.442029537] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970421.443947903] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970421.444653090] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970421.445430185] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970421.541404471] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970421.543206352] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970421.543918067] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970421.544706330] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970421.641831777] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970421.643740479] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970421.644460707] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970421.645245546] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970421.741365439] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970421.743281054] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970421.744015714] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970421.744811977] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970421.841917551] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970421.843823662] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970421.844548913] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970421.845348569] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970421.941358249] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970421.943229349] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970421.943951241] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970421.944729935] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970422.041801876] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970422.043687281] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970422.044416917] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970422.045205788] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970422.141218636] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970422.142937345] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970422.143632772] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970422.144434955] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970422.241808863] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970422.243701884] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970422.244417280] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970422.245205383] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970422.341588297] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970422.344260173] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970422.345099159] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970422.345922240] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970422.441783528] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970422.443665413] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970422.444373000] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970422.445193809] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970422.445985112] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970422.447414111] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970422.448071327] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970422.448823109] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970422.541745980] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970422.543475665] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970422.544173140] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970422.544983388] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970422.545763555] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970422.547197258] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970422.547849226] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970422.548601295] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970422.641729072] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970422.643616110] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970422.644316528] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970422.645133369] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970422.645910591] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970422.647349350] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970422.648016487] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970422.648772557] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970422.741444760] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970422.743231536] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970422.743935827] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970422.744756635] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970422.745522849] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970422.746916326] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970422.747579431] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970422.748348333] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970422.841689689] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970422.843576598] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970422.844275513] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970422.845071936] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970422.845840678] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970422.847251788] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970422.847898444] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970422.848628624] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970422.941403104] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970422.943050290] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970422.943723251] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970422.944490841] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970422.945263903] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970422.946666949] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970422.947342630] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970422.948085739] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970423.042220126] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970423.044025239] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970423.044709817] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970423.045543107] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970423.046293640] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970423.047698221] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970423.048351118] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970423.049081874] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970423.141243523] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970423.142875028] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970423.143562646] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970423.144326684] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970423.145093826] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970423.146430180] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970423.147081412] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970423.147829513] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970423.241664046] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970423.243513289] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970423.244216972] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970423.245016596] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970423.245781178] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970423.247143613] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970423.247774268] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970423.248499648] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970423.342707703] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970423.344439533] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970423.345117967] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970423.345895061] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970423.346692861] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970423.348066304] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970423.348739906] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970423.349482663] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970423.441785279] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970423.443790851] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970423.444474916] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970423.445312014] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970423.446095285] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970423.447551037] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970423.448190652] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970423.448926177] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970423.541528840] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970423.543180986] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970423.543831674] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970423.544607137] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970423.545355558] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970423.546714665] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970423.547331751] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970423.548053195] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970423.641757929] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970423.643598276] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970423.644281286] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970423.645181011] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970423.645953433] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970423.647344606] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970423.647982877] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970423.648711009] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970423.741509843] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970423.743199590] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970423.743872104] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970423.744662223] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970423.745461270] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970423.746943488] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970423.747601952] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970423.748350245] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970423.844009636] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970423.845743962] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970423.846394682] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970423.847234980] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970423.848094862] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970423.849465746] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970423.850085873] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970423.850853495] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970423.946996462] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970423.948641919] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970423.949278911] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970423.950073990] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970423.950856941] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970423.952231793] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970423.952862096] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970423.953595348] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970424.041694557] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970424.043479925] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970424.044150711] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970424.044908668] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970424.045776391] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970424.047175084] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970424.047809868] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970424.048573233] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970424.141983969] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970424.143854398] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970424.144525087] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970424.145293861] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970424.146223347] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970424.147884869] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970424.148574055] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970424.149329101] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970424.241753388] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970424.243704780] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970424.244424752] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970424.245223000] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970424.246237610] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970424.247860954] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970424.248548604] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970424.249370149] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970424.341448211] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970424.343272653] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970424.343985104] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970424.344777559] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970424.345672228] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970424.347173582] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970424.347856368] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970424.348654551] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970424.441792378] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970424.443747130] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.06  0.977 7.345]
+[ERROR] [1753970424.444467966] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970424.445297095] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970424.446284792] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970424.447895944] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.06  0.977 7.345]
+[ERROR] [1753970424.448578922] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970424.449352560] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970424.541329881] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970424.543133426] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.06  0.977 7.345]
+[ERROR] [1753970424.543852086] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970424.544690111] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970424.546839338] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970424.549091929] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.06  0.977 7.345]
+[ERROR] [1753970424.550188783] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970424.551187329] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970424.641788421] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970424.643917807] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.06  0.977 7.345]
+[ERROR] [1753970424.644655827] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970424.645473244] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970424.646561490] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970424.648289447] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970424.649085615] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970424.649849428] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970424.741650357] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970424.743592533] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970424.744289175] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970424.745144002] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970424.746054063] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970424.747637885] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970424.748326143] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970424.749073924] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970424.841710318] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970424.843742098] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.059 0.977 7.345]
+[ERROR] [1753970424.844473686] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970424.845341153] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970424.846281776] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970424.847824860] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.06  0.977 7.345]
+[ERROR] [1753970424.848484701] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970424.849338119] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970424.941625151] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970424.943560287] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.06  0.977 7.345]
+[ERROR] [1753970424.944261858] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970424.945036744] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
+[INFO] [1753970424.945927604] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1753970424.947462656] [solver_node]: 调用求解器前，distances shape: (5,), values: [0.353 7.982 7.06  0.977 7.345]
+[ERROR] [1753970424.948135042] [solver_node]: 求解器调用失败: 距离数组长度(5)与激光配置数量(4)不匹配
+[ERROR] [1753970424.948866118] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 93, in solve_loop
+    solutions = self.solver.solve(self.distances)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/batch_pose_calculator.py", line 90, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_config)})不匹配")
+ValueError: 距离数组长度(5)与激光配置数量(4)不匹配
+
