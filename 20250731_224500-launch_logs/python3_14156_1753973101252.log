@@ -1,0 +1,74 @@
+[INFO] [1753973101.413605157] [visualizer_node]: Initializing VisualizerNode...
+[INFO] [1753973101.419224375] [visualizer_node]: Using fixed frame: laser_dist_map
+[INFO] [1753973101.421171073] [visualizer_node]: Loading configuration...
+[INFO] [1753973101.430397175] [visualizer_node]: formatted_laser_config: [((1.55456, 0.36453), 1.25663), ((-1.55456, 0.36453), -1.25663), ((0.47385, 0.37645), 0.0), ((2.40907, 0.37537), 2.51327), ((-2.4253, 0.37537), -2.51327)]
+[INFO] [1753973101.432532779] [visualizer_node]: Configuration loaded successfully.
+[INFO] [1753973101.445126745] [visualizer_node]: TF broadcaster initialized
+[INFO] [1753973101.467446839] [visualizer_node]: Publisher initialized for boundary markers
+[INFO] [1753973101.477772713] [visualizer_node]: Subscribed to /laser_solutions topic
+[INFO] [1753973101.482336385] [visualizer_node]: Marker ID and color map initialized
+[INFO] [1753973101.486880409] [visualizer_node]: Boundary publisher timer initialized
+[INFO] [1753973101.488034391] [visualizer_node]: Solution visualization timer initialized
+[INFO] [1753973101.488989227] [visualizer_node]: VisualizerNode initialized and ready to visualize.
+[INFO] [1753973101.489893053] [visualizer_node_main]: VisualizerNode is running...
+[INFO] [1753973102.213504134] [visualizer_node]: Received 52 solutions, updated cache
+[INFO] [1753973102.223792117] [visualizer_node]: Received 52 solutions, updated cache
+[INFO] [1753973102.290324312] [visualizer_node]: Visualizing 52 solutions
+[INFO] [1753973102.291800232] [visualizer_node]: 过滤后有效解的数量: 44
+[INFO] [1753973102.338292137] [visualizer_node]: Received 52 solutions, updated cache
+[INFO] [1753973102.390001509] [visualizer_node]: Visualizing 52 solutions
+[INFO] [1753973102.390969145] [visualizer_node]: 过滤后有效解的数量: 44
+[INFO] [1753973102.434058337] [visualizer_node]: Received 52 solutions, updated cache
+[INFO] [1753973102.488082875] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753973102.489805945] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753973102.497995926] [visualizer_node]: Visualizing 52 solutions
+[INFO] [1753973102.499037647] [visualizer_node]: 过滤后有效解的数量: 44
+[INFO] [1753973103.488043710] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753973103.488795047] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753973104.140721138] [visualizer_node]: Received 52 solutions, updated cache
+[INFO] [1753973104.190139215] [visualizer_node]: Visualizing 52 solutions
+[INFO] [1753973104.191153030] [visualizer_node]: 过滤后有效解的数量: 44
+[INFO] [1753973104.233602600] [visualizer_node]: Received 52 solutions, updated cache
+[INFO] [1753973104.292827066] [visualizer_node]: Visualizing 52 solutions
+[INFO] [1753973104.294560248] [visualizer_node]: 过滤后有效解的数量: 44
+[INFO] [1753973104.333056356] [visualizer_node]: Received 52 solutions, updated cache
+[INFO] [1753973104.390114720] [visualizer_node]: Visualizing 52 solutions
+[INFO] [1753973104.391116022] [visualizer_node]: 过滤后有效解的数量: 44
+[INFO] [1753973104.435139534] [visualizer_node]: Received 52 solutions, updated cache
+[INFO] [1753973104.488185264] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753973104.494721523] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753973104.503206272] [visualizer_node]: Visualizing 52 solutions
+[INFO] [1753973104.504187766] [visualizer_node]: 过滤后有效解的数量: 44
+[INFO] [1753973104.536982763] [visualizer_node]: Received 52 solutions, updated cache
+[INFO] [1753973104.590086289] [visualizer_node]: Visualizing 52 solutions
+[INFO] [1753973104.591072358] [visualizer_node]: 过滤后有效解的数量: 44
+[INFO] [1753973104.635475187] [visualizer_node]: Received 52 solutions, updated cache
+[INFO] [1753973104.690492864] [visualizer_node]: Visualizing 52 solutions
+[INFO] [1753973104.691499671] [visualizer_node]: 过滤后有效解的数量: 44
+[INFO] [1753973104.734116194] [visualizer_node]: Received 52 solutions, updated cache
+[INFO] [1753973104.790380691] [visualizer_node]: Visualizing 52 solutions
+[INFO] [1753973104.792833784] [visualizer_node]: 过滤后有效解的数量: 44
+[INFO] [1753973104.832650988] [visualizer_node]: Received 52 solutions, updated cache
+[INFO] [1753973104.893498582] [visualizer_node]: Visualizing 52 solutions
+[INFO] [1753973104.894507980] [visualizer_node]: 过滤后有效解的数量: 44
+[INFO] [1753973104.942774027] [visualizer_node]: Received 52 solutions, updated cache
+[INFO] [1753973104.990090326] [visualizer_node]: Visualizing 52 solutions
+[INFO] [1753973104.991066635] [visualizer_node]: 过滤后有效解的数量: 44
+[INFO] [1753973105.033110262] [visualizer_node]: Received 52 solutions, updated cache
+[INFO] [1753973105.090133455] [visualizer_node]: Visualizing 52 solutions
+[INFO] [1753973105.091335216] [visualizer_node]: 过滤后有效解的数量: 44
+[INFO] [1753973105.136576105] [visualizer_node]: Received 52 solutions, updated cache
+[INFO] [1753973105.190031168] [visualizer_node]: Visualizing 52 solutions
+[INFO] [1753973105.191117723] [visualizer_node]: 过滤后有效解的数量: 44
+[INFO] [1753973105.238822489] [visualizer_node]: Received 52 solutions, updated cache
+[INFO] [1753973105.291463684] [visualizer_node]: Visualizing 52 solutions
+[INFO] [1753973105.292659749] [visualizer_node]: 过滤后有效解的数量: 44
+[INFO] [1753973105.341021447] [visualizer_node]: Received 52 solutions, updated cache
+[INFO] [1753973105.390400321] [visualizer_node]: Visualizing 52 solutions
+[INFO] [1753973105.393119828] [visualizer_node]: 过滤后有效解的数量: 44
+[INFO] [1753973105.489159220] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753973105.489991361] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753973106.490960073] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753973106.491839801] [visualizer_node]: Published boundary markers and TFs
+[ERROR] [1753973107.407861446] [visualizer_node_main]: An error occurred: 
+[ERROR] [1753973107.408598574] [visualizer_node]: An error occurred: 

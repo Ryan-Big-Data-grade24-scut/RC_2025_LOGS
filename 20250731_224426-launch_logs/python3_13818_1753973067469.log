@@ -1,0 +1,752 @@
+[INFO] [1753973067.582937170] [visualizer_node]: Initializing VisualizerNode...
+[INFO] [1753973067.586002876] [visualizer_node]: Using fixed frame: laser_dist_map
+[INFO] [1753973067.586784424] [visualizer_node]: Loading configuration...
+[INFO] [1753973067.600000357] [visualizer_node]: formatted_laser_config: [((1.55456, 0.36453), 1.25663), ((-1.55456, 0.36453), -1.25663), ((0.47385, 0.37645), 0.0), ((2.40907, 0.37537), 2.51327), ((-2.4253, 0.37537), -2.51327)]
+[INFO] [1753973067.600842900] [visualizer_node]: Configuration loaded successfully.
+[INFO] [1753973067.620301004] [visualizer_node]: TF broadcaster initialized
+[INFO] [1753973067.635141123] [visualizer_node]: Publisher initialized for boundary markers
+[INFO] [1753973067.640961894] [visualizer_node]: Subscribed to /laser_solutions topic
+[INFO] [1753973067.641700495] [visualizer_node]: Marker ID and color map initialized
+[INFO] [1753973067.642454809] [visualizer_node]: Boundary publisher timer initialized
+[INFO] [1753973067.643141695] [visualizer_node]: Solution visualization timer initialized
+[INFO] [1753973067.643751681] [visualizer_node]: VisualizerNode initialized and ready to visualize.
+[INFO] [1753973067.644631954] [visualizer_node_main]: VisualizerNode is running...
+[INFO] [1753973067.726567861] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973067.745730141] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973067.746672209] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973067.834319090] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973067.853026976] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973067.853993013] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973068.038360269] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973068.048073671] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973068.050098104] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973068.129952068] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973068.146048641] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973068.147874503] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973068.228363671] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973068.245671063] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973068.248011832] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973068.326226635] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973068.345322350] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973068.346287811] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973068.448035982] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973068.539343767] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973068.545212572] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973068.546121999] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973068.641612735] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973068.645223015] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753973068.646000562] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753973068.649198532] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973068.650102870] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973068.734796207] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973068.746817962] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973068.751044276] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973068.828621283] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973068.848336649] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973068.851518809] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973068.931430665] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973068.945850345] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973068.946858081] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973069.035273319] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973069.048038347] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973069.049055939] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973069.125927720] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973069.145474180] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973069.146466171] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973069.224098634] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973069.245520173] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973069.246488547] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973069.328717968] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973069.351786767] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973069.352819688] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973069.439953350] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973069.445126373] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973069.446171262] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973069.523901299] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973069.545458590] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973069.546465846] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973069.626298526] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973069.645426595] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753973069.646180172] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753973069.649003337] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973069.649926876] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973069.728282067] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973069.747273712] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973069.748354764] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973069.833111718] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973069.845291529] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973069.846228509] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973069.923225576] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973069.945343090] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973069.946286503] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973070.026920891] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973070.046290892] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973070.048334781] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973070.133040465] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973070.146517852] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973070.149256115] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973070.229177470] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973070.245439107] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973070.247109824] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973070.304423078] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973070.325611004] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973070.346180687] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973070.347201416] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973070.410166728] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973070.431047692] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973070.445512558] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973070.446427872] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973070.502065834] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973070.523104248] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973070.546253018] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973070.547218959] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973070.610981211] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973070.631986343] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973070.644634851] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753973070.645387117] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753973070.651801584] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973070.654572874] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973070.714063561] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973070.733492189] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973070.746291202] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973070.748013282] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973070.817806908] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973070.842523669] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973070.846654554] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973070.847603470] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973070.910532716] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973070.934225804] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973070.948380060] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973070.952074921] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973071.025033521] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973071.053645761] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973071.054608791] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973071.075421655] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973071.113363787] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973071.141548515] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973071.147384966] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973071.148352572] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973071.210313154] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973071.233876090] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973071.245320756] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973071.246524694] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973071.306215679] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973071.337770769] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973071.345673415] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973071.348157200] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973071.409973678] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973071.429913470] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973071.445553824] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973071.446502164] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973071.516550778] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973071.534248238] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973071.547508972] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973071.548966269] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973071.604983737] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973071.625215705] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973071.649868782] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753973071.651048335] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753973071.655603628] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973071.657860456] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973071.712768136] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973071.732562448] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973071.747009263] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973071.748707757] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973071.805694752] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973071.827015804] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973071.846656188] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973071.847620081] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973071.917313667] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973071.944192307] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973071.947461928] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973071.948675499] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973072.007450592] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973072.034885070] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973072.045240171] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973072.046150237] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973072.117253659] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973072.144875123] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973072.148077060] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973072.149237476] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973072.212601398] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973072.236876533] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973072.245193889] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973072.246132309] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973072.311992432] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973072.341617303] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973072.351880975] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973072.352850788] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973072.413285972] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973072.433201921] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973072.450748076] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973072.452529423] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973072.507584884] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973072.530022030] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973072.546049892] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973072.547033979] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973072.604236151] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973072.624274220] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973072.645099660] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753973072.645874711] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753973072.649968281] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973072.650996210] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973072.712211021] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973072.733874235] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973072.748420928] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973072.749491675] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973072.807965694] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973072.825990787] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973072.846355626] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973072.849353360] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973072.908483479] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973072.925627947] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973072.949421551] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973072.952355506] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973073.011287470] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973073.033968660] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973073.047093481] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973073.048081248] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973073.105511751] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973073.141432201] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973073.144949035] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973073.145856605] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973073.210048890] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973073.238647368] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973073.245621929] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973073.247771616] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973073.319067654] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973073.346131454] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973073.347340609] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973073.365843680] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973073.407867923] [visualizer_node]: Received 42 solutions, updated cache
+[INFO] [1753973073.432919260] [visualizer_node]: Received 42 solutions, updated cache
+[INFO] [1753973073.449427725] [visualizer_node]: Visualizing 42 solutions
+[INFO] [1753973073.451059367] [visualizer_node]: 过滤后有效解的数量: 34
+[INFO] [1753973073.505089458] [visualizer_node]: Received 42 solutions, updated cache
+[INFO] [1753973073.523912739] [visualizer_node]: Received 42 solutions, updated cache
+[INFO] [1753973073.545744666] [visualizer_node]: Visualizing 42 solutions
+[INFO] [1753973073.546664173] [visualizer_node]: 过滤后有效解的数量: 34
+[INFO] [1753973073.600291426] [visualizer_node]: Received 42 solutions, updated cache
+[INFO] [1753973073.634181171] [visualizer_node]: Received 42 solutions, updated cache
+[INFO] [1753973073.645380446] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753973073.646150185] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753973073.650127045] [visualizer_node]: Visualizing 42 solutions
+[INFO] [1753973073.651050552] [visualizer_node]: 过滤后有效解的数量: 34
+[INFO] [1753973073.705615713] [visualizer_node]: Received 42 solutions, updated cache
+[INFO] [1753973073.730909079] [visualizer_node]: Received 42 solutions, updated cache
+[INFO] [1753973073.748035754] [visualizer_node]: Visualizing 42 solutions
+[INFO] [1753973073.748952509] [visualizer_node]: 过滤后有效解的数量: 34
+[INFO] [1753973073.812205926] [visualizer_node]: Received 42 solutions, updated cache
+[INFO] [1753973073.837584609] [visualizer_node]: Received 42 solutions, updated cache
+[INFO] [1753973073.845073855] [visualizer_node]: Visualizing 42 solutions
+[INFO] [1753973073.845987473] [visualizer_node]: 过滤后有效解的数量: 34
+[INFO] [1753973073.903539647] [visualizer_node]: Received 42 solutions, updated cache
+[INFO] [1753973073.921163981] [visualizer_node]: Received 42 solutions, updated cache
+[INFO] [1753973073.946037069] [visualizer_node]: Visualizing 42 solutions
+[INFO] [1753973073.947012035] [visualizer_node]: 过滤后有效解的数量: 34
+[INFO] [1753973074.010976659] [visualizer_node]: Received 42 solutions, updated cache
+[INFO] [1753973074.038185106] [visualizer_node]: Received 42 solutions, updated cache
+[INFO] [1753973074.045790454] [visualizer_node]: Visualizing 42 solutions
+[INFO] [1753973074.046817871] [visualizer_node]: 过滤后有效解的数量: 34
+[INFO] [1753973074.100742386] [visualizer_node]: Received 42 solutions, updated cache
+[INFO] [1753973074.118442244] [visualizer_node]: Received 42 solutions, updated cache
+[INFO] [1753973074.147403812] [visualizer_node]: Visualizing 42 solutions
+[INFO] [1753973074.148328376] [visualizer_node]: 过滤后有效解的数量: 34
+[INFO] [1753973074.205063990] [visualizer_node]: Received 42 solutions, updated cache
+[INFO] [1753973074.233576670] [visualizer_node]: Received 42 solutions, updated cache
+[INFO] [1753973074.246555915] [visualizer_node]: Visualizing 42 solutions
+[INFO] [1753973074.247568579] [visualizer_node]: 过滤后有效解的数量: 34
+[INFO] [1753973074.305524709] [visualizer_node]: Received 42 solutions, updated cache
+[INFO] [1753973074.328047425] [visualizer_node]: Received 50 solutions, updated cache
+[INFO] [1753973074.345427330] [visualizer_node]: Visualizing 50 solutions
+[INFO] [1753973074.346350229] [visualizer_node]: 过滤后有效解的数量: 34
+[INFO] [1753973074.408697289] [visualizer_node]: Received 50 solutions, updated cache
+[INFO] [1753973074.433634987] [visualizer_node]: Received 50 solutions, updated cache
+[INFO] [1753973074.449808329] [visualizer_node]: Visualizing 50 solutions
+[INFO] [1753973074.452424281] [visualizer_node]: 过滤后有效解的数量: 34
+[INFO] [1753973074.504985266] [visualizer_node]: Received 50 solutions, updated cache
+[INFO] [1753973074.529625667] [visualizer_node]: Received 42 solutions, updated cache
+[INFO] [1753973074.546548522] [visualizer_node]: Visualizing 42 solutions
+[INFO] [1753973074.547971673] [visualizer_node]: 过滤后有效解的数量: 34
+[INFO] [1753973074.622789726] [visualizer_node]: Received 42 solutions, updated cache
+[INFO] [1753973074.644325796] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753973074.645050316] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753973074.647575736] [visualizer_node]: Visualizing 42 solutions
+[INFO] [1753973074.648455721] [visualizer_node]: 过滤后有效解的数量: 34
+[INFO] [1753973074.663017293] [visualizer_node]: Received 42 solutions, updated cache
+[INFO] [1753973074.709618684] [visualizer_node]: Received 42 solutions, updated cache
+[INFO] [1753973074.743730393] [visualizer_node]: Received 42 solutions, updated cache
+[INFO] [1753973074.748271540] [visualizer_node]: Visualizing 42 solutions
+[INFO] [1753973074.749475510] [visualizer_node]: 过滤后有效解的数量: 34
+[INFO] [1753973074.804655391] [visualizer_node]: Received 42 solutions, updated cache
+[INFO] [1753973074.826093375] [visualizer_node]: Received 42 solutions, updated cache
+[INFO] [1753973074.846322877] [visualizer_node]: Visualizing 42 solutions
+[INFO] [1753973074.848077630] [visualizer_node]: 过滤后有效解的数量: 34
+[INFO] [1753973074.908382114] [visualizer_node]: Received 42 solutions, updated cache
+[INFO] [1753973074.928414997] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973074.951854084] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973074.956459362] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973075.004352024] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973075.024566389] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973075.047797399] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973075.050103927] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973075.106375450] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973075.127879293] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973075.145768665] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973075.146738799] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973075.215940796] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973075.237292727] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973075.244981215] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973075.245858672] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973075.310950298] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973075.329715334] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973075.346363902] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973075.348314985] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973075.406049373] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973075.439903275] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973075.445427996] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973075.446361583] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973075.512603257] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973075.537370672] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973075.546265884] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973075.547266355] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973075.610772934] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973075.630103089] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973075.644555663] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753973075.646194345] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753973075.657686052] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973075.659385666] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973075.706930147] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973075.729241523] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973075.750907967] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973075.751952729] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973075.806194188] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973075.823834618] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973075.846635525] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973075.847621948] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973075.904947545] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973075.930198508] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973075.948645990] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973075.951035658] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973076.011105919] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973076.032961013] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973076.047600125] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973076.048987561] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973076.111221587] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973076.131729279] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973076.148830191] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973076.149793060] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973076.204689369] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973076.234933214] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973076.246088262] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973076.247071356] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973076.308153767] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973076.328033392] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973076.348882734] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973076.350070256] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973076.410144771] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973076.432976623] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973076.446846156] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973076.447819234] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973076.511662821] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973076.538802175] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973076.546942656] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973076.548649374] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973076.612455775] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973076.637543336] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973076.648588233] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753973076.650091100] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753973076.659045898] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973076.665487054] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973076.703314389] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973076.724230136] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973076.745452779] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973076.746370045] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973076.810233922] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973076.841829617] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973076.845937268] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973076.847481513] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973076.912075029] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973076.938744501] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973076.946235475] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973076.951651549] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973077.016899118] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973077.046147899] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973077.047061293] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973077.067657949] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973077.110511800] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973077.142616995] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973077.149291667] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973077.150506198] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973077.213523145] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973077.246074189] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973077.247337554] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973077.266490034] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973077.309178949] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973077.333884535] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973077.345523897] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973077.346427947] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973077.415333091] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973077.440372200] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973077.449331894] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973077.450341230] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973077.507893748] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973077.531894783] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973077.546117616] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973077.547062500] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973077.610153563] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973077.633804948] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973077.644879287] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753973077.645789737] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753973077.648491358] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973077.649353549] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973077.707086141] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973077.726878529] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973077.746875216] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973077.748241499] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973077.814576133] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973077.833103075] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973077.845242113] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973077.846141234] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973077.910148124] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973077.928006549] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973077.947506216] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973077.951463491] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973078.006384887] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973078.026205724] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973078.045503972] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973078.046417718] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973078.107717289] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973078.129664194] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973078.145402566] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973078.146965660] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973078.213642327] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973078.236035113] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973078.246330400] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973078.249592372] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973078.323019843] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973078.346433934] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973078.347392163] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973078.365039311] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973078.405939869] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973078.436609912] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973078.445408445] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973078.446341264] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973078.506029834] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973078.528353977] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973078.549784790] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973078.552111990] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973078.603818360] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973078.633524669] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973078.643945307] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753973078.644666787] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753973078.646797753] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973078.647652456] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973078.718847964] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973078.737831090] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973078.745922832] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973078.746966474] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973078.811368903] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973078.828767558] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973078.847506511] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973078.850629243] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973078.914943540] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973078.932493787] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973078.947968720] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973078.948891459] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973079.014125326] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973079.036930774] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973079.046049613] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973079.047025570] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973079.108378198] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973079.127892233] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973079.146098996] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973079.147791409] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973079.201876820] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973079.231804261] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973079.249304168] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973079.250202202] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973079.308631948] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973079.333297179] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973079.346646554] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973079.347600719] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973079.406223564] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973079.425813955] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973079.446151619] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973079.449787628] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973079.512767865] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973079.541626607] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973079.545911163] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973079.546901681] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973079.622241159] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973079.644316423] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753973079.645079537] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753973079.647459316] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973079.648290338] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973079.664856274] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973079.708849386] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973079.729003232] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973079.746100334] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973079.747381940] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973079.812464437] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973079.834474546] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973079.846377921] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973079.848563642] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973079.920528214] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973079.939184249] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973079.945571641] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973079.946477323] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973080.014173019] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973080.035355370] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973080.046933159] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973080.047835289] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973080.117931147] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973080.145252907] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973080.146121211] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973080.162569381] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973080.209933972] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973080.237234387] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973080.246180512] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973080.247232185] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973080.313920465] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973080.346141278] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973080.347089427] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973080.365961474] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973080.407417548] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973080.435451763] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973080.446323913] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973080.447261949] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973080.521159937] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973080.545639493] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973080.546496852] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973080.562594410] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973080.614258854] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973080.639589177] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973080.646655038] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753973080.647552879] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753973080.651105491] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973080.652779791] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973080.707880776] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973080.729832545] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973080.746417330] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973080.747330244] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973080.812276635] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973080.834493602] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973080.846092993] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973080.847020692] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973080.915458987] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973080.938947353] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973080.952767153] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973080.955802136] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973081.007894540] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973081.028622688] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973081.050063836] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973081.052124333] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973081.106187436] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973081.131931956] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973081.147117464] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973081.148314041] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973081.206502715] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973081.226533225] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973081.245459898] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973081.246365644] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973081.310355917] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973081.339551507] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973081.345680580] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973081.346620696] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973081.418670804] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973081.452195048] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973081.453284932] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973081.469867893] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973081.523261166] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973081.544023812] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973081.547030570] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973081.547899034] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973081.602118273] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973081.635403592] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973081.646125654] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753973081.646916769] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753973081.650863578] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973081.652329387] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973081.712293870] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973081.738141852] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973081.748445875] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973081.752019288] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973081.809481905] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973081.829533536] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973081.849130551] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973081.850685740] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973081.911615972] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973081.933506681] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973081.945571633] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973081.948754752] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973082.016008563] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973082.045341216] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973082.046498304] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973082.063262906] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973082.108234850] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973082.151434890] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973082.161883720] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973082.196065184] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973082.216427711] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973082.246085278] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973082.247132024] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973082.272571214] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973082.345507993] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973082.346435148] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973082.404273400] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973082.446478953] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973082.447454238] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973082.463632056] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973082.518263764] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973082.545934149] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973082.546797525] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973082.568296275] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973082.628298582] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973082.644463439] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753973082.645222809] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753973082.648012210] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973082.648892995] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973082.693831658] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973082.745608456] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973082.746519803] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973083.026420440] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973083.045463343] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973083.046385825] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973083.079096807] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973083.145496616] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973083.146454940] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973083.550621791] [visualizer_node]: Received 80 solutions, updated cache
+[INFO] [1753973083.594777209] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973083.647926018] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753973083.648658314] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753973083.651236504] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973083.652153482] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973083.671038168] [visualizer_node]: Received 50 solutions, updated cache
+[INFO] [1753973083.711516776] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973083.746605648] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973083.748075969] [visualizer_node]: 过滤后有效解的数量: 48
+[INFO] [1753973083.883832293] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973083.945579111] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973083.946480088] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973084.063128256] [visualizer_node]: Received 50 solutions, updated cache
+[INFO] [1753973084.117174681] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973084.145507565] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973084.146394589] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973084.167985535] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973084.248811734] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973084.249824718] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973084.347724687] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973084.405236933] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973084.448252512] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973084.450029889] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973084.469970056] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973084.528550266] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973084.545890930] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973084.546947980] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973084.644592991] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753973084.645347208] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753973084.703155215] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973084.749288277] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973084.750457301] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973084.768635163] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973084.803710722] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973084.845996276] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973084.846981610] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973084.864166074] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973084.921361151] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973084.948803074] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973084.952851393] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973084.984749337] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973085.051313087] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973085.052335895] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973085.252349113] [visualizer_node]: Received 8 solutions, updated cache
+[INFO] [1753973085.331480817] [visualizer_node]: Received 80 solutions, updated cache
+[INFO] [1753973085.345251237] [visualizer_node]: Visualizing 80 solutions
+[INFO] [1753973085.346161143] [visualizer_node]: 过滤后有效解的数量: 46
+[INFO] [1753973085.495164585] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973085.545427792] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973085.546388677] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973085.646168426] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753973085.647367724] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753973085.727779017] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973085.746001010] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973085.748706662] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973085.781194333] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973085.846879891] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973085.847902187] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973086.070583752] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973086.123595076] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973086.145453331] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973086.146412487] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973086.197386932] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973086.241278107] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973086.247936073] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973086.250409776] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973086.296113340] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973086.350766578] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973086.354091336] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973086.381313886] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973086.412038899] [visualizer_node]: Received 38 solutions, updated cache
+[INFO] [1753973086.445995962] [visualizer_node]: Visualizing 38 solutions
+[INFO] [1753973086.453660766] [visualizer_node]: 过滤后有效解的数量: 38
+[INFO] [1753973086.478926152] [visualizer_node]: Received 50 solutions, updated cache
+[INFO] [1753973086.547952787] [visualizer_node]: Visualizing 50 solutions
+[INFO] [1753973086.548907495] [visualizer_node]: 过滤后有效解的数量: 34
+[INFO] [1753973086.585063463] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973086.644549702] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753973086.645350866] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753973086.648583971] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973086.650745338] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973086.763266199] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973086.810340845] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973086.845784357] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973086.846722105] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973086.880069662] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973086.945433280] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973086.946356979] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973087.108243264] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973087.145521212] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973087.146394636] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973087.167206561] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973087.223130043] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973087.245791413] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973087.246961557] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973087.283179255] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973087.346270650] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973087.347215118] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973087.644678979] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753973087.645439917] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753973087.672432341] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973087.745730215] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973087.746932617] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973087.791426865] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973087.845371678] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973087.846278320] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973087.905368120] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973087.945507600] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973087.946390529] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973087.966057367] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973088.020709931] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973088.053617942] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973088.054546313] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973088.084256965] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973088.136511412] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973088.150153760] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973088.151545388] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973088.206660760] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973088.245515625] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973088.246441692] [visualizer_node]: 过滤后有效解的数量: 36
+[INFO] [1753973088.582273054] [visualizer_node]: Received 8 solutions, updated cache
+[INFO] [1753973088.644332167] [visualizer_node]: 发布场地边界: 左下角(0,0), 右上角(9.998,8.0)
+[INFO] [1753973088.645377248] [visualizer_node]: Published boundary markers and TFs
+[INFO] [1753973088.649063434] [visualizer_node]: Visualizing 8 solutions
+[INFO] [1753973088.651746845] [visualizer_node]: 过滤后有效解的数量: 8
+[INFO] [1753973088.841712326] [visualizer_node]: Received 80 solutions, updated cache
+[INFO] [1753973088.844655975] [visualizer_node]: Visualizing 80 solutions
+[INFO] [1753973088.845501814] [visualizer_node]: 过滤后有效解的数量: 52
+[INFO] [1753973088.877601333] [visualizer_node]: Received 48 solutions, updated cache
+[INFO] [1753973088.948888151] [visualizer_node]: Visualizing 48 solutions
+[INFO] [1753973088.951481413] [visualizer_node]: 过滤后有效解的数量: 36
+[ERROR] [1753973088.992483916] [visualizer_node_main]: An error occurred: 
+[ERROR] [1753973088.994539932] [visualizer_node]: An error occurred: 
