@@ -1,0 +1,3 @@
+[INFO] [1754142503.047159436] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754142504.060821930] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754142504.061735021] [solver_node]: 无法获取TF变换，跳过求解

@@ -1,0 +1,1029 @@
+[INFO] [1754223521.260225871] [solver_node]: [PerpendicularDistanceLocalizer] 前束索引: [2], 后束索引: [3, 4]
+[INFO] [1754223521.261144420] [solver_node]: [PerpendicularDistanceLocalizer] 左束索引: [0], 右束索引: [1]
+[INFO] [1754223521.262594373] [solver_node]: [PerpendicularDistanceLocalizer] 垂直距离定位器已初始化，需要调用calibrate()方法进行标定
+[INFO] [1754223521.635443538] [solver_node]: SolverNode启动，进入初始化阶段，需要收集100次激光数据进行标定...
+[INFO] [1754223577.421065241] [solver_node]: 标定数据收集进度: 1/100
+[INFO] [1754223577.436389454] [solver_node]: 标定数据收集进度: 2/100
+[INFO] [1754223577.441633219] [solver_node]: 标定数据收集进度: 3/100
+[INFO] [1754223577.450078943] [solver_node]: 标定数据收集进度: 4/100
+[INFO] [1754223577.512445645] [solver_node]: 标定数据收集进度: 5/100
+[INFO] [1754223577.617687255] [solver_node]: 标定数据收集进度: 6/100
+[INFO] [1754223577.723435404] [solver_node]: 标定数据收集进度: 7/100
+[INFO] [1754223577.817599422] [solver_node]: 标定数据收集进度: 8/100
+[INFO] [1754223577.924359306] [solver_node]: 标定数据收集进度: 9/100
+[INFO] [1754223578.015294901] [solver_node]: 标定数据收集进度: 10/100
+[INFO] [1754223578.104020781] [solver_node]: 标定数据收集进度: 11/100
+[INFO] [1754223578.231179199] [solver_node]: 标定数据收集进度: 12/100
+[INFO] [1754223578.311017586] [solver_node]: 标定数据收集进度: 13/100
+[INFO] [1754223578.400058929] [solver_node]: 标定数据收集进度: 14/100
+[INFO] [1754223578.500083110] [solver_node]: 标定数据收集进度: 15/100
+[INFO] [1754223578.629621228] [solver_node]: 标定数据收集进度: 16/100
+[INFO] [1754223578.712733352] [solver_node]: 标定数据收集进度: 17/100
+[INFO] [1754223578.802110512] [solver_node]: 标定数据收集进度: 18/100
+[INFO] [1754223578.899351846] [solver_node]: 标定数据收集进度: 19/100
+[INFO] [1754223579.009072819] [solver_node]: 标定数据收集进度: 20/100
+[INFO] [1754223579.099720406] [solver_node]: 标定数据收集进度: 21/100
+[INFO] [1754223579.199658280] [solver_node]: 标定数据收集进度: 22/100
+[INFO] [1754223579.302679135] [solver_node]: 标定数据收集进度: 23/100
+[INFO] [1754223579.415958970] [solver_node]: 标定数据收集进度: 24/100
+[INFO] [1754223579.509819109] [solver_node]: 标定数据收集进度: 25/100
+[INFO] [1754223579.601986026] [solver_node]: 标定数据收集进度: 26/100
+[INFO] [1754223579.716914922] [solver_node]: 标定数据收集进度: 27/100
+[INFO] [1754223579.812764737] [solver_node]: 标定数据收集进度: 28/100
+[INFO] [1754223579.902930233] [solver_node]: 标定数据收集进度: 29/100
+[INFO] [1754223580.001113412] [solver_node]: 标定数据收集进度: 30/100
+[INFO] [1754223580.110756046] [solver_node]: 标定数据收集进度: 31/100
+[INFO] [1754223580.233656702] [solver_node]: 标定数据收集进度: 32/100
+[INFO] [1754223580.317267652] [solver_node]: 标定数据收集进度: 33/100
+[INFO] [1754223580.405366958] [solver_node]: 标定数据收集进度: 34/100
+[INFO] [1754223580.505371841] [solver_node]: 标定数据收集进度: 35/100
+[INFO] [1754223580.605718940] [solver_node]: 标定数据收集进度: 36/100
+[INFO] [1754223580.703505757] [solver_node]: 标定数据收集进度: 37/100
+[INFO] [1754223580.804768044] [solver_node]: 标定数据收集进度: 38/100
+[INFO] [1754223580.902083523] [solver_node]: 标定数据收集进度: 39/100
+[INFO] [1754223581.003599704] [solver_node]: 标定数据收集进度: 40/100
+[INFO] [1754223581.101634206] [solver_node]: 标定数据收集进度: 41/100
+[INFO] [1754223581.235076537] [solver_node]: 标定数据收集进度: 42/100
+[INFO] [1754223581.309562739] [solver_node]: 标定数据收集进度: 43/100
+[INFO] [1754223581.432481507] [solver_node]: 标定数据收集进度: 44/100
+[INFO] [1754223581.500549263] [solver_node]: 标定数据收集进度: 45/100
+[INFO] [1754223581.599806352] [solver_node]: 标定数据收集进度: 46/100
+[INFO] [1754223581.708239646] [solver_node]: 标定数据收集进度: 47/100
+[INFO] [1754223581.830730373] [solver_node]: 标定数据收集进度: 48/100
+[INFO] [1754223581.900285905] [solver_node]: 标定数据收集进度: 49/100
+[INFO] [1754223582.000044030] [solver_node]: 标定数据收集进度: 50/100
+[INFO] [1754223582.100354967] [solver_node]: 标定数据收集进度: 51/100
+[INFO] [1754223582.299058237] [solver_node]: 标定数据收集进度: 52/100
+[INFO] [1754223582.335498792] [solver_node]: 标定数据收集进度: 53/100
+[INFO] [1754223582.402925893] [solver_node]: 标定数据收集进度: 54/100
+[INFO] [1754223582.500008885] [solver_node]: 标定数据收集进度: 55/100
+[INFO] [1754223582.634040508] [solver_node]: 标定数据收集进度: 56/100
+[INFO] [1754223582.700928717] [solver_node]: 标定数据收集进度: 57/100
+[INFO] [1754223582.804299017] [solver_node]: 标定数据收集进度: 58/100
+[INFO] [1754223582.900131134] [solver_node]: 标定数据收集进度: 59/100
+[INFO] [1754223583.000735389] [solver_node]: 标定数据收集进度: 60/100
+[INFO] [1754223583.126194916] [solver_node]: 标定数据收集进度: 61/100
+[INFO] [1754223583.223149202] [solver_node]: 标定数据收集进度: 62/100
+[INFO] [1754223583.305129266] [solver_node]: 标定数据收集进度: 63/100
+[INFO] [1754223583.408826933] [solver_node]: 标定数据收集进度: 64/100
+[INFO] [1754223583.514233886] [solver_node]: 标定数据收集进度: 65/100
+[INFO] [1754223583.678441251] [solver_node]: 标定数据收集进度: 66/100
+[INFO] [1754223583.758552602] [solver_node]: 标定数据收集进度: 67/100
+[INFO] [1754223583.837823517] [solver_node]: 标定数据收集进度: 68/100
+[INFO] [1754223583.902415643] [solver_node]: 标定数据收集进度: 69/100
+[INFO] [1754223584.003066682] [solver_node]: 标定数据收集进度: 70/100
+[INFO] [1754223584.119916129] [solver_node]: 标定数据收集进度: 71/100
+[INFO] [1754223584.220694147] [solver_node]: 标定数据收集进度: 72/100
+[INFO] [1754223584.325592704] [solver_node]: 标定数据收集进度: 73/100
+[INFO] [1754223584.404747520] [solver_node]: 标定数据收集进度: 74/100
+[INFO] [1754223584.518324991] [solver_node]: 标定数据收集进度: 75/100
+[INFO] [1754223584.606198337] [solver_node]: 标定数据收集进度: 76/100
+[INFO] [1754223584.700221741] [solver_node]: 标定数据收集进度: 77/100
+[INFO] [1754223584.801525274] [solver_node]: 标定数据收集进度: 78/100
+[INFO] [1754223584.907925656] [solver_node]: 标定数据收集进度: 79/100
+[INFO] [1754223585.014476506] [solver_node]: 标定数据收集进度: 80/100
+[INFO] [1754223585.109456730] [solver_node]: 标定数据收集进度: 81/100
+[INFO] [1754223585.212219879] [solver_node]: 标定数据收集进度: 82/100
+[INFO] [1754223585.327038913] [solver_node]: 标定数据收集进度: 83/100
+[INFO] [1754223585.410272987] [solver_node]: 标定数据收集进度: 84/100
+[INFO] [1754223585.499835747] [solver_node]: 标定数据收集进度: 85/100
+[INFO] [1754223585.600804936] [solver_node]: 标定数据收集进度: 86/100
+[INFO] [1754223585.700764407] [solver_node]: 标定数据收集进度: 87/100
+[INFO] [1754223585.802450668] [solver_node]: 标定数据收集进度: 88/100
+[INFO] [1754223585.901136607] [solver_node]: 标定数据收集进度: 89/100
+[INFO] [1754223586.010448093] [solver_node]: 标定数据收集进度: 90/100
+[INFO] [1754223586.105488382] [solver_node]: 标定数据收集进度: 91/100
+[INFO] [1754223586.201017386] [solver_node]: 标定数据收集进度: 92/100
+[INFO] [1754223586.301440994] [solver_node]: 标定数据收集进度: 93/100
+[INFO] [1754223586.401028392] [solver_node]: 标定数据收集进度: 94/100
+[INFO] [1754223586.500229381] [solver_node]: 标定数据收集进度: 95/100
+[INFO] [1754223586.599459267] [solver_node]: 标定数据收集进度: 96/100
+[INFO] [1754223586.699778681] [solver_node]: 标定数据收集进度: 97/100
+[INFO] [1754223586.821550380] [solver_node]: 标定数据收集进度: 98/100
+[INFO] [1754223586.903133122] [solver_node]: 标定数据收集进度: 99/100
+[INFO] [1754223586.999538625] [solver_node]: 标定数据收集进度: 100/100
+[INFO] [1754223587.000365907] [solver_node]: 标定数据收集完成，开始标定过程...
+[INFO] [1754223587.014658545] [solver_node]: 开始标定，收集到的数据shape: (100, 5)
+[INFO] [1754223587.018831918] [solver_node]: [PerpendicularDistanceLocalizer] 开始标定，扫描数据shape: (100, 5)
+[INFO] [1754223587.032293113] [solver_node]: [PerpendicularDistanceLocalizer] 平均测距值 详细内容: 形状: (5,), 类型: float64
+[INFO] [1754223587.039009166] [solver_node]: [PerpendicularDistanceLocalizer] 平均测距值[0]: 0.28158000000000033
+[INFO] [1754223587.039871905] [solver_node]: [PerpendicularDistanceLocalizer] 平均测距值[1]: 4.053889999999997
+[INFO] [1754223587.040584657] [solver_node]: [PerpendicularDistanceLocalizer] 平均测距值[2]: 1.4660099999999994
+[INFO] [1754223587.041311873] [solver_node]: [PerpendicularDistanceLocalizer] 平均测距值[3]: 0.9508599999999998
+[INFO] [1754223587.042006769] [solver_node]: [PerpendicularDistanceLocalizer] 平均测距值[4]: 0.0
+[INFO] [1754223587.043927163] [solver_node]: [PerpendicularDistanceLocalizer] h_values 详细内容: 形状: (5,), 类型: float64
+[INFO] [1754223587.044906385] [solver_node]: [PerpendicularDistanceLocalizer] h_values[0]: 0.37684580873135426
+[INFO] [1754223587.045683938] [solver_node]: [PerpendicularDistanceLocalizer] h_values[1]: 0.37684580873135426
+[INFO] [1754223587.046403858] [solver_node]: [PerpendicularDistanceLocalizer] h_values[2]: 0.33497201345916283
+[INFO] [1754223587.048792487] [solver_node]: [PerpendicularDistanceLocalizer] h_values[3]: 0.2847569265233284
+[INFO] [1754223587.057196994] [solver_node]: [PerpendicularDistanceLocalizer] h_values[4]: 0.2847569265233284
+[INFO] [1754223587.060237350] [solver_node]: [PerpendicularDistanceLocalizer] 标定完成: m=2.561, n=5.089
+[INFO] [1754223587.061114969] [solver_node]: [PerpendicularDistanceLocalizer] 前后左右平均距离: 前=1.801, 后=0.760, 左=0.658, 右=4.431
+[INFO] [1754223587.062024622] [solver_node]: [PerpendicularDistanceLocalizer] 计算的初始位姿: x=1.801, y=0.658, phi=3.142
+[INFO] [1754223587.062769534] [solver_node]: 标定完成: m=2.561, n=5.089
+[INFO] [1754223587.065400761] [solver_node]: 初始位姿: x=1.801, y=0.658, phi=3.142
+[INFO] [1754223587.133673222] [solver_node]: 发布静态变换: translation=(-0.658, 1.801, 0.0), rotation=-1.571
+[INFO] [1754223587.146206492] [solver_node]: 初始化阶段完成，进入运行阶段
+[INFO] [1754223587.380034217] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754223587.382667843] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754223587.396057069] [solver_node]: 当前位置: x=1.837, y=0.667, angle=-3.141
+[INFO] [1754223587.420164741] [solver_node]: 激光距离数据: [0.361 6.871 3.759 5.595 0.   ]
+[INFO] [1754223587.434368640] [solver_node]: [PoseSolver_angle] collision_vectors 详细内容: 形状: (3, 2), 类型: float64
+[INFO] [1754223587.444819881] [solver_node]: [PoseSolver_angle] collision_vectors[0]: [-0.00139026 -0.73784664]
+[INFO] [1754223587.448009904] [solver_node]: [PoseSolver_angle] collision_vectors[1]: [-4.09388164 -0.17392032]
+[INFO] [1754223587.450263810] [solver_node]: [PoseSolver_angle] collision_vectors[2]: [ 5.87988587 -0.24509061]
+[INFO] [1754223587.451932455] [solver_node]: [PoseSolver_angle] thetas 详细内容: 形状: (3,), 类型: float64
+[INFO] [1754223587.453305605] [solver_node]: [PoseSolver_angle] thetas[0]: -1.572680534316391
+[INFO] [1754223587.454175321] [solver_node]: [PoseSolver_angle] thetas[1]: -3.0991351964633806
+[INFO] [1754223587.454967626] [solver_node]: [PoseSolver_angle] thetas[2]: -0.04165877054033906
+[INFO] [1754223587.508653363] [solver_node]: [PoseSolver_angle] candidates 详细内容: 形状: (3, 2), 类型: float64
+[INFO] [1754223587.522476007] [solver_node]: [PoseSolver_angle] candidates[0]: [       inf 0.73784664]
+[INFO] [1754223587.525965460] [solver_node]: [PoseSolver_angle] candidates[1]: [4.09388164        inf]
+[INFO] [1754223587.529927852] [solver_node]: [PoseSolver_angle] candidates[2]: [-3.31871693         inf]
+[INFO] [1754223587.531916376] [solver_node]: [PoseSolver_angle] results_n: 空数组
+[INFO] [1754223587.569750177] [solver_node]: [PoseSolver_angle] results_n1 详细内容: 形状: (2, 2), 类型: float64
+[INFO] [1754223587.577119845] [solver_node]: [PoseSolver_angle] results_n1[0]: [-3.31871693  0.73784664]
+[INFO] [1754223587.579187507] [solver_node]: [PoseSolver_angle] results_n1[1]: [4.09388164 0.73784664]
+[INFO] [1754223587.584457000] [solver_node]: 角度求解器返回 2 个解
+[INFO] [1754223587.586021995] [solver_node]: 无效解: x=-3.319, y=0.738, 距离=5.156 > 阈值1.500
+[INFO] [1754223587.586885118] [solver_node]: 无效解: x=4.094, y=0.738, 距离=2.258 > 阈值1.500
+[WARN] [1754223587.589101455] [solver_node]: 没有满足距离要求的解
+[WARN] [1754223587.593706454] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754223587.601692711] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754223587.619394928] [solver_node]: 当前位置: x=1.837, y=0.667, angle=-3.141
+[INFO] [1754223587.621871400] [solver_node]: 激光距离数据: [0.361 6.871 3.759 5.596 0.   ]
+[INFO] [1754223587.624904459] [solver_node]: [PoseSolver_angle] collision_vectors 详细内容: 形状: (3, 2), 类型: float64
+[INFO] [1754223587.627367170] [solver_node]: [PoseSolver_angle] collision_vectors[0]: [-0.00139026 -0.73784664]
+[INFO] [1754223587.629027751] [solver_node]: [PoseSolver_angle] collision_vectors[1]: [-4.09388164 -0.17392032]
+[INFO] [1754223587.630182592] [solver_node]: [PoseSolver_angle] collision_vectors[2]: [ 5.88088587 -0.24509009]
+[INFO] [1754223587.631024179] [solver_node]: [PoseSolver_angle] thetas 详细内容: 形状: (3,), 类型: float64
+[INFO] [1754223587.632218541] [solver_node]: [PoseSolver_angle] thetas[0]: -1.572680534316391
+[INFO] [1754223587.633153154] [solver_node]: [PoseSolver_angle] thetas[1]: -3.0991351964633806
+[INFO] [1754223587.633904179] [solver_node]: [PoseSolver_angle] thetas[2]: -0.04165160667816358
+[INFO] [1754223587.635524535] [solver_node]: [PoseSolver_angle] candidates 详细内容: 形状: (3, 2), 类型: float64
+[INFO] [1754223587.647003926] [solver_node]: [PoseSolver_angle] candidates[0]: [       inf 0.73784664]
+[INFO] [1754223587.652573586] [solver_node]: [PoseSolver_angle] candidates[1]: [4.09388164        inf]
+[INFO] [1754223587.654809444] [solver_node]: [PoseSolver_angle] candidates[2]: [-3.31971693         inf]
+[INFO] [1754223587.655841850] [solver_node]: [PoseSolver_angle] results_n: 空数组
+[INFO] [1754223587.658377171] [solver_node]: [PoseSolver_angle] results_n1 详细内容: 形状: (2, 2), 类型: float64
+[INFO] [1754223587.659648687] [solver_node]: [PoseSolver_angle] results_n1[0]: [-3.31971693  0.73784664]
+[INFO] [1754223587.660778120] [solver_node]: [PoseSolver_angle] results_n1[1]: [4.09388164 0.73784664]
+[INFO] [1754223587.661991139] [solver_node]: 角度求解器返回 2 个解
+[INFO] [1754223587.662803509] [solver_node]: 无效解: x=-3.320, y=0.738, 距离=5.157 > 阈值1.500
+[INFO] [1754223587.663571526] [solver_node]: 无效解: x=4.094, y=0.738, 距离=2.258 > 阈值1.500
+[WARN] [1754223587.664430329] [solver_node]: 没有满足距离要求的解
+[WARN] [1754223587.665267436] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754223587.666240162] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754223587.671528599] [solver_node]: 当前位置: x=1.795, y=0.640, angle=-3.141
+[INFO] [1754223587.673151067] [solver_node]: 激光距离数据: [0.361 6.871 3.759 5.596 0.   ]
+[INFO] [1754223587.674389751] [solver_node]: [PoseSolver_angle] collision_vectors 详细内容: 形状: (3, 2), 类型: float64
+[INFO] [1754223587.675652531] [solver_node]: [PoseSolver_angle] collision_vectors[0]: [-0.00154382 -0.73784633]
+[INFO] [1754223587.676841773] [solver_node]: [PoseSolver_angle] collision_vectors[1]: [-4.09391775 -0.17306832]
+[INFO] [1754223587.678163435] [solver_node]: [PoseSolver_angle] collision_vectors[2]: [ 5.88083473 -0.24631399]
+[INFO] [1754223587.679119328] [solver_node]: [PoseSolver_angle] thetas 详细内容: 形状: (3,), 类型: float64
+[INFO] [1754223587.679902129] [solver_node]: [PoseSolver_angle] thetas[0]: -1.572888649689277
+[INFO] [1754223587.680680610] [solver_node]: [PoseSolver_angle] thetas[1]: -3.0993433118362668
+[INFO] [1754223587.681858493] [solver_node]: [PoseSolver_angle] thetas[2]: -0.04185972205104971
+[INFO] [1754223587.684002988] [solver_node]: [PoseSolver_angle] candidates 详细内容: 形状: (3, 2), 类型: float64
+[INFO] [1754223587.686006681] [solver_node]: [PoseSolver_angle] candidates[0]: [       inf 0.73784633]
+[INFO] [1754223587.687337270] [solver_node]: [PoseSolver_angle] candidates[1]: [4.09391775        inf]
+[INFO] [1754223587.688573554] [solver_node]: [PoseSolver_angle] candidates[2]: [-3.31966579         inf]
+[INFO] [1754223587.689791981] [solver_node]: [PoseSolver_angle] results_n: 空数组
+[INFO] [1754223587.692201027] [solver_node]: [PoseSolver_angle] results_n1 详细内容: 形状: (2, 2), 类型: float64
+[INFO] [1754223587.694921439] [solver_node]: [PoseSolver_angle] results_n1[0]: [-3.31966579  0.73784633]
+[INFO] [1754223587.696160602] [solver_node]: [PoseSolver_angle] results_n1[1]: [4.09391775 0.73784633]
+[INFO] [1754223587.697616923] [solver_node]: 角度求解器返回 2 个解
+[INFO] [1754223587.699083931] [solver_node]: 无效解: x=-3.320, y=0.738, 距离=5.116 > 阈值1.500
+[INFO] [1754223587.699870669] [solver_node]: 无效解: x=4.094, y=0.738, 距离=2.301 > 阈值1.500
+[WARN] [1754223587.700747008] [solver_node]: 没有满足距离要求的解
+[WARN] [1754223587.701856473] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754223587.714177771] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754223587.733118352] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754223587.738259970] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754223587.752117334] [solver_node]: 当前位置: x=1.806, y=0.654, angle=-3.141
+[INFO] [1754223587.765275739] [solver_node]: 激光距离数据: [0.361 6.871 3.759 5.597 0.   ]
+[INFO] [1754223587.778046710] [solver_node]: [PoseSolver_angle] collision_vectors 详细内容: 形状: (3, 2), 类型: float64
+[INFO] [1754223587.780726610] [solver_node]: [PoseSolver_angle] collision_vectors[0]: [-0.00163708 -0.73784613]
+[INFO] [1754223587.783754805] [solver_node]: [PoseSolver_angle] collision_vectors[1]: [-4.09393959 -0.17255086]
+[INFO] [1754223587.786320878] [solver_node]: [PoseSolver_angle] collision_vectors[2]: [ 5.88180355 -0.24705712]
+[INFO] [1754223587.793195847] [solver_node]: [PoseSolver_angle] thetas 详细内容: 形状: (3,), 类型: float64
+[INFO] [1754223587.795358455] [solver_node]: [PoseSolver_angle] thetas[0]: -1.5730150461621262
+[INFO] [1754223587.797266209] [solver_node]: [PoseSolver_angle] thetas[1]: -3.099469708309116
+[INFO] [1754223587.801184729] [solver_node]: [PoseSolver_angle] thetas[2]: -0.0419789570933542
+[INFO] [1754223587.806229705] [solver_node]: [PoseSolver_angle] candidates 详细内容: 形状: (3, 2), 类型: float64
+[INFO] [1754223587.810730093] [solver_node]: [PoseSolver_angle] candidates[0]: [       inf 0.73784613]
+[INFO] [1754223587.815357492] [solver_node]: [PoseSolver_angle] candidates[1]: [4.09393959        inf]
+[INFO] [1754223587.818624412] [solver_node]: [PoseSolver_angle] candidates[2]: [-3.32063461         inf]
+[INFO] [1754223587.821271159] [solver_node]: [PoseSolver_angle] results_n: 空数组
+[INFO] [1754223587.825236143] [solver_node]: [PoseSolver_angle] results_n1 详细内容: 形状: (2, 2), 类型: float64
+[INFO] [1754223587.827775784] [solver_node]: [PoseSolver_angle] results_n1[0]: [-3.32063461  0.73784613]
+[INFO] [1754223587.844865699] [solver_node]: [PoseSolver_angle] results_n1[1]: [4.09393959 0.73784613]
+[INFO] [1754223587.848351121] [solver_node]: 角度求解器返回 2 个解
+[INFO] [1754223587.851560632] [solver_node]: 无效解: x=-3.321, y=0.738, 距离=5.127 > 阈值1.500
+[INFO] [1754223587.853952077] [solver_node]: 无效解: x=4.094, y=0.738, 距离=2.289 > 阈值1.500
+[WARN] [1754223587.856721451] [solver_node]: 没有满足距离要求的解
+[WARN] [1754223587.861447444] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754223587.864393717] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754223587.883324634] [solver_node]: 当前位置: x=1.816, y=0.663, angle=-3.141
+[INFO] [1754223587.907390257] [solver_node]: 激光距离数据: [0.361 6.871 3.759 5.597 0.   ]
+[INFO] [1754223587.909941002] [solver_node]: [PoseSolver_angle] collision_vectors 详细内容: 形状: (3, 2), 类型: float64
+[INFO] [1754223587.913086479] [solver_node]: [PoseSolver_angle] collision_vectors[0]: [-0.00130465 -0.73784679]
+[INFO] [1754223587.916804034] [solver_node]: [PoseSolver_angle] collision_vectors[1]: [-4.09386144 -0.1743953 ]
+[INFO] [1754223587.920789531] [solver_node]: [PoseSolver_angle] collision_vectors[2]: [ 5.88191426 -0.24440714]
+[INFO] [1754223587.925952845] [solver_node]: [PoseSolver_angle] thetas 详细内容: 形状: (3,), 类型: float64
+[INFO] [1754223587.929112340] [solver_node]: [PoseSolver_angle] thetas[0]: -1.5725645118808804
+[INFO] [1754223587.932606081] [solver_node]: [PoseSolver_angle] thetas[1]: -3.09901917402787
+[INFO] [1754223587.935971500] [solver_node]: [PoseSolver_angle] thetas[2]: -0.04152842281210844
+[INFO] [1754223587.939186227] [solver_node]: [PoseSolver_angle] candidates 详细内容: 形状: (3, 2), 类型: float64
+[INFO] [1754223587.942034899] [solver_node]: [PoseSolver_angle] candidates[0]: [       inf 0.73784679]
+[INFO] [1754223587.944521034] [solver_node]: [PoseSolver_angle] candidates[1]: [4.09386144        inf]
+[INFO] [1754223587.947183205] [solver_node]: [PoseSolver_angle] candidates[2]: [-3.32074532         inf]
+[INFO] [1754223587.949435703] [solver_node]: [PoseSolver_angle] results_n: 空数组
+[INFO] [1754223587.952518588] [solver_node]: [PoseSolver_angle] results_n1 详细内容: 形状: (2, 2), 类型: float64
+[INFO] [1754223587.954955890] [solver_node]: [PoseSolver_angle] results_n1[0]: [-3.32074532  0.73784679]
+[INFO] [1754223587.957592525] [solver_node]: [PoseSolver_angle] results_n1[1]: [4.09386144 0.73784679]
+[INFO] [1754223587.959826238] [solver_node]: 角度求解器返回 2 个解
+[INFO] [1754223587.961688872] [solver_node]: 无效解: x=-3.321, y=0.738, 距离=5.137 > 阈值1.500
+[INFO] [1754223587.963443631] [solver_node]: 无效解: x=4.094, y=0.738, 距离=2.279 > 阈值1.500
+[WARN] [1754223587.965140916] [solver_node]: 没有满足距离要求的解
+[WARN] [1754223587.966806681] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754223587.968515423] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754223587.983569454] [solver_node]: 当前位置: x=1.816, y=0.662, angle=-3.141
+[INFO] [1754223587.986406637] [solver_node]: 激光距离数据: [0.361 6.871 3.759 5.597 0.   ]
+[INFO] [1754223587.988745473] [solver_node]: [PoseSolver_angle] collision_vectors 详细内容: 形状: (3, 2), 类型: float64
+[INFO] [1754223587.991218936] [solver_node]: [PoseSolver_angle] collision_vectors[0]: [-0.00120725 -0.73784696]
+[INFO] [1754223588.006565325] [solver_node]: [PoseSolver_angle] collision_vectors[1]: [-4.09383838 -0.1749357 ]
+[INFO] [1754223588.011278902] [solver_node]: [PoseSolver_angle] collision_vectors[2]: [ 5.88194647 -0.24363071]
+[INFO] [1754223588.014746947] [solver_node]: [PoseSolver_angle] thetas 详细内容: 形状: (3,), 类型: float64
+[INFO] [1754223588.037067347] [solver_node]: [PoseSolver_angle] thetas[0]: -1.5724325090980107
+[INFO] [1754223588.040120214] [solver_node]: [PoseSolver_angle] thetas[1]: -3.0988871712450003
+[INFO] [1754223588.042844691] [solver_node]: [PoseSolver_angle] thetas[2]: -0.041396420029238705
+[INFO] [1754223588.046232094] [solver_node]: [PoseSolver_angle] candidates 详细内容: 形状: (3, 2), 类型: float64
+[INFO] [1754223588.049432421] [solver_node]: [PoseSolver_angle] candidates[0]: [       inf 0.73784696]
+[INFO] [1754223588.052078336] [solver_node]: [PoseSolver_angle] candidates[1]: [4.09383838        inf]
+[INFO] [1754223588.057484216] [solver_node]: [PoseSolver_angle] candidates[2]: [-3.32077753         inf]
+[INFO] [1754223588.058408941] [solver_node]: [PoseSolver_angle] results_n: 空数组
+[INFO] [1754223588.061020583] [solver_node]: [PoseSolver_angle] results_n1 详细内容: 形状: (2, 2), 类型: float64
+[INFO] [1754223588.062667627] [solver_node]: [PoseSolver_angle] results_n1[0]: [-3.32077753  0.73784696]
+[INFO] [1754223588.063900903] [solver_node]: [PoseSolver_angle] results_n1[1]: [4.09383838 0.73784696]
+[INFO] [1754223588.065582444] [solver_node]: 角度求解器返回 2 个解
+[INFO] [1754223588.066463328] [solver_node]: 无效解: x=-3.321, y=0.738, 距离=5.137 > 阈值1.500
+[INFO] [1754223588.067264498] [solver_node]: 无效解: x=4.094, y=0.738, 距离=2.279 > 阈值1.500
+[WARN] [1754223588.068896726] [solver_node]: 没有满足距离要求的解
+[WARN] [1754223588.069776745] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754223588.074697495] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754223588.100389937] [solver_node]: 当前位置: x=1.812, y=0.662, angle=-3.140
+[INFO] [1754223588.104859413] [solver_node]: 激光距离数据: [0.361 6.871 3.759 5.597 0.   ]
+[INFO] [1754223588.110558323] [solver_node]: [PoseSolver_angle] collision_vectors 详细内容: 形状: (3, 2), 类型: float64
+[INFO] [1754223588.121681451] [solver_node]: [PoseSolver_angle] collision_vectors[0]: [-0.00091379 -0.73784738]
+[INFO] [1754223588.126202543] [solver_node]: [PoseSolver_angle] collision_vectors[1]: [-4.09376848 -0.17656393]
+[INFO] [1754223588.128381631] [solver_node]: [PoseSolver_angle] collision_vectors[2]: [ 5.88204291 -0.24129127]
+[INFO] [1754223588.129429367] [solver_node]: [PoseSolver_angle] thetas 详细内容: 形状: (3,), 类型: float64
+[INFO] [1754223588.130470510] [solver_node]: [PoseSolver_angle] thetas[0]: -1.572034779912088
+[INFO] [1754223588.131219006] [solver_node]: [PoseSolver_angle] thetas[1]: -3.0984894420590776
+[INFO] [1754223588.133347598] [solver_node]: [PoseSolver_angle] thetas[2]: -0.04099869084331597
+[INFO] [1754223588.137165315] [solver_node]: [PoseSolver_angle] candidates 详细内容: 形状: (3, 2), 类型: float64
+[INFO] [1754223588.140534957] [solver_node]: [PoseSolver_angle] candidates[0]: [       inf 0.73784738]
+[INFO] [1754223588.145073586] [solver_node]: [PoseSolver_angle] candidates[1]: [4.09376848        inf]
+[INFO] [1754223588.148444637] [solver_node]: [PoseSolver_angle] candidates[2]: [-3.32087397         inf]
+[INFO] [1754223588.149563958] [solver_node]: [PoseSolver_angle] results_n: 空数组
+[INFO] [1754223588.152646746] [solver_node]: [PoseSolver_angle] results_n1 详细内容: 形状: (2, 2), 类型: float64
+[INFO] [1754223588.156366701] [solver_node]: [PoseSolver_angle] results_n1[0]: [-3.32087397  0.73784738]
+[INFO] [1754223588.159566708] [solver_node]: [PoseSolver_angle] results_n1[1]: [4.09376848 0.73784738]
+[INFO] [1754223588.161754565] [solver_node]: 角度求解器返回 2 个解
+[INFO] [1754223588.162686458] [solver_node]: 无效解: x=-3.321, y=0.738, 距离=5.134 > 阈值1.500
+[INFO] [1754223588.164418560] [solver_node]: 无效解: x=4.094, y=0.738, 距离=2.283 > 阈值1.500
+[WARN] [1754223588.165416214] [solver_node]: 没有满足距离要求的解
+[WARN] [1754223588.166542799] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754223588.167756874] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754223588.203534245] [solver_node]: 当前位置: x=1.813, y=0.664, angle=-3.140
+[INFO] [1754223588.212501228] [solver_node]: 激光距离数据: [0.361 6.871 3.759 5.597 0.   ]
+[INFO] [1754223588.219090751] [solver_node]: [PoseSolver_angle] collision_vectors 详细内容: 形状: (3, 2), 类型: float64
+[INFO] [1754223588.253521148] [solver_node]: [PoseSolver_angle] collision_vectors[0]: [-0.00092123 -0.73784737]
+[INFO] [1754223588.255778286] [solver_node]: [PoseSolver_angle] collision_vectors[1]: [-4.09377026 -0.17652267]
+[INFO] [1754223588.259108312] [solver_node]: [PoseSolver_angle] collision_vectors[2]: [ 5.88204048 -0.24135056]
+[INFO] [1754223588.267481426] [solver_node]: [PoseSolver_angle] thetas 详细内容: 形状: (3,), 类型: float64
+[INFO] [1754223588.269369852] [solver_node]: [PoseSolver_angle] thetas[0]: -1.572044859123524
+[INFO] [1754223588.286026798] [solver_node]: [PoseSolver_angle] thetas[1]: -3.0984995212705138
+[INFO] [1754223588.286992099] [solver_node]: [PoseSolver_angle] thetas[2]: -0.04100877005475212
+[INFO] [1754223588.304184033] [solver_node]: [PoseSolver_angle] candidates 详细内容: 形状: (3, 2), 类型: float64
+[INFO] [1754223588.305821798] [solver_node]: [PoseSolver_angle] candidates[0]: [       inf 0.73784737]
+[INFO] [1754223588.307061793] [solver_node]: [PoseSolver_angle] candidates[1]: [4.09377026        inf]
+[INFO] [1754223588.308181402] [solver_node]: [PoseSolver_angle] candidates[2]: [-3.32087154         inf]
+[INFO] [1754223588.308932043] [solver_node]: [PoseSolver_angle] results_n: 空数组
+[INFO] [1754223588.310924279] [solver_node]: [PoseSolver_angle] results_n1 详细内容: 形状: (2, 2), 类型: float64
+[INFO] [1754223588.312064208] [solver_node]: [PoseSolver_angle] results_n1[0]: [-3.32087154  0.73784737]
+[INFO] [1754223588.313334765] [solver_node]: [PoseSolver_angle] results_n1[1]: [4.09377026 0.73784737]
+[INFO] [1754223588.314456518] [solver_node]: 角度求解器返回 2 个解
+[INFO] [1754223588.315218774] [solver_node]: 无效解: x=-3.321, y=0.738, 距离=5.134 > 阈值1.500
+[INFO] [1754223588.315952007] [solver_node]: 无效解: x=4.094, y=0.738, 距离=2.282 > 阈值1.500
+[WARN] [1754223588.316722680] [solver_node]: 没有满足距离要求的解
+[WARN] [1754223588.317538730] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754223588.329160716] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754223588.336918265] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754223588.354891912] [solver_node]: 当前位置: x=1.812, y=0.660, angle=-3.140
+[INFO] [1754223588.370726216] [solver_node]: 激光距离数据: [0.361 6.871 3.759 5.597 0.   ]
+[INFO] [1754223588.373245472] [solver_node]: [PoseSolver_angle] collision_vectors 详细内容: 形状: (3, 2), 类型: float64
+[INFO] [1754223588.395479054] [solver_node]: [PoseSolver_angle] collision_vectors[0]: [-0.00095608 -0.73784733]
+[INFO] [1754223588.417827934] [solver_node]: [PoseSolver_angle] collision_vectors[1]: [-4.09377859 -0.1763293 ]
+[INFO] [1754223588.419323999] [solver_node]: [PoseSolver_angle] collision_vectors[2]: [ 5.88202907 -0.24162838]
+[INFO] [1754223588.420186227] [solver_node]: [PoseSolver_angle] thetas 详细内容: 形状: (3,), 类型: float64
+[INFO] [1754223588.430665275] [solver_node]: [PoseSolver_angle] thetas[0]: -1.5720920926990007
+[INFO] [1754223588.431693938] [solver_node]: [PoseSolver_angle] thetas[1]: -3.0985467548459904
+[INFO] [1754223588.432421858] [solver_node]: [PoseSolver_angle] thetas[2]: -0.04105600363022876
+[INFO] [1754223588.434103240] [solver_node]: [PoseSolver_angle] candidates 详细内容: 形状: (3, 2), 类型: float64
+[INFO] [1754223588.435318371] [solver_node]: [PoseSolver_angle] candidates[0]: [       inf 0.73784733]
+[INFO] [1754223588.446581757] [solver_node]: [PoseSolver_angle] candidates[1]: [4.09377859        inf]
+[INFO] [1754223588.448719821] [solver_node]: [PoseSolver_angle] candidates[2]: [-3.32086013         inf]
+[INFO] [1754223588.452588675] [solver_node]: [PoseSolver_angle] results_n: 空数组
+[INFO] [1754223588.464120483] [solver_node]: [PoseSolver_angle] results_n1 详细内容: 形状: (2, 2), 类型: float64
+[INFO] [1754223588.467796980] [solver_node]: [PoseSolver_angle] results_n1[0]: [-3.32086013  0.73784733]
+[INFO] [1754223588.470392974] [solver_node]: [PoseSolver_angle] results_n1[1]: [4.09377859 0.73784733]
+[INFO] [1754223588.476824189] [solver_node]: 角度求解器返回 2 个解
+[INFO] [1754223588.480245769] [solver_node]: 无效解: x=-3.321, y=0.738, 距离=5.133 > 阈值1.500
+[INFO] [1754223588.482280118] [solver_node]: 无效解: x=4.094, y=0.738, 距离=2.283 > 阈值1.500
+[WARN] [1754223588.483701206] [solver_node]: 没有满足距离要求的解
+[WARN] [1754223588.484787406] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754223588.489341235] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754223588.515644795] [solver_node]: 当前位置: x=1.839, y=0.663, angle=-3.139
+[INFO] [1754223588.518662175] [solver_node]: 激光距离数据: [0.361 6.871 3.759 5.597 0.   ]
+[INFO] [1754223588.521787300] [solver_node]: [PoseSolver_angle] collision_vectors 详细内容: 形状: (3, 2), 类型: float64
+[INFO] [1754223588.524377758] [solver_node]: [PoseSolver_angle] collision_vectors[0]: [-8.84934646e-05 -7.37847941e-01]
+[INFO] [1754223588.538690523] [solver_node]: [PoseSolver_angle] collision_vectors[1]: [-4.09356843 -0.18114277]
+[INFO] [1754223588.550371647] [solver_node]: [PoseSolver_angle] collision_vectors[2]: [ 5.88230912 -0.23471195]
+[INFO] [1754223588.555249899] [solver_node]: [PoseSolver_angle] thetas 详细内容: 形状: (3,), 类型: float64
+[INFO] [1754223588.561358867] [solver_node]: [PoseSolver_angle] thetas[0]: -1.5709162613495768
+[INFO] [1754223588.565447566] [solver_node]: [PoseSolver_angle] thetas[1]: -3.0973709234965665
+[INFO] [1754223588.569175841] [solver_node]: [PoseSolver_angle] thetas[2]: -0.039880172280804864
+[INFO] [1754223588.574175568] [solver_node]: [PoseSolver_angle] candidates 详细内容: 形状: (3, 2), 类型: float64
+[INFO] [1754223588.577371159] [solver_node]: [PoseSolver_angle] candidates[0]: [       inf 0.73784794]
+[INFO] [1754223588.581202732] [solver_node]: [PoseSolver_angle] candidates[1]: [4.09356843        inf]
+[INFO] [1754223588.603172660] [solver_node]: [PoseSolver_angle] candidates[2]: [-3.32114018         inf]
+[INFO] [1754223588.610327219] [solver_node]: [PoseSolver_angle] results_n: 空数组
+[INFO] [1754223588.621255430] [solver_node]: [PoseSolver_angle] results_n1 详细内容: 形状: (2, 2), 类型: float64
+[INFO] [1754223588.627084551] [solver_node]: [PoseSolver_angle] results_n1[0]: [-3.32114018  0.73784794]
+[INFO] [1754223588.634328712] [solver_node]: [PoseSolver_angle] results_n1[1]: [4.09356843 0.73784794]
+[INFO] [1754223588.638910350] [solver_node]: 角度求解器返回 2 个解
+[INFO] [1754223588.649220179] [solver_node]: 无效解: x=-3.321, y=0.738, 距离=5.161 > 阈值1.500
+[INFO] [1754223588.652164149] [solver_node]: 无效解: x=4.094, y=0.738, 距离=2.256 > 阈值1.500
+[WARN] [1754223588.654665580] [solver_node]: 没有满足距离要求的解
+[WARN] [1754223588.659896320] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754223588.662893091] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754223588.668802598] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754223588.694888490] [solver_node]: 当前位置: x=1.808, y=0.662, angle=-3.141
+[INFO] [1754223588.700398884] [solver_node]: 激光距离数据: [0.361 6.871 3.759 5.597 5.606]
+[INFO] [1754223588.708461815] [solver_node]: [PoseSolver_angle] collision_vectors 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223588.723036059] [solver_node]: [PoseSolver_angle] collision_vectors[0]: [-0.00132318 -0.73784676]
+[INFO] [1754223588.730845705] [solver_node]: [PoseSolver_angle] collision_vectors[1]: [-4.09386582 -0.17429251]
+[INFO] [1754223588.738685815] [solver_node]: [PoseSolver_angle] collision_vectors[2]: [ 5.88190812 -0.24455483]
+[INFO] [1754223588.739872049] [solver_node]: [PoseSolver_angle] collision_vectors[3]: [5.89060353 0.25175023]
+[INFO] [1754223588.740683427] [solver_node]: [PoseSolver_angle] thetas 详细内容: 形状: (4,), 类型: float64
+[INFO] [1754223588.741439828] [solver_node]: [PoseSolver_angle] thetas[0]: -1.5725896207740602
+[INFO] [1754223588.742143588] [solver_node]: [PoseSolver_angle] thetas[1]: -3.09904428292105
+[INFO] [1754223588.742845459] [solver_node]: [PoseSolver_angle] thetas[2]: -0.04155353170528819
+[INFO] [1754223588.743551107] [solver_node]: [PoseSolver_angle] thetas[3]: 0.04271160406546606
+[INFO] [1754223588.745434061] [solver_node]: [PoseSolver_angle] candidates 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223588.746724074] [solver_node]: [PoseSolver_angle] candidates[0]: [       inf 0.73784676]
+[INFO] [1754223588.747791329] [solver_node]: [PoseSolver_angle] candidates[1]: [4.09386582        inf]
+[INFO] [1754223588.748808280] [solver_node]: [PoseSolver_angle] candidates[2]: [-3.32073918         inf]
+[INFO] [1754223588.749864847] [solver_node]: [PoseSolver_angle] candidates[3]: [-3.32943459         inf]
+[INFO] [1754223588.750601056] [solver_node]: [PoseSolver_angle] results_n: 空数组
+[INFO] [1754223588.752571435] [solver_node]: [PoseSolver_angle] results_n1 详细内容: 形状: (1, 2), 类型: float64
+[INFO] [1754223588.753633027] [solver_node]: [PoseSolver_angle] results_n1[0]: [-3.32508689  0.73784676]
+[INFO] [1754223588.754673850] [solver_node]: 角度求解器返回 1 个解
+[INFO] [1754223588.760910245] [solver_node]: 无效解: x=-3.325, y=0.738, 距离=5.134 > 阈值1.500
+[WARN] [1754223588.761943612] [solver_node]: 没有满足距离要求的解
+[WARN] [1754223588.762810991] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754223588.872488308] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754223588.881557181] [solver_node]: 当前位置: x=1.815, y=0.658, angle=3.141
+[INFO] [1754223588.888572985] [solver_node]: 激光距离数据: [0.361 6.871 3.759 5.597 5.606]
+[INFO] [1754223588.895118410] [solver_node]: [PoseSolver_angle] collision_vectors 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223588.905541554] [solver_node]: [PoseSolver_angle] collision_vectors[0]: [-0.00196189 -0.73784534]
+[INFO] [1754223588.906845135] [solver_node]: [PoseSolver_angle] collision_vectors[1]: [-4.09401516 -0.17074864]
+[INFO] [1754223588.909065056] [solver_node]: [PoseSolver_angle] collision_vectors[2]: [ 5.88169422 -0.24964635]
+[INFO] [1754223588.913580453] [solver_node]: [PoseSolver_angle] collision_vectors[3]: [5.89081925 0.246651  ]
+[INFO] [1754223588.914812064] [solver_node]: [PoseSolver_angle] thetas 详细内容: 形状: (4,), 类型: float64
+[INFO] [1754223588.915623250] [solver_node]: [PoseSolver_angle] thetas[0]: -1.5734552599552425
+[INFO] [1754223588.918007623] [solver_node]: [PoseSolver_angle] thetas[1]: -3.099909922102232
+[INFO] [1754223588.920111350] [solver_node]: [PoseSolver_angle] thetas[2]: -0.04241917088647031
+[INFO] [1754223588.921190830] [solver_node]: [PoseSolver_angle] thetas[3]: 0.04184596488428393
+[INFO] [1754223588.924093230] [solver_node]: [PoseSolver_angle] candidates 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223588.925649521] [solver_node]: [PoseSolver_angle] candidates[0]: [       inf 0.73784534]
+[INFO] [1754223588.928428335] [solver_node]: [PoseSolver_angle] candidates[1]: [4.09401516        inf]
+[INFO] [1754223588.929839854] [solver_node]: [PoseSolver_angle] candidates[2]: [-3.32052528         inf]
+[INFO] [1754223588.931037641] [solver_node]: [PoseSolver_angle] candidates[3]: [-3.32965031         inf]
+[INFO] [1754223588.931788889] [solver_node]: [PoseSolver_angle] results_n: 空数组
+[INFO] [1754223588.933774661] [solver_node]: [PoseSolver_angle] results_n1 详细内容: 形状: (1, 2), 类型: float64
+[INFO] [1754223588.935387241] [solver_node]: [PoseSolver_angle] results_n1[0]: [-3.3250878   0.73784534]
+[INFO] [1754223588.936515458] [solver_node]: 角度求解器返回 1 个解
+[INFO] [1754223588.937348821] [solver_node]: 无效解: x=-3.325, y=0.738, 距离=5.140 > 阈值1.500
+[WARN] [1754223588.938395884] [solver_node]: 没有满足距离要求的解
+[WARN] [1754223588.939256607] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754223588.940261077] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754223588.944426866] [solver_node]: 当前位置: x=1.813, y=0.647, angle=-3.141
+[INFO] [1754223588.945785456] [solver_node]: 激光距离数据: [0.361 6.871 3.759 5.597 5.606]
+[INFO] [1754223588.947390516] [solver_node]: [PoseSolver_angle] collision_vectors 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223588.948554126] [solver_node]: [PoseSolver_angle] collision_vectors[0]: [-0.00142439 -0.73784657]
+[INFO] [1754223588.949693287] [solver_node]: [PoseSolver_angle] collision_vectors[1]: [-4.09388969 -0.17373092]
+[INFO] [1754223588.950677661] [solver_node]: [PoseSolver_angle] collision_vectors[2]: [ 5.88187452 -0.24536169]
+[INFO] [1754223588.952120605] [solver_node]: [PoseSolver_angle] collision_vectors[3]: [5.89063801 0.25094217]
+[INFO] [1754223588.953023633] [solver_node]: [PoseSolver_angle] thetas 详细内容: 形状: (4,), 类型: float64
+[INFO] [1754223588.954442161] [solver_node]: [PoseSolver_angle] thetas[0]: -1.5727267977206016
+[INFO] [1754223588.955196321] [solver_node]: [PoseSolver_angle] thetas[1]: -3.0991814598675913
+[INFO] [1754223588.955942738] [solver_node]: [PoseSolver_angle] thetas[2]: -0.04169070865182966
+[INFO] [1754223588.956681570] [solver_node]: [PoseSolver_angle] thetas[3]: 0.04257442711892459
+[INFO] [1754223588.958639310] [solver_node]: [PoseSolver_angle] candidates 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223588.959960331] [solver_node]: [PoseSolver_angle] candidates[0]: [       inf 0.73784657]
+[INFO] [1754223588.961339626] [solver_node]: [PoseSolver_angle] candidates[1]: [4.09388969        inf]
+[INFO] [1754223588.962382945] [solver_node]: [PoseSolver_angle] candidates[2]: [-3.32070558         inf]
+[INFO] [1754223588.963666877] [solver_node]: [PoseSolver_angle] candidates[3]: [-3.32946907         inf]
+[INFO] [1754223588.964417774] [solver_node]: [PoseSolver_angle] results_n: 空数组
+[INFO] [1754223588.966457307] [solver_node]: [PoseSolver_angle] results_n1 详细内容: 形状: (1, 2), 类型: float64
+[INFO] [1754223588.967592949] [solver_node]: [PoseSolver_angle] results_n1[0]: [-3.32508733  0.73784657]
+[INFO] [1754223588.968634700] [solver_node]: 角度求解器返回 1 个解
+[INFO] [1754223588.969426589] [solver_node]: 无效解: x=-3.325, y=0.738, 距离=5.138 > 阈值1.500
+[WARN] [1754223588.970268048] [solver_node]: 没有满足距离要求的解
+[WARN] [1754223588.971320840] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754223588.973206513] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754223589.001577096] [solver_node]: 当前位置: x=1.807, y=0.655, angle=-3.140
+[INFO] [1754223589.003225516] [solver_node]: 激光距离数据: [0.361 6.871 3.759 5.597 5.606]
+[INFO] [1754223589.004545482] [solver_node]: [PoseSolver_angle] collision_vectors 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223589.006293393] [solver_node]: [PoseSolver_angle] collision_vectors[0]: [-6.75054639e-04 -7.37847637e-01]
+[INFO] [1754223589.007558285] [solver_node]: [PoseSolver_angle] collision_vectors[1]: [-4.09371114 -0.17788848]
+[INFO] [1754223589.008818569] [solver_node]: [PoseSolver_angle] collision_vectors[2]: [ 5.88212067 -0.23938808]
+[INFO] [1754223589.009954274] [solver_node]: [PoseSolver_angle] collision_vectors[3]: [5.89038012 0.25692442]
+[INFO] [1754223589.010822901] [solver_node]: [PoseSolver_angle] thetas 详细内容: 形状: (4,), 类型: float64
+[INFO] [1754223589.011663336] [solver_node]: [PoseSolver_angle] thetas[0]: -1.5717112236055166
+[INFO] [1754223589.012451609] [solver_node]: [PoseSolver_angle] thetas[1]: -3.0981658857525063
+[INFO] [1754223589.013907802] [solver_node]: [PoseSolver_angle] thetas[2]: -0.04067513453674465
+[INFO] [1754223589.014725516] [solver_node]: [PoseSolver_angle] thetas[3]: 0.04359000123400961
+[INFO] [1754223589.016459122] [solver_node]: [PoseSolver_angle] candidates 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223589.019521654] [solver_node]: [PoseSolver_angle] candidates[0]: [       inf 0.73784764]
+[INFO] [1754223589.021677798] [solver_node]: [PoseSolver_angle] candidates[1]: [4.09371114        inf]
+[INFO] [1754223589.022961731] [solver_node]: [PoseSolver_angle] candidates[2]: [-3.32095173         inf]
+[INFO] [1754223589.025090898] [solver_node]: [PoseSolver_angle] candidates[3]: [-3.32921118         inf]
+[INFO] [1754223589.025972198] [solver_node]: [PoseSolver_angle] results_n: 空数组
+[INFO] [1754223589.028084533] [solver_node]: [PoseSolver_angle] results_n1 详细内容: 形状: (1, 2), 类型: float64
+[INFO] [1754223589.031278907] [solver_node]: [PoseSolver_angle] results_n1[0]: [-3.32508146  0.73784764]
+[INFO] [1754223589.034345600] [solver_node]: 角度求解器返回 1 个解
+[INFO] [1754223589.036297867] [solver_node]: 无效解: x=-3.325, y=0.738, 距离=5.132 > 阈值1.500
+[WARN] [1754223589.041633377] [solver_node]: 没有满足距离要求的解
+[WARN] [1754223589.042641496] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754223589.044601123] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754223589.059011907] [solver_node]: 当前位置: x=1.809, y=0.659, angle=3.142
+[INFO] [1754223589.060312032] [solver_node]: 激光距离数据: [0.361 6.871 3.759 5.597 5.606]
+[INFO] [1754223589.088210188] [solver_node]: [PoseSolver_angle] collision_vectors 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223589.090308571] [solver_node]: [PoseSolver_angle] collision_vectors[0]: [-0.00181396 -0.73784572]
+[INFO] [1754223589.092663407] [solver_node]: [PoseSolver_angle] collision_vectors[1]: [-4.09398084 -0.17156944]
+[INFO] [1754223589.095171751] [solver_node]: [PoseSolver_angle] collision_vectors[2]: [ 5.88174416 -0.24846712]
+[INFO] [1754223589.100229463] [solver_node]: [PoseSolver_angle] collision_vectors[3]: [5.89076968 0.24783205]
+[INFO] [1754223589.101923261] [solver_node]: [PoseSolver_angle] thetas 详细内容: 形状: (4,), 类型: float64
+[INFO] [1754223589.102699822] [solver_node]: [PoseSolver_angle] thetas[0]: -1.5732547699360195
+[INFO] [1754223589.103422046] [solver_node]: [PoseSolver_angle] thetas[1]: -3.099709432083009
+[INFO] [1754223589.110519932] [solver_node]: [PoseSolver_angle] thetas[2]: -0.04221868086724736
+[INFO] [1754223589.111372943] [solver_node]: [PoseSolver_angle] thetas[3]: 0.042046454903506884
+[INFO] [1754223589.118076675] [solver_node]: [PoseSolver_angle] candidates 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223589.120868577] [solver_node]: [PoseSolver_angle] candidates[0]: [       inf 0.73784572]
+[INFO] [1754223589.123373881] [solver_node]: [PoseSolver_angle] candidates[1]: [4.09398084        inf]
+[INFO] [1754223589.124748408] [solver_node]: [PoseSolver_angle] candidates[2]: [-3.32057522         inf]
+[INFO] [1754223589.125897201] [solver_node]: [PoseSolver_angle] candidates[3]: [-3.32960074         inf]
+[INFO] [1754223589.126629377] [solver_node]: [PoseSolver_angle] results_n: 空数组
+[INFO] [1754223589.128443690] [solver_node]: [PoseSolver_angle] results_n1 详细内容: 形状: (1, 2), 类型: float64
+[INFO] [1754223589.129666469] [solver_node]: [PoseSolver_angle] results_n1[0]: [-3.32508798  0.73784572]
+[INFO] [1754223589.130710460] [solver_node]: 角度求解器返回 1 个解
+[INFO] [1754223589.132861484] [solver_node]: 无效解: x=-3.325, y=0.738, 距离=5.135 > 阈值1.500
+[WARN] [1754223589.133798305] [solver_node]: 没有满足距离要求的解
+[WARN] [1754223589.134586066] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754223589.135584968] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754223589.164988693] [solver_node]: 当前位置: x=1.817, y=0.665, angle=-3.141
+[INFO] [1754223589.166407573] [solver_node]: 激光距离数据: [0.361 6.871 3.759 5.597 5.606]
+[INFO] [1754223589.167534638] [solver_node]: [PoseSolver_angle] collision_vectors 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223589.168525572] [solver_node]: [PoseSolver_angle] collision_vectors[0]: [-0.00151219 -0.7378464 ]
+[INFO] [1754223589.169551323] [solver_node]: [PoseSolver_angle] collision_vectors[1]: [-4.09391033 -0.17324376]
+[INFO] [1754223589.170546577] [solver_node]: [PoseSolver_angle] collision_vectors[2]: [ 5.88184528 -0.24606161]
+[INFO] [1754223589.174523401] [solver_node]: [PoseSolver_angle] collision_vectors[3]: [5.89066783 0.2502412 ]
+[INFO] [1754223589.180699346] [solver_node]: [PoseSolver_angle] thetas 详细内容: 形状: (4,), 类型: float64
+[INFO] [1754223589.192983363] [solver_node]: [PoseSolver_angle] thetas[0]: -1.5728457947525223
+[INFO] [1754223589.204442690] [solver_node]: [PoseSolver_angle] thetas[1]: -3.099300456899512
+[INFO] [1754223589.206495759] [solver_node]: [PoseSolver_angle] thetas[2]: -0.04180970568375031
+[INFO] [1754223589.208520700] [solver_node]: [PoseSolver_angle] thetas[3]: 0.04245543008700395
+[INFO] [1754223589.210972371] [solver_node]: [PoseSolver_angle] candidates 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223589.214283068] [solver_node]: [PoseSolver_angle] candidates[0]: [      inf 0.7378464]
+[INFO] [1754223589.220184703] [solver_node]: [PoseSolver_angle] candidates[1]: [4.09391033        inf]
+[INFO] [1754223589.232309709] [solver_node]: [PoseSolver_angle] candidates[2]: [-3.32067634         inf]
+[INFO] [1754223589.236462761] [solver_node]: [PoseSolver_angle] candidates[3]: [-3.32949889         inf]
+[INFO] [1754223589.237447135] [solver_node]: [PoseSolver_angle] results_n: 空数组
+[INFO] [1754223589.241517241] [solver_node]: [PoseSolver_angle] results_n1 详细内容: 形状: (1, 2), 类型: float64
+[INFO] [1754223589.242848599] [solver_node]: [PoseSolver_angle] results_n1[0]: [-3.32508762  0.7378464 ]
+[INFO] [1754223589.243945263] [solver_node]: 角度求解器返回 1 个解
+[INFO] [1754223589.244753473] [solver_node]: 无效解: x=-3.325, y=0.738, 距离=5.143 > 阈值1.500
+[WARN] [1754223589.245609876] [solver_node]: 没有满足距离要求的解
+[WARN] [1754223589.246923569] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754223589.251798430] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754223589.270985320] [solver_node]: 当前位置: x=1.819, y=0.661, angle=-3.141
+[INFO] [1754223589.299883178] [solver_node]: 激光距离数据: [0.361 6.871 3.759 5.597 5.606]
+[INFO] [1754223589.302830859] [solver_node]: [PoseSolver_angle] collision_vectors 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223589.305156287] [solver_node]: [PoseSolver_angle] collision_vectors[0]: [-0.00158973 -0.73784623]
+[INFO] [1754223589.307028904] [solver_node]: [PoseSolver_angle] collision_vectors[1]: [-4.09392851 -0.17281356]
+[INFO] [1754223589.311274695] [solver_node]: [PoseSolver_angle] collision_vectors[2]: [ 5.88181939 -0.2466797 ]
+[INFO] [1754223589.316408057] [solver_node]: [PoseSolver_angle] collision_vectors[3]: [5.89069409 0.24962219]
+[INFO] [1754223589.323722427] [solver_node]: [PoseSolver_angle] thetas 详细内容: 形状: (4,), 类型: float64
+[INFO] [1754223589.325251005] [solver_node]: [PoseSolver_angle] thetas[0]: -1.572950878169619
+[INFO] [1754223589.326902178] [solver_node]: [PoseSolver_angle] thetas[1]: -3.0994055403166088
+[INFO] [1754223589.328933295] [solver_node]: [PoseSolver_angle] thetas[2]: -0.04191478910084711
+[INFO] [1754223589.331203713] [solver_node]: [PoseSolver_angle] thetas[3]: 0.04235034666990714
+[INFO] [1754223589.339253300] [solver_node]: [PoseSolver_angle] candidates 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223589.343555540] [solver_node]: [PoseSolver_angle] candidates[0]: [       inf 0.73784623]
+[INFO] [1754223589.346854845] [solver_node]: [PoseSolver_angle] candidates[1]: [4.09392851        inf]
+[INFO] [1754223589.348867338] [solver_node]: [PoseSolver_angle] candidates[2]: [-3.32065045         inf]
+[INFO] [1754223589.358458783] [solver_node]: [PoseSolver_angle] candidates[3]: [-3.32952515         inf]
+[INFO] [1754223589.359401684] [solver_node]: [PoseSolver_angle] results_n: 空数组
+[INFO] [1754223589.363090246] [solver_node]: [PoseSolver_angle] results_n1 详细内容: 形状: (1, 2), 类型: float64
+[INFO] [1754223589.366377615] [solver_node]: [PoseSolver_angle] results_n1[0]: [-3.3250878   0.73784623]
+[INFO] [1754223589.370234724] [solver_node]: 角度求解器返回 1 个解
+[INFO] [1754223589.371162937] [solver_node]: 无效解: x=-3.325, y=0.738, 距离=5.145 > 阈值1.500
+[WARN] [1754223589.376188616] [solver_node]: 没有满足距离要求的解
+[WARN] [1754223589.380420742] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754223589.382920894] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754223589.403566537] [solver_node]: 当前位置: x=1.819, y=0.665, angle=-3.140
+[INFO] [1754223589.411524089] [solver_node]: 激光距离数据: [0.361 6.871 3.759 5.597 5.606]
+[INFO] [1754223589.418713209] [solver_node]: [PoseSolver_angle] collision_vectors 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223589.435962040] [solver_node]: [PoseSolver_angle] collision_vectors[0]: [-6.53325391e-04 -7.37847657e-01]
+[INFO] [1754223589.452107615] [solver_node]: [PoseSolver_angle] collision_vectors[1]: [-4.0937059  -0.17800904]
+[INFO] [1754223589.459947213] [solver_node]: [PoseSolver_angle] collision_vectors[2]: [ 5.88212772 -0.23921486]
+[INFO] [1754223589.461349260] [solver_node]: [PoseSolver_angle] collision_vectors[3]: [5.89037255 0.25709789]
+[INFO] [1754223589.462233888] [solver_node]: [PoseSolver_angle] thetas 详细内容: 形状: (4,), 类型: float64
+[INFO] [1754223589.463019089] [solver_node]: [PoseSolver_angle] thetas[0]: -1.5716817741013693
+[INFO] [1754223589.463737985] [solver_node]: [PoseSolver_angle] thetas[1]: -3.098136436248359
+[INFO] [1754223589.464453841] [solver_node]: [PoseSolver_angle] thetas[2]: -0.04064568503259735
+[INFO] [1754223589.465231554] [solver_node]: [PoseSolver_angle] thetas[3]: 0.043619450738156894
+[INFO] [1754223589.467110252] [solver_node]: [PoseSolver_angle] candidates 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223589.468344871] [solver_node]: [PoseSolver_angle] candidates[0]: [       inf 0.73784766]
+[INFO] [1754223589.469791400] [solver_node]: [PoseSolver_angle] candidates[1]: [4.0937059       inf]
+[INFO] [1754223589.471024163] [solver_node]: [PoseSolver_angle] candidates[2]: [-3.32095878         inf]
+[INFO] [1754223589.472707976] [solver_node]: [PoseSolver_angle] candidates[3]: [-3.32920361         inf]
+[INFO] [1754223589.473812353] [solver_node]: [PoseSolver_angle] results_n: 空数组
+[INFO] [1754223589.476120372] [solver_node]: [PoseSolver_angle] results_n1 详细内容: 形状: (1, 2), 类型: float64
+[INFO] [1754223589.477389808] [solver_node]: [PoseSolver_angle] results_n1[0]: [-3.3250812   0.73784766]
+[INFO] [1754223589.478763855] [solver_node]: 角度求解器返回 1 个解
+[INFO] [1754223589.479575873] [solver_node]: 无效解: x=-3.325, y=0.738, 距离=5.144 > 阈值1.500
+[WARN] [1754223589.480736827] [solver_node]: 没有满足距离要求的解
+[WARN] [1754223589.481582989] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754223589.510525232] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754223589.521150812] [solver_node]: 当前位置: x=1.810, y=0.666, angle=-3.141
+[INFO] [1754223589.529513846] [solver_node]: 激光距离数据: [0.361 6.871 3.759 5.597 5.606]
+[INFO] [1754223589.530779410] [solver_node]: [PoseSolver_angle] collision_vectors 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223589.531834474] [solver_node]: [PoseSolver_angle] collision_vectors[0]: [-0.00155522 -0.73784631]
+[INFO] [1754223589.532797791] [solver_node]: [PoseSolver_angle] collision_vectors[1]: [-4.09392043 -0.17300503]
+[INFO] [1754223589.534083548] [solver_node]: [PoseSolver_angle] collision_vectors[2]: [ 5.88183092 -0.24640461]
+[INFO] [1754223589.535189076] [solver_node]: [PoseSolver_angle] collision_vectors[3]: [5.89068241 0.24989769]
+[INFO] [1754223589.536054983] [solver_node]: [PoseSolver_angle] thetas 详细内容: 形状: (4,), 类型: float64
+[INFO] [1754223589.536893178] [solver_node]: [PoseSolver_angle] thetas[0]: -1.5729041100105572
+[INFO] [1754223589.537639211] [solver_node]: [PoseSolver_angle] thetas[1]: -3.099358772157547
+[INFO] [1754223589.538372635] [solver_node]: [PoseSolver_angle] thetas[2]: -0.04186802094178521
+[INFO] [1754223589.539063018] [solver_node]: [PoseSolver_angle] thetas[3]: 0.04239711482896904
+[INFO] [1754223589.540816337] [solver_node]: [PoseSolver_angle] candidates 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223589.543804787] [solver_node]: [PoseSolver_angle] candidates[0]: [       inf 0.73784631]
+[INFO] [1754223589.545301493] [solver_node]: [PoseSolver_angle] candidates[1]: [4.09392043        inf]
+[INFO] [1754223589.546623058] [solver_node]: [PoseSolver_angle] candidates[2]: [-3.32066198         inf]
+[INFO] [1754223589.547686602] [solver_node]: [PoseSolver_angle] candidates[3]: [-3.32951347         inf]
+[INFO] [1754223589.548418874] [solver_node]: [PoseSolver_angle] results_n: 空数组
+[INFO] [1754223589.550342469] [solver_node]: [PoseSolver_angle] results_n1 详细内容: 形状: (1, 2), 类型: float64
+[INFO] [1754223589.551971401] [solver_node]: [PoseSolver_angle] results_n1[0]: [-3.32508773  0.73784631]
+[INFO] [1754223589.557269631] [solver_node]: 角度求解器返回 1 个解
+[INFO] [1754223589.559976667] [solver_node]: 无效解: x=-3.325, y=0.738, 距离=5.135 > 阈值1.500
+[WARN] [1754223589.562065129] [solver_node]: 没有满足距离要求的解
+[WARN] [1754223589.564069430] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754223589.565512694] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754223589.585418384] [solver_node]: 当前位置: x=1.815, y=0.666, angle=-3.141
+[INFO] [1754223589.589318438] [solver_node]: 激光距离数据: [0.361 6.871 3.759 5.597 5.606]
+[INFO] [1754223589.593907372] [solver_node]: [PoseSolver_angle] collision_vectors 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223589.595664851] [solver_node]: [PoseSolver_angle] collision_vectors[0]: [-0.00155451 -0.73784631]
+[INFO] [1754223589.596868910] [solver_node]: [PoseSolver_angle] collision_vectors[1]: [-4.09392026 -0.17300896]
+[INFO] [1754223589.602988502] [solver_node]: [PoseSolver_angle] collision_vectors[2]: [ 5.88183116 -0.24639896]
+[INFO] [1754223589.606755306] [solver_node]: [PoseSolver_angle] collision_vectors[3]: [5.89068217 0.24990335]
+[INFO] [1754223589.609094910] [solver_node]: [PoseSolver_angle] thetas 详细内容: 形状: (4,), 类型: float64
+[INFO] [1754223589.612419591] [solver_node]: [PoseSolver_angle] thetas[0]: -1.5729031489525844
+[INFO] [1754223589.616188955] [solver_node]: [PoseSolver_angle] thetas[1]: -3.099357811099574
+[INFO] [1754223589.619469476] [solver_node]: [PoseSolver_angle] thetas[2]: -0.041867059883812445
+[INFO] [1754223589.622455078] [solver_node]: [PoseSolver_angle] thetas[3]: 0.0423980758869418
+[INFO] [1754223589.626549921] [solver_node]: [PoseSolver_angle] candidates 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223589.630621148] [solver_node]: [PoseSolver_angle] candidates[0]: [       inf 0.73784631]
+[INFO] [1754223589.633372377] [solver_node]: [PoseSolver_angle] candidates[1]: [4.09392026        inf]
+[INFO] [1754223589.637921822] [solver_node]: [PoseSolver_angle] candidates[2]: [-3.32066222         inf]
+[INFO] [1754223589.640889312] [solver_node]: [PoseSolver_angle] candidates[3]: [-3.32951323         inf]
+[INFO] [1754223589.644551473] [solver_node]: [PoseSolver_angle] results_n: 空数组
+[INFO] [1754223589.649534624] [solver_node]: [PoseSolver_angle] results_n1 详细内容: 形状: (1, 2), 类型: float64
+[INFO] [1754223589.654400780] [solver_node]: [PoseSolver_angle] results_n1[0]: [-3.32508773  0.73784631]
+[INFO] [1754223589.656569020] [solver_node]: 角度求解器返回 1 个解
+[INFO] [1754223589.657534226] [solver_node]: 无效解: x=-3.325, y=0.738, 距离=5.141 > 阈值1.500
+[WARN] [1754223589.658725900] [solver_node]: 没有满足距离要求的解
+[WARN] [1754223589.659598559] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754223589.660739353] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754223589.680767574] [solver_node]: 当前位置: x=1.816, y=0.656, angle=3.142
+[INFO] [1754223589.686058443] [solver_node]: 激光距离数据: [0.361 6.871 3.759 5.597 5.606]
+[INFO] [1754223589.712828190] [solver_node]: [PoseSolver_angle] collision_vectors 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223589.717890766] [solver_node]: [PoseSolver_angle] collision_vectors[0]: [-0.00177619 -0.73784581]
+[INFO] [1754223589.721042996] [solver_node]: [PoseSolver_angle] collision_vectors[1]: [-4.09397205 -0.17177897]
+[INFO] [1754223589.743288162] [solver_node]: [PoseSolver_angle] collision_vectors[2]: [ 5.88175687 -0.24816609]
+[INFO] [1754223589.755509234] [solver_node]: [PoseSolver_angle] collision_vectors[3]: [5.89075699 0.24813354]
+[INFO] [1754223589.760344477] [solver_node]: [PoseSolver_angle] thetas 详细内容: 形状: (4,), 类型: float64
+[INFO] [1754223589.774192497] [solver_node]: [PoseSolver_angle] thetas[0]: -1.5732035889794338
+[INFO] [1754223589.780511037] [solver_node]: [PoseSolver_angle] thetas[1]: -3.0996582511264235
+[INFO] [1754223589.782698350] [solver_node]: [PoseSolver_angle] thetas[2]: -0.04216749991066162
+[INFO] [1754223589.784381011] [solver_node]: [PoseSolver_angle] thetas[3]: 0.04209763586009263
+[INFO] [1754223589.788514607] [solver_node]: [PoseSolver_angle] candidates 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223589.791837081] [solver_node]: [PoseSolver_angle] candidates[0]: [       inf 0.73784581]
+[INFO] [1754223589.794433170] [solver_node]: [PoseSolver_angle] candidates[1]: [4.09397205        inf]
+[INFO] [1754223589.797239377] [solver_node]: [PoseSolver_angle] candidates[2]: [-3.32058793         inf]
+[INFO] [1754223589.799860139] [solver_node]: [PoseSolver_angle] candidates[3]: [-3.32958805         inf]
+[INFO] [1754223589.801907896] [solver_node]: [PoseSolver_angle] results_n: 空数组
+[INFO] [1754223589.806368123] [solver_node]: [PoseSolver_angle] results_n1 详细内容: 形状: (1, 2), 类型: float64
+[INFO] [1754223589.815675594] [solver_node]: [PoseSolver_angle] results_n1[0]: [-3.32508799  0.73784581]
+[INFO] [1754223589.823340660] [solver_node]: 角度求解器返回 1 个解
+[INFO] [1754223589.825409506] [solver_node]: 无效解: x=-3.325, y=0.738, 距离=5.142 > 阈值1.500
+[WARN] [1754223589.827292652] [solver_node]: 没有满足距离要求的解
+[WARN] [1754223589.829286488] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754223589.831321542] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754223589.834213958] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754223589.848096346] [solver_node]: 当前位置: x=1.803, y=0.658, angle=-3.141
+[INFO] [1754223589.859849855] [solver_node]: 激光距离数据: [0.361 6.871 3.759 5.597 5.606]
+[INFO] [1754223589.864700299] [solver_node]: [PoseSolver_angle] collision_vectors 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223589.869753435] [solver_node]: [PoseSolver_angle] collision_vectors[0]: [-0.00120034 -0.73784697]
+[INFO] [1754223589.874555238] [solver_node]: [PoseSolver_angle] collision_vectors[1]: [-4.09383674 -0.17497406]
+[INFO] [1754223589.890670956] [solver_node]: [PoseSolver_angle] collision_vectors[2]: [ 5.88194876 -0.2435756 ]
+[INFO] [1754223589.894257276] [solver_node]: [PoseSolver_angle] collision_vectors[3]: [5.89056154 0.2527309 ]
+[INFO] [1754223589.897124827] [solver_node]: [PoseSolver_angle] thetas 详细内容: 形状: (4,), 类型: float64
+[INFO] [1754223589.903704813] [solver_node]: [PoseSolver_angle] thetas[0]: -1.572423139540107
+[INFO] [1754223589.921241075] [solver_node]: [PoseSolver_angle] thetas[1]: -3.0988778016870966
+[INFO] [1754223589.923121213] [solver_node]: [PoseSolver_angle] thetas[2]: -0.04138705047133495
+[INFO] [1754223589.926000733] [solver_node]: [PoseSolver_angle] thetas[3]: 0.04287808529941929
+[INFO] [1754223589.932254984] [solver_node]: [PoseSolver_angle] candidates 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223589.939866225] [solver_node]: [PoseSolver_angle] candidates[0]: [       inf 0.73784697]
+[INFO] [1754223589.964281711] [solver_node]: [PoseSolver_angle] candidates[1]: [4.09383674        inf]
+[INFO] [1754223589.972461093] [solver_node]: [PoseSolver_angle] candidates[2]: [-3.32077982         inf]
+[INFO] [1754223589.981702930] [solver_node]: [PoseSolver_angle] candidates[3]: [-3.3293926        inf]
+[INFO] [1754223589.997687413] [solver_node]: [PoseSolver_angle] results_n: 空数组
+[INFO] [1754223590.005374304] [solver_node]: [PoseSolver_angle] results_n1 详细内容: 形状: (1, 2), 类型: float64
+[INFO] [1754223590.008507429] [solver_node]: [PoseSolver_angle] results_n1[0]: [-3.32508621  0.73784697]
+[INFO] [1754223590.012644833] [solver_node]: 角度求解器返回 1 个解
+[INFO] [1754223590.014744624] [solver_node]: 无效解: x=-3.325, y=0.738, 距离=5.129 > 阈值1.500
+[WARN] [1754223590.016614009] [solver_node]: 没有满足距离要求的解
+[WARN] [1754223590.018289310] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754223590.020178536] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754223590.049795706] [solver_node]: 当前位置: x=1.812, y=0.661, angle=-3.140
+[INFO] [1754223590.053765074] [solver_node]: 激光距离数据: [0.361 6.871 3.759 5.597 5.604]
+[INFO] [1754223590.060079614] [solver_node]: [PoseSolver_angle] collision_vectors 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223590.067091386] [solver_node]: [PoseSolver_angle] collision_vectors[0]: [-0.0008553  -0.73784745]
+[INFO] [1754223590.075092684] [solver_node]: [PoseSolver_angle] collision_vectors[1]: [-4.09375447 -0.17688844]
+[INFO] [1754223590.078960162] [solver_node]: [PoseSolver_angle] collision_vectors[2]: [ 5.88206202 -0.240825  ]
+[INFO] [1754223590.082173065] [solver_node]: [PoseSolver_angle] collision_vectors[3]: [5.88844271 0.25548298]
+[INFO] [1754223590.084656096] [solver_node]: [PoseSolver_angle] thetas 详细内容: 形状: (4,), 类型: float64
+[INFO] [1754223590.086824848] [solver_node]: [PoseSolver_angle] thetas[0]: -1.5719555108074414
+[INFO] [1754223590.088581591] [solver_node]: [PoseSolver_angle] thetas[1]: -3.098410172954431
+[INFO] [1754223590.090429120] [solver_node]: [PoseSolver_angle] thetas[2]: -0.04091942173866947
+[INFO] [1754223590.092225352] [solver_node]: [PoseSolver_angle] thetas[3]: 0.04335999574853158
+[INFO] [1754223590.094823234] [solver_node]: [PoseSolver_angle] candidates 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223590.098630102] [solver_node]: [PoseSolver_angle] candidates[0]: [       inf 0.73784745]
+[INFO] [1754223590.100564737] [solver_node]: [PoseSolver_angle] candidates[1]: [4.09375447        inf]
+[INFO] [1754223590.102564526] [solver_node]: [PoseSolver_angle] candidates[2]: [-3.32089308         inf]
+[INFO] [1754223590.104386870] [solver_node]: [PoseSolver_angle] candidates[3]: [-3.32727377         inf]
+[INFO] [1754223590.105908632] [solver_node]: [PoseSolver_angle] results_n: 空数组
+[INFO] [1754223590.115270728] [solver_node]: [PoseSolver_angle] results_n1 详细内容: 形状: (1, 2), 类型: float64
+[INFO] [1754223590.118026757] [solver_node]: [PoseSolver_angle] results_n1[0]: [-3.32408342  0.73784745]
+[INFO] [1754223590.122022750] [solver_node]: 角度求解器返回 1 个解
+[INFO] [1754223590.131220362] [solver_node]: 无效解: x=-3.324, y=0.738, 距离=5.137 > 阈值1.500
+[WARN] [1754223590.138800434] [solver_node]: 没有满足距离要求的解
+[WARN] [1754223590.139740807] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754223590.151667568] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754223590.161790385] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754223590.202578491] [solver_node]: 当前位置: x=1.813, y=0.657, angle=-3.140
+[INFO] [1754223590.212399189] [solver_node]: 激光距离数据: [0.361 6.871 3.759 5.597 5.604]
+[INFO] [1754223590.218491516] [solver_node]: [PoseSolver_angle] collision_vectors 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223590.222267056] [solver_node]: [PoseSolver_angle] collision_vectors[0]: [-0.00088605 -0.73784741]
+[INFO] [1754223590.225381749] [solver_node]: [PoseSolver_angle] collision_vectors[1]: [-4.09376184 -0.17671781]
+[INFO] [1754223590.228432825] [solver_node]: [PoseSolver_angle] collision_vectors[2]: [ 5.88205197 -0.24107017]
+[INFO] [1754223590.235961760] [solver_node]: [PoseSolver_angle] collision_vectors[3]: [5.88845335 0.25523755]
+[INFO] [1754223590.240396994] [solver_node]: [PoseSolver_angle] thetas 详细内容: 形状: (4,), 类型: float64
+[INFO] [1754223590.248569112] [solver_node]: [PoseSolver_angle] thetas[0]: -1.5719971907884946
+[INFO] [1754223590.249999128] [solver_node]: [PoseSolver_angle] thetas[1]: -3.0984518529354843
+[INFO] [1754223590.250976845] [solver_node]: [PoseSolver_angle] thetas[2]: -0.04096110171972267
+[INFO] [1754223590.254323064] [solver_node]: [PoseSolver_angle] thetas[3]: 0.04331831576747749
+[INFO] [1754223590.260681733] [solver_node]: [PoseSolver_angle] candidates 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223590.262778291] [solver_node]: [PoseSolver_angle] candidates[0]: [       inf 0.73784741]
+[INFO] [1754223590.264308789] [solver_node]: [PoseSolver_angle] candidates[1]: [4.09376184        inf]
+[INFO] [1754223590.265616370] [solver_node]: [PoseSolver_angle] candidates[2]: [-3.32088303         inf]
+[INFO] [1754223590.266706571] [solver_node]: [PoseSolver_angle] candidates[3]: [-3.32728441         inf]
+[INFO] [1754223590.267450203] [solver_node]: [PoseSolver_angle] results_n: 空数组
+[INFO] [1754223590.269667916] [solver_node]: [PoseSolver_angle] results_n1 详细内容: 形状: (1, 2), 类型: float64
+[INFO] [1754223590.270826854] [solver_node]: [PoseSolver_angle] results_n1[0]: [-3.32408372  0.73784741]
+[INFO] [1754223590.271917694] [solver_node]: 角度求解器返回 1 个解
+[INFO] [1754223590.272764241] [solver_node]: 无效解: x=-3.324, y=0.738, 距离=5.138 > 阈值1.500
+[WARN] [1754223590.273859625] [solver_node]: 没有满足距离要求的解
+[WARN] [1754223590.274861728] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754223590.307259247] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754223590.317067657] [solver_node]: 当前位置: x=1.817, y=0.669, angle=-3.140
+[INFO] [1754223590.318339141] [solver_node]: 激光距离数据: [0.361 6.871 3.759 5.597 5.604]
+[INFO] [1754223590.319446558] [solver_node]: [PoseSolver_angle] collision_vectors 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223590.321766993] [solver_node]: [PoseSolver_angle] collision_vectors[0]: [-0.00080211 -0.73784751]
+[INFO] [1754223590.334732657] [solver_node]: [PoseSolver_angle] collision_vectors[1]: [-4.09374171 -0.17718354]
+[INFO] [1754223590.340352558] [solver_node]: [PoseSolver_angle] collision_vectors[2]: [ 5.88207936 -0.24040098]
+[INFO] [1754223590.342112661] [solver_node]: [PoseSolver_angle] collision_vectors[3]: [5.88842428 0.25590746]
+[INFO] [1754223590.343066890] [solver_node]: [PoseSolver_angle] thetas 详细内容: 形状: (4,), 类型: float64
+[INFO] [1754223590.343860604] [solver_node]: [PoseSolver_angle] thetas[0]: -1.5718834237341512
+[INFO] [1754223590.347815828] [solver_node]: [PoseSolver_angle] thetas[1]: -3.098338085881141
+[INFO] [1754223590.351718282] [solver_node]: [PoseSolver_angle] thetas[2]: -0.040847334665379265
+[INFO] [1754223590.363007493] [solver_node]: [PoseSolver_angle] thetas[3]: 0.04343208282182178
+[INFO] [1754223590.369159374] [solver_node]: [PoseSolver_angle] candidates 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223590.375234292] [solver_node]: [PoseSolver_angle] candidates[0]: [       inf 0.73784751]
+[INFO] [1754223590.382181871] [solver_node]: [PoseSolver_angle] candidates[1]: [4.09374171        inf]
+[INFO] [1754223590.400494117] [solver_node]: [PoseSolver_angle] candidates[2]: [-3.32091042         inf]
+[INFO] [1754223590.403342149] [solver_node]: [PoseSolver_angle] candidates[3]: [-3.32725534         inf]
+[INFO] [1754223590.407195994] [solver_node]: [PoseSolver_angle] results_n: 空数组
+[INFO] [1754223590.425934586] [solver_node]: [PoseSolver_angle] results_n1 详细内容: 形状: (1, 2), 类型: float64
+[INFO] [1754223590.429799312] [solver_node]: [PoseSolver_angle] results_n1[0]: [-3.32408288  0.73784751]
+[INFO] [1754223590.432346121] [solver_node]: 角度求解器返回 1 个解
+[INFO] [1754223590.436684073] [solver_node]: 无效解: x=-3.324, y=0.738, 距离=5.142 > 阈值1.500
+[WARN] [1754223590.440048532] [solver_node]: 没有满足距离要求的解
+[WARN] [1754223590.440962856] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754223590.446099194] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754223590.452274979] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754223590.500250604] [solver_node]: 当前位置: x=1.819, y=0.665, angle=-3.140
+[INFO] [1754223590.503088491] [solver_node]: 激光距离数据: [0.361 6.871 3.759 5.597 5.604]
+[INFO] [1754223590.504368904] [solver_node]: [PoseSolver_angle] collision_vectors 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223590.514969459] [solver_node]: [PoseSolver_angle] collision_vectors[0]: [-0.00080238 -0.73784751]
+[INFO] [1754223590.519184913] [solver_node]: [PoseSolver_angle] collision_vectors[1]: [-4.09374177 -0.17718208]
+[INFO] [1754223590.522411257] [solver_node]: [PoseSolver_angle] collision_vectors[2]: [ 5.88207928 -0.24040308]
+[INFO] [1754223590.548677952] [solver_node]: [PoseSolver_angle] collision_vectors[3]: [5.88842437 0.25590536]
+[INFO] [1754223590.551450109] [solver_node]: [PoseSolver_angle] thetas 详细内容: 形状: (4,), 类型: float64
+[INFO] [1754223590.553721680] [solver_node]: [PoseSolver_angle] thetas[0]: -1.5718837809188189
+[INFO] [1754223590.555782462] [solver_node]: [PoseSolver_angle] thetas[1]: -3.0983384430658085
+[INFO] [1754223590.559904857] [solver_node]: [PoseSolver_angle] thetas[2]: -0.040847691850046886
+[INFO] [1754223590.563311493] [solver_node]: [PoseSolver_angle] thetas[3]: 0.04343172563715416
+[INFO] [1754223590.602740208] [solver_node]: [PoseSolver_angle] candidates 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223590.607640957] [solver_node]: [PoseSolver_angle] candidates[0]: [       inf 0.73784751]
+[INFO] [1754223590.643555323] [solver_node]: [PoseSolver_angle] candidates[1]: [4.09374177        inf]
+[INFO] [1754223590.659277720] [solver_node]: [PoseSolver_angle] candidates[2]: [-3.32091034         inf]
+[INFO] [1754223590.662186264] [solver_node]: [PoseSolver_angle] candidates[3]: [-3.32725543         inf]
+[INFO] [1754223590.666112111] [solver_node]: [PoseSolver_angle] results_n: 空数组
+[INFO] [1754223590.670080584] [solver_node]: [PoseSolver_angle] results_n1 详细内容: 形状: (1, 2), 类型: float64
+[INFO] [1754223590.675933578] [solver_node]: [PoseSolver_angle] results_n1[0]: [-3.32408288  0.73784751]
+[INFO] [1754223590.678496706] [solver_node]: 角度求解器返回 1 个解
+[INFO] [1754223590.680476942] [solver_node]: 无效解: x=-3.324, y=0.738, 距离=5.144 > 阈值1.500
+[WARN] [1754223590.682378425] [solver_node]: 没有满足距离要求的解
+[WARN] [1754223590.707355875] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754223590.710225571] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754223590.719232875] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754223590.725423349] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754223590.735579094] [solver_node]: 当前位置: x=1.832, y=0.654, angle=-3.140
+[INFO] [1754223590.746083103] [solver_node]: 激光距离数据: [0.361 6.871 3.759 5.597 5.603]
+[INFO] [1754223590.750530466] [solver_node]: [PoseSolver_angle] collision_vectors 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223590.751828415] [solver_node]: [PoseSolver_angle] collision_vectors[0]: [-0.00085807 -0.73784745]
+[INFO] [1754223590.758938685] [solver_node]: [PoseSolver_angle] collision_vectors[1]: [-4.09375514 -0.17687306]
+[INFO] [1754223590.771065322] [solver_node]: [PoseSolver_angle] collision_vectors[2]: [ 5.88206111 -0.24084709]
+[INFO] [1754223590.774040940] [solver_node]: [PoseSolver_angle] collision_vectors[3]: [5.88744367 0.25545962]
+[INFO] [1754223590.775838612] [solver_node]: [PoseSolver_angle] thetas 详细内容: 形状: (4,), 类型: float64
+[INFO] [1754223590.776927852] [solver_node]: [PoseSolver_angle] thetas[0]: -1.5719592664718893
+[INFO] [1754223590.801995385] [solver_node]: [PoseSolver_angle] thetas[1]: -3.098413928618879
+[INFO] [1754223590.802925037] [solver_node]: [PoseSolver_angle] thetas[2]: -0.04092317740311734
+[INFO] [1754223590.803947492] [solver_node]: [PoseSolver_angle] thetas[3]: 0.04336338457435065
+[INFO] [1754223590.808482633] [solver_node]: [PoseSolver_angle] candidates 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223590.814537295] [solver_node]: [PoseSolver_angle] candidates[0]: [       inf 0.73784745]
+[INFO] [1754223590.817634068] [solver_node]: [PoseSolver_angle] candidates[1]: [4.09375514        inf]
+[INFO] [1754223590.820070602] [solver_node]: [PoseSolver_angle] candidates[2]: [-3.32089217         inf]
+[INFO] [1754223590.822291451] [solver_node]: [PoseSolver_angle] candidates[3]: [-3.32627473         inf]
+[INFO] [1754223590.823143662] [solver_node]: [PoseSolver_angle] results_n: 空数组
+[INFO] [1754223590.828281376] [solver_node]: [PoseSolver_angle] results_n1 详细内容: 形状: (1, 2), 类型: float64
+[INFO] [1754223590.834050241] [solver_node]: [PoseSolver_angle] results_n1[0]: [-3.32358345  0.73784745]
+[INFO] [1754223590.835303132] [solver_node]: 角度求解器返回 1 个解
+[INFO] [1754223590.839790464] [solver_node]: 无效解: x=-3.324, y=0.738, 距离=5.156 > 阈值1.500
+[WARN] [1754223590.847381001] [solver_node]: 没有满足距离要求的解
+[WARN] [1754223590.848359902] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754223590.851010905] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754223590.860176837] [solver_node]: 当前位置: x=1.812, y=0.657, angle=-3.141
+[INFO] [1754223590.885071918] [solver_node]: 激光距离数据: [0.361 6.871 3.759 5.597 5.603]
+[INFO] [1754223590.886678225] [solver_node]: [PoseSolver_angle] collision_vectors 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223590.889509040] [solver_node]: [PoseSolver_angle] collision_vectors[0]: [-0.00114404 -0.73784706]
+[INFO] [1754223590.910262781] [solver_node]: [PoseSolver_angle] collision_vectors[1]: [-4.09382338 -0.17528644]
+[INFO] [1754223590.911614011] [solver_node]: [PoseSolver_angle] collision_vectors[2]: [ 5.88196733 -0.24312677]
+[INFO] [1754223590.912532399] [solver_node]: [PoseSolver_angle] collision_vectors[3]: [5.88754224 0.25317782]
+[INFO] [1754223590.915133225] [solver_node]: [PoseSolver_angle] thetas 详细内容: 形状: (4,), 类型: float64
+[INFO] [1754223590.916766829] [solver_node]: [PoseSolver_angle] thetas[0]: -1.5723468341961053
+[INFO] [1754223590.918007561] [solver_node]: [PoseSolver_angle] thetas[1]: -3.098801496343095
+[INFO] [1754223590.919348871] [solver_node]: [PoseSolver_angle] thetas[2]: -0.041310745127333355
+[INFO] [1754223590.920934250] [solver_node]: [PoseSolver_angle] thetas[3]: 0.04297581685013465
+[INFO] [1754223590.929031806] [solver_node]: [PoseSolver_angle] candidates 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223590.930728675] [solver_node]: [PoseSolver_angle] candidates[0]: [       inf 0.73784706]
+[INFO] [1754223590.931845628] [solver_node]: [PoseSolver_angle] candidates[1]: [4.09382338        inf]
+[INFO] [1754223590.933176666] [solver_node]: [PoseSolver_angle] candidates[2]: [-3.32079839         inf]
+[INFO] [1754223590.934872927] [solver_node]: [PoseSolver_angle] candidates[3]: [-3.3263733        inf]
+[INFO] [1754223590.935606960] [solver_node]: [PoseSolver_angle] results_n: 空数组
+[INFO] [1754223590.937730719] [solver_node]: [PoseSolver_angle] results_n1 详细内容: 形状: (1, 2), 类型: float64
+[INFO] [1754223590.938840824] [solver_node]: [PoseSolver_angle] results_n1[0]: [-3.32358584  0.73784706]
+[INFO] [1754223590.939933392] [solver_node]: 角度求解器返回 1 个解
+[INFO] [1754223590.940688001] [solver_node]: 无效解: x=-3.324, y=0.738, 距离=5.137 > 阈值1.500
+[WARN] [1754223590.941592085] [solver_node]: 没有满足距离要求的解
+[WARN] [1754223590.942598635] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754223590.943601761] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754223590.970951777] [solver_node]: 当前位置: x=1.801, y=0.662, angle=-3.141
+[INFO] [1754223590.973063183] [solver_node]: 激光距离数据: [0.361 6.871 3.759 5.597 5.603]
+[INFO] [1754223590.974416973] [solver_node]: [PoseSolver_angle] collision_vectors 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223590.976352664] [solver_node]: [PoseSolver_angle] collision_vectors[0]: [-0.00119586 -0.73784698]
+[INFO] [1754223590.986178643] [solver_node]: [PoseSolver_angle] collision_vectors[1]: [-4.09383568 -0.1749989 ]
+[INFO] [1754223590.987586098] [solver_node]: [PoseSolver_angle] collision_vectors[2]: [ 5.88195023 -0.24353991]
+[INFO] [1754223590.988619561] [solver_node]: [PoseSolver_angle] collision_vectors[3]: [5.88756    0.25276429]
+[INFO] [1754223590.989448347] [solver_node]: [PoseSolver_angle] thetas 详细内容: 形状: (4,), 类型: float64
+[INFO] [1754223590.990173675] [solver_node]: [PoseSolver_angle] thetas[0]: -1.572417072560256
+[INFO] [1754223590.990973981] [solver_node]: [PoseSolver_angle] thetas[1]: -3.0988717347072456
+[INFO] [1754223590.991675469] [solver_node]: [PoseSolver_angle] thetas[2]: -0.041380983491484
+[INFO] [1754223590.992364796] [solver_node]: [PoseSolver_angle] thetas[3]: 0.042905578485984
+[INFO] [1754223591.002642368] [solver_node]: [PoseSolver_angle] candidates 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223591.004809744] [solver_node]: [PoseSolver_angle] candidates[0]: [       inf 0.73784698]
+[INFO] [1754223591.006200687] [solver_node]: [PoseSolver_angle] candidates[1]: [4.09383568        inf]
+[INFO] [1754223591.007485196] [solver_node]: [PoseSolver_angle] candidates[2]: [-3.32078129         inf]
+[INFO] [1754223591.022805760] [solver_node]: [PoseSolver_angle] candidates[3]: [-3.32639106         inf]
+[INFO] [1754223591.023977818] [solver_node]: [PoseSolver_angle] results_n: 空数组
+[INFO] [1754223591.031008310] [solver_node]: [PoseSolver_angle] results_n1 详细内容: 形状: (1, 2), 类型: float64
+[INFO] [1754223591.033538830] [solver_node]: [PoseSolver_angle] results_n1[0]: [-3.32358618  0.73784698]
+[INFO] [1754223591.035403352] [solver_node]: 角度求解器返回 1 个解
+[INFO] [1754223591.036813687] [solver_node]: 无效解: x=-3.324, y=0.738, 距离=5.126 > 阈值1.500
+[WARN] [1754223591.040376646] [solver_node]: 没有满足距离要求的解
+[WARN] [1754223591.047460579] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754223591.061699391] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754223591.075937019] [solver_node]: 当前位置: x=1.796, y=0.654, angle=-3.141
+[INFO] [1754223591.081119502] [solver_node]: 激光距离数据: [0.361 6.871 3.759 5.597 5.603]
+[INFO] [1754223591.084189907] [solver_node]: [PoseSolver_angle] collision_vectors 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223591.089918322] [solver_node]: [PoseSolver_angle] collision_vectors[0]: [-0.00151471 -0.73784639]
+[INFO] [1754223591.100812388] [solver_node]: [PoseSolver_angle] collision_vectors[1]: [-4.09391092 -0.17322982]
+[INFO] [1754223591.103964074] [solver_node]: [PoseSolver_angle] collision_vectors[2]: [ 5.88184444 -0.24608165]
+[INFO] [1754223591.115671597] [solver_node]: [PoseSolver_angle] collision_vectors[3]: [5.88766868 0.25022008]
+[INFO] [1754223591.119988173] [solver_node]: [PoseSolver_angle] thetas 详细内容: 形状: (4,), 类型: float64
+[INFO] [1754223591.130314194] [solver_node]: [PoseSolver_angle] thetas[0]: -1.572849201430271
+[INFO] [1754223591.131202438] [solver_node]: [PoseSolver_angle] thetas[1]: -3.0993038635772607
+[INFO] [1754223591.131883477] [solver_node]: [PoseSolver_angle] thetas[2]: -0.041813112361499094
+[INFO] [1754223591.132554116] [solver_node]: [PoseSolver_angle] thetas[3]: 0.04247344961596891
+[INFO] [1754223591.147056774] [solver_node]: [PoseSolver_angle] candidates 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223591.148660778] [solver_node]: [PoseSolver_angle] candidates[0]: [       inf 0.73784639]
+[INFO] [1754223591.150081161] [solver_node]: [PoseSolver_angle] candidates[1]: [4.09391092        inf]
+[INFO] [1754223591.151333605] [solver_node]: [PoseSolver_angle] candidates[2]: [-3.3206755        inf]
+[INFO] [1754223591.152606785] [solver_node]: [PoseSolver_angle] candidates[3]: [-3.32649974         inf]
+[INFO] [1754223591.153435636] [solver_node]: [PoseSolver_angle] results_n: 空数组
+[INFO] [1754223591.155587204] [solver_node]: [PoseSolver_angle] results_n1 详细内容: 形状: (1, 2), 类型: float64
+[INFO] [1754223591.157026051] [solver_node]: [PoseSolver_angle] results_n1[0]: [-3.32358762  0.73784639]
+[INFO] [1754223591.158138140] [solver_node]: 角度求解器返回 1 个解
+[INFO] [1754223591.158961070] [solver_node]: 无效解: x=-3.324, y=0.738, 距离=5.120 > 阈值1.500
+[WARN] [1754223591.159841730] [solver_node]: 没有满足距离要求的解
+[WARN] [1754223591.160689045] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754223591.161894544] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754223591.177495626] [solver_node]: 当前位置: x=1.830, y=0.660, angle=-3.140
+[INFO] [1754223591.182085328] [solver_node]: 激光距离数据: [0.361 6.871 3.759 5.597 5.603]
+[INFO] [1754223591.189175341] [solver_node]: [PoseSolver_angle] collision_vectors 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223591.212698359] [solver_node]: [PoseSolver_angle] collision_vectors[0]: [-6.24505932e-04 -7.37847682e-01]
+[INFO] [1754223591.221424217] [solver_node]: [PoseSolver_angle] collision_vectors[1]: [-4.09369894 -0.17816894]
+[INFO] [1754223591.223858767] [solver_node]: [PoseSolver_angle] collision_vectors[2]: [ 5.88213706 -0.23898511]
+[INFO] [1754223591.225774810] [solver_node]: [PoseSolver_angle] collision_vectors[3]: [5.88736251 0.25732329]
+[INFO] [1754223591.226708750] [solver_node]: [PoseSolver_angle] thetas 详细内容: 形状: (4,), 类型: float64
+[INFO] [1754223591.231821824] [solver_node]: [PoseSolver_angle] thetas[0]: -1.5716427152816885
+[INFO] [1754223591.234504187] [solver_node]: [PoseSolver_angle] thetas[1]: -3.098097377428678
+[INFO] [1754223591.238633335] [solver_node]: [PoseSolver_angle] thetas[2]: -0.04060662621291655
+[INFO] [1754223591.241193264] [solver_node]: [PoseSolver_angle] thetas[3]: 0.043679935764551446
+[INFO] [1754223591.244023119] [solver_node]: [PoseSolver_angle] candidates 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223591.246342818] [solver_node]: [PoseSolver_angle] candidates[0]: [       inf 0.73784768]
+[INFO] [1754223591.251869821] [solver_node]: [PoseSolver_angle] candidates[1]: [4.09369894        inf]
+[INFO] [1754223591.254227089] [solver_node]: [PoseSolver_angle] candidates[2]: [-3.32096812         inf]
+[INFO] [1754223591.256195325] [solver_node]: [PoseSolver_angle] candidates[3]: [-3.32619357         inf]
+[INFO] [1754223591.257942788] [solver_node]: [PoseSolver_angle] results_n: 空数组
+[INFO] [1754223591.261461298] [solver_node]: [PoseSolver_angle] results_n1 详细内容: 形状: (1, 2), 类型: float64
+[INFO] [1754223591.263482015] [solver_node]: [PoseSolver_angle] results_n1[0]: [-3.32358084  0.73784768]
+[INFO] [1754223591.266282749] [solver_node]: 角度求解器返回 1 个解
+[INFO] [1754223591.267876960] [solver_node]: 无效解: x=-3.324, y=0.738, 距离=5.154 > 阈值1.500
+[WARN] [1754223591.269685192] [solver_node]: 没有满足距离要求的解
+[WARN] [1754223591.272287554] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754223591.274586741] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754223591.295208031] [solver_node]: 当前位置: x=1.824, y=0.660, angle=-3.140
+[INFO] [1754223591.298243330] [solver_node]: 激光距离数据: [0.361 6.871 3.759 5.597 5.603]
+[INFO] [1754223591.299947848] [solver_node]: [PoseSolver_angle] collision_vectors 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223591.301453514] [solver_node]: [PoseSolver_angle] collision_vectors[0]: [-3.93582161e-04 -7.37847841e-01]
+[INFO] [1754223591.302515041] [solver_node]: [PoseSolver_angle] collision_vectors[1]: [-4.09364298 -0.17945013]
+[INFO] [1754223591.310633941] [solver_node]: [PoseSolver_angle] collision_vectors[2]: [ 5.88221156 -0.23714417]
+[INFO] [1754223591.333858265] [solver_node]: [PoseSolver_angle] collision_vectors[3]: [5.88728169 0.25916584]
+[INFO] [1754223591.337736367] [solver_node]: [PoseSolver_angle] thetas 详细内容: 形状: (4,), 类型: float64
+[INFO] [1754223591.340480172] [solver_node]: [PoseSolver_angle] thetas[0]: -1.5713297458848448
+[INFO] [1754223591.344076988] [solver_node]: [PoseSolver_angle] thetas[1]: -3.0977844080318344
+[INFO] [1754223591.348446237] [solver_node]: [PoseSolver_angle] thetas[2]: -0.04029365681607277
+[INFO] [1754223591.353580591] [solver_node]: [PoseSolver_angle] thetas[3]: 0.043992905161396104
+[INFO] [1754223591.379935224] [solver_node]: [PoseSolver_angle] candidates 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223591.383342307] [solver_node]: [PoseSolver_angle] candidates[0]: [       inf 0.73784784]
+[INFO] [1754223591.386628652] [solver_node]: [PoseSolver_angle] candidates[1]: [4.09364298        inf]
+[INFO] [1754223591.388954944] [solver_node]: [PoseSolver_angle] candidates[2]: [-3.32104262         inf]
+[INFO] [1754223591.390518531] [solver_node]: [PoseSolver_angle] candidates[3]: [-3.32611275         inf]
+[INFO] [1754223591.391586971] [solver_node]: [PoseSolver_angle] results_n: 空数组
+[INFO] [1754223591.394113747] [solver_node]: [PoseSolver_angle] results_n1 详细内容: 形状: (1, 2), 类型: float64
+[INFO] [1754223591.398649047] [solver_node]: [PoseSolver_angle] results_n1[0]: [-3.32357769  0.73784784]
+[INFO] [1754223591.408383279] [solver_node]: 角度求解器返回 1 个解
+[INFO] [1754223591.413073431] [solver_node]: 无效解: x=-3.324, y=0.738, 距离=5.148 > 阈值1.500
+[WARN] [1754223591.414074094] [solver_node]: 没有满足距离要求的解
+[WARN] [1754223591.414927329] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754223591.426578211] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754223591.431603699] [solver_node]: 当前位置: x=1.821, y=0.652, angle=-3.140
+[INFO] [1754223591.433509725] [solver_node]: 激光距离数据: [0.361 6.871 3.759 5.597 5.603]
+[INFO] [1754223591.441282762] [solver_node]: [PoseSolver_angle] collision_vectors 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223591.442802507] [solver_node]: [PoseSolver_angle] collision_vectors[0]: [-7.34409297e-04 -7.37847581e-01]
+[INFO] [1754223591.445854831] [solver_node]: [PoseSolver_angle] collision_vectors[1]: [-4.09372544 -0.17755917]
+[INFO] [1754223591.447399794] [solver_node]: [PoseSolver_angle] collision_vectors[2]: [ 5.8821014  -0.23986126]
+[INFO] [1754223591.448435849] [solver_node]: [PoseSolver_angle] collision_vectors[3]: [5.88740077 0.25644636]
+[INFO] [1754223591.449303356] [solver_node]: [PoseSolver_angle] thetas 详细内容: 形状: (4,), 类型: float64
+[INFO] [1754223591.450039756] [solver_node]: [PoseSolver_angle] thetas[0]: -1.5717916665821423
+[INFO] [1754223591.450761884] [solver_node]: [PoseSolver_angle] thetas[1]: -3.098246328729132
+[INFO] [1754223591.457958556] [solver_node]: [PoseSolver_angle] thetas[2]: -0.040755577513370334
+[INFO] [1754223591.466583515] [solver_node]: [PoseSolver_angle] thetas[3]: 0.04353098446409855
+[INFO] [1754223591.498089015] [solver_node]: [PoseSolver_angle] candidates 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223591.505936357] [solver_node]: [PoseSolver_angle] candidates[0]: [       inf 0.73784758]
+[INFO] [1754223591.509627799] [solver_node]: [PoseSolver_angle] candidates[1]: [4.09372544        inf]
+[INFO] [1754223591.517717483] [solver_node]: [PoseSolver_angle] candidates[2]: [-3.32093246         inf]
+[INFO] [1754223591.522318033] [solver_node]: [PoseSolver_angle] candidates[3]: [-3.32623183         inf]
+[INFO] [1754223591.526602352] [solver_node]: [PoseSolver_angle] results_n: 空数组
+[INFO] [1754223591.530037244] [solver_node]: [PoseSolver_angle] results_n1 详细内容: 形状: (1, 2), 类型: float64
+[INFO] [1754223591.532259341] [solver_node]: [PoseSolver_angle] results_n1[0]: [-3.32358214  0.73784758]
+[INFO] [1754223591.534360796] [solver_node]: 角度求解器返回 1 个解
+[INFO] [1754223591.536067586] [solver_node]: 无效解: x=-3.324, y=0.738, 距离=5.146 > 阈值1.500
+[WARN] [1754223591.537812073] [solver_node]: 没有满足距离要求的解
+[WARN] [1754223591.539941400] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754223591.542110312] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754223591.545843099] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754223591.569349061] [solver_node]: 当前位置: x=1.812, y=0.668, angle=-3.141
+[INFO] [1754223591.576778218] [solver_node]: 激光距离数据: [0.361 6.871 3.759 5.597 5.606]
+[INFO] [1754223591.579743403] [solver_node]: [PoseSolver_angle] collision_vectors 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223591.601489454] [solver_node]: [PoseSolver_angle] collision_vectors[0]: [-0.00143158 -0.73784656]
+[INFO] [1754223591.606308601] [solver_node]: [PoseSolver_angle] collision_vectors[1]: [-4.09389138 -0.17369104]
+[INFO] [1754223591.609209978] [solver_node]: [PoseSolver_angle] collision_vectors[2]: [ 5.88187213 -0.245419  ]
+[INFO] [1754223591.611968119] [solver_node]: [PoseSolver_angle] collision_vectors[3]: [5.89064045 0.25088478]
+[INFO] [1754223591.622781703] [solver_node]: [PoseSolver_angle] thetas 详细内容: 形状: (4,), 类型: float64
+[INFO] [1754223591.628451589] [solver_node]: [PoseSolver_angle] thetas[0]: -1.5727365414018484
+[INFO] [1754223591.631658668] [solver_node]: [PoseSolver_angle] thetas[1]: -3.099191203548838
+[INFO] [1754223591.635025079] [solver_node]: [PoseSolver_angle] thetas[2]: -0.0417004523330764
+[INFO] [1754223591.648352767] [solver_node]: [PoseSolver_angle] thetas[3]: 0.04256468343767786
+[INFO] [1754223591.659882558] [solver_node]: [PoseSolver_angle] candidates 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223591.682822044] [solver_node]: [PoseSolver_angle] candidates[0]: [       inf 0.73784656]
+[INFO] [1754223591.691102259] [solver_node]: [PoseSolver_angle] candidates[1]: [4.09389138        inf]
+[INFO] [1754223591.692178603] [solver_node]: [PoseSolver_angle] candidates[2]: [-3.32070319         inf]
+[INFO] [1754223591.693201634] [solver_node]: [PoseSolver_angle] candidates[3]: [-3.32947151         inf]
+[INFO] [1754223591.693926194] [solver_node]: [PoseSolver_angle] results_n: 空数组
+[INFO] [1754223591.695716506] [solver_node]: [PoseSolver_angle] results_n1 详细内容: 形状: (1, 2), 类型: float64
+[INFO] [1754223591.696784146] [solver_node]: [PoseSolver_angle] results_n1[0]: [-3.32508735  0.73784656]
+[INFO] [1754223591.697805352] [solver_node]: 角度求解器返回 1 个解
+[INFO] [1754223591.698560409] [solver_node]: 无效解: x=-3.325, y=0.738, 距离=5.137 > 阈值1.500
+[WARN] [1754223591.699387723] [solver_node]: 没有满足距离要求的解
+[WARN] [1754223591.700190013] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754223591.714419737] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754223591.721949952] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754223591.766358330] [solver_node]: 当前位置: x=1.807, y=0.656, angle=-3.140
+[INFO] [1754223591.769094135] [solver_node]: 激光距离数据: [0.361 6.871 3.759 5.597 5.606]
+[INFO] [1754223591.777338222] [solver_node]: [PoseSolver_angle] collision_vectors 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223591.781946292] [solver_node]: [PoseSolver_angle] collision_vectors[0]: [-6.58296896e-04 -7.37847653e-01]
+[INFO] [1754223591.783912864] [solver_node]: [PoseSolver_angle] collision_vectors[1]: [-4.0937071  -0.17798146]
+[INFO] [1754223591.791265475] [solver_node]: [PoseSolver_angle] collision_vectors[2]: [ 5.88212611 -0.23925449]
+[INFO] [1754223591.792830214] [solver_node]: [PoseSolver_angle] collision_vectors[3]: [5.89037428 0.2570582 ]
+[INFO] [1754223591.793838748] [solver_node]: [PoseSolver_angle] thetas 详细内容: 形状: (4,), 类型: float64
+[INFO] [1754223591.800844664] [solver_node]: [PoseSolver_angle] thetas[0]: -1.571688511949345
+[INFO] [1754223591.802023122] [solver_node]: [PoseSolver_angle] thetas[1]: -3.0981431740963346
+[INFO] [1754223591.802882245] [solver_node]: [PoseSolver_angle] thetas[2]: -0.040652422880572914
+[INFO] [1754223591.804342341] [solver_node]: [PoseSolver_angle] thetas[3]: 0.043612712890181336
+[INFO] [1754223591.829717593] [solver_node]: [PoseSolver_angle] candidates 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223591.841227512] [solver_node]: [PoseSolver_angle] candidates[0]: [       inf 0.73784765]
+[INFO] [1754223591.853474472] [solver_node]: [PoseSolver_angle] candidates[1]: [4.0937071       inf]
+[INFO] [1754223591.859709810] [solver_node]: [PoseSolver_angle] candidates[2]: [-3.32095717         inf]
+[INFO] [1754223591.870692742] [solver_node]: [PoseSolver_angle] candidates[3]: [-3.32920534         inf]
+[INFO] [1754223591.874395128] [solver_node]: [PoseSolver_angle] results_n: 空数组
+[INFO] [1754223591.879237860] [solver_node]: [PoseSolver_angle] results_n1 详细内容: 形状: (1, 2), 类型: float64
+[INFO] [1754223591.882277159] [solver_node]: [PoseSolver_angle] results_n1[0]: [-3.32508126  0.73784765]
+[INFO] [1754223591.884492569] [solver_node]: 角度求解器返回 1 个解
+[INFO] [1754223591.885937945] [solver_node]: 无效解: x=-3.325, y=0.738, 距离=5.133 > 阈值1.500
+[WARN] [1754223591.889101375] [solver_node]: 没有满足距离要求的解
+[WARN] [1754223591.897541594] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754223591.898984218] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754223591.908054916] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754223591.932412256] [solver_node]: 当前位置: x=1.815, y=0.659, angle=-3.141
+[INFO] [1754223591.940634231] [solver_node]: 激光距离数据: [0.361 6.871 3.759 5.594 5.606]
+[INFO] [1754223591.960260203] [solver_node]: [PoseSolver_angle] collision_vectors 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223591.966132301] [solver_node]: [PoseSolver_angle] collision_vectors[0]: [-0.00167121 -0.73784605]
+[INFO] [1754223591.992224592] [solver_node]: [PoseSolver_angle] collision_vectors[1]: [-4.09394757 -0.17236147]
+[INFO] [1754223592.003150275] [solver_node]: [PoseSolver_angle] collision_vectors[2]: [ 5.87879212 -0.24732963]
+[INFO] [1754223592.010431108] [solver_node]: [PoseSolver_angle] collision_vectors[3]: [5.89072162 0.24897169]
+[INFO] [1754223592.014410717] [solver_node]: [PoseSolver_angle] thetas 详细内容: 形状: (4,), 类型: float64
+[INFO] [1754223592.018478327] [solver_node]: [PoseSolver_angle] thetas[0]: -1.573061306154872
+[INFO] [1754223592.021613404] [solver_node]: [PoseSolver_angle] thetas[1]: -3.0995159683018616
+[INFO] [1754223592.025430801] [solver_node]: [PoseSolver_angle] thetas[2]: -0.042046708673864064
+[INFO] [1754223592.029859443] [solver_node]: [PoseSolver_angle] thetas[3]: 0.042239918684654286
+[INFO] [1754223592.036177408] [solver_node]: [PoseSolver_angle] candidates 详细内容: 形状: (4, 2), 类型: float64
+[INFO] [1754223592.039947507] [solver_node]: [PoseSolver_angle] candidates[0]: [       inf 0.73784605]
+[INFO] [1754223592.044135024] [solver_node]: [PoseSolver_angle] candidates[1]: [4.09394757        inf]
+[INFO] [1754223592.048035591] [solver_node]: [PoseSolver_angle] candidates[2]: [-3.31762318         inf]
+[INFO] [1754223592.051621750] [solver_node]: [PoseSolver_angle] candidates[3]: [-3.32955268         inf]
+[INFO] [1754223592.053977195] [solver_node]: [PoseSolver_angle] results_n: 空数组
+[INFO] [1754223592.057245587] [solver_node]: [PoseSolver_angle] results_n1 详细内容: 形状: (1, 2), 类型: float64
+[INFO] [1754223592.060426714] [solver_node]: [PoseSolver_angle] results_n1[0]: [-3.32358793  0.73784605]
+[INFO] [1754223592.067993698] [solver_node]: 角度求解器返回 1 个解
+[INFO] [1754223592.074053608] [solver_node]: 无效解: x=-3.324, y=0.738, 距离=5.140 > 阈值1.500
+[WARN] [1754223592.075012638] [solver_node]: 没有满足距离要求的解
+[WARN] [1754223592.078794225] [solver_node]: 没有合适的解，不发布TF变换

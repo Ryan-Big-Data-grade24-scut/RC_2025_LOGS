@@ -1,0 +1,451 @@
+[INFO] [1754208741.951167491] [solver_node]: [PerpendicularDistanceLocalizer] 前束索引: [2], 后束索引: [3, 4]
+[INFO] [1754208741.957782377] [solver_node]: [PerpendicularDistanceLocalizer] 左束索引: [0], 右束索引: [1]
+[INFO] [1754208741.961885195] [solver_node]: [PerpendicularDistanceLocalizer] 垂直距离定位器已初始化，需要调用calibrate()方法进行标定
+[INFO] [1754208742.005563401] [solver_node]: SolverNode启动，进入初始化阶段，需要收集100次激光数据进行标定...
+[INFO] [1754208742.635759538] [solver_node]: 标定数据收集进度: 1/100
+[INFO] [1754208742.647631592] [solver_node]: 标定数据收集进度: 2/100
+[INFO] [1754208742.747100259] [solver_node]: 标定数据收集进度: 3/100
+[INFO] [1754208742.855001227] [solver_node]: 标定数据收集进度: 4/100
+[INFO] [1754208742.956410098] [solver_node]: 标定数据收集进度: 5/100
+[INFO] [1754208743.048929467] [solver_node]: 标定数据收集进度: 6/100
+[INFO] [1754208743.149648967] [solver_node]: 标定数据收集进度: 7/100
+[INFO] [1754208743.247245144] [solver_node]: 标定数据收集进度: 8/100
+[INFO] [1754208743.350260319] [solver_node]: 标定数据收集进度: 9/100
+[INFO] [1754208743.478702131] [solver_node]: 标定数据收集进度: 10/100
+[INFO] [1754208743.548625022] [solver_node]: 标定数据收集进度: 11/100
+[INFO] [1754208743.647609158] [solver_node]: 标定数据收集进度: 12/100
+[INFO] [1754208743.752105255] [solver_node]: 标定数据收集进度: 13/100
+[INFO] [1754208743.847953171] [solver_node]: 标定数据收集进度: 14/100
+[INFO] [1754208743.948444054] [solver_node]: 标定数据收集进度: 15/100
+[INFO] [1754208744.049558386] [solver_node]: 标定数据收集进度: 16/100
+[INFO] [1754208744.154334270] [solver_node]: 标定数据收集进度: 17/100
+[INFO] [1754208744.249175490] [solver_node]: 标定数据收集进度: 18/100
+[INFO] [1754208744.350994906] [solver_node]: 标定数据收集进度: 19/100
+[INFO] [1754208744.447057294] [solver_node]: 标定数据收集进度: 20/100
+[INFO] [1754208744.546870774] [solver_node]: 标定数据收集进度: 21/100
+[INFO] [1754208744.646969930] [solver_node]: 标定数据收集进度: 22/100
+[INFO] [1754208744.747133376] [solver_node]: 标定数据收集进度: 23/100
+[INFO] [1754208744.847326167] [solver_node]: 标定数据收集进度: 24/100
+[INFO] [1754208744.947633075] [solver_node]: 标定数据收集进度: 25/100
+[INFO] [1754208745.048001745] [solver_node]: 标定数据收集进度: 26/100
+[INFO] [1754208745.158503936] [solver_node]: 标定数据收集进度: 27/100
+[INFO] [1754208745.247765959] [solver_node]: 标定数据收集进度: 28/100
+[INFO] [1754208745.350998966] [solver_node]: 标定数据收集进度: 29/100
+[INFO] [1754208745.447185199] [solver_node]: 标定数据收集进度: 30/100
+[INFO] [1754208745.549184526] [solver_node]: 标定数据收集进度: 31/100
+[INFO] [1754208745.647376982] [solver_node]: 标定数据收集进度: 32/100
+[INFO] [1754208745.747169117] [solver_node]: 标定数据收集进度: 33/100
+[INFO] [1754208745.847898570] [solver_node]: 标定数据收集进度: 34/100
+[INFO] [1754208745.947403078] [solver_node]: 标定数据收集进度: 35/100
+[INFO] [1754208746.047203597] [solver_node]: 标定数据收集进度: 36/100
+[INFO] [1754208746.147636622] [solver_node]: 标定数据收集进度: 37/100
+[INFO] [1754208746.247260494] [solver_node]: 标定数据收集进度: 38/100
+[INFO] [1754208746.347041493] [solver_node]: 标定数据收集进度: 39/100
+[INFO] [1754208746.455741532] [solver_node]: 标定数据收集进度: 40/100
+[INFO] [1754208746.549431155] [solver_node]: 标定数据收集进度: 41/100
+[INFO] [1754208746.648103853] [solver_node]: 标定数据收集进度: 42/100
+[INFO] [1754208746.748800856] [solver_node]: 标定数据收集进度: 43/100
+[INFO] [1754208746.848134478] [solver_node]: 标定数据收集进度: 44/100
+[INFO] [1754208746.953378156] [solver_node]: 标定数据收集进度: 45/100
+[INFO] [1754208747.053852334] [solver_node]: 标定数据收集进度: 46/100
+[INFO] [1754208747.164482178] [solver_node]: 标定数据收集进度: 47/100
+[INFO] [1754208747.263551116] [solver_node]: 标定数据收集进度: 48/100
+[INFO] [1754208747.347977716] [solver_node]: 标定数据收集进度: 49/100
+[INFO] [1754208747.457821320] [solver_node]: 标定数据收集进度: 50/100
+[INFO] [1754208747.556760078] [solver_node]: 标定数据收集进度: 51/100
+[INFO] [1754208747.652571255] [solver_node]: 标定数据收集进度: 52/100
+[INFO] [1754208747.750231466] [solver_node]: 标定数据收集进度: 53/100
+[INFO] [1754208747.847713750] [solver_node]: 标定数据收集进度: 54/100
+[INFO] [1754208747.952127220] [solver_node]: 标定数据收集进度: 55/100
+[INFO] [1754208748.052140099] [solver_node]: 标定数据收集进度: 56/100
+[INFO] [1754208748.159504598] [solver_node]: 标定数据收集进度: 57/100
+[INFO] [1754208748.248638839] [solver_node]: 标定数据收集进度: 58/100
+[INFO] [1754208748.348267096] [solver_node]: 标定数据收集进度: 59/100
+[INFO] [1754208748.449030981] [solver_node]: 标定数据收集进度: 60/100
+[INFO] [1754208748.548414748] [solver_node]: 标定数据收集进度: 61/100
+[INFO] [1754208748.649567321] [solver_node]: 标定数据收集进度: 62/100
+[INFO] [1754208748.749502693] [solver_node]: 标定数据收集进度: 63/100
+[INFO] [1754208748.847512166] [solver_node]: 标定数据收集进度: 64/100
+[INFO] [1754208748.948221329] [solver_node]: 标定数据收集进度: 65/100
+[INFO] [1754208749.048861241] [solver_node]: 标定数据收集进度: 66/100
+[INFO] [1754208749.151901920] [solver_node]: 标定数据收集进度: 67/100
+[INFO] [1754208749.248297697] [solver_node]: 标定数据收集进度: 68/100
+[INFO] [1754208749.347786524] [solver_node]: 标定数据收集进度: 69/100
+[INFO] [1754208749.446876263] [solver_node]: 标定数据收集进度: 70/100
+[INFO] [1754208749.549348504] [solver_node]: 标定数据收集进度: 71/100
+[INFO] [1754208749.647227187] [solver_node]: 标定数据收集进度: 72/100
+[INFO] [1754208749.749498428] [solver_node]: 标定数据收集进度: 73/100
+[INFO] [1754208749.849474538] [solver_node]: 标定数据收集进度: 74/100
+[INFO] [1754208749.948840320] [solver_node]: 标定数据收集进度: 75/100
+[INFO] [1754208750.049142010] [solver_node]: 标定数据收集进度: 76/100
+[INFO] [1754208750.150109520] [solver_node]: 标定数据收集进度: 77/100
+[INFO] [1754208750.249011091] [solver_node]: 标定数据收集进度: 78/100
+[INFO] [1754208750.348664276] [solver_node]: 标定数据收集进度: 79/100
+[INFO] [1754208750.451238377] [solver_node]: 标定数据收集进度: 80/100
+[INFO] [1754208750.547238586] [solver_node]: 标定数据收集进度: 81/100
+[INFO] [1754208750.648032040] [solver_node]: 标定数据收集进度: 82/100
+[INFO] [1754208750.757819961] [solver_node]: 标定数据收集进度: 83/100
+[INFO] [1754208750.854425602] [solver_node]: 标定数据收集进度: 84/100
+[INFO] [1754208750.947995155] [solver_node]: 标定数据收集进度: 85/100
+[INFO] [1754208751.047564401] [solver_node]: 标定数据收集进度: 86/100
+[INFO] [1754208751.151426808] [solver_node]: 标定数据收集进度: 87/100
+[INFO] [1754208751.248311116] [solver_node]: 标定数据收集进度: 88/100
+[INFO] [1754208751.348483233] [solver_node]: 标定数据收集进度: 89/100
+[INFO] [1754208751.448237702] [solver_node]: 标定数据收集进度: 90/100
+[INFO] [1754208751.549442661] [solver_node]: 标定数据收集进度: 91/100
+[INFO] [1754208751.647505735] [solver_node]: 标定数据收集进度: 92/100
+[INFO] [1754208751.747892357] [solver_node]: 标定数据收集进度: 93/100
+[INFO] [1754208751.847984215] [solver_node]: 标定数据收集进度: 94/100
+[INFO] [1754208751.947855905] [solver_node]: 标定数据收集进度: 95/100
+[INFO] [1754208752.048363812] [solver_node]: 标定数据收集进度: 96/100
+[INFO] [1754208752.148760002] [solver_node]: 标定数据收集进度: 97/100
+[INFO] [1754208752.247539904] [solver_node]: 标定数据收集进度: 98/100
+[INFO] [1754208752.349914989] [solver_node]: 标定数据收集进度: 99/100
+[INFO] [1754208752.458235812] [solver_node]: 标定数据收集进度: 100/100
+[INFO] [1754208752.459076549] [solver_node]: 标定数据收集完成，开始标定过程...
+[INFO] [1754208752.460773865] [solver_node]: 开始标定，收集到的数据shape: (100,)
+[INFO] [1754208752.461748751] [solver_node]: [PerpendicularDistanceLocalizer] 开始标定，扫描数据shape: (100,)
+[ERROR] [1754208752.463936837] [solver_node]: 初始化阶段失败: operands could not be broadcast together with shapes (100,) (5,) 
+[ERROR] [1754208752.472343954] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 77, in complete_initialization
+    m_calibrated, n_calibrated, x_init, y_init, phi_init = self.perpendicular_localizer.calibrate(distances_array)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/perpendicular_localizer.py", line 102, in calibrate
+    self.added_distances = self.distances_array + self.h_values  # (100, N)
+ValueError: operands could not be broadcast together with shapes (100,) (5,) 
+
+[INFO] [1754208752.547872441] [solver_node]: 标定数据收集进度: 101/100
+[INFO] [1754208752.548618135] [solver_node]: 标定数据收集完成，开始标定过程...
+[INFO] [1754208752.549388693] [solver_node]: 开始标定，收集到的数据shape: (101,)
+[INFO] [1754208752.550071600] [solver_node]: [PerpendicularDistanceLocalizer] 开始标定，扫描数据shape: (101,)
+[ERROR] [1754208752.551611661] [solver_node]: 初始化阶段失败: operands could not be broadcast together with shapes (101,) (5,) 
+[ERROR] [1754208752.552435150] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 77, in complete_initialization
+    m_calibrated, n_calibrated, x_init, y_init, phi_init = self.perpendicular_localizer.calibrate(distances_array)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/perpendicular_localizer.py", line 102, in calibrate
+    self.added_distances = self.distances_array + self.h_values  # (100, N)
+ValueError: operands could not be broadcast together with shapes (101,) (5,) 
+
+[INFO] [1754208752.652676902] [solver_node]: 标定数据收集进度: 102/100
+[INFO] [1754208752.653792914] [solver_node]: 标定数据收集完成，开始标定过程...
+[INFO] [1754208752.654883453] [solver_node]: 开始标定，收集到的数据shape: (102,)
+[INFO] [1754208752.655834467] [solver_node]: [PerpendicularDistanceLocalizer] 开始标定，扫描数据shape: (102,)
+[ERROR] [1754208752.656618178] [solver_node]: 初始化阶段失败: operands could not be broadcast together with shapes (102,) (5,) 
+[ERROR] [1754208752.657738606] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 77, in complete_initialization
+    m_calibrated, n_calibrated, x_init, y_init, phi_init = self.perpendicular_localizer.calibrate(distances_array)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/perpendicular_localizer.py", line 102, in calibrate
+    self.added_distances = self.distances_array + self.h_values  # (100, N)
+ValueError: operands could not be broadcast together with shapes (102,) (5,) 
+
+[INFO] [1754208752.753519094] [solver_node]: 标定数据收集进度: 103/100
+[INFO] [1754208752.755531781] [solver_node]: 标定数据收集完成，开始标定过程...
+[INFO] [1754208752.756809016] [solver_node]: 开始标定，收集到的数据shape: (103,)
+[INFO] [1754208752.759223543] [solver_node]: [PerpendicularDistanceLocalizer] 开始标定，扫描数据shape: (103,)
+[ERROR] [1754208752.761593813] [solver_node]: 初始化阶段失败: operands could not be broadcast together with shapes (103,) (5,) 
+[ERROR] [1754208752.764848981] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 77, in complete_initialization
+    m_calibrated, n_calibrated, x_init, y_init, phi_init = self.perpendicular_localizer.calibrate(distances_array)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/perpendicular_localizer.py", line 102, in calibrate
+    self.added_distances = self.distances_array + self.h_values  # (100, N)
+ValueError: operands could not be broadcast together with shapes (103,) (5,) 
+
+[INFO] [1754208752.849476133] [solver_node]: 标定数据收集进度: 104/100
+[INFO] [1754208752.850443499] [solver_node]: 标定数据收集完成，开始标定过程...
+[INFO] [1754208752.851393840] [solver_node]: 开始标定，收集到的数据shape: (104,)
+[INFO] [1754208752.852269235] [solver_node]: [PerpendicularDistanceLocalizer] 开始标定，扫描数据shape: (104,)
+[ERROR] [1754208752.853334557] [solver_node]: 初始化阶段失败: operands could not be broadcast together with shapes (104,) (5,) 
+[ERROR] [1754208752.854605487] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 77, in complete_initialization
+    m_calibrated, n_calibrated, x_init, y_init, phi_init = self.perpendicular_localizer.calibrate(distances_array)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/perpendicular_localizer.py", line 102, in calibrate
+    self.added_distances = self.distances_array + self.h_values  # (100, N)
+ValueError: operands could not be broadcast together with shapes (104,) (5,) 
+
+[INFO] [1754208752.947866932] [solver_node]: 标定数据收集进度: 105/100
+[INFO] [1754208752.948579088] [solver_node]: 标定数据收集完成，开始标定过程...
+[INFO] [1754208752.949340366] [solver_node]: 开始标定，收集到的数据shape: (105,)
+[INFO] [1754208752.950041386] [solver_node]: [PerpendicularDistanceLocalizer] 开始标定，扫描数据shape: (105,)
+[ERROR] [1754208752.950799688] [solver_node]: 初始化阶段失败: operands could not be broadcast together with shapes (105,) (5,) 
+[ERROR] [1754208752.951673578] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 77, in complete_initialization
+    m_calibrated, n_calibrated, x_init, y_init, phi_init = self.perpendicular_localizer.calibrate(distances_array)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/perpendicular_localizer.py", line 102, in calibrate
+    self.added_distances = self.distances_array + self.h_values  # (100, N)
+ValueError: operands could not be broadcast together with shapes (105,) (5,) 
+
+[INFO] [1754208753.047997991] [solver_node]: 标定数据收集进度: 106/100
+[INFO] [1754208753.048762982] [solver_node]: 标定数据收集完成，开始标定过程...
+[INFO] [1754208753.049590662] [solver_node]: 开始标定，收集到的数据shape: (106,)
+[INFO] [1754208753.050290370] [solver_node]: [PerpendicularDistanceLocalizer] 开始标定，扫描数据shape: (106,)
+[ERROR] [1754208753.051011262] [solver_node]: 初始化阶段失败: operands could not be broadcast together with shapes (106,) (5,) 
+[ERROR] [1754208753.051852768] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 77, in complete_initialization
+    m_calibrated, n_calibrated, x_init, y_init, phi_init = self.perpendicular_localizer.calibrate(distances_array)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/perpendicular_localizer.py", line 102, in calibrate
+    self.added_distances = self.distances_array + self.h_values  # (100, N)
+ValueError: operands could not be broadcast together with shapes (106,) (5,) 
+
+[INFO] [1754208753.147320219] [solver_node]: 标定数据收集进度: 107/100
+[INFO] [1754208753.148054584] [solver_node]: 标定数据收集完成，开始标定过程...
+[INFO] [1754208753.148786069] [solver_node]: 开始标定，收集到的数据shape: (107,)
+[INFO] [1754208753.149505137] [solver_node]: [PerpendicularDistanceLocalizer] 开始标定，扫描数据shape: (107,)
+[ERROR] [1754208753.150227630] [solver_node]: 初始化阶段失败: operands could not be broadcast together with shapes (107,) (5,) 
+[ERROR] [1754208753.151078416] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 77, in complete_initialization
+    m_calibrated, n_calibrated, x_init, y_init, phi_init = self.perpendicular_localizer.calibrate(distances_array)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/perpendicular_localizer.py", line 102, in calibrate
+    self.added_distances = self.distances_array + self.h_values  # (100, N)
+ValueError: operands could not be broadcast together with shapes (107,) (5,) 
+
+[INFO] [1754208753.254729166] [solver_node]: 标定数据收集进度: 108/100
+[INFO] [1754208753.257429849] [solver_node]: 标定数据收集完成，开始标定过程...
+[INFO] [1754208753.259818295] [solver_node]: 开始标定，收集到的数据shape: (108,)
+[INFO] [1754208753.263114265] [solver_node]: [PerpendicularDistanceLocalizer] 开始标定，扫描数据shape: (108,)
+[ERROR] [1754208753.264269927] [solver_node]: 初始化阶段失败: operands could not be broadcast together with shapes (108,) (5,) 
+[ERROR] [1754208753.265425589] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 77, in complete_initialization
+    m_calibrated, n_calibrated, x_init, y_init, phi_init = self.perpendicular_localizer.calibrate(distances_array)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/perpendicular_localizer.py", line 102, in calibrate
+    self.added_distances = self.distances_array + self.h_values  # (100, N)
+ValueError: operands could not be broadcast together with shapes (108,) (5,) 
+
+[INFO] [1754208753.349256260] [solver_node]: 标定数据收集进度: 109/100
+[INFO] [1754208753.349998562] [solver_node]: 标定数据收集完成，开始标定过程...
+[INFO] [1754208753.350729919] [solver_node]: 开始标定，收集到的数据shape: (109,)
+[INFO] [1754208753.351404505] [solver_node]: [PerpendicularDistanceLocalizer] 开始标定，扫描数据shape: (109,)
+[ERROR] [1754208753.352121590] [solver_node]: 初始化阶段失败: operands could not be broadcast together with shapes (109,) (5,) 
+[ERROR] [1754208753.352927542] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 77, in complete_initialization
+    m_calibrated, n_calibrated, x_init, y_init, phi_init = self.perpendicular_localizer.calibrate(distances_array)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/perpendicular_localizer.py", line 102, in calibrate
+    self.added_distances = self.distances_array + self.h_values  # (100, N)
+ValueError: operands could not be broadcast together with shapes (109,) (5,) 
+
+[INFO] [1754208753.449043019] [solver_node]: 标定数据收集进度: 110/100
+[INFO] [1754208753.453324052] [solver_node]: 标定数据收集完成，开始标定过程...
+[INFO] [1754208753.456419310] [solver_node]: 开始标定，收集到的数据shape: (110,)
+[INFO] [1754208753.459359106] [solver_node]: [PerpendicularDistanceLocalizer] 开始标定，扫描数据shape: (110,)
+[ERROR] [1754208753.461974345] [solver_node]: 初始化阶段失败: operands could not be broadcast together with shapes (110,) (5,) 
+[ERROR] [1754208753.463032691] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 77, in complete_initialization
+    m_calibrated, n_calibrated, x_init, y_init, phi_init = self.perpendicular_localizer.calibrate(distances_array)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/perpendicular_localizer.py", line 102, in calibrate
+    self.added_distances = self.distances_array + self.h_values  # (100, N)
+ValueError: operands could not be broadcast together with shapes (110,) (5,) 
+
+[INFO] [1754208753.549414856] [solver_node]: 标定数据收集进度: 111/100
+[INFO] [1754208753.550105507] [solver_node]: 标定数据收集完成，开始标定过程...
+[INFO] [1754208753.550842112] [solver_node]: 开始标定，收集到的数据shape: (111,)
+[INFO] [1754208753.551491578] [solver_node]: [PerpendicularDistanceLocalizer] 开始标定，扫描数据shape: (111,)
+[ERROR] [1754208753.552177621] [solver_node]: 初始化阶段失败: operands could not be broadcast together with shapes (111,) (5,) 
+[ERROR] [1754208753.552974708] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 77, in complete_initialization
+    m_calibrated, n_calibrated, x_init, y_init, phi_init = self.perpendicular_localizer.calibrate(distances_array)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/perpendicular_localizer.py", line 102, in calibrate
+    self.added_distances = self.distances_array + self.h_values  # (100, N)
+ValueError: operands could not be broadcast together with shapes (111,) (5,) 
+
+[INFO] [1754208753.648384269] [solver_node]: 标定数据收集进度: 112/100
+[INFO] [1754208753.649626911] [solver_node]: 标定数据收集完成，开始标定过程...
+[INFO] [1754208753.650848111] [solver_node]: 开始标定，收集到的数据shape: (112,)
+[INFO] [1754208753.651728306] [solver_node]: [PerpendicularDistanceLocalizer] 开始标定，扫描数据shape: (112,)
+[ERROR] [1754208753.652716697] [solver_node]: 初始化阶段失败: operands could not be broadcast together with shapes (112,) (5,) 
+[ERROR] [1754208753.654181394] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 77, in complete_initialization
+    m_calibrated, n_calibrated, x_init, y_init, phi_init = self.perpendicular_localizer.calibrate(distances_array)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/perpendicular_localizer.py", line 102, in calibrate
+    self.added_distances = self.distances_array + self.h_values  # (100, N)
+ValueError: operands could not be broadcast together with shapes (112,) (5,) 
+
+[INFO] [1754208753.748436830] [solver_node]: 标定数据收集进度: 113/100
+[INFO] [1754208753.749224733] [solver_node]: 标定数据收集完成，开始标定过程...
+[INFO] [1754208753.750184547] [solver_node]: 开始标定，收集到的数据shape: (113,)
+[INFO] [1754208753.751090407] [solver_node]: [PerpendicularDistanceLocalizer] 开始标定，扫描数据shape: (113,)
+[ERROR] [1754208753.751938024] [solver_node]: 初始化阶段失败: operands could not be broadcast together with shapes (113,) (5,) 
+[ERROR] [1754208753.753329599] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 77, in complete_initialization
+    m_calibrated, n_calibrated, x_init, y_init, phi_init = self.perpendicular_localizer.calibrate(distances_array)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/perpendicular_localizer.py", line 102, in calibrate
+    self.added_distances = self.distances_array + self.h_values  # (100, N)
+ValueError: operands could not be broadcast together with shapes (113,) (5,) 
+
+[INFO] [1754208753.847109784] [solver_node]: 标定数据收集进度: 114/100
+[INFO] [1754208753.847878390] [solver_node]: 标定数据收集完成，开始标定过程...
+[INFO] [1754208753.848795963] [solver_node]: 开始标定，收集到的数据shape: (114,)
+[INFO] [1754208753.849551352] [solver_node]: [PerpendicularDistanceLocalizer] 开始标定，扫描数据shape: (114,)
+[ERROR] [1754208753.850598786] [solver_node]: 初始化阶段失败: operands could not be broadcast together with shapes (114,) (5,) 
+[ERROR] [1754208753.853030594] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 77, in complete_initialization
+    m_calibrated, n_calibrated, x_init, y_init, phi_init = self.perpendicular_localizer.calibrate(distances_array)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/perpendicular_localizer.py", line 102, in calibrate
+    self.added_distances = self.distances_array + self.h_values  # (100, N)
+ValueError: operands could not be broadcast together with shapes (114,) (5,) 
+
+[INFO] [1754208753.948615362] [solver_node]: 标定数据收集进度: 115/100
+[INFO] [1754208753.950439722] [solver_node]: 标定数据收集完成，开始标定过程...
+[INFO] [1754208753.951452082] [solver_node]: 开始标定，收集到的数据shape: (115,)
+[INFO] [1754208753.952984815] [solver_node]: [PerpendicularDistanceLocalizer] 开始标定，扫描数据shape: (115,)
+[ERROR] [1754208753.954538028] [solver_node]: 初始化阶段失败: operands could not be broadcast together with shapes (115,) (5,) 
+[ERROR] [1754208753.955485809] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 77, in complete_initialization
+    m_calibrated, n_calibrated, x_init, y_init, phi_init = self.perpendicular_localizer.calibrate(distances_array)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/perpendicular_localizer.py", line 102, in calibrate
+    self.added_distances = self.distances_array + self.h_values  # (100, N)
+ValueError: operands could not be broadcast together with shapes (115,) (5,) 
+
+[INFO] [1754208754.048748950] [solver_node]: 标定数据收集进度: 116/100
+[INFO] [1754208754.052342628] [solver_node]: 标定数据收集完成，开始标定过程...
+[INFO] [1754208754.053543315] [solver_node]: 开始标定，收集到的数据shape: (116,)
+[INFO] [1754208754.059298358] [solver_node]: [PerpendicularDistanceLocalizer] 开始标定，扫描数据shape: (116,)
+[ERROR] [1754208754.060797586] [solver_node]: 初始化阶段失败: operands could not be broadcast together with shapes (116,) (5,) 
+[ERROR] [1754208754.062017442] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 77, in complete_initialization
+    m_calibrated, n_calibrated, x_init, y_init, phi_init = self.perpendicular_localizer.calibrate(distances_array)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/perpendicular_localizer.py", line 102, in calibrate
+    self.added_distances = self.distances_array + self.h_values  # (100, N)
+ValueError: operands could not be broadcast together with shapes (116,) (5,) 
+
+[INFO] [1754208754.149893841] [solver_node]: 标定数据收集进度: 117/100
+[INFO] [1754208754.150647663] [solver_node]: 标定数据收集完成，开始标定过程...
+[INFO] [1754208754.151403533] [solver_node]: 开始标定，收集到的数据shape: (117,)
+[INFO] [1754208754.152541018] [solver_node]: [PerpendicularDistanceLocalizer] 开始标定，扫描数据shape: (117,)
+[ERROR] [1754208754.153554914] [solver_node]: 初始化阶段失败: operands could not be broadcast together with shapes (117,) (5,) 
+[ERROR] [1754208754.154496807] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 77, in complete_initialization
+    m_calibrated, n_calibrated, x_init, y_init, phi_init = self.perpendicular_localizer.calibrate(distances_array)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/perpendicular_localizer.py", line 102, in calibrate
+    self.added_distances = self.distances_array + self.h_values  # (100, N)
+ValueError: operands could not be broadcast together with shapes (117,) (5,) 
+
+[INFO] [1754208754.256012049] [solver_node]: 标定数据收集进度: 118/100
+[INFO] [1754208754.257008153] [solver_node]: 标定数据收集完成，开始标定过程...
+[INFO] [1754208754.257837401] [solver_node]: 开始标定，收集到的数据shape: (118,)
+[INFO] [1754208754.258526165] [solver_node]: [PerpendicularDistanceLocalizer] 开始标定，扫描数据shape: (118,)
+[ERROR] [1754208754.259269682] [solver_node]: 初始化阶段失败: operands could not be broadcast together with shapes (118,) (5,) 
+[ERROR] [1754208754.260104339] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 77, in complete_initialization
+    m_calibrated, n_calibrated, x_init, y_init, phi_init = self.perpendicular_localizer.calibrate(distances_array)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/perpendicular_localizer.py", line 102, in calibrate
+    self.added_distances = self.distances_array + self.h_values  # (100, N)
+ValueError: operands could not be broadcast together with shapes (118,) (5,) 
+
+[INFO] [1754208754.352010305] [solver_node]: 标定数据收集进度: 119/100
+[INFO] [1754208754.352845666] [solver_node]: 标定数据收集完成，开始标定过程...
+[INFO] [1754208754.355037017] [solver_node]: 开始标定，收集到的数据shape: (119,)
+[INFO] [1754208754.357741412] [solver_node]: [PerpendicularDistanceLocalizer] 开始标定，扫描数据shape: (119,)
+[ERROR] [1754208754.360238407] [solver_node]: 初始化阶段失败: operands could not be broadcast together with shapes (119,) (5,) 
+[ERROR] [1754208754.362874447] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 77, in complete_initialization
+    m_calibrated, n_calibrated, x_init, y_init, phi_init = self.perpendicular_localizer.calibrate(distances_array)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/perpendicular_localizer.py", line 102, in calibrate
+    self.added_distances = self.distances_array + self.h_values  # (100, N)
+ValueError: operands could not be broadcast together with shapes (119,) (5,) 
+
+[INFO] [1754208754.448601705] [solver_node]: 标定数据收集进度: 120/100
+[INFO] [1754208754.449656243] [solver_node]: 标定数据收集完成，开始标定过程...
+[INFO] [1754208754.450710460] [solver_node]: 开始标定，收集到的数据shape: (120,)
+[INFO] [1754208754.451598720] [solver_node]: [PerpendicularDistanceLocalizer] 开始标定，扫描数据shape: (120,)
+[ERROR] [1754208754.452960853] [solver_node]: 初始化阶段失败: operands could not be broadcast together with shapes (120,) (5,) 
+[ERROR] [1754208754.454281226] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 77, in complete_initialization
+    m_calibrated, n_calibrated, x_init, y_init, phi_init = self.perpendicular_localizer.calibrate(distances_array)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/perpendicular_localizer.py", line 102, in calibrate
+    self.added_distances = self.distances_array + self.h_values  # (100, N)
+ValueError: operands could not be broadcast together with shapes (120,) (5,) 
+
+[INFO] [1754208754.551254944] [solver_node]: 标定数据收集进度: 121/100
+[INFO] [1754208754.552302730] [solver_node]: 标定数据收集完成，开始标定过程...
+[INFO] [1754208754.553162604] [solver_node]: 开始标定，收集到的数据shape: (121,)
+[INFO] [1754208754.554165171] [solver_node]: [PerpendicularDistanceLocalizer] 开始标定，扫描数据shape: (121,)
+[ERROR] [1754208754.555237502] [solver_node]: 初始化阶段失败: operands could not be broadcast together with shapes (121,) (5,) 
+[ERROR] [1754208754.556611380] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 77, in complete_initialization
+    m_calibrated, n_calibrated, x_init, y_init, phi_init = self.perpendicular_localizer.calibrate(distances_array)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/perpendicular_localizer.py", line 102, in calibrate
+    self.added_distances = self.distances_array + self.h_values  # (100, N)
+ValueError: operands could not be broadcast together with shapes (121,) (5,) 
+
+[INFO] [1754208754.652287351] [solver_node]: 标定数据收集进度: 122/100
+[INFO] [1754208754.654440941] [solver_node]: 标定数据收集完成，开始标定过程...
+[INFO] [1754208754.656834795] [solver_node]: 开始标定，收集到的数据shape: (122,)
+[INFO] [1754208754.667580980] [solver_node]: [PerpendicularDistanceLocalizer] 开始标定，扫描数据shape: (122,)
+[ERROR] [1754208754.668460534] [solver_node]: 初始化阶段失败: operands could not be broadcast together with shapes (122,) (5,) 
+[ERROR] [1754208754.669747209] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 77, in complete_initialization
+    m_calibrated, n_calibrated, x_init, y_init, phi_init = self.perpendicular_localizer.calibrate(distances_array)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/perpendicular_localizer.py", line 102, in calibrate
+    self.added_distances = self.distances_array + self.h_values  # (100, N)
+ValueError: operands could not be broadcast together with shapes (122,) (5,) 
+
+[INFO] [1754208754.748236006] [solver_node]: 标定数据收集进度: 123/100
+[INFO] [1754208754.749005284] [solver_node]: 标定数据收集完成，开始标定过程...
+[INFO] [1754208754.751908119] [solver_node]: 开始标定，收集到的数据shape: (123,)
+[INFO] [1754208754.753213866] [solver_node]: [PerpendicularDistanceLocalizer] 开始标定，扫描数据shape: (123,)
+[ERROR] [1754208754.754431002] [solver_node]: 初始化阶段失败: operands could not be broadcast together with shapes (123,) (5,) 
+[ERROR] [1754208754.756802424] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 77, in complete_initialization
+    m_calibrated, n_calibrated, x_init, y_init, phi_init = self.perpendicular_localizer.calibrate(distances_array)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/perpendicular_localizer.py", line 102, in calibrate
+    self.added_distances = self.distances_array + self.h_values  # (100, N)
+ValueError: operands could not be broadcast together with shapes (123,) (5,) 
+
+[INFO] [1754208754.851657499] [solver_node]: 标定数据收集进度: 124/100
+[INFO] [1754208754.853368895] [solver_node]: 标定数据收集完成，开始标定过程...
+[INFO] [1754208754.855873250] [solver_node]: 开始标定，收集到的数据shape: (124,)
+[INFO] [1754208754.857470593] [solver_node]: [PerpendicularDistanceLocalizer] 开始标定，扫描数据shape: (124,)
+[ERROR] [1754208754.859732378] [solver_node]: 初始化阶段失败: operands could not be broadcast together with shapes (124,) (5,) 
+[ERROR] [1754208754.861678439] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 77, in complete_initialization
+    m_calibrated, n_calibrated, x_init, y_init, phi_init = self.perpendicular_localizer.calibrate(distances_array)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/perpendicular_localizer.py", line 102, in calibrate
+    self.added_distances = self.distances_array + self.h_values  # (100, N)
+ValueError: operands could not be broadcast together with shapes (124,) (5,) 
+
+[INFO] [1754208754.948064316] [solver_node]: 标定数据收集进度: 125/100
+[INFO] [1754208754.948811065] [solver_node]: 标定数据收集完成，开始标定过程...
+[INFO] [1754208754.949640922] [solver_node]: 开始标定，收集到的数据shape: (125,)
+[INFO] [1754208754.950410072] [solver_node]: [PerpendicularDistanceLocalizer] 开始标定，扫描数据shape: (125,)
+[ERROR] [1754208754.951290203] [solver_node]: 初始化阶段失败: operands could not be broadcast together with shapes (125,) (5,) 
+[ERROR] [1754208754.952461193] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 77, in complete_initialization
+    m_calibrated, n_calibrated, x_init, y_init, phi_init = self.perpendicular_localizer.calibrate(distances_array)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/perpendicular_localizer.py", line 102, in calibrate
+    self.added_distances = self.distances_array + self.h_values  # (100, N)
+ValueError: operands could not be broadcast together with shapes (125,) (5,) 
+
+[INFO] [1754208755.053512353] [solver_node]: 标定数据收集进度: 126/100
+[INFO] [1754208755.058179065] [solver_node]: 标定数据收集完成，开始标定过程...
+[INFO] [1754208755.060763936] [solver_node]: 开始标定，收集到的数据shape: (126,)
+[INFO] [1754208755.063780535] [solver_node]: [PerpendicularDistanceLocalizer] 开始标定，扫描数据shape: (126,)
+[ERROR] [1754208755.064693275] [solver_node]: 初始化阶段失败: operands could not be broadcast together with shapes (126,) (5,) 
+[ERROR] [1754208755.065644192] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 77, in complete_initialization
+    m_calibrated, n_calibrated, x_init, y_init, phi_init = self.perpendicular_localizer.calibrate(distances_array)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/perpendicular_localizer.py", line 102, in calibrate
+    self.added_distances = self.distances_array + self.h_values  # (100, N)
+ValueError: operands could not be broadcast together with shapes (126,) (5,) 
+
+[INFO] [1754208755.153764889] [solver_node]: 标定数据收集进度: 127/100
+[INFO] [1754208755.156106326] [solver_node]: 标定数据收集完成，开始标定过程...
+[INFO] [1754208755.157729462] [solver_node]: 开始标定，收集到的数据shape: (127,)
+[INFO] [1754208755.158964775] [solver_node]: [PerpendicularDistanceLocalizer] 开始标定，扫描数据shape: (127,)
+[ERROR] [1754208755.163613822] [solver_node]: 初始化阶段失败: operands could not be broadcast together with shapes (127,) (5,) 
+[ERROR] [1754208755.167791299] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 77, in complete_initialization
+    m_calibrated, n_calibrated, x_init, y_init, phi_init = self.perpendicular_localizer.calibrate(distances_array)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/perpendicular_localizer.py", line 102, in calibrate
+    self.added_distances = self.distances_array + self.h_values  # (100, N)
+ValueError: operands could not be broadcast together with shapes (127,) (5,) 
+
+[INFO] [1754208755.250408835] [solver_node]: 标定数据收集进度: 128/100
+[INFO] [1754208755.251243588] [solver_node]: 标定数据收集完成，开始标定过程...
+[INFO] [1754208755.252197610] [solver_node]: 开始标定，收集到的数据shape: (128,)
+[INFO] [1754208755.252904293] [solver_node]: [PerpendicularDistanceLocalizer] 开始标定，扫描数据shape: (128,)
+[ERROR] [1754208755.253989680] [solver_node]: 初始化阶段失败: operands could not be broadcast together with shapes (128,) (5,) 
+[ERROR] [1754208755.254864723] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 77, in complete_initialization
+    m_calibrated, n_calibrated, x_init, y_init, phi_init = self.perpendicular_localizer.calibrate(distances_array)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/perpendicular_localizer.py", line 102, in calibrate
+    self.added_distances = self.distances_array + self.h_values  # (100, N)
+ValueError: operands could not be broadcast together with shapes (128,) (5,) 
+

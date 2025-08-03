@@ -1,0 +1,128 @@
+[INFO] [1754210356.122412985] [solver_node]: [PerpendicularDistanceLocalizer] 前束索引: [2], 后束索引: [3, 4]
+[INFO] [1754210356.124371770] [solver_node]: [PerpendicularDistanceLocalizer] 左束索引: [0], 右束索引: [1]
+[INFO] [1754210356.126429546] [solver_node]: [PerpendicularDistanceLocalizer] 垂直距离定位器已初始化，需要调用calibrate()方法进行标定
+[INFO] [1754210356.137709879] [solver_node]: SolverNode启动，进入初始化阶段，需要收集100次激光数据进行标定...
+[INFO] [1754210356.147270974] [solver_node]: 标定数据收集进度: 1/100
+[INFO] [1754210356.247462581] [solver_node]: 标定数据收集进度: 2/100
+[INFO] [1754210356.347417298] [solver_node]: 标定数据收集进度: 3/100
+[INFO] [1754210356.447827876] [solver_node]: 标定数据收集进度: 4/100
+[INFO] [1754210356.547899439] [solver_node]: 标定数据收集进度: 5/100
+[INFO] [1754210356.650111163] [solver_node]: 标定数据收集进度: 6/100
+[INFO] [1754210356.748954542] [solver_node]: 标定数据收集进度: 7/100
+[INFO] [1754210356.978828651] [solver_node]: 标定数据收集进度: 8/100
+[INFO] [1754210356.983044538] [solver_node]: 标定数据收集进度: 9/100
+[INFO] [1754210357.052036299] [solver_node]: 标定数据收集进度: 10/100
+[INFO] [1754210357.155499250] [solver_node]: 标定数据收集进度: 11/100
+[INFO] [1754210357.248327639] [solver_node]: 标定数据收集进度: 12/100
+[INFO] [1754210357.349172296] [solver_node]: 标定数据收集进度: 13/100
+[INFO] [1754210357.448079666] [solver_node]: 标定数据收集进度: 14/100
+[INFO] [1754210357.549657324] [solver_node]: 标定数据收集进度: 15/100
+[INFO] [1754210357.656039033] [solver_node]: 标定数据收集进度: 16/100
+[INFO] [1754210357.762163985] [solver_node]: 标定数据收集进度: 17/100
+[INFO] [1754210357.858709435] [solver_node]: 标定数据收集进度: 18/100
+[INFO] [1754210357.957407944] [solver_node]: 标定数据收集进度: 19/100
+[INFO] [1754210358.048540239] [solver_node]: 标定数据收集进度: 20/100
+[INFO] [1754210358.147081303] [solver_node]: 标定数据收集进度: 21/100
+[INFO] [1754210358.250083023] [solver_node]: 标定数据收集进度: 22/100
+[INFO] [1754210358.348964992] [solver_node]: 标定数据收集进度: 23/100
+[INFO] [1754210358.475430223] [solver_node]: 标定数据收集进度: 24/100
+[INFO] [1754210358.553907163] [solver_node]: 标定数据收集进度: 25/100
+[INFO] [1754210358.650320986] [solver_node]: 标定数据收集进度: 26/100
+[INFO] [1754210358.750973037] [solver_node]: 标定数据收集进度: 27/100
+[INFO] [1754210358.855569956] [solver_node]: 标定数据收集进度: 28/100
+[INFO] [1754210358.954509387] [solver_node]: 标定数据收集进度: 29/100
+[INFO] [1754210359.048323867] [solver_node]: 标定数据收集进度: 30/100
+[INFO] [1754210359.150713883] [solver_node]: 标定数据收集进度: 31/100
+[INFO] [1754210359.251287581] [solver_node]: 标定数据收集进度: 32/100
+[INFO] [1754210359.347462657] [solver_node]: 标定数据收集进度: 33/100
+[INFO] [1754210359.449436611] [solver_node]: 标定数据收集进度: 34/100
+[INFO] [1754210359.551838912] [solver_node]: 标定数据收集进度: 35/100
+[INFO] [1754210359.647848062] [solver_node]: 标定数据收集进度: 36/100
+[INFO] [1754210359.748998084] [solver_node]: 标定数据收集进度: 37/100
+[INFO] [1754210359.862027513] [solver_node]: 标定数据收集进度: 38/100
+[INFO] [1754210359.947479572] [solver_node]: 标定数据收集进度: 39/100
+[INFO] [1754210360.068822519] [solver_node]: 标定数据收集进度: 40/100
+[INFO] [1754210360.148235751] [solver_node]: 标定数据收集进度: 41/100
+[INFO] [1754210360.247354579] [solver_node]: 标定数据收集进度: 42/100
+[INFO] [1754210360.351289344] [solver_node]: 标定数据收集进度: 43/100
+[INFO] [1754210360.447902268] [solver_node]: 标定数据收集进度: 44/100
+[INFO] [1754210360.551228489] [solver_node]: 标定数据收集进度: 45/100
+[INFO] [1754210360.647499675] [solver_node]: 标定数据收集进度: 46/100
+[INFO] [1754210360.747856642] [solver_node]: 标定数据收集进度: 47/100
+[INFO] [1754210360.849964946] [solver_node]: 标定数据收集进度: 48/100
+[INFO] [1754210360.953920827] [solver_node]: 标定数据收集进度: 49/100
+[INFO] [1754210361.050310502] [solver_node]: 标定数据收集进度: 50/100
+[INFO] [1754210361.146999539] [solver_node]: 标定数据收集进度: 51/100
+[INFO] [1754210361.253421146] [solver_node]: 标定数据收集进度: 52/100
+[INFO] [1754210361.352980192] [solver_node]: 标定数据收集进度: 53/100
+[INFO] [1754210361.462741014] [solver_node]: 标定数据收集进度: 54/100
+[INFO] [1754210361.554545193] [solver_node]: 标定数据收集进度: 55/100
+[INFO] [1754210361.658930291] [solver_node]: 标定数据收集进度: 56/100
+[INFO] [1754210361.750077549] [solver_node]: 标定数据收集进度: 57/100
+[INFO] [1754210361.849813719] [solver_node]: 标定数据收集进度: 58/100
+[INFO] [1754210361.973968134] [solver_node]: 标定数据收集进度: 59/100
+[INFO] [1754210362.050957199] [solver_node]: 标定数据收集进度: 60/100
+[INFO] [1754210362.150918357] [solver_node]: 标定数据收集进度: 61/100
+[INFO] [1754210362.249850301] [solver_node]: 标定数据收集进度: 62/100
+[INFO] [1754210362.347080242] [solver_node]: 标定数据收集进度: 63/100
+[INFO] [1754210362.449977930] [solver_node]: 标定数据收集进度: 64/100
+[INFO] [1754210362.547928908] [solver_node]: 标定数据收集进度: 65/100
+[INFO] [1754210362.648574311] [solver_node]: 标定数据收集进度: 66/100
+[INFO] [1754210362.749476377] [solver_node]: 标定数据收集进度: 67/100
+[INFO] [1754210362.859119307] [solver_node]: 标定数据收集进度: 68/100
+[INFO] [1754210362.973541005] [solver_node]: 标定数据收集进度: 69/100
+[INFO] [1754210363.080178879] [solver_node]: 标定数据收集进度: 70/100
+[INFO] [1754210363.162057714] [solver_node]: 标定数据收集进度: 71/100
+[INFO] [1754210363.255957228] [solver_node]: 标定数据收集进度: 72/100
+[INFO] [1754210363.361705640] [solver_node]: 标定数据收集进度: 73/100
+[INFO] [1754210363.459409838] [solver_node]: 标定数据收集进度: 74/100
+[INFO] [1754210363.553730566] [solver_node]: 标定数据收集进度: 75/100
+[INFO] [1754210363.652326849] [solver_node]: 标定数据收集进度: 76/100
+[INFO] [1754210363.758940117] [solver_node]: 标定数据收集进度: 77/100
+[INFO] [1754210363.860036809] [solver_node]: 标定数据收集进度: 78/100
+[INFO] [1754210363.971790137] [solver_node]: 标定数据收集进度: 79/100
+[INFO] [1754210364.066381728] [solver_node]: 标定数据收集进度: 80/100
+[INFO] [1754210364.147944945] [solver_node]: 标定数据收集进度: 81/100
+[WARN] [1754210364.248058141] [solver_node]: 收到空的激光距离数据，跳过处理
+[INFO] [1754210364.351741726] [solver_node]: 标定数据收集进度: 82/100
+[INFO] [1754210364.457986384] [solver_node]: 标定数据收集进度: 83/100
+[INFO] [1754210364.561616697] [solver_node]: 标定数据收集进度: 84/100
+[INFO] [1754210364.649069014] [solver_node]: 标定数据收集进度: 85/100
+[INFO] [1754210364.770093614] [solver_node]: 标定数据收集进度: 86/100
+[INFO] [1754210364.872656509] [solver_node]: 标定数据收集进度: 87/100
+[INFO] [1754210364.994134861] [solver_node]: 标定数据收集进度: 88/100
+[INFO] [1754210365.056940117] [solver_node]: 标定数据收集进度: 89/100
+[INFO] [1754210365.165332447] [solver_node]: 标定数据收集进度: 90/100
+[INFO] [1754210365.257972716] [solver_node]: 标定数据收集进度: 91/100
+[INFO] [1754210365.348127609] [solver_node]: 标定数据收集进度: 92/100
+[INFO] [1754210365.475615386] [solver_node]: 标定数据收集进度: 93/100
+[INFO] [1754210365.563832019] [solver_node]: 标定数据收集进度: 94/100
+[INFO] [1754210365.651499105] [solver_node]: 标定数据收集进度: 95/100
+[INFO] [1754210365.770449482] [solver_node]: 标定数据收集进度: 96/100
+[INFO] [1754210365.849022966] [solver_node]: 标定数据收集进度: 97/100
+[INFO] [1754210365.953827882] [solver_node]: 标定数据收集进度: 98/100
+[INFO] [1754210366.130917164] [solver_node]: 标定数据收集进度: 99/100
+[INFO] [1754210366.151614271] [solver_node]: 标定数据收集进度: 100/100
+[INFO] [1754210366.152386408] [solver_node]: 标定数据收集完成，开始标定过程...
+[INFO] [1754210366.153400653] [solver_node]: 开始标定，收集到的数据shape: (100, 4)
+[INFO] [1754210366.159358329] [solver_node]: [PerpendicularDistanceLocalizer] 开始标定，扫描数据shape: (100, 4)
+[INFO] [1754210366.161127849] [solver_node]: [PerpendicularDistanceLocalizer] 平均测距值 详细内容: 形状: (4,), 类型: float64
+[INFO] [1754210366.161961641] [solver_node]: [PerpendicularDistanceLocalizer] 平均测距值[0]: 4.891999999999997
+[INFO] [1754210366.162647391] [solver_node]: [PerpendicularDistanceLocalizer] 平均测距值[1]: 4.324000000000009
+[INFO] [1754210366.163301915] [solver_node]: [PerpendicularDistanceLocalizer] 平均测距值[2]: 0.5679999999999994
+[INFO] [1754210366.177935410] [solver_node]: [PerpendicularDistanceLocalizer] 平均测距值[3]: 6.78567999999999
+[INFO] [1754210366.178896222] [solver_node]: [PerpendicularDistanceLocalizer] h_values 详细内容: 形状: (5,), 类型: float64
+[INFO] [1754210366.179632237] [solver_node]: [PerpendicularDistanceLocalizer] h_values[0]: 0.576307010566459
+[INFO] [1754210366.180316356] [solver_node]: [PerpendicularDistanceLocalizer] h_values[1]: 0.576307010566459
+[INFO] [1754210366.180993852] [solver_node]: [PerpendicularDistanceLocalizer] h_values[2]: 0.4406689137682115
+[INFO] [1754210366.181711630] [solver_node]: [PerpendicularDistanceLocalizer] h_values[3]: 2.253861156130993
+[INFO] [1754210366.182377447] [solver_node]: [PerpendicularDistanceLocalizer] h_values[4]: 2.253861156130993
+[ERROR] [1754210366.183137747] [solver_node]: 初始化阶段失败: operands could not be broadcast together with shapes (100,4) (5,) 
+[ERROR] [1754210366.195088358] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 82, in complete_initialization
+    m_calibrated, n_calibrated, x_init, y_init, phi_init = self.perpendicular_localizer.calibrate(distances_array)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/perpendicular_localizer.py", line 108, in calibrate
+    self.added_distances = self.distances_array + self.h_values  # (100, N)
+ValueError: operands could not be broadcast together with shapes (100,4) (5,) 
+
+[WARN] [1754210521.056688266] [solver_node]: 收到空的激光距离数据，跳过处理

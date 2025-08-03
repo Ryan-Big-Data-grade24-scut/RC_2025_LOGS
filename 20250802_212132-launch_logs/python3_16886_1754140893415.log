@@ -1,0 +1,365 @@
+[INFO] [1754140895.756062810] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140896.768455718] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754140896.769384454] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140896.770485445] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140897.783021201] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754140897.783920881] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140897.785062416] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140898.797678684] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754140898.798630844] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140898.799954715] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140899.812098951] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754140899.813024423] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140899.814142822] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140900.826031826] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754140900.826951826] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140900.828066610] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140901.840448893] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754140901.841351581] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140901.842436989] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140902.855550888] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754140902.856507656] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140902.857635144] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140903.870840307] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754140903.871752883] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140903.872906610] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140904.884875518] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754140904.885779518] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140904.886903134] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140905.899046313] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754140905.899941577] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140905.901137769] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140906.915749748] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754140906.916692019] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140906.918437619] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140907.934334653] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754140907.935266109] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140907.936579005] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140908.953075847] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754140908.953992999] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140908.954932359] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140909.966955186] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754140909.968163090] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140909.969387794] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140910.982904477] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754140910.983813437] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140910.984990652] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140911.995212393] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754140911.996134920] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140911.997316040] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140913.009133972] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754140913.010028916] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140913.011194643] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140914.022800063] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754140914.023702591] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140914.024886207] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140915.046794183] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754140915.047937671] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140915.049196103] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140916.061724850] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754140916.062604754] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140916.064159826] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140917.074846750] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754140917.075728318] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140917.077315101] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140918.089016041] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754140918.089922729] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140918.090880552] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140919.102718836] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754140919.103599604] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140919.104914164] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140920.117818367] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754140920.118835871] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140920.120346110] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140921.132969418] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754140921.133966826] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140921.135460585] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140922.149060372] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754140922.149960212] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140922.151210868] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140923.164996927] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754140923.165887167] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140923.167359518] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140924.179960458] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754140924.180893034] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140924.182187945] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140925.191443926] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754140925.192331126] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140925.193333813] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140926.203973698] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754140926.204905057] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140926.205873153] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140927.215707149] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754140927.216691661] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140927.217697709] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140928.229222169] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754140928.230166585] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140928.231566424] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140929.249344514] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754140929.250285858] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140929.251663137] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140930.267323660] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754140930.268635020] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140930.269720683] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140931.284450518] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754140931.286295574] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140931.291471860] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754140931.295175635] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754140931.306870320] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140932.313092029] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754140932.314020317] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140932.315522940] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140933.325343689] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754140933.326291241] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140933.331864807] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140934.353439440] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754140934.354337039] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140934.355295119] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140935.370810842] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754140935.371779770] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140935.373358713] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140936.386137061] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754140936.387029828] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140936.389298404] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140937.405650798] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754140937.406548366] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140937.407756974] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140938.421469817] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754140938.422359449] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140938.423673400] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140939.440360131] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754140939.441306306] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140939.442680098] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140940.457933773] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754140940.458848492] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140940.459839692] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140941.474906903] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754140941.475845303] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140941.476941910] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140942.492104609] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754140942.493040481] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140942.494028737] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140943.510053899] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754140943.511092939] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140943.515933225] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754140943.517986697] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754140943.519546376] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140944.551132046] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754140944.552357934] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140944.553489997] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140945.559130555] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140945.560346171] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140945.562065018] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140946.580356964] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140946.581294276] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140946.582304548] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140947.599879470] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140947.600831501] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140947.602081165] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140948.617542936] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140948.618439319] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140948.619338615] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140949.634748098] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140949.635670690] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140949.637106593] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140950.655248203] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140950.656195499] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140950.657393611] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140951.675920948] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140951.676911636] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140951.677955796] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140952.695695230] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140952.696638046] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140952.697779229] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140953.713829096] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140953.714820999] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140953.715959719] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140954.733349649] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140954.734655537] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140954.735740241] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140955.753786075] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140955.754739866] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140955.755789306] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140956.776285731] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140956.777261571] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140956.778425762] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140957.785204496] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140957.786138992] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140957.787156079] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140958.805882041] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140958.806772729] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140958.807894520] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140959.825292643] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140959.826255138] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140959.827456866] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140960.842419789] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140960.843301709] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140960.846523212] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140961.862608502] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140961.863534806] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140961.864546070] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140962.880820928] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140962.881728672] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140962.882682367] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140963.898450026] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140963.899491594] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140963.900706953] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140964.915097237] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140964.916014260] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140964.917203572] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140965.932472479] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140965.933396478] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140965.934516862] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140966.948999401] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140966.949885385] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140966.951056424] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140967.968852147] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140967.969811634] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140967.970818738] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140968.986719037] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140968.987583164] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140968.988657148] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140970.003511367] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140970.004389479] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140970.005620710] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140971.020882257] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140971.021775921] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140971.022917744] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140972.040519931] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140972.041384762] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140972.042556730] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140973.059464420] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140973.060337060] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140973.061473700] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140974.081350445] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140974.082716685] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140974.083759020] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140975.105879189] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140975.106785973] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140975.108076596] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140976.122164960] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140976.123198047] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140976.124291487] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140977.127189101] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140977.128147053] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140977.130029069] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140978.150534294] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140978.152804661] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140978.153883669] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140979.160306370] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140979.161222594] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140979.162169218] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140980.169007503] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140980.169916367] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140980.172208718] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140981.175519485] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140981.176419324] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140981.178844956] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140982.202760516] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140982.203711715] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140982.205224323] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140983.213009936] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140983.213911728] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140983.215504303] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140984.221465533] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140984.222479837] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140984.224794076] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754140984.227346779] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754140984.229337211] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140985.238773735] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140985.239755783] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140985.247603588] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754140985.250522148] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754140985.256477666] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140986.266365006] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140986.268692430] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140986.272116268] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140987.280145753] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140987.281610873] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140987.282762201] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140988.285758695] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140988.286656455] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140988.288244070] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140989.294697460] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140989.295613364] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140989.296783955] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140990.318678076] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140990.319592604] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140990.320851547] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140991.338424710] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140991.339432197] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140991.340398661] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140992.363027118] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140992.363923789] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140992.365268941] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140993.387434358] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140993.388372309] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140993.389400085] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140994.398250818] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140994.399346945] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140994.401152225] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754140994.404217184] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140995.422558570] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140995.423465930] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140995.425015945] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140996.446433138] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140996.447341746] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140996.449696977] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140997.473971769] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140997.474888601] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140997.476220120] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140998.487684260] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140998.489680452] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140998.491394723] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754140999.498513809] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754140999.499402896] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754140999.500626576] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754141000.508430973] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754141000.509344061] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754141000.510638524] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754141001.519568393] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754141001.520514825] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754141001.522157800] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754141002.525398135] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754141002.526373686] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754141002.528142614] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754141003.530864388] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754141003.531819492] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754141003.533375332] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754141004.541278065] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754141004.542235569] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754141004.543333200] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754141005.547487678] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754141005.548372158] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754141005.549571326] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141005.552021533] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141005.553899260] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754141006.575352453] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754141006.576532165] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754141006.577650181] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754141007.581411923] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754141007.582305331] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754141007.583284466] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754141008.586539809] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754141008.587411745] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754141008.588787456] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754141009.611646505] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754141009.612646664] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754141009.614122312] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754141010.621293397] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754141010.622227957] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754141010.623212565] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754141011.627905859] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754141011.628861858] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754141011.629893794] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754141012.635379824] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754141012.636789999] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754141012.637999439] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754141013.644954908] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754141013.645864412] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754141013.647277660] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754141014.668438757] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754141014.669386756] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754141014.670917764] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754141015.684397903] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754141015.686568047] [solver_node]: 无法获取TF变换，跳过求解

@@ -1,0 +1,2511 @@
+[INFO] [1754141246.155900740] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754141247.159380690] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754141247.160713202] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754141247.161767057] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754141248.178559484] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754141248.179514587] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754141248.180546139] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754141249.196547942] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754141249.197556709] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754141249.199531461] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754141250.220633678] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754141250.221557678] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754141250.222716301] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754141251.237389688] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754141251.238342232] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754141251.239526744] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754141252.255100098] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754141252.256365026] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754141252.257505890] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754141253.260909200] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754141253.261892976] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754141253.262933007] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754141254.268833277] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754141254.269841565] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754141254.272222684] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754141255.279894409] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754141255.282126536] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754141255.283440552] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754141256.290713109] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754141256.291654005] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754141256.292733045] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754141257.314030046] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754141257.314921821] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754141257.315903293] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754141258.338129862] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754141258.339177349] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754141258.340529669] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754141259.362936910] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754141259.363838509] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754141259.365059053] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754141260.368321435] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754141260.369368443] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754141260.372256986] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754141261.394970627] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754141261.395936450] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754141261.397055362] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754141262.420181643] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754141262.421186154] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754141262.424097193] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754141263.447356978] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754141263.448630961] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754141263.449651409] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754141264.470395418] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754141264.471763834] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754141264.472966841] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754141265.479331047] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754141265.480239463] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754141265.481473766] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754141266.504068559] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754141266.505004975] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754141266.506357742] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754141267.527763447] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754141267.529520919] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754141267.531041878] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754141268.551495263] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754141268.552440479] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754141268.553395295] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754141269.572000521] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754141269.572933800] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754141269.574039464] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754141270.594189617] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754141270.595571825] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754141270.597141104] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754141271.617065562] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754141271.618446265] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754141271.620456729] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754141272.643719841] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754141272.644739777] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754141272.645745856] [solver_node]: 收到3个激光点，处理后3个有效点
+[WARN] [1754141273.664012778] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754141273.665016682] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754141273.666861290] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754141274.670604664] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754141274.671542296] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754141274.673891287] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754141275.686285155] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754141275.687177090] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754141275.689145666] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754141276.708195883] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754141276.709141611] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754141276.710981866] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754141277.735067603] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754141277.735984626] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754141277.737023346] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754141278.758427739] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754141278.759575451] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754141278.764757433] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754141279.794598591] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754141279.795724607] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754141279.798365246] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141279.822002103] [solver_node]: 当前位置: x=-7.879, y=-0.357, angle=-3.141
+[INFO] [1754141279.823867830] [solver_node]: 激光距离数据: [0.405 0.44  3.851 0.449 0.2  ]
+[INFO] [1754141279.836300211] [solver_node]: 求解器返回 3 个解
+[INFO] [1754141279.837902610] [solver_node]: 无效解: x=1.877, y=7.008, 距离=12.224 > 阈值0.300
+[INFO] [1754141279.838832082] [solver_node]: 无效解: x=4.291, y=7.008, 距离=14.226 > 阈值0.300
+[INFO] [1754141279.839838706] [solver_node]: 无效解: x=1.577, y=7.008, 距离=11.986 > 阈值0.300
+[WARN] [1754141279.840665105] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141279.841427121] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141279.842431121] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141279.845909616] [solver_node]: 当前位置: x=-7.877, y=-0.361, angle=-3.141
+[INFO] [1754141279.847073103] [solver_node]: 激光距离数据: [0.405 0.44  3.851 0.453 0.2  ]
+[INFO] [1754141279.859086636] [solver_node]: 求解器返回 3 个解
+[INFO] [1754141279.859888043] [solver_node]: 无效解: x=1.874, y=7.009, 距离=12.223 > 阈值0.300
+[INFO] [1754141279.874418631] [solver_node]: 无效解: x=4.292, y=7.009, 距离=14.226 > 阈值0.300
+[INFO] [1754141279.875999111] [solver_node]: 无效解: x=1.577, y=7.009, 距离=11.987 > 阈值0.300
+[WARN] [1754141279.877631366] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141279.878727590] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141279.880215397] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754141280.903584686] [solver_node]: 无法获取变换 laser_dist_map->chassis_link: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754141280.906063277] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754141280.908593228] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141280.911136619] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141280.914870026] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141280.917008458] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141280.921951080] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141280.928442822] [solver_node]: 当前位置: x=-7.877, y=-0.365, angle=-3.140
+[INFO] [1754141280.929769830] [solver_node]: 激光距离数据: [0.405 0.44  3.857 0.453 0.2  ]
+[INFO] [1754141280.937198787] [solver_node]: 求解器返回 3 个解
+[INFO] [1754141280.938025091] [solver_node]: 无效解: x=1.874, y=7.008, 距离=12.225 > 阈值0.300
+[INFO] [1754141280.938776899] [solver_node]: 无效解: x=4.297, y=7.008, 距离=14.234 > 阈值0.300
+[INFO] [1754141280.939487747] [solver_node]: 无效解: x=1.577, y=7.008, 距离=11.990 > 阈值0.300
+[WARN] [1754141280.941682594] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141280.943802273] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141280.945494561] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141280.970008985] [solver_node]: 当前位置: x=-7.877, y=-0.360, angle=-3.141
+[INFO] [1754141280.999722384] [solver_node]: 激光距离数据: [0.405 0.44  3.857 0.453 0.2  ]
+[INFO] [1754141281.014027596] [solver_node]: 求解器返回 3 个解
+[INFO] [1754141281.015325900] [solver_node]: 无效解: x=1.874, y=7.008, 距离=12.221 > 阈值0.300
+[INFO] [1754141281.016375851] [solver_node]: 无效解: x=4.297, y=7.008, 距离=14.230 > 阈值0.300
+[INFO] [1754141281.017158635] [solver_node]: 无效解: x=1.577, y=7.008, 距离=11.986 > 阈值0.300
+[WARN] [1754141281.017912619] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141281.019051914] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141281.024001897] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141281.061030366] [solver_node]: 当前位置: x=-7.881, y=-0.362, angle=-3.140
+[INFO] [1754141281.064290525] [solver_node]: 激光距离数据: [0.405 0.44  3.857 0.456 0.2  ]
+[INFO] [1754141281.111799726] [solver_node]: 求解器返回 3 个解
+[INFO] [1754141281.115616397] [solver_node]: 无效解: x=1.871, y=7.008, 距离=12.224 > 阈值0.300
+[INFO] [1754141281.118973740] [solver_node]: 无效解: x=4.297, y=7.008, 距离=14.235 > 阈值0.300
+[INFO] [1754141281.121927691] [solver_node]: 无效解: x=1.576, y=7.008, 距离=11.990 > 阈值0.300
+[WARN] [1754141281.127733833] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141281.131078024] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141281.134152999] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141281.142154053] [solver_node]: 当前位置: x=-7.879, y=-0.358, angle=-3.140
+[INFO] [1754141281.166556190] [solver_node]: 激光距离数据: [0.405 0.44  3.857 0.456 0.2  ]
+[INFO] [1754141281.183833816] [solver_node]: 求解器返回 3 个解
+[INFO] [1754141281.184788984] [solver_node]: 无效解: x=1.871, y=7.008, 距离=12.220 > 阈值0.300
+[INFO] [1754141281.185524632] [solver_node]: 无效解: x=4.297, y=7.008, 距离=14.231 > 阈值0.300
+[INFO] [1754141281.186227608] [solver_node]: 无效解: x=1.576, y=7.008, 距离=11.986 > 阈值0.300
+[WARN] [1754141281.196273397] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141281.202039667] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141281.205455250] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141281.218080014] [solver_node]: 当前位置: x=-7.876, y=-0.356, angle=-3.140
+[INFO] [1754141281.219384077] [solver_node]: 激光距离数据: [0.405 0.44  3.857 0.456 0.2  ]
+[INFO] [1754141281.226328427] [solver_node]: 求解器返回 3 个解
+[INFO] [1754141281.227249195] [solver_node]: 无效解: x=1.871, y=7.008, 距离=12.216 > 阈值0.300
+[INFO] [1754141281.249840100] [solver_node]: 无效解: x=4.297, y=7.008, 距离=14.228 > 阈值0.300
+[INFO] [1754141281.261844001] [solver_node]: 无效解: x=1.576, y=7.008, 距离=11.983 > 阈值0.300
+[WARN] [1754141281.264024064] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141281.265841439] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141281.303599316] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141281.311079346] [solver_node]: 当前位置: x=-7.876, y=-0.354, angle=-3.140
+[INFO] [1754141281.328879500] [solver_node]: 激光距离数据: [0.405 0.44  3.858 0.456 0.2  ]
+[INFO] [1754141281.372089727] [solver_node]: 求解器返回 3 个解
+[INFO] [1754141281.373128767] [solver_node]: 无效解: x=1.871, y=7.008, 距离=12.214 > 阈值0.300
+[INFO] [1754141281.384057755] [solver_node]: 无效解: x=4.298, y=7.008, 距离=14.227 > 阈值0.300
+[INFO] [1754141281.384988763] [solver_node]: 无效解: x=1.576, y=7.008, 距离=11.981 > 阈值0.300
+[WARN] [1754141281.385838555] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141281.386576987] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141281.411018707] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141281.413978994] [solver_node]: 当前位置: x=-7.867, y=-0.365, angle=-3.138
+[INFO] [1754141281.415276530] [solver_node]: 激光距离数据: [0.405 0.44  3.858 0.456 0.2  ]
+[INFO] [1754141281.442655689] [solver_node]: 求解器返回 3 个解
+[INFO] [1754141281.443399689] [solver_node]: 无效解: x=1.869, y=7.005, 距离=12.211 > 阈值0.300
+[INFO] [1754141281.448074088] [solver_node]: 无效解: x=4.298, y=7.005, 距离=14.224 > 阈值0.300
+[INFO] [1754141281.449414695] [solver_node]: 无效解: x=1.575, y=7.005, 距离=11.978 > 阈值0.300
+[WARN] [1754141281.450229959] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141281.450944807] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141281.512227860] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141281.535011053] [solver_node]: 当前位置: x=-7.874, y=-0.358, angle=-3.140
+[INFO] [1754141281.536445837] [solver_node]: 激光距离数据: [0.405 0.44  3.858 0.456 0.2  ]
+[INFO] [1754141281.555514247] [solver_node]: 求解器返回 3 个解
+[INFO] [1754141281.575777697] [solver_node]: 无效解: x=1.871, y=7.007, 距离=12.215 > 阈值0.300
+[INFO] [1754141281.598366202] [solver_node]: 无效解: x=4.298, y=7.007, 距离=14.227 > 阈值0.300
+[INFO] [1754141281.599265018] [solver_node]: 无效解: x=1.576, y=7.007, 距离=11.981 > 阈值0.300
+[WARN] [1754141281.601270457] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141281.602023129] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141281.602959321] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141281.612556790] [solver_node]: 当前位置: x=-7.881, y=-0.368, angle=-3.140
+[INFO] [1754141281.613718005] [solver_node]: 激光距离数据: [0.405 0.44  3.858 0.456 0.2  ]
+[INFO] [1754141281.645999020] [solver_node]: 求解器返回 3 个解
+[INFO] [1754141281.666546501] [solver_node]: 无效解: x=1.870, y=7.007, 距离=12.226 > 阈值0.300
+[INFO] [1754141281.697773884] [solver_node]: 无效解: x=4.298, y=7.007, 距离=14.238 > 阈值0.300
+[INFO] [1754141281.701702747] [solver_node]: 无效解: x=1.576, y=7.007, 距离=11.993 > 阈值0.300
+[WARN] [1754141281.704396666] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141281.705260954] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141281.708699960] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141281.728597426] [solver_node]: 当前位置: x=-7.872, y=-0.365, angle=-3.140
+[INFO] [1754141281.745828333] [solver_node]: 激光距离数据: [0.405 0.44  3.858 0.456 0.2  ]
+[INFO] [1754141281.762041000] [solver_node]: 求解器返回 3 个解
+[INFO] [1754141281.772268133] [solver_node]: 无效解: x=1.871, y=7.008, 距离=12.218 > 阈值0.300
+[INFO] [1754141281.778077475] [solver_node]: 无效解: x=4.298, y=7.008, 距离=14.229 > 阈值0.300
+[INFO] [1754141281.778951011] [solver_node]: 无效解: x=1.576, y=7.008, 距离=11.984 > 阈值0.300
+[WARN] [1754141281.779705187] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141281.780478179] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141281.801741276] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141281.807890746] [solver_node]: 当前位置: x=-7.875, y=-0.368, angle=-3.140
+[INFO] [1754141281.810523577] [solver_node]: 激光距离数据: [0.405 1.944 3.858 0.456 0.2  ]
+[WARN] [1754141281.831779251] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141281.843600655] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141281.881104932] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141281.903545725] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141281.927539766] [solver_node]: 当前位置: x=-7.873, y=-0.361, angle=-3.141
+[INFO] [1754141281.934675828] [solver_node]: 激光距离数据: [0.405 1.944 3.858 0.456 0.2  ]
+[WARN] [1754141281.940564146] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141281.952393518] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141281.953317326] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141282.030895446] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141282.038585044] [solver_node]: 当前位置: x=-7.873, y=-0.360, angle=-3.141
+[INFO] [1754141282.042325107] [solver_node]: 激光距离数据: [0.405 1.971 3.858 0.456 0.2  ]
+[WARN] [1754141282.065991756] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141282.068250795] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141282.069070859] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141282.107269727] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141282.125702041] [solver_node]: 当前位置: x=-7.878, y=-0.365, angle=-3.141
+[INFO] [1754141282.127144761] [solver_node]: 激光距离数据: [0.405 1.991 3.858 0.456 0.2  ]
+[WARN] [1754141282.141815925] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141282.142635444] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141282.143406068] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141282.217946589] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141282.221261436] [solver_node]: 当前位置: x=-7.870, y=-0.365, angle=-3.141
+[INFO] [1754141282.230074138] [solver_node]: 激光距离数据: [0.405 1.997 3.86  0.456 0.2  ]
+[WARN] [1754141282.258194353] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141282.269429966] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141282.270389229] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141282.311319809] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141282.319465310] [solver_node]: 当前位置: x=-7.877, y=-0.367, angle=-3.141
+[INFO] [1754141282.320779422] [solver_node]: 激光距离数据: [0.405 1.997 3.86  0.456 0.2  ]
+[WARN] [1754141282.378414445] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141282.398884806] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141282.399801606] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141282.409352195] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141282.445375704] [solver_node]: 当前位置: x=-7.878, y=-0.363, angle=3.141
+[INFO] [1754141282.446675896] [solver_node]: 激光距离数据: [0.405 1.997 3.86  0.456 0.2  ]
+[WARN] [1754141282.498332968] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141282.499179048] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141282.499986791] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141282.518433026] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141282.542505339] [solver_node]: 当前位置: x=-7.875, y=-0.359, angle=-3.141
+[INFO] [1754141282.543791322] [solver_node]: 激光距离数据: [0.405 2.067 3.86  0.456 0.2  ]
+[WARN] [1754141282.573318449] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141282.575446641] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141282.577078096] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141282.622455906] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141282.641518492] [solver_node]: 当前位置: x=-7.875, y=-0.357, angle=-3.141
+[INFO] [1754141282.642942012] [solver_node]: 激光距离数据: [0.405 2.067 3.86  0.456 0.2  ]
+[WARN] [1754141282.681505616] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141282.682365968] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141282.683300176] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141282.703434346] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141282.711951143] [solver_node]: 当前位置: x=-7.870, y=-0.356, angle=-3.141
+[INFO] [1754141282.713831878] [solver_node]: 激光距离数据: [0.405 2.067 3.86  0.456 0.2  ]
+[WARN] [1754141282.755944378] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141282.760227608] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141282.761339352] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141282.817316135] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141282.833415522] [solver_node]: 当前位置: x=-7.866, y=-0.357, angle=-3.141
+[INFO] [1754141282.845475774] [solver_node]: 激光距离数据: [0.405 2.067 3.86  0.45  0.2  ]
+[WARN] [1754141282.869952151] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141282.872627702] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141282.876262773] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141282.929383301] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141282.940324705] [solver_node]: 当前位置: x=-7.862, y=-0.355, angle=-3.141
+[INFO] [1754141282.959351068] [solver_node]: 激光距离数据: [0.405 4.268 3.86  0.45  0.2  ]
+[WARN] [1754141282.978327030] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141282.979088950] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141282.979821781] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141283.006390285] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141283.011582380] [solver_node]: 当前位置: x=-7.871, y=-0.367, angle=-3.141
+[INFO] [1754141283.012873259] [solver_node]: 激光距离数据: [0.405 4.268 3.86  0.45  0.2  ]
+[WARN] [1754141283.018188458] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141283.019001993] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141283.019773737] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141283.108861390] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141283.122885866] [solver_node]: 当前位置: x=-7.872, y=-0.360, angle=-3.140
+[INFO] [1754141283.125998697] [solver_node]: 激光距离数据: [0.405 4.268 3.861 0.45  0.2  ]
+[WARN] [1754141283.146067267] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141283.146872642] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141283.147623874] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141283.209008752] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141283.221687436] [solver_node]: 当前位置: x=-7.873, y=-0.369, angle=-3.141
+[INFO] [1754141283.223117131] [solver_node]: 激光距离数据: [0.405 4.268 3.861 0.45  0.2  ]
+[WARN] [1754141283.260324768] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141283.261252768] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141283.262096063] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141283.310752017] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141283.332213226] [solver_node]: 当前位置: x=-7.872, y=-0.366, angle=-3.141
+[INFO] [1754141283.339675752] [solver_node]: 激光距离数据: [0.405 4.268 3.861 0.452 0.2  ]
+[WARN] [1754141283.350156837] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141283.354253955] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141283.356975971] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141283.408031475] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141283.439701673] [solver_node]: 当前位置: x=-7.881, y=-0.365, angle=-3.141
+[INFO] [1754141283.454699237] [solver_node]: 激光距离数据: [0.405 4.267 3.861 0.452 0.2  ]
+[WARN] [1754141283.463185730] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141283.485976539] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141283.487231579] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141283.510948116] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141283.532849517] [solver_node]: 当前位置: x=-7.882, y=-0.356, angle=-3.141
+[INFO] [1754141283.534110317] [solver_node]: 激光距离数据: [0.405 4.267 3.861 0.452 0.2  ]
+[WARN] [1754141283.548540776] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141283.549329704] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141283.550239272] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141283.603433783] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141283.606251223] [solver_node]: 当前位置: x=-7.876, y=-0.364, angle=-3.141
+[INFO] [1754141283.608877366] [solver_node]: 激光距离数据: [0.405 4.267 3.862 0.452 0.2  ]
+[WARN] [1754141283.629078416] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141283.638158221] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141283.639118093] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141283.701276698] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141283.704371161] [solver_node]: 当前位置: x=-7.884, y=-0.363, angle=-3.141
+[INFO] [1754141283.744464460] [solver_node]: 激光距离数据: [0.405 4.267 3.862 0.452 0.2  ]
+[WARN] [1754141283.770993764] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141283.771818820] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141283.777728962] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141283.814153719] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141283.826182772] [solver_node]: 当前位置: x=-7.881, y=-0.363, angle=-3.140
+[INFO] [1754141283.827491603] [solver_node]: 激光距离数据: [0.405 4.267 3.862 0.452 0.2  ]
+[WARN] [1754141283.833813585] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141283.834596465] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141283.836048337] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141283.910454906] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141283.918549783] [solver_node]: 当前位置: x=-7.876, y=-0.358, angle=-3.141
+[INFO] [1754141283.938908945] [solver_node]: 激光距离数据: [0.405 4.267 3.862 0.452 0.2  ]
+[WARN] [1754141283.946508335] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141283.948196270] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141283.953737709] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141284.001442238] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141284.003573534] [solver_node]: 当前位置: x=-7.874, y=-0.357, angle=-3.141
+[INFO] [1754141284.006238717] [solver_node]: 激光距离数据: [0.405 4.267 3.86  0.452 0.2  ]
+[WARN] [1754141284.044190737] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141284.046948912] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141284.048007152] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141284.102462879] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141284.107483582] [solver_node]: 当前位置: x=-7.877, y=-0.355, angle=-3.140
+[INFO] [1754141284.108776286] [solver_node]: 激光距离数据: [0.405 4.267 3.86  0.452 0.2  ]
+[WARN] [1754141284.156363983] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141284.170255915] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141284.171148683] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141284.211249342] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141284.214803677] [solver_node]: 当前位置: x=-7.881, y=-0.354, angle=-3.141
+[INFO] [1754141284.243798932] [solver_node]: 激光距离数据: [0.405 4.267 3.86  0.452 0.2  ]
+[WARN] [1754141284.273959499] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141284.281162537] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141284.287171687] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141284.308013313] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141284.322518460] [solver_node]: 当前位置: x=-7.877, y=-0.361, angle=3.141
+[INFO] [1754141284.344292502] [solver_node]: 激光距离数据: [0.405 4.267 3.86  0.452 0.2  ]
+[WARN] [1754141284.351445396] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141284.377950188] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141284.400716837] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141284.402160228] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141284.422614462] [solver_node]: 当前位置: x=-7.878, y=-0.355, angle=-3.141
+[INFO] [1754141284.457199219] [solver_node]: 激光距离数据: [0.405 4.267 3.86  0.452 0.2  ]
+[WARN] [1754141284.464247825] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141284.465055025] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141284.465893201] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141284.506702596] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141284.521376192] [solver_node]: 当前位置: x=-7.879, y=-0.359, angle=-3.141
+[INFO] [1754141284.522673087] [solver_node]: 激光距离数据: [0.405 4.267 3.858 0.452 0.2  ]
+[WARN] [1754141284.540325818] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141284.541151514] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141284.541929242] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141284.607954342] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141284.618494530] [solver_node]: 当前位置: x=-7.880, y=-0.366, angle=-3.141
+[INFO] [1754141284.620198018] [solver_node]: 激光距离数据: [0.405 4.267 3.858 0.452 0.2  ]
+[WARN] [1754141284.634842493] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141284.635882653] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141284.637010429] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141284.710100326] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141284.721349667] [solver_node]: 当前位置: x=-7.879, y=-0.364, angle=-3.140
+[INFO] [1754141284.722612451] [solver_node]: 激光距离数据: [0.405 4.267 3.858 0.452 0.2  ]
+[WARN] [1754141284.728026209] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141284.747926203] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141284.792471757] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141284.824953123] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141284.829449538] [solver_node]: 当前位置: x=-7.880, y=-0.359, angle=-3.141
+[INFO] [1754141284.830675938] [solver_node]: 激光距离数据: [0.405 4.267 3.858 0.452 0.2  ]
+[WARN] [1754141284.836004608] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141284.836758240] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141284.875100212] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141284.911223049] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141284.914318440] [solver_node]: 当前位置: x=-7.880, y=-0.360, angle=-3.140
+[INFO] [1754141284.915531624] [solver_node]: 激光距离数据: [0.405 4.267 3.864 0.452 0.2  ]
+[WARN] [1754141284.951027101] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141284.952117981] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141284.953150012] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141285.013665546] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141285.016511433] [solver_node]: 当前位置: x=-7.874, y=-0.356, angle=-3.141
+[INFO] [1754141285.017736649] [solver_node]: 激光距离数据: [0.405 4.267 3.864 0.452 0.2  ]
+[WARN] [1754141285.037395459] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141285.038211810] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141285.039639842] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141285.116372683] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141285.127276615] [solver_node]: 当前位置: x=-7.870, y=-0.351, angle=-3.141
+[INFO] [1754141285.147430113] [solver_node]: 激光距离数据: [0.405 4.267 3.864 0.452 0.2  ]
+[WARN] [1754141285.186006005] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141285.186840981] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141285.200953585] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141285.217190956] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141285.223003242] [solver_node]: 当前位置: x=-7.887, y=-0.368, angle=-3.141
+[INFO] [1754141285.224604074] [solver_node]: 激光距离数据: [0.405 4.267 3.864 0.452 0.2  ]
+[WARN] [1754141285.242880292] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141285.243666852] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141285.244466020] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141285.309666128] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141285.320415885] [solver_node]: 当前位置: x=-7.872, y=-0.370, angle=-3.141
+[INFO] [1754141285.322104748] [solver_node]: 激光距离数据: [0.405 4.267 3.864 0.452 0.2  ]
+[WARN] [1754141285.368944190] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141285.369876253] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141285.370660381] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141285.403960179] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141285.446716550] [solver_node]: 当前位置: x=-7.866, y=-0.370, angle=-3.141
+[INFO] [1754141285.454096868] [solver_node]: 激光距离数据: [0.405 4.267 3.86  0.452 0.2  ]
+[WARN] [1754141285.481391932] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141285.483916667] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141285.487255482] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141285.503102165] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141285.527059822] [solver_node]: 当前位置: x=-7.875, y=-0.364, angle=-3.140
+[INFO] [1754141285.551836870] [solver_node]: 激光距离数据: [0.405 4.268 3.86  0.45  0.2  ]
+[WARN] [1754141285.585946876] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141285.586758299] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141285.588981467] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141285.623416592] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141285.633832045] [solver_node]: 当前位置: x=-7.875, y=-0.355, angle=-3.140
+[INFO] [1754141285.636752172] [solver_node]: 激光距离数据: [0.405 4.268 3.86  0.45  0.2  ]
+[WARN] [1754141285.681498143] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141285.691211900] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141285.693784251] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141285.707301367] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141285.714017269] [solver_node]: 当前位置: x=-7.867, y=-0.358, angle=-3.141
+[INFO] [1754141285.715462932] [solver_node]: 激光距离数据: [0.405 4.268 3.86  0.45  0.2  ]
+[WARN] [1754141285.738515661] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141285.739263373] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141285.740068589] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141285.811567383] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141285.827041074] [solver_node]: 当前位置: x=-7.873, y=-0.377, angle=-3.141
+[INFO] [1754141285.828259378] [solver_node]: 激光距离数据: [0.405 4.268 3.86  0.45  0.199]
+[WARN] [1754141285.851665739] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141285.857078601] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141285.901888603] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141285.915592535] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141285.943488687] [solver_node]: 当前位置: x=-7.875, y=-0.366, angle=-3.141
+[INFO] [1754141285.946306350] [solver_node]: 激光距离数据: [0.405 4.268 3.863 0.45  0.199]
+[WARN] [1754141285.955500363] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141285.989793761] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141285.990795584] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141286.028326133] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141286.038192338] [solver_node]: 当前位置: x=-7.872, y=-0.362, angle=-3.141
+[INFO] [1754141286.054935693] [solver_node]: 激光距离数据: [0.405 4.268 3.863 0.449 0.199]
+[WARN] [1754141286.100361183] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141286.101291807] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141286.102158334] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141286.103722814] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141286.106955869] [solver_node]: 当前位置: x=-7.869, y=-0.355, angle=-3.140
+[INFO] [1754141286.125608535] [solver_node]: 激光距离数据: [0.405 4.268 3.863 0.449 0.199]
+[WARN] [1754141286.136932468] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141286.137833652] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141286.139345619] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141286.211327325] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141286.225772665] [solver_node]: 当前位置: x=-7.872, y=-0.360, angle=3.141
+[INFO] [1754141286.229163256] [solver_node]: 激光距离数据: [0.405 4.268 3.863 0.449 0.199]
+[WARN] [1754141286.237154933] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141286.246381011] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141286.247464466] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141286.310222815] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141286.320008412] [solver_node]: 当前位置: x=-7.876, y=-0.359, angle=-3.141
+[INFO] [1754141286.321449212] [solver_node]: 激光距离数据: [0.405 4.268 3.861 0.449 0.199]
+[WARN] [1754141286.329276729] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141286.331547161] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141286.371379660] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141286.416747327] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141286.431364794] [solver_node]: 当前位置: x=-7.868, y=-0.367, angle=-3.141
+[INFO] [1754141286.432895450] [solver_node]: 激光距离数据: [0.405 4.268 3.861 0.449 0.199]
+[WARN] [1754141286.486412233] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141286.501907557] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141286.503638340] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141286.504989828] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141286.525019326] [solver_node]: 当前位置: x=-7.884, y=-0.364, angle=-3.140
+[INFO] [1754141286.538620474] [solver_node]: 激光距离数据: [0.405 4.268 3.861 0.451 0.2  ]
+[WARN] [1754141286.546037207] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141286.561860594] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141286.564480978] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141286.624417887] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141286.630257854] [solver_node]: 当前位置: x=-7.869, y=-0.351, angle=-3.141
+[INFO] [1754141286.632009373] [solver_node]: 激光距离数据: [0.405 4.268 3.861 0.451 0.2  ]
+[WARN] [1754141286.665806259] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141286.669547026] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141286.670393937] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141286.718989763] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141286.741021980] [solver_node]: 当前位置: x=-7.873, y=-0.358, angle=-3.141
+[INFO] [1754141286.742319228] [solver_node]: 激光距离数据: [0.405 4.268 3.861 0.451 0.2  ]
+[WARN] [1754141286.756361527] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141286.781156496] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141286.783951375] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141286.801290698] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141286.805230152] [solver_node]: 当前位置: x=-7.876, y=-0.355, angle=-3.141
+[INFO] [1754141286.807699464] [solver_node]: 激光距离数据: [0.405 4.268 3.861 0.451 0.2  ]
+[WARN] [1754141286.815174437] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141286.839329790] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141286.857843096] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141286.908967977] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141286.914194663] [solver_node]: 当前位置: x=-7.875, y=-0.365, angle=-3.141
+[INFO] [1754141286.920094693] [solver_node]: 激光距离数据: [0.405 4.268 3.861 0.452 0.2  ]
+[WARN] [1754141286.933712545] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141286.942831390] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141286.943868830] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141287.002167852] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141287.013676105] [solver_node]: 当前位置: x=-7.877, y=-0.360, angle=-3.141
+[INFO] [1754141287.029543108] [solver_node]: 激光距离数据: [0.405 4.268 3.861 0.452 0.2  ]
+[WARN] [1754141287.039293761] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141287.040038049] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141287.046574463] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141287.129361382] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141287.131256133] [solver_node]: 当前位置: x=-7.879, y=-0.360, angle=-3.141
+[INFO] [1754141287.145535329] [solver_node]: 激光距离数据: [0.405 4.268 3.861 0.452 0.2  ]
+[WARN] [1754141287.165342299] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141287.166135482] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141287.166881754] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141287.210710317] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141287.213133548] [solver_node]: 当前位置: x=-7.876, y=-0.362, angle=-3.141
+[INFO] [1754141287.241869347] [solver_node]: 激光距离数据: [0.405 4.268 3.861 0.452 0.2  ]
+[WARN] [1754141287.263012413] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141287.264301181] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141287.270788283] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141287.307547503] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141287.319630476] [solver_node]: 当前位置: x=-7.873, y=-0.357, angle=-3.141
+[INFO] [1754141287.346798115] [solver_node]: 激光距离数据: [0.405 4.268 3.861 0.452 0.2  ]
+[WARN] [1754141287.383493048] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141287.384989752] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141287.385796728] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141287.411116816] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141287.417228750] [solver_node]: 当前位置: x=-7.873, y=-0.360, angle=-3.140
+[INFO] [1754141287.418367726] [solver_node]: 激光距离数据: [0.405 4.268 3.861 0.451 0.2  ]
+[WARN] [1754141287.431779338] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141287.433090057] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141287.433973993] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141287.517785999] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141287.525279597] [solver_node]: 当前位置: x=-7.875, y=-0.363, angle=-3.141
+[INFO] [1754141287.526574061] [solver_node]: 激光距离数据: [0.405 4.267 3.861 0.451 0.2  ]
+[WARN] [1754141287.545090215] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141287.545860487] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141287.546639143] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141287.614566290] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141287.650856327] [solver_node]: 当前位置: x=-7.879, y=-0.364, angle=-3.141
+[INFO] [1754141287.657911237] [solver_node]: 激光距离数据: [0.405 4.267 3.861 0.451 0.2  ]
+[WARN] [1754141287.663832675] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141287.674717824] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141287.676194367] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141287.709317301] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141287.714192116] [solver_node]: 当前位置: x=-7.871, y=-0.356, angle=-3.140
+[INFO] [1754141287.716363603] [solver_node]: 激光距离数据: [0.405 4.267 3.861 0.451 0.2  ]
+[WARN] [1754141287.722983313] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141287.737509164] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141287.739820940] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141287.810421110] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141287.838631662] [solver_node]: 当前位置: x=-7.880, y=-0.357, angle=-3.140
+[INFO] [1754141287.858522536] [solver_node]: 激光距离数据: [0.405 4.267 3.861 0.454 0.2  ]
+[WARN] [1754141287.864617542] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141287.865466789] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141287.866301189] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141287.904841337] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141287.909772344] [solver_node]: 当前位置: x=-7.878, y=-0.369, angle=-3.141
+[INFO] [1754141287.911004856] [solver_node]: 激光距离数据: [0.405 4.267 3.861 0.454 0.2  ]
+[WARN] [1754141287.927608435] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141287.928424402] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141287.929211186] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141288.006858970] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141288.036896561] [solver_node]: 当前位置: x=-7.872, y=-0.367, angle=-3.141
+[INFO] [1754141288.042422544] [solver_node]: 激光距离数据: [0.405 4.267 3.861 0.454 0.2  ]
+[WARN] [1754141288.062342346] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141288.063131305] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141288.064131465] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141288.107620988] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141288.134967443] [solver_node]: 当前位置: x=-7.864, y=-0.362, angle=3.141
+[INFO] [1754141288.158338988] [solver_node]: 激光距离数据: [0.405 4.267 3.861 0.454 0.2  ]
+[WARN] [1754141288.194413089] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141288.195202849] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141288.195985057] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141288.216338267] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141288.221758777] [solver_node]: 当前位置: x=-7.874, y=-0.376, angle=-3.141
+[INFO] [1754141288.239795155] [solver_node]: 激光距离数据: [0.405 4.267 3.861 0.454 0.2  ]
+[WARN] [1754141288.287933797] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141288.289265508] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141288.290381828] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141288.307181855] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141288.313858877] [solver_node]: 当前位置: x=-7.875, y=-0.364, angle=-3.141
+[INFO] [1754141288.315898492] [solver_node]: 激光距离数据: [0.405 4.267 3.861 0.455 0.2  ]
+[WARN] [1754141288.361626062] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141288.368240364] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141288.369337420] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141288.403989889] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141288.416940958] [solver_node]: 当前位置: x=-7.876, y=-0.368, angle=-3.141
+[INFO] [1754141288.418938333] [solver_node]: 激光距离数据: [0.405 4.267 3.861 0.455 0.2  ]
+[WARN] [1754141288.461089872] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141288.471173325] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141288.479870922] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141288.516473791] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141288.522422685] [solver_node]: 当前位置: x=-7.871, y=-0.370, angle=-3.142
+[INFO] [1754141288.523838781] [solver_node]: 激光距离数据: [0.405 4.267 3.861 0.455 0.2  ]
+[WARN] [1754141288.551112917] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141288.551955988] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141288.552800244] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141288.640613689] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141288.650988022] [solver_node]: 当前位置: x=-7.884, y=-0.368, angle=-3.141
+[INFO] [1754141288.708933797] [solver_node]: 激光距离数据: [0.405 4.268 3.861 0.455 0.2  ]
+[WARN] [1754141288.715119395] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141288.715937442] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141288.716746274] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141288.717637666] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141288.728820991] [solver_node]: 当前位置: x=-7.882, y=-0.351, angle=-3.141
+[INFO] [1754141288.730182782] [solver_node]: 激光距离数据: [0.405 4.268 3.861 0.452 0.199]
+[WARN] [1754141288.807140007] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141288.808368806] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141288.809400742] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141288.810457702] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141288.846090715] [solver_node]: 当前位置: x=-7.877, y=-0.357, angle=-3.141
+[INFO] [1754141288.849088026] [solver_node]: 激光距离数据: [0.405 4.267 3.861 0.452 0.199]
+[WARN] [1754141288.912720519] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141288.925134787] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141288.933392352] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141288.936075007] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141288.960925432] [solver_node]: 当前位置: x=-7.865, y=-0.364, angle=-3.141
+[INFO] [1754141288.971660117] [solver_node]: 激光距离数据: [0.405 4.267 3.861 0.452 0.199]
+[WARN] [1754141288.986991920] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141288.987767504] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141288.988788527] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141289.002276715] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141289.006119338] [solver_node]: 当前位置: x=-7.870, y=-0.360, angle=3.142
+[INFO] [1754141289.008019818] [solver_node]: 激光距离数据: [0.405 4.267 3.861 0.452 0.199]
+[WARN] [1754141289.032951682] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141289.039378464] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141289.040294432] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141289.109188203] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141289.115956585] [solver_node]: 当前位置: x=-7.871, y=-0.365, angle=-3.141
+[INFO] [1754141289.119191816] [solver_node]: 激光距离数据: [0.405 4.267 3.861 0.452 0.199]
+[WARN] [1754141289.136655938] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141289.137561154] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141289.138764162] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141289.210678892] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141289.234266565] [solver_node]: 当前位置: x=-7.865, y=-0.368, angle=-3.141
+[INFO] [1754141289.235548708] [solver_node]: 激光距离数据: [0.405 4.267 3.861 0.45  0.199]
+[WARN] [1754141289.251540927] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141289.273135577] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141289.274384504] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141289.306309871] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141289.339142661] [solver_node]: 当前位置: x=-7.870, y=-0.367, angle=-3.141
+[INFO] [1754141289.340912196] [solver_node]: 激光距离数据: [0.405 4.267 3.861 0.45  0.199]
+[WARN] [1754141289.349243362] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141289.350004161] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141289.350945217] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141289.412697678] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141289.453227330] [solver_node]: 当前位置: x=-7.874, y=-0.355, angle=-3.141
+[INFO] [1754141289.454562914] [solver_node]: 激光距离数据: [0.405 4.267 3.861 0.45  0.199]
+[WARN] [1754141289.506222002] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141289.506989970] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141289.508293777] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141289.509258673] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141289.560781761] [solver_node]: 当前位置: x=-7.870, y=-0.358, angle=-3.141
+[INFO] [1754141289.562093185] [solver_node]: 激光距离数据: [0.405 4.267 3.864 0.45  0.199]
+[WARN] [1754141289.580378555] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141289.594724503] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141289.595603223] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141289.614226001] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141289.620641903] [solver_node]: 当前位置: x=-7.881, y=-0.364, angle=-3.140
+[INFO] [1754141289.622871694] [solver_node]: 激光距离数据: [0.405 4.267 3.864 0.45  0.199]
+[WARN] [1754141289.640675273] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141289.653199301] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141289.655342564] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141289.702143222] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141289.705191925] [solver_node]: 当前位置: x=-7.874, y=-0.364, angle=-3.140
+[INFO] [1754141289.706531445] [solver_node]: 激光距离数据: [0.405 4.267 3.864 0.452 0.199]
+[WARN] [1754141289.745159753] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141289.746007177] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141289.746792905] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141289.802391192] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141289.806010359] [solver_node]: 当前位置: x=-7.875, y=-0.355, angle=-3.140
+[INFO] [1754141289.807724214] [solver_node]: 激光距离数据: [0.405 4.267 3.864 0.452 0.199]
+[WARN] [1754141289.833849646] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141289.835013550] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141289.844242379] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141289.915745301] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141289.933789072] [solver_node]: 当前位置: x=-7.872, y=-0.359, angle=-3.141
+[INFO] [1754141289.936965775] [solver_node]: 激光距离数据: [0.405 4.267 3.864 0.452 0.199]
+[WARN] [1754141289.944390188] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141289.946210796] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141289.983536064] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141290.008018201] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141290.012597656] [solver_node]: 当前位置: x=-7.872, y=-0.369, angle=-3.141
+[INFO] [1754141290.022773173] [solver_node]: 激光距离数据: [0.405 4.267 3.863 0.452 0.199]
+[WARN] [1754141290.036393840] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141290.058250826] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141290.059295689] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141290.108047835] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141290.114218681] [solver_node]: 当前位置: x=-7.874, y=-0.364, angle=-3.140
+[INFO] [1754141290.124962101] [solver_node]: 激光距离数据: [0.405 4.267 3.863 0.452 0.199]
+[WARN] [1754141290.154099085] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141290.154863660] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141290.155644076] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141290.207411068] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141290.210262971] [solver_node]: 当前位置: x=-7.872, y=-0.366, angle=-3.140
+[INFO] [1754141290.211397723] [solver_node]: 激光距离数据: [0.405 4.267 3.863 0.452 0.199]
+[WARN] [1754141290.217722201] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141290.218511129] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141290.219343737] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141290.302128255] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141290.314151516] [solver_node]: 当前位置: x=-7.872, y=-0.361, angle=-3.141
+[INFO] [1754141290.316004219] [solver_node]: 激光距离数据: [0.405 4.267 3.863 0.452 0.199]
+[WARN] [1754141290.339077620] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141290.340264052] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141290.354528783] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141290.401025185] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141290.404860640] [solver_node]: 当前位置: x=-7.878, y=-0.365, angle=-3.140
+[INFO] [1754141290.406152832] [solver_node]: 激光距离数据: [0.405 4.267 3.861 0.452 0.199]
+[WARN] [1754141290.432085240] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141290.435172919] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141290.438195894] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141290.504571426] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141290.520890525] [solver_node]: 当前位置: x=-7.875, y=-0.362, angle=-3.141
+[INFO] [1754141290.522448476] [solver_node]: 激光距离数据: [0.405 4.267 3.861 0.452 0.199]
+[WARN] [1754141290.536815864] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141290.547077237] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141290.548050549] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141290.603606820] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141290.617476991] [solver_node]: 当前位置: x=-7.872, y=-0.368, angle=-3.141
+[INFO] [1754141290.618752927] [solver_node]: 激光距离数据: [0.405 4.267 3.861 0.45  0.199]
+[WARN] [1754141290.626694013] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141290.627513500] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141290.628301372] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141290.701654246] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141290.709897091] [solver_node]: 当前位置: x=-7.877, y=-0.365, angle=-3.141
+[INFO] [1754141290.726448222] [solver_node]: 激光距离数据: [0.405 4.267 3.861 0.45  0.199]
+[WARN] [1754141290.732131388] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141290.735458939] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141290.736454363] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141290.805456774] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141290.842014203] [solver_node]: 当前位置: x=-7.872, y=-0.367, angle=3.142
+[INFO] [1754141290.857160374] [solver_node]: 激光距离数据: [0.405 4.267 3.861 0.45  0.199]
+[WARN] [1754141290.879559664] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141290.880493839] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141290.881369295] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141290.905933864] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141290.921593379] [solver_node]: 当前位置: x=-7.872, y=-0.361, angle=-3.141
+[INFO] [1754141290.922847554] [solver_node]: 激光距离数据: [0.405 4.267 3.861 0.45  0.199]
+[WARN] [1754141290.939155453] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141290.939971517] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141290.941948989] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141294.112764503] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141294.114875350] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141294.118588757] [solver_node]: 当前位置: x=-7.868, y=-0.362, angle=-3.141
+[INFO] [1754141294.119842645] [solver_node]: 激光距离数据: [0.405 4.267 3.861 0.451 0.199]
+[WARN] [1754141294.173553764] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141294.174345444] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141294.175098532] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141294.211910297] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141294.234533458] [solver_node]: 当前位置: x=-7.873, y=-0.363, angle=-3.141
+[INFO] [1754141294.235715601] [solver_node]: 激光距离数据: [0.405 4.267 3.861 0.451 0.199]
+[WARN] [1754141294.253628300] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141294.254458252] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141294.255595659] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141294.313149338] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141294.319237816] [solver_node]: 当前位置: x=-7.874, y=-0.368, angle=-3.141
+[INFO] [1754141294.321153367] [solver_node]: 激光距离数据: [0.405 4.267 3.861 0.451 0.199]
+[WARN] [1754141294.329598357] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141294.330418357] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141294.331202452] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141294.411982844] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141294.417932314] [solver_node]: 当前位置: x=-7.880, y=-0.354, angle=-3.141
+[INFO] [1754141294.420044761] [solver_node]: 激光距离数据: [0.405 4.267 3.861 0.451 0.199]
+[WARN] [1754141294.447728689] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141294.448605617] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141294.449338480] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141294.513925021] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141294.523216474] [solver_node]: 当前位置: x=-7.867, y=-0.356, angle=-3.141
+[INFO] [1754141294.524449370] [solver_node]: 激光距离数据: [0.405 4.267 3.861 0.449 0.199]
+[WARN] [1754141294.529916440] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141294.530656696] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141294.531378583] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141294.619889724] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141294.623274779] [solver_node]: 当前位置: x=-7.862, y=-0.360, angle=-3.141
+[INFO] [1754141294.625721915] [solver_node]: 激光距离数据: [0.405 4.267 3.861 0.449 0.2  ]
+[WARN] [1754141294.655188882] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141294.668608974] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141294.671529773] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141294.705697954] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141294.710925345] [solver_node]: 当前位置: x=-7.870, y=-0.368, angle=-3.141
+[INFO] [1754141294.722752253] [solver_node]: 激光距离数据: [0.405 4.267 3.861 0.449 0.2  ]
+[WARN] [1754141294.750880437] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141294.753170164] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141294.759951698] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141294.807345827] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141294.815287713] [solver_node]: 当前位置: x=-7.875, y=-0.371, angle=-3.141
+[INFO] [1754141294.817082464] [solver_node]: 激光距离数据: [0.405 4.267 3.864 0.449 0.2  ]
+[WARN] [1754141294.844345976] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141294.845276792] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141294.846149464] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141294.917064066] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141294.931240414] [solver_node]: 当前位置: x=-7.873, y=-0.358, angle=-3.140
+[INFO] [1754141294.934402109] [solver_node]: 激光距离数据: [0.405 4.267 3.864 0.451 0.2  ]
+[WARN] [1754141294.948573752] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141294.959080149] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141294.984594477] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141295.017172132] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141295.026809985] [solver_node]: 当前位置: x=-7.876, y=-0.348, angle=-3.140
+[INFO] [1754141295.029253376] [solver_node]: 激光距离数据: [0.405 4.266 3.864 0.451 0.2  ]
+[WARN] [1754141295.035860350] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141295.061102038] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141295.070750867] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141295.106847656] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141295.145125661] [solver_node]: 当前位置: x=-7.873, y=-0.368, angle=-3.141
+[INFO] [1754141295.146433308] [solver_node]: 激光距离数据: [0.405 4.266 3.864 0.451 0.2  ]
+[WARN] [1754141295.183337137] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141295.185379664] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141295.187102896] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141295.202658091] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141295.237147585] [solver_node]: 当前位置: x=-7.870, y=-0.374, angle=-3.141
+[INFO] [1754141295.268208695] [solver_node]: 激光距离数据: [0.405 4.266 3.864 0.451 0.2  ]
+[WARN] [1754141295.275957621] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141295.277132212] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141295.280783763] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141295.313918889] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141295.334818051] [solver_node]: 当前位置: x=-7.870, y=-0.366, angle=-3.141
+[INFO] [1754141295.336065250] [solver_node]: 激光距离数据: [0.405 4.266 3.863 0.451 0.2  ]
+[WARN] [1754141295.374019863] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141295.378282454] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141295.380162805] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141295.410011052] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141295.425106183] [solver_node]: 当前位置: x=-7.876, y=-0.366, angle=-3.141
+[INFO] [1754141295.447608096] [solver_node]: 激光距离数据: [0.405 4.266 3.863 0.451 0.2  ]
+[WARN] [1754141295.467985274] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141295.470313850] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141295.471150201] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141295.505195503] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141295.507485006] [solver_node]: 当前位置: x=-7.878, y=-0.368, angle=-3.141
+[INFO] [1754141295.514329548] [solver_node]: 激光距离数据: [0.405 4.266 3.863 0.451 0.2  ]
+[WARN] [1754141295.548753986] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141295.549621217] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141295.550501089] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141295.616791565] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141295.633070952] [solver_node]: 当前位置: x=-7.874, y=-0.363, angle=-3.141
+[INFO] [1754141295.635226503] [solver_node]: 激光距离数据: [0.405 4.268 3.863 0.451 0.2  ]
+[WARN] [1754141295.640721350] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141295.662661887] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141295.670618685] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141295.707450417] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141295.717260878] [solver_node]: 当前位置: x=-7.867, y=-0.367, angle=-3.141
+[INFO] [1754141295.721843245] [solver_node]: 激光距离数据: [0.405 4.268 3.863 0.451 0.2  ]
+[WARN] [1754141295.744216518] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141295.757653442] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141295.758652354] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141295.802031700] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141295.810411346] [solver_node]: 当前位置: x=-7.882, y=-0.378, angle=3.142
+[INFO] [1754141295.812736785] [solver_node]: 激光距离数据: [0.405 4.266 3.863 0.451 0.2  ]
+[WARN] [1754141295.842620424] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141295.846455719] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141295.848137766] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141295.903192694] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141295.921195216] [solver_node]: 当前位置: x=-7.866, y=-0.358, angle=-3.140
+[INFO] [1754141295.947526920] [solver_node]: 激光距离数据: [0.405 4.266 3.863 0.451 0.2  ]
+[WARN] [1754141295.955891718] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141295.979831230] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141295.980776350] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141296.001627512] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141296.003988055] [solver_node]: 当前位置: x=-7.875, y=-0.354, angle=-3.139
+[INFO] [1754141296.007282902] [solver_node]: 激光距离数据: [0.405 4.266 3.863 0.451 0.2  ]
+[WARN] [1754141296.035790029] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141296.044873163] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141296.046052970] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141296.111763446] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141296.124542002] [solver_node]: 当前位置: x=-7.874, y=-0.360, angle=-3.141
+[INFO] [1754141296.126066194] [solver_node]: 激光距离数据: [0.405 4.266 3.863 0.451 0.2  ]
+[WARN] [1754141296.151458602] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141296.152304650] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141296.153138346] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141296.211430392] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141296.221069077] [solver_node]: 当前位置: x=-7.875, y=-0.373, angle=-3.141
+[INFO] [1754141296.222398068] [solver_node]: 激光距离数据: [0.405 4.266 3.863 0.451 0.2  ]
+[WARN] [1754141296.231120210] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141296.232014898] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141296.232943793] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141296.301171452] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141296.304170428] [solver_node]: 当前位置: x=-7.878, y=-0.373, angle=-3.141
+[INFO] [1754141296.305697979] [solver_node]: 激光距离数据: [0.405 4.266 3.863 0.451 0.2  ]
+[WARN] [1754141296.312582553] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141296.318712087] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141296.323273334] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141296.407283868] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141296.410220507] [solver_node]: 当前位置: x=-7.875, y=-0.364, angle=-3.141
+[INFO] [1754141296.416378329] [solver_node]: 激光距离数据: [0.405 4.266 3.863 0.451 0.2  ]
+[WARN] [1754141296.435724948] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141296.436586963] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141296.437738611] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141296.505199390] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141296.512344764] [solver_node]: 当前位置: x=-7.878, y=-0.368, angle=-3.141
+[INFO] [1754141296.516794459] [solver_node]: 激光距离数据: [0.405 4.266 3.863 0.451 0.2  ]
+[WARN] [1754141296.576462601] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141296.577294184] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141296.578036456] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141296.609963166] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141296.614005725] [solver_node]: 当前位置: x=-7.881, y=-0.349, angle=-3.141
+[INFO] [1754141296.615307357] [solver_node]: 激光距离数据: [0.405 4.266 3.863 0.451 0.2  ]
+[WARN] [1754141296.646217523] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141296.669284076] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141296.682900616] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141296.720503837] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141296.731965881] [solver_node]: 当前位置: x=-7.878, y=-0.368, angle=-3.141
+[INFO] [1754141296.733133401] [solver_node]: 激光距离数据: [0.405 4.266 3.863 0.451 0.2  ]
+[WARN] [1754141296.751666579] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141296.753613011] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141296.755611890] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141296.810505761] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141296.853365588] [solver_node]: 当前位置: x=-7.881, y=-0.371, angle=-3.141
+[INFO] [1754141296.868693264] [solver_node]: 激光距离数据: [0.405 4.266 3.863 0.451 0.2  ]
+[WARN] [1754141296.874289710] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141296.875020718] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141296.875776973] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141296.911106883] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141296.945283512] [solver_node]: 当前位置: x=-7.878, y=-0.371, angle=-3.141
+[INFO] [1754141296.947018360] [solver_node]: 激光距离数据: [0.405 4.266 3.863 0.451 0.2  ]
+[WARN] [1754141296.952429302] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141296.954056310] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141296.954843285] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141297.015218851] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141297.017580034] [solver_node]: 当前位置: x=-7.876, y=-0.365, angle=-3.141
+[INFO] [1754141297.018703554] [solver_node]: 激光距离数据: [0.405 4.266 3.863 0.451 0.2  ]
+[WARN] [1754141297.037127356] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141297.038001788] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141297.038739324] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141297.106108519] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141297.120915139] [solver_node]: 当前位置: x=-7.874, y=-0.367, angle=-3.141
+[INFO] [1754141297.122710242] [solver_node]: 激光距离数据: [0.405 4.266 3.863 0.451 0.2  ]
+[WARN] [1754141297.133166527] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141297.134601151] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141297.135395678] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141297.215090790] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141297.223568996] [solver_node]: 当前位置: x=-7.876, y=-0.363, angle=3.142
+[INFO] [1754141297.241553310] [solver_node]: 激光距离数据: [0.405 4.266 3.863 0.451 0.2  ]
+[WARN] [1754141297.247536188] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141297.248290108] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141297.270861429] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141297.313962984] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141297.343118239] [solver_node]: 当前位置: x=-7.875, y=-0.364, angle=-3.141
+[INFO] [1754141297.350363549] [solver_node]: 激光距离数据: [0.405 4.266 3.863 0.451 0.2  ]
+[WARN] [1754141297.356032699] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141297.356950939] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141297.357755707] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141297.402028845] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141297.413043562] [solver_node]: 当前位置: x=-7.874, y=-0.365, angle=-3.141
+[INFO] [1754141297.415700265] [solver_node]: 激光距离数据: [0.405 4.266 3.863 0.451 0.2  ]
+[WARN] [1754141297.459441468] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141297.464240570] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141297.481366005] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141297.515520331] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141297.530496742] [solver_node]: 当前位置: x=-7.877, y=-0.370, angle=-3.141
+[INFO] [1754141297.531752390] [solver_node]: 激光距离数据: [0.405 4.266 3.863 0.451 0.2  ]
+[WARN] [1754141297.537459620] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141297.553556031] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141297.554479199] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141297.606692655] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141297.614478573] [solver_node]: 当前位置: x=-7.869, y=-0.359, angle=-3.141
+[INFO] [1754141297.619277995] [solver_node]: 激光距离数据: [0.405 4.266 3.865 0.451 0.2  ]
+[WARN] [1754141297.637910085] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141297.638721669] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141297.639477861] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141297.719982028] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141297.727055946] [solver_node]: 当前位置: x=-7.874, y=-0.362, angle=-3.141
+[INFO] [1754141297.728937578] [solver_node]: 激光距离数据: [0.405 4.266 3.865 0.454 0.2  ]
+[WARN] [1754141297.768004798] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141297.768821758] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141297.769592349] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141297.820610926] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141297.824084141] [solver_node]: 当前位置: x=-7.880, y=-0.372, angle=-3.139
+[INFO] [1754141297.825692268] [solver_node]: 激光距离数据: [0.405 4.266 3.865 0.454 0.2  ]
+[WARN] [1754141297.843161191] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141297.844088487] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141297.845013382] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141297.912899186] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141297.918415888] [solver_node]: 当前位置: x=-7.878, y=-0.368, angle=-3.141
+[INFO] [1754141297.919941135] [solver_node]: 激光距离数据: [0.405 4.266 3.865 0.454 0.2  ]
+[WARN] [1754141297.937887178] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141297.940217833] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141297.942385993] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141298.007867957] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141298.023309072] [solver_node]: 当前位置: x=-7.875, y=-0.370, angle=-3.141
+[INFO] [1754141298.025931695] [solver_node]: 激光距离数据: [0.405 4.266 3.865 0.454 0.2  ]
+[WARN] [1754141298.041075947] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141298.058025157] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141298.059048325] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141298.107697398] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141298.110787733] [solver_node]: 当前位置: x=-7.867, y=-0.365, angle=-3.142
+[INFO] [1754141298.116976691] [solver_node]: 激光距离数据: [0.405 4.266 3.865 0.453 0.2  ]
+[WARN] [1754141298.151465897] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141298.164589477] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141298.165744805] [solver_node]: 没有合适的解，不发布TF变换
+[WARN] [1754141298.201217882] [solver_node]: 收到空的激光距离数据，跳过处理
+[INFO] [1754141298.304123322] [solver_node]: 收到10个激光点，处理后10个有效点
+[INFO] [1754141298.327304947] [solver_node]: 当前位置: x=-7.872, y=-0.371, angle=-3.141
+[INFO] [1754141298.328806099] [solver_node]: 激光距离数据: [0.405 4.267 3.861 0.455 0.199 0.405 4.266 3.865 0.453 0.2  ]
+[ERROR] [1754141298.329536403] [solver_node]: 求解器调用失败: 距离数组长度(10)与激光配置数量(5)不匹配
+[ERROR] [1754141298.330408786] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 295, in solve_loop
+    solutions = self.solver.solve(self.distances, angle)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/angle_pose_calculator.py", line 63, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_configs)})不匹配")
+ValueError: 距离数组长度(10)与激光配置数量(5)不匹配
+
+[INFO] [1754141298.408995163] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141298.435374131] [solver_node]: 当前位置: x=-7.872, y=-0.377, angle=-3.141
+[INFO] [1754141298.459156779] [solver_node]: 激光距离数据: [0.405 4.266 3.865 0.453 0.2  ]
+[WARN] [1754141298.486978211] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141298.488569410] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141298.508162524] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141298.511900731] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141298.522925752] [solver_node]: 当前位置: x=-7.875, y=-0.371, angle=-3.140
+[INFO] [1754141298.524174935] [solver_node]: 激光距离数据: [0.405 4.266 3.865 0.453 0.2  ]
+[WARN] [1754141298.553630703] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141298.576977127] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141298.577871495] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141298.604687519] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141298.632471735] [solver_node]: 当前位置: x=-7.873, y=-0.359, angle=-3.141
+[INFO] [1754141298.636715093] [solver_node]: 激光距离数据: [0.405 4.266 3.865 0.448 0.2  ]
+[WARN] [1754141298.678915400] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141298.680290280] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141298.681110856] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141298.712819998] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141298.738794230] [solver_node]: 当前位置: x=-7.870, y=-0.356, angle=-3.141
+[INFO] [1754141298.760937999] [solver_node]: 激光距离数据: [0.405 4.266 3.865 0.448 0.2  ]
+[WARN] [1754141298.766777742] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141298.767540525] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141298.768295437] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141298.811299744] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141298.813540415] [solver_node]: 当前位置: x=-7.870, y=-0.359, angle=-3.141
+[INFO] [1754141298.814809727] [solver_node]: 激光距离数据: [0.405 4.266 3.865 0.448 0.2  ]
+[WARN] [1754141298.823635036] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141298.839953495] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141298.840877559] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141298.903868900] [solver_node]: 收到3个激光点，处理后3个有效点
+[INFO] [1754141298.926997341] [solver_node]: 当前位置: x=-7.875, y=-0.361, angle=-3.141
+[INFO] [1754141298.941002713] [solver_node]: 激光距离数据: [0.405 4.266 3.865]
+[ERROR] [1754141298.943257080] [solver_node]: 求解器调用失败: 距离数组长度(3)与激光配置数量(5)不匹配
+[ERROR] [1754141298.949849558] [solver_node]: 详细错误信息: Traceback (most recent call last):
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/solver_node.py", line 295, in solve_loop
+    solutions = self.solver.solve(self.distances, angle)
+  File "/home/orin/rc2025_ros2_ws/install/laser_solver/lib/python3.10/site-packages/laser_solver/positioning_algorithm/angle_pose_calculator.py", line 63, in solve
+    raise ValueError(f"距离数组长度({len(distances)})与激光配置数量({len(self.laser_configs)})不匹配")
+ValueError: 距离数组长度(3)与激光配置数量(5)不匹配
+
+[INFO] [1754141299.000886790] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141299.011979363] [solver_node]: 当前位置: x=-7.875, y=-0.369, angle=-3.141
+[INFO] [1754141299.013214051] [solver_node]: 激光距离数据: [0.405 4.267 3.861 0.455 0.199]
+[WARN] [1754141299.019613857] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141299.020355328] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141299.021098784] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141299.114507076] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141299.117672579] [solver_node]: 当前位置: x=-7.871, y=-0.370, angle=-3.141
+[INFO] [1754141299.118868002] [solver_node]: 激光距离数据: [0.405 4.267 3.861 0.45  0.199]
+[WARN] [1754141299.124424673] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141299.125219200] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141299.175894353] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141299.207232039] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141299.213584966] [solver_node]: 当前位置: x=-7.874, y=-0.364, angle=-3.141
+[INFO] [1754141299.223405571] [solver_node]: 激光距离数据: [0.405 4.267 3.861 0.45  0.199]
+[WARN] [1754141299.235039935] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141299.235966943] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141299.237019934] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141299.302548042] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141299.317007494] [solver_node]: 当前位置: x=-7.873, y=-0.371, angle=-3.141
+[INFO] [1754141299.318235878] [solver_node]: 激光距离数据: [0.405 4.267 3.861 0.45  0.199]
+[WARN] [1754141299.323556708] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141299.324287940] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141299.370374710] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141299.411785385] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141299.439333601] [solver_node]: 当前位置: x=-7.876, y=-0.376, angle=-3.141
+[INFO] [1754141299.440702528] [solver_node]: 激光距离数据: [0.405 4.267 3.862 0.45  0.199]
+[WARN] [1754141299.447177630] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141299.460693338] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141299.461593818] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141299.502839853] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141299.505982700] [solver_node]: 当前位置: x=-7.875, y=-0.385, angle=-3.141
+[INFO] [1754141299.514303498] [solver_node]: 激光距离数据: [0.405 4.267 3.862 0.451 0.199]
+[WARN] [1754141299.537612323] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141299.538977442] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141299.540371746] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141299.605897358] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141299.620573194] [solver_node]: 当前位置: x=-7.883, y=-0.373, angle=-3.141
+[INFO] [1754141299.621963465] [solver_node]: 激光距离数据: [0.405 4.267 3.862 0.451 0.199]
+[WARN] [1754141299.627475655] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141299.629089607] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141299.629860519] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141299.716161196] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141299.728226441] [solver_node]: 当前位置: x=-7.875, y=-0.373, angle=-3.141
+[INFO] [1754141299.750859170] [solver_node]: 激光距离数据: [0.405 4.267 3.862 0.451 0.199]
+[WARN] [1754141299.780439769] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141299.781691929] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141299.782943032] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141299.802530674] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141299.838615815] [solver_node]: 当前位置: x=-7.862, y=-0.369, angle=3.141
+[INFO] [1754141299.847498084] [solver_node]: 激光距离数据: [0.405 4.267 3.862 0.451 0.199]
+[WARN] [1754141299.880363258] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141299.881644506] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141299.882759834] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141299.913911408] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141299.938250057] [solver_node]: 当前位置: x=-7.867, y=-0.373, angle=3.142
+[INFO] [1754141299.962048450] [solver_node]: 激光距离数据: [0.405 4.267 3.862 0.451 0.199]
+[WARN] [1754141299.967902944] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141299.968703776] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141299.969482975] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141300.002286549] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141300.029707757] [solver_node]: 当前位置: x=-7.869, y=-0.370, angle=-3.141
+[INFO] [1754141300.031017229] [solver_node]: 激光距离数据: [0.405 4.266 3.862 0.448 0.199]
+[WARN] [1754141300.051687302] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141300.052625798] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141300.053420966] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141300.106988757] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141300.110852884] [solver_node]: 当前位置: x=-7.873, y=-0.372, angle=-3.141
+[INFO] [1754141300.112077012] [solver_node]: 激光距离数据: [0.405 4.266 3.862 0.448 0.199]
+[WARN] [1754141300.167328323] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141300.168186851] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141300.174447297] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141300.208745334] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141300.213622709] [solver_node]: 当前位置: x=-7.877, y=-0.368, angle=-3.141
+[INFO] [1754141300.217007124] [solver_node]: 激光距离数据: [0.405 4.266 3.862 0.448 0.199]
+[WARN] [1754141300.242341292] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141300.283561696] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141300.288772606] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141300.306413433] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141300.309272152] [solver_node]: 当前位置: x=-7.877, y=-0.364, angle=-3.141
+[INFO] [1754141300.314823062] [solver_node]: 激光距离数据: [0.405 4.266 3.862 0.448 0.199]
+[WARN] [1754141300.378326883] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141300.380454242] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141300.383431617] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141300.410704985] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141300.418996502] [solver_node]: 当前位置: x=-7.879, y=-0.362, angle=-3.141
+[INFO] [1754141300.420183702] [solver_node]: 激光距离数据: [0.405 4.266 3.862 0.448 0.199]
+[WARN] [1754141300.444132783] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141300.472837318] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141300.492987424] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141300.533185716] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141300.545240656] [solver_node]: 当前位置: x=-7.875, y=-0.366, angle=-3.141
+[INFO] [1754141300.563451818] [solver_node]: 激光距离数据: [0.405 4.266 3.862 0.448 0.199]
+[WARN] [1754141300.571657480] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141300.581461317] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141300.590387458] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141300.608029117] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141300.617601818] [solver_node]: 当前位置: x=-7.872, y=-0.360, angle=-3.141
+[INFO] [1754141300.618869978] [solver_node]: 激光距离数据: [0.405 4.266 3.862 0.448 0.199]
+[WARN] [1754141300.638309972] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141300.639084883] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141300.639872307] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141300.710622910] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141300.718208187] [solver_node]: 当前位置: x=-7.879, y=-0.363, angle=-3.141
+[INFO] [1754141300.719493819] [solver_node]: 激光距离数据: [0.405 4.266 3.862 0.448 0.199]
+[WARN] [1754141300.735404374] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141300.745082707] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141300.745987379] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141300.809496096] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141300.813798462] [solver_node]: 当前位置: x=-7.874, y=-0.366, angle=3.141
+[INFO] [1754141300.815952478] [solver_node]: 激光距离数据: [0.405 4.269 3.861 0.448 0.199]
+[WARN] [1754141300.834123512] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141300.834985048] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141300.835747608] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141300.908978785] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141300.917280639] [solver_node]: 当前位置: x=-7.874, y=-0.362, angle=-3.142
+[INFO] [1754141300.921201565] [solver_node]: 激光距离数据: [0.405 4.269 3.861 0.451 0.199]
+[WARN] [1754141300.953865012] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141300.954783539] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141300.955676051] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141301.026838749] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141301.076376590] [solver_node]: 当前位置: x=-7.874, y=-0.363, angle=-3.141
+[INFO] [1754141301.086654347] [solver_node]: 激光距离数据: [0.405 4.269 3.861 0.451 0.199]
+[WARN] [1754141301.101300071] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141301.102121734] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141301.102891462] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141301.104539942] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141301.164334067] [solver_node]: 当前位置: x=-7.875, y=-0.357, angle=-3.141
+[INFO] [1754141301.168017906] [solver_node]: 激光距离数据: [0.405 4.269 3.861 0.451 0.2  ]
+[WARN] [1754141301.188296684] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141301.189303372] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141301.190210476] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141301.202134280] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141301.210089862] [solver_node]: 当前位置: x=-7.875, y=-0.353, angle=-3.141
+[INFO] [1754141301.212602693] [solver_node]: 激光距离数据: [0.405 4.269 3.858 0.451 0.2  ]
+[WARN] [1754141301.222432770] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141301.226186785] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141301.246925626] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141301.305533832] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141301.327109058] [solver_node]: 当前位置: x=-7.871, y=-0.363, angle=3.141
+[INFO] [1754141301.328518593] [solver_node]: 激光距离数据: [0.405 4.269 3.858 0.451 0.2  ]
+[WARN] [1754141301.350586715] [solver_node]: [PoseSolver_angle] 前面的计算没有结果
+[INFO] [1754141301.351353658] [solver_node]: 求解器返回 0 个解
+[WARN] [1754141301.352464826] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141301.417491654] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141301.447593245] [solver_node]: 当前位置: x=-7.874, y=-0.374, angle=-3.141
+[INFO] [1754141301.462458649] [solver_node]: 激光距离数据: [ 0.405  4.269  3.858 33.789  0.2  ]
+[INFO] [1754141301.501273677] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141301.502131117] [solver_node]: 无效解: x=7.596, y=3.386, 距离=15.921 > 阈值0.300
+[INFO] [1754141301.502821484] [solver_node]: 无效解: x=4.299, y=3.386, 距离=12.740 > 阈值0.300
+[INFO] [1754141301.503480940] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.526 > 阈值0.300
+[INFO] [1754141301.504119436] [solver_node]: 无效解: x=1.577, y=6.992, 距离=11.983 > 阈值0.300
+[INFO] [1754141301.504783180] [solver_node]: 无效解: x=4.299, y=0.940, 距离=12.244 > 阈值0.300
+[INFO] [1754141301.505430988] [solver_node]: 无效解: x=4.299, y=6.992, 距离=14.228 > 阈值0.300
+[INFO] [1754141301.506087307] [solver_node]: 无效解: x=1.577, y=3.386, 距离=10.172 > 阈值0.300
+[WARN] [1754141301.506858155] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141301.507592779] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141301.513504681] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141301.516566952] [solver_node]: 当前位置: x=-7.869, y=-0.373, angle=3.141
+[INFO] [1754141301.517765640] [solver_node]: 激光距离数据: [ 0.405  4.266  3.858 33.789  0.2  ]
+[INFO] [1754141301.528100197] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141301.538258978] [solver_node]: 无效解: x=7.595, y=3.389, 距离=15.915 > 阈值0.300
+[INFO] [1754141301.561073787] [solver_node]: 无效解: x=4.299, y=3.389, 距离=12.736 > 阈值0.300
+[INFO] [1754141301.561995610] [solver_node]: 无效解: x=7.595, y=0.938, 距离=15.520 > 阈值0.300
+[INFO] [1754141301.562683066] [solver_node]: 无效解: x=1.578, y=6.995, 距离=11.981 > 阈值0.300
+[INFO] [1754141301.563370042] [solver_node]: 无效解: x=4.299, y=0.938, 距离=12.239 > 阈值0.300
+[INFO] [1754141301.564055322] [solver_node]: 无效解: x=4.299, y=6.995, 距离=14.225 > 阈值0.300
+[INFO] [1754141301.566253497] [solver_node]: 无效解: x=1.578, y=3.389, 距离=10.169 > 阈值0.300
+[WARN] [1754141301.602577006] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141301.604057038] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141301.615886634] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141301.628041158] [solver_node]: 当前位置: x=-7.868, y=-0.366, angle=-3.141
+[INFO] [1754141301.629698278] [solver_node]: 激光距离数据: [ 0.405  4.267  3.858 33.789  0.2  ]
+[INFO] [1754141301.637153379] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141301.646981632] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.913 > 阈值0.300
+[INFO] [1754141301.647831072] [solver_node]: 无效解: x=4.299, y=3.388, 距离=12.733 > 阈值0.300
+[INFO] [1754141301.649420256] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.519 > 阈值0.300
+[INFO] [1754141301.699378545] [solver_node]: 无效解: x=1.577, y=6.993, 距离=11.974 > 阈值0.300
+[INFO] [1754141301.706185070] [solver_node]: 无效解: x=4.299, y=0.940, 距离=12.237 > 阈值0.300
+[INFO] [1754141301.707495694] [solver_node]: 无效解: x=4.299, y=6.993, 距离=14.219 > 阈值0.300
+[INFO] [1754141301.708212974] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.164 > 阈值0.300
+[WARN] [1754141301.709917773] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141301.710796941] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141301.711692877] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141301.725649577] [solver_node]: 当前位置: x=-7.874, y=-0.368, angle=3.141
+[INFO] [1754141301.727032264] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141301.754593760] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141301.755489791] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.919 > 阈值0.300
+[INFO] [1754141301.756895423] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.744 > 阈值0.300
+[INFO] [1754141301.757619231] [solver_node]: 无效解: x=7.596, y=0.939, 距离=15.525 > 阈值0.300
+[INFO] [1754141301.758280447] [solver_node]: 无效解: x=1.578, y=6.994, 距离=11.981 > 阈值0.300
+[INFO] [1754141301.766597628] [solver_node]: 无效解: x=4.304, y=0.939, 距离=12.248 > 阈值0.300
+[INFO] [1754141301.767642140] [solver_node]: 无效解: x=4.304, y=6.994, 距离=14.230 > 阈值0.300
+[INFO] [1754141301.768661403] [solver_node]: 无效解: x=1.578, y=3.388, 距离=10.171 > 阈值0.300
+[WARN] [1754141301.770698395] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141301.771704250] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141301.813234158] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141301.850601250] [solver_node]: 当前位置: x=-7.876, y=-0.369, angle=-3.141
+[INFO] [1754141301.860808767] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141301.896979956] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141301.898013172] [solver_node]: 无效解: x=7.597, y=3.387, 距离=15.922 > 阈值0.300
+[INFO] [1754141301.899525940] [solver_node]: 无效解: x=4.303, y=3.387, 距离=12.746 > 阈值0.300
+[INFO] [1754141301.900218163] [solver_node]: 无效解: x=7.597, y=0.941, 距离=15.528 > 阈值0.300
+[INFO] [1754141301.900915923] [solver_node]: 无效解: x=1.577, y=6.991, 距离=11.980 > 阈值0.300
+[INFO] [1754141301.901553683] [solver_node]: 无效解: x=4.303, y=0.941, 距离=12.250 > 阈值0.300
+[INFO] [1754141301.902168211] [solver_node]: 无效解: x=4.303, y=6.991, 距离=14.230 > 阈值0.300
+[INFO] [1754141301.902811859] [solver_node]: 无效解: x=1.577, y=3.387, 距离=10.172 > 阈值0.300
+[WARN] [1754141301.906977457] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141301.910007664] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141301.912313008] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141301.949417028] [solver_node]: 当前位置: x=-7.879, y=-0.355, angle=-3.140
+[INFO] [1754141301.950684004] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141301.957515234] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141301.958283874] [solver_node]: 无效解: x=7.597, y=3.387, 距离=15.922 > 阈值0.300
+[INFO] [1754141301.958945441] [solver_node]: 无效解: x=4.303, y=3.387, 距离=12.744 > 阈值0.300
+[INFO] [1754141301.959601473] [solver_node]: 无效解: x=7.597, y=0.941, 距离=15.530 > 阈值0.300
+[INFO] [1754141301.960241729] [solver_node]: 无效解: x=1.576, y=6.990, 距离=11.973 > 阈值0.300
+[INFO] [1754141301.960905537] [solver_node]: 无效解: x=4.303, y=0.941, 距离=12.251 > 阈值0.300
+[INFO] [1754141301.961530369] [solver_node]: 无效解: x=4.303, y=6.990, 距离=14.225 > 阈值0.300
+[INFO] [1754141301.962170784] [solver_node]: 无效解: x=1.576, y=3.387, 距离=10.169 > 阈值0.300
+[WARN] [1754141301.962903712] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141301.963639648] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141302.007057779] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141302.009965906] [solver_node]: 当前位置: x=-7.880, y=-0.367, angle=-3.140
+[INFO] [1754141302.011657841] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141302.035295210] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141302.036120842] [solver_node]: 无效解: x=7.597, y=3.387, 距离=15.926 > 阈值0.300
+[INFO] [1754141302.039943753] [solver_node]: 无效解: x=4.303, y=3.387, 距离=12.749 > 阈值0.300
+[INFO] [1754141302.040816425] [solver_node]: 无效解: x=7.597, y=0.941, 距离=15.532 > 阈值0.300
+[INFO] [1754141302.041755400] [solver_node]: 无效解: x=1.576, y=6.990, 距离=11.981 > 阈值0.300
+[INFO] [1754141302.064289281] [solver_node]: 无效解: x=4.303, y=0.941, 距离=12.253 > 阈值0.300
+[INFO] [1754141302.065384929] [solver_node]: 无效解: x=4.303, y=6.990, 距离=14.233 > 阈值0.300
+[INFO] [1754141302.066152833] [solver_node]: 无效解: x=1.576, y=3.387, 距离=10.174 > 阈值0.300
+[WARN] [1754141302.066956001] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141302.067756640] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141302.103024054] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141302.116900881] [solver_node]: 当前位置: x=-7.879, y=-0.379, angle=-3.141
+[INFO] [1754141302.118125073] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141302.137318027] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141302.139826602] [solver_node]: 无效解: x=7.597, y=3.388, 距离=15.928 > 阈值0.300
+[INFO] [1754141302.140729002] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.752 > 阈值0.300
+[INFO] [1754141302.141456298] [solver_node]: 无效解: x=7.597, y=0.941, 距离=15.532 > 阈值0.300
+[INFO] [1754141302.142155914] [solver_node]: 无效解: x=1.577, y=6.991, 距离=11.989 > 阈值0.300
+[INFO] [1754141302.142843817] [solver_node]: 无效解: x=4.304, y=0.941, 距离=12.254 > 阈值0.300
+[INFO] [1754141302.143652329] [solver_node]: 无效解: x=4.304, y=6.991, 距离=14.239 > 阈值0.300
+[INFO] [1754141302.144341545] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.179 > 阈值0.300
+[WARN] [1754141302.145158441] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141302.157851493] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141302.211256085] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141302.259008422] [solver_node]: 当前位置: x=-7.872, y=-0.361, angle=-3.142
+[INFO] [1754141302.276106145] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141302.298501658] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141302.300735097] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.916 > 阈值0.300
+[INFO] [1754141302.302720153] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.740 > 阈值0.300
+[INFO] [1754141302.303468249] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.523 > 阈值0.300
+[INFO] [1754141302.304180568] [solver_node]: 无效解: x=1.577, y=6.993, 距离=11.974 > 阈值0.300
+[INFO] [1754141302.305802232] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.245 > 阈值0.300
+[INFO] [1754141302.307519031] [solver_node]: 无效解: x=4.304, y=6.993, 距离=14.225 > 阈值0.300
+[INFO] [1754141302.309222423] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.166 > 阈值0.300
+[WARN] [1754141302.310859318] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141302.315981941] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141302.320643507] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141302.350290858] [solver_node]: 当前位置: x=-7.880, y=-0.359, angle=-3.141
+[INFO] [1754141302.367754981] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141302.382517952] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141302.383296032] [solver_node]: 无效解: x=7.597, y=3.387, 距离=15.924 > 阈值0.300
+[INFO] [1754141302.383949408] [solver_node]: 无效解: x=4.303, y=3.387, 距离=12.747 > 阈值0.300
+[INFO] [1754141302.389344350] [solver_node]: 无效解: x=7.597, y=0.941, 距离=15.531 > 阈值0.300
+[INFO] [1754141302.390281950] [solver_node]: 无效解: x=1.577, y=6.991, 距离=11.977 > 阈值0.300
+[INFO] [1754141302.390953790] [solver_node]: 无效解: x=4.303, y=0.941, 距离=12.253 > 阈值0.300
+[INFO] [1754141302.391575134] [solver_node]: 无效解: x=4.303, y=6.991, 距离=14.229 > 阈值0.300
+[INFO] [1754141302.392185694] [solver_node]: 无效解: x=1.577, y=3.387, 距离=10.172 > 阈值0.300
+[WARN] [1754141302.392953757] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141302.393684349] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141302.421633941] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141302.440449871] [solver_node]: 当前位置: x=-7.867, y=-0.365, angle=-3.141
+[INFO] [1754141302.441727790] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141302.448742252] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141302.485076033] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.912 > 阈值0.300
+[INFO] [1754141302.494915550] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.736 > 阈值0.300
+[INFO] [1754141302.495734590] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.519 > 阈值0.300
+[INFO] [1754141302.496535102] [solver_node]: 无效解: x=1.577, y=6.992, 距离=11.972 > 阈值0.300
+[INFO] [1754141302.497209118] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.240 > 阈值0.300
+[INFO] [1754141302.497855421] [solver_node]: 无效解: x=4.304, y=6.992, 距离=14.222 > 阈值0.300
+[INFO] [1754141302.498494941] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.162 > 阈值0.300
+[WARN] [1754141302.499211069] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141302.499902845] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141302.513970264] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141302.544070799] [solver_node]: 当前位置: x=-7.880, y=-0.373, angle=-3.141
+[INFO] [1754141302.573087942] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141302.621501368] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141302.622539223] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.927 > 阈值0.300
+[INFO] [1754141302.623320183] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.751 > 阈值0.300
+[INFO] [1754141302.624069911] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.532 > 阈值0.300
+[INFO] [1754141302.624797623] [solver_node]: 无效解: x=1.577, y=6.992, 距离=11.987 > 阈值0.300
+[INFO] [1754141302.625603862] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.254 > 阈值0.300
+[INFO] [1754141302.626442742] [solver_node]: 无效解: x=4.304, y=6.992, 距离=14.237 > 阈值0.300
+[INFO] [1754141302.627322550] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.178 > 阈值0.300
+[WARN] [1754141302.628237238] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141302.629139605] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141302.630106421] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141302.673606728] [solver_node]: 当前位置: x=-7.873, y=-0.369, angle=-3.141
+[INFO] [1754141302.674889511] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141302.703363423] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141302.707241534] [solver_node]: 无效解: x=7.597, y=3.388, 距离=15.919 > 阈值0.300
+[INFO] [1754141302.708210877] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.743 > 阈值0.300
+[INFO] [1754141302.708993437] [solver_node]: 无效解: x=7.597, y=0.941, 距离=15.525 > 阈值0.300
+[INFO] [1754141302.709671837] [solver_node]: 无效解: x=1.577, y=6.991, 距离=11.978 > 阈值0.300
+[INFO] [1754141302.710338525] [solver_node]: 无效解: x=4.304, y=0.941, 距离=12.246 > 阈值0.300
+[INFO] [1754141302.713306908] [solver_node]: 无效解: x=4.304, y=6.991, 距离=14.228 > 阈值0.300
+[INFO] [1754141302.714013116] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.169 > 阈值0.300
+[WARN] [1754141302.714744347] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141302.717577338] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141302.719242650] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141302.730685590] [solver_node]: 当前位置: x=-7.875, y=-0.366, angle=-3.141
+[INFO] [1754141302.731822038] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141302.752114736] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141302.752976464] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.920 > 阈值0.300
+[INFO] [1754141302.753686991] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.744 > 阈值0.300
+[INFO] [1754141302.754396303] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.526 > 阈值0.300
+[INFO] [1754141302.755083439] [solver_node]: 无效解: x=1.577, y=6.993, 距离=11.979 > 阈值0.300
+[INFO] [1754141302.763820172] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.249 > 阈值0.300
+[INFO] [1754141302.774462345] [solver_node]: 无效解: x=4.304, y=6.993, 距离=14.229 > 阈值0.300
+[INFO] [1754141302.781152231] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.171 > 阈值0.300
+[WARN] [1754141302.782029575] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141302.782796583] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141302.806570335] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141302.809926238] [solver_node]: 当前位置: x=-7.876, y=-0.362, angle=-3.141
+[INFO] [1754141302.811212894] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141302.836213462] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141302.837121430] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.920 > 阈值0.300
+[INFO] [1754141302.837944918] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.743 > 阈值0.300
+[INFO] [1754141302.838667446] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.527 > 阈值0.300
+[INFO] [1754141302.839356341] [solver_node]: 无效解: x=1.577, y=6.992, 距离=11.977 > 阈值0.300
+[INFO] [1754141302.843657684] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.249 > 阈值0.300
+[INFO] [1754141302.845841235] [solver_node]: 无效解: x=4.304, y=6.992, 距离=14.227 > 阈值0.300
+[INFO] [1754141302.847631187] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.169 > 阈值0.300
+[WARN] [1754141302.848464243] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141302.849245074] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141302.919913629] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141302.921866940] [solver_node]: 当前位置: x=-7.870, y=-0.361, angle=-3.141
+[INFO] [1754141302.924597595] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141302.951872979] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141302.954541938] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.913 > 阈值0.300
+[INFO] [1754141302.956776594] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.737 > 阈值0.300
+[INFO] [1754141302.961757232] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.520 > 阈值0.300
+[INFO] [1754141302.964081455] [solver_node]: 无效解: x=1.577, y=6.993, 距离=11.972 > 阈值0.300
+[INFO] [1754141302.966321743] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.243 > 阈值0.300
+[INFO] [1754141302.969619246] [solver_node]: 无效解: x=4.304, y=6.993, 距离=14.222 > 阈值0.300
+[INFO] [1754141302.972061677] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.164 > 阈值0.300
+[WARN] [1754141302.974042028] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141303.003834851] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141303.014086912] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141303.022416286] [solver_node]: 当前位置: x=-7.871, y=-0.372, angle=-3.141
+[INFO] [1754141303.025136253] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141303.098038471] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141303.099732422] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.917 > 阈值0.300
+[INFO] [1754141303.107343940] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.742 > 阈值0.300
+[INFO] [1754141303.118226432] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.522 > 阈值0.300
+[INFO] [1754141303.125109214] [solver_node]: 无效解: x=1.577, y=6.993, 距离=11.979 > 阈值0.300
+[INFO] [1754141303.131299676] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.245 > 阈值0.300
+[INFO] [1754141303.132200732] [solver_node]: 无效解: x=4.304, y=6.993, 距离=14.229 > 阈值0.300
+[INFO] [1754141303.132959196] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.169 > 阈值0.300
+[WARN] [1754141303.133718076] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141303.136229851] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141303.140205626] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141303.160535988] [solver_node]: 当前位置: x=-7.875, y=-0.366, angle=-3.141
+[INFO] [1754141303.163669427] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141303.212470500] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141303.215061091] [solver_node]: 无效解: x=7.597, y=3.388, 距离=15.921 > 阈值0.300
+[INFO] [1754141303.218930754] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.744 > 阈值0.300
+[INFO] [1754141303.226608575] [solver_node]: 无效解: x=7.597, y=0.941, 距离=15.527 > 阈值0.300
+[INFO] [1754141303.235499869] [solver_node]: 无效解: x=1.577, y=6.991, 距离=11.978 > 阈值0.300
+[INFO] [1754141303.239425692] [solver_node]: 无效解: x=4.304, y=0.941, 距离=12.249 > 阈值0.300
+[INFO] [1754141303.243530106] [solver_node]: 无效解: x=4.304, y=6.991, 距离=14.228 > 阈值0.300
+[INFO] [1754141303.246608729] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.170 > 阈值0.300
+[WARN] [1754141303.247425881] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141303.254309207] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141303.258780054] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141303.279716207] [solver_node]: 当前位置: x=-7.875, y=-0.372, angle=-3.141
+[INFO] [1754141303.288558701] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141303.353538041] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141303.361375606] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.921 > 阈值0.300
+[INFO] [1754141303.367955732] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.746 > 阈值0.300
+[INFO] [1754141303.374539442] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.527 > 阈值0.300
+[INFO] [1754141303.381829456] [solver_node]: 无效解: x=1.577, y=6.992, 距离=11.982 > 阈值0.300
+[INFO] [1754141303.387488046] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.249 > 阈值0.300
+[INFO] [1754141303.396562188] [solver_node]: 无效解: x=4.304, y=6.992, 距离=14.232 > 阈值0.300
+[INFO] [1754141303.402882858] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.172 > 阈值0.300
+[WARN] [1754141303.409461896] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141303.416385670] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141303.419476133] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141303.423483427] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141303.464215991] [solver_node]: 当前位置: x=-7.870, y=-0.363, angle=-3.141
+[INFO] [1754141303.472955764] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141303.504691915] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141303.510464425] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.914 > 阈值0.300
+[INFO] [1754141303.512709256] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.738 > 阈值0.300
+[INFO] [1754141303.516388647] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.521 > 阈值0.300
+[INFO] [1754141303.518821926] [solver_node]: 无效解: x=1.577, y=6.993, 距离=11.973 > 阈值0.300
+[INFO] [1754141303.521605062] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.243 > 阈值0.300
+[INFO] [1754141303.523715045] [solver_node]: 无效解: x=4.304, y=6.993, 距离=14.223 > 阈值0.300
+[INFO] [1754141303.526421508] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.164 > 阈值0.300
+[WARN] [1754141303.529480771] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141303.531963458] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141303.534253410] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141303.559129914] [solver_node]: 当前位置: x=-7.872, y=-0.385, angle=-3.141
+[INFO] [1754141303.562362265] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141303.592820144] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141303.613893769] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.921 > 阈值0.300
+[INFO] [1754141303.627161797] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.747 > 阈值0.300
+[INFO] [1754141303.629257925] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.525 > 阈值0.300
+[INFO] [1754141303.632821828] [solver_node]: 无效解: x=1.577, y=6.993, 距离=11.988 > 阈值0.300
+[INFO] [1754141303.639780738] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.247 > 阈值0.300
+[INFO] [1754141303.641760609] [solver_node]: 无效解: x=4.304, y=6.993, 距离=14.236 > 阈值0.300
+[INFO] [1754141303.642583777] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.175 > 阈值0.300
+[WARN] [1754141303.643657632] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141303.644607136] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141303.648110751] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141303.659581244] [solver_node]: 当前位置: x=-7.870, y=-0.373, angle=-3.140
+[INFO] [1754141303.663211738] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141303.700230959] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141303.701848655] [solver_node]: 无效解: x=7.597, y=3.387, 距离=15.918 > 阈值0.300
+[INFO] [1754141303.702688110] [solver_node]: 无效解: x=4.303, y=3.387, 距离=12.741 > 阈值0.300
+[INFO] [1754141303.703920494] [solver_node]: 无效解: x=7.597, y=0.942, 距离=15.523 > 阈值0.300
+[INFO] [1754141303.708494381] [solver_node]: 无效解: x=1.576, y=6.990, 距离=11.976 > 阈值0.300
+[INFO] [1754141303.711348012] [solver_node]: 无效解: x=4.303, y=0.942, 距离=12.244 > 阈值0.300
+[INFO] [1754141303.712928971] [solver_node]: 无效解: x=4.303, y=6.990, 距离=14.226 > 阈值0.300
+[INFO] [1754141303.714971019] [solver_node]: 无效解: x=1.576, y=3.387, 距离=10.167 > 阈值0.300
+[WARN] [1754141303.715812586] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141303.717841226] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141303.719431017] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141303.746724929] [solver_node]: 当前位置: x=-7.879, y=-0.353, angle=-3.141
+[INFO] [1754141303.749770144] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141303.786560597] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141303.787456245] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.921 > 阈值0.300
+[INFO] [1754141303.788262484] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.744 > 阈值0.300
+[INFO] [1754141303.791721843] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.529 > 阈值0.300
+[INFO] [1754141303.797135602] [solver_node]: 无效解: x=1.577, y=6.992, 距离=11.973 > 阈值0.300
+[INFO] [1754141303.802947920] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.251 > 阈值0.300
+[INFO] [1754141303.804017872] [solver_node]: 无效解: x=4.304, y=6.992, 距离=14.225 > 阈值0.300
+[INFO] [1754141303.804808335] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.169 > 阈值0.300
+[WARN] [1754141303.805607343] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141303.806356527] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141303.817401355] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141303.823663082] [solver_node]: 当前位置: x=-7.873, y=-0.368, angle=-3.141
+[INFO] [1754141303.826041769] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141303.845455331] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141303.857761055] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.918 > 阈值0.300
+[INFO] [1754141303.859933311] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.742 > 阈值0.300
+[INFO] [1754141303.862030878] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.524 > 阈值0.300
+[INFO] [1754141303.863786845] [solver_node]: 无效解: x=1.577, y=6.992, 距离=11.978 > 阈值0.300
+[INFO] [1754141303.865902973] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.247 > 阈值0.300
+[INFO] [1754141303.867925052] [solver_node]: 无效解: x=4.304, y=6.992, 距离=14.228 > 阈值0.300
+[INFO] [1754141303.869729084] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.169 > 阈值0.300
+[WARN] [1754141303.871521787] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141303.883287479] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141303.911256975] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141303.918175181] [solver_node]: 当前位置: x=-7.878, y=-0.369, angle=-3.141
+[INFO] [1754141303.927516010] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141303.975733179] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141303.988223927] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.924 > 阈值0.300
+[INFO] [1754141304.004671538] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.748 > 阈值0.300
+[INFO] [1754141304.006153522] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.530 > 阈值0.300
+[INFO] [1754141304.007341010] [solver_node]: 无效解: x=1.577, y=6.992, 距离=11.983 > 阈值0.300
+[INFO] [1754141304.008502065] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.252 > 阈值0.300
+[INFO] [1754141304.009701361] [solver_node]: 无效解: x=4.304, y=6.992, 距离=14.233 > 阈值0.300
+[INFO] [1754141304.012240240] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.174 > 阈值0.300
+[WARN] [1754141304.015082671] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141304.019549038] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141304.020792238] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141304.065717760] [solver_node]: 当前位置: x=-7.878, y=-0.373, angle=-3.141
+[INFO] [1754141304.068622143] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141304.090420344] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141304.091730328] [solver_node]: 无效解: x=7.597, y=3.388, 距离=15.925 > 阈值0.300
+[INFO] [1754141304.109555955] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.749 > 阈值0.300
+[INFO] [1754141304.110492434] [solver_node]: 无效解: x=7.597, y=0.941, 距离=15.531 > 阈值0.300
+[INFO] [1754141304.111185618] [solver_node]: 无效解: x=1.577, y=6.991, 距离=11.985 > 阈值0.300
+[INFO] [1754141304.111871538] [solver_node]: 无效解: x=4.304, y=0.941, 距离=12.253 > 阈值0.300
+[INFO] [1754141304.112553074] [solver_node]: 无效解: x=4.304, y=6.991, 距离=14.235 > 阈值0.300
+[INFO] [1754141304.113303985] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.175 > 阈值0.300
+[WARN] [1754141304.114052721] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141304.114786033] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141304.116807664] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141304.134539563] [solver_node]: 当前位置: x=-7.878, y=-0.358, angle=-3.141
+[INFO] [1754141304.137391146] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141304.150008294] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141304.151661478] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.921 > 阈值0.300
+[INFO] [1754141304.153184901] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.744 > 阈值0.300
+[INFO] [1754141304.154632645] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.529 > 阈值0.300
+[INFO] [1754141304.156025028] [solver_node]: 无效解: x=1.577, y=6.992, 距离=11.976 > 阈值0.300
+[INFO] [1754141304.168581825] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.251 > 阈值0.300
+[INFO] [1754141304.170631456] [solver_node]: 无效解: x=4.304, y=6.992, 距离=14.227 > 阈值0.300
+[INFO] [1754141304.172170943] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.170 > 阈值0.300
+[WARN] [1754141304.173806911] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141304.175332510] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141304.207492309] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141304.230220910] [solver_node]: 当前位置: x=-7.876, y=-0.362, angle=-3.141
+[INFO] [1754141304.234332877] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141304.241286538] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141304.242129738] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.920 > 阈值0.300
+[INFO] [1754141304.257588421] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.744 > 阈值0.300
+[INFO] [1754141304.258464421] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.527 > 阈值0.300
+[INFO] [1754141304.259187301] [solver_node]: 无效解: x=1.577, y=6.993, 距离=11.978 > 阈值0.300
+[INFO] [1754141304.260000741] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.249 > 阈值0.300
+[INFO] [1754141304.274750880] [solver_node]: 无效解: x=4.304, y=6.993, 距离=14.228 > 阈值0.300
+[INFO] [1754141304.275664960] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.170 > 阈值0.300
+[WARN] [1754141304.289890716] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141304.290826363] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141304.307553302] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141304.314732340] [solver_node]: 当前位置: x=-7.876, y=-0.354, angle=-3.141
+[INFO] [1754141304.317605171] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141304.354145160] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141304.366173956] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.918 > 阈值0.300
+[INFO] [1754141304.374156738] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.741 > 阈值0.300
+[INFO] [1754141304.376538721] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.526 > 阈值0.300
+[INFO] [1754141304.378134049] [solver_node]: 无效解: x=1.577, y=6.992, 距离=11.972 > 阈值0.300
+[INFO] [1754141304.380201216] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.248 > 阈值0.300
+[INFO] [1754141304.384556607] [solver_node]: 无效解: x=4.304, y=6.992, 距离=14.224 > 阈值0.300
+[INFO] [1754141304.393656764] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.167 > 阈值0.300
+[WARN] [1754141304.396855259] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141304.404391449] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141304.414973238] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141304.427023346] [solver_node]: 当前位置: x=-7.887, y=-0.364, angle=-3.140
+[INFO] [1754141304.438757614] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141304.462336359] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141304.480128386] [solver_node]: 无效解: x=7.597, y=3.387, 距离=15.933 > 阈值0.300
+[INFO] [1754141304.505539738] [solver_node]: 无效解: x=4.303, y=3.387, 距离=12.755 > 阈值0.300
+[INFO] [1754141304.507816057] [solver_node]: 无效解: x=7.597, y=0.942, 距离=15.540 > 阈值0.300
+[INFO] [1754141304.509756313] [solver_node]: 无效解: x=1.576, y=6.990, 距离=11.985 > 阈值0.300
+[INFO] [1754141304.510730200] [solver_node]: 无效解: x=4.303, y=0.942, 距离=12.261 > 阈值0.300
+[INFO] [1754141304.511835896] [solver_node]: 无效解: x=4.303, y=6.990, 距离=14.237 > 阈值0.300
+[INFO] [1754141304.513259768] [solver_node]: 无效解: x=1.576, y=3.387, 距离=10.180 > 阈值0.300
+[WARN] [1754141304.514605239] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141304.518709942] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141304.520660501] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141304.524102356] [solver_node]: 当前位置: x=-7.883, y=-0.349, angle=3.141
+[INFO] [1754141304.534485489] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141304.556010923] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141304.558369226] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.923 > 阈值0.300
+[INFO] [1754141304.559207914] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.747 > 阈值0.300
+[INFO] [1754141304.560063465] [solver_node]: 无效解: x=7.596, y=0.939, 距离=15.532 > 阈值0.300
+[INFO] [1754141304.569264327] [solver_node]: 无效解: x=1.578, y=6.994, 距离=11.976 > 阈值0.300
+[INFO] [1754141304.570192614] [solver_node]: 无效解: x=4.304, y=0.939, 距离=12.255 > 阈值0.300
+[INFO] [1754141304.571098022] [solver_node]: 无效解: x=4.304, y=6.994, 距离=14.228 > 阈值0.300
+[INFO] [1754141304.571915878] [solver_node]: 无效解: x=1.578, y=3.388, 距离=10.172 > 阈值0.300
+[WARN] [1754141304.572864773] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141304.574837957] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141304.618242968] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141304.641390737] [solver_node]: 当前位置: x=-7.886, y=-0.365, angle=-3.141
+[INFO] [1754141304.642836944] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141304.652219181] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141304.680174085] [solver_node]: 无效解: x=7.597, y=3.388, 距离=15.931 > 阈值0.300
+[INFO] [1754141304.682262276] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.754 > 阈值0.300
+[INFO] [1754141304.683829764] [solver_node]: 无效解: x=7.597, y=0.941, 距离=15.537 > 阈值0.300
+[INFO] [1754141304.687354979] [solver_node]: 无效解: x=1.577, y=6.992, 距离=11.986 > 阈值0.300
+[INFO] [1754141304.688962722] [solver_node]: 无效解: x=4.304, y=0.941, 距离=12.259 > 阈值0.300
+[INFO] [1754141304.689797698] [solver_node]: 无效解: x=4.304, y=6.992, 距离=14.237 > 阈值0.300
+[INFO] [1754141304.690516770] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.180 > 阈值0.300
+[WARN] [1754141304.691304225] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141304.692087393] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141304.705251133] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141304.709812444] [solver_node]: 当前位置: x=-7.874, y=-0.355, angle=-3.141
+[INFO] [1754141304.711063483] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141304.755605390] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141304.758625837] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.917 > 阈值0.300
+[INFO] [1754141304.761083020] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.740 > 阈值0.300
+[INFO] [1754141304.770571625] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.524 > 阈值0.300
+[INFO] [1754141304.771480233] [solver_node]: 无效解: x=1.577, y=6.993, 距离=11.972 > 阈值0.300
+[INFO] [1754141304.772233449] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.246 > 阈值0.300
+[INFO] [1754141304.773081320] [solver_node]: 无效解: x=4.304, y=6.993, 距离=14.223 > 阈值0.300
+[INFO] [1754141304.774035656] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.166 > 阈值0.300
+[WARN] [1754141304.788261092] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141304.796004481] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141304.808924286] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141304.852687856] [solver_node]: 当前位置: x=-7.867, y=-0.361, angle=-3.141
+[INFO] [1754141304.854063568] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141304.861559758] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141304.874311210] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.911 > 阈值0.300
+[INFO] [1754141304.875278313] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.735 > 阈值0.300
+[INFO] [1754141304.876067273] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.517 > 阈值0.300
+[INFO] [1754141304.887394502] [solver_node]: 无效解: x=1.577, y=6.993, 距离=11.970 > 阈值0.300
+[INFO] [1754141304.888459557] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.240 > 阈值0.300
+[INFO] [1754141304.906159296] [solver_node]: 无效解: x=4.304, y=6.993, 距离=14.220 > 阈值0.300
+[INFO] [1754141304.906985824] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.161 > 阈值0.300
+[WARN] [1754141304.907746463] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141304.908531071] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141304.914665565] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141304.918583932] [solver_node]: 当前位置: x=-7.878, y=-0.371, angle=-3.141
+[INFO] [1754141304.919945564] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141304.947251795] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141304.949741683] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.924 > 阈值0.300
+[INFO] [1754141304.950626962] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.748 > 阈值0.300
+[INFO] [1754141304.951278802] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.530 > 阈值0.300
+[INFO] [1754141304.951931570] [solver_node]: 无效解: x=1.577, y=6.992, 距离=11.984 > 阈值0.300
+[INFO] [1754141304.953981489] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.252 > 阈值0.300
+[INFO] [1754141304.973826955] [solver_node]: 无效解: x=4.304, y=6.992, 距离=14.234 > 阈值0.300
+[INFO] [1754141304.991426566] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.175 > 阈值0.300
+[WARN] [1754141305.001853155] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141305.004633314] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141305.006228833] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141305.038326968] [solver_node]: 当前位置: x=-7.878, y=-0.367, angle=-3.141
+[INFO] [1754141305.039587351] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141305.066986159] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141305.067887247] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.924 > 阈值0.300
+[INFO] [1754141305.068638030] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.747 > 阈值0.300
+[INFO] [1754141305.069343118] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.530 > 阈值0.300
+[INFO] [1754141305.070014222] [solver_node]: 无效解: x=1.577, y=6.992, 距离=11.982 > 阈值0.300
+[INFO] [1754141305.070657678] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.252 > 阈值0.300
+[INFO] [1754141305.073516397] [solver_node]: 无效解: x=4.304, y=6.992, 距离=14.232 > 阈值0.300
+[INFO] [1754141305.077588492] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.174 > 阈值0.300
+[WARN] [1754141305.078458987] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141305.079241995] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141305.109975394] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141305.121709566] [solver_node]: 当前位置: x=-7.880, y=-0.358, angle=-3.141
+[INFO] [1754141305.123014590] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141305.157556979] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141305.169863312] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.923 > 阈值0.300
+[INFO] [1754141305.197829607] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.746 > 阈值0.300
+[INFO] [1754141305.199016167] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.531 > 阈值0.300
+[INFO] [1754141305.199909286] [solver_node]: 无效解: x=1.577, y=6.992, 距离=11.977 > 阈值0.300
+[INFO] [1754141305.200820646] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.252 > 阈值0.300
+[INFO] [1754141305.201689510] [solver_node]: 无效解: x=4.304, y=6.992, 距离=14.229 > 阈值0.300
+[INFO] [1754141305.202518534] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.172 > 阈值0.300
+[WARN] [1754141305.204726533] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141305.206081061] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141305.208056868] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141305.217195713] [solver_node]: 当前位置: x=-7.871, y=-0.366, angle=-3.141
+[INFO] [1754141305.218719521] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141305.246228120] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141305.248316536] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.916 > 阈值0.300
+[INFO] [1754141305.250096375] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.741 > 阈值0.300
+[INFO] [1754141305.250939095] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.522 > 阈值0.300
+[INFO] [1754141305.251813015] [solver_node]: 无效解: x=1.577, y=6.993, 距离=11.977 > 阈值0.300
+[INFO] [1754141305.252629494] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.245 > 阈值0.300
+[INFO] [1754141305.253312342] [solver_node]: 无效解: x=4.304, y=6.993, 距离=14.226 > 阈值0.300
+[INFO] [1754141305.253962806] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.167 > 阈值0.300
+[WARN] [1754141305.277704463] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141305.278607439] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141305.305675462] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141305.314512068] [solver_node]: 当前位置: x=-7.872, y=-0.364, angle=-3.141
+[INFO] [1754141305.344970874] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141305.369456083] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141305.370292627] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.917 > 阈值0.300
+[INFO] [1754141305.373256946] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.740 > 阈值0.300
+[INFO] [1754141305.374121713] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.523 > 阈值0.300
+[INFO] [1754141305.374831985] [solver_node]: 无效解: x=1.577, y=6.992, 距离=11.975 > 阈值0.300
+[INFO] [1754141305.375547153] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.245 > 阈值0.300
+[INFO] [1754141305.376240529] [solver_node]: 无效解: x=4.304, y=6.992, 距离=14.225 > 阈值0.300
+[INFO] [1754141305.376943377] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.167 > 阈值0.300
+[WARN] [1754141305.378179984] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141305.378986768] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141305.404884872] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141305.412365062] [solver_node]: 当前位置: x=-7.873, y=-0.366, angle=-3.141
+[INFO] [1754141305.441481245] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141305.450197370] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141305.484880496] [solver_node]: 无效解: x=7.597, y=3.388, 距离=15.919 > 阈值0.300
+[INFO] [1754141305.486984687] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.742 > 阈值0.300
+[INFO] [1754141305.488753615] [solver_node]: 无效解: x=7.597, y=0.941, 距离=15.525 > 阈值0.300
+[INFO] [1754141305.490923630] [solver_node]: 无效解: x=1.577, y=6.991, 距离=11.976 > 阈值0.300
+[INFO] [1754141305.492669645] [solver_node]: 无效解: x=4.304, y=0.941, 距离=12.246 > 阈值0.300
+[INFO] [1754141305.494228749] [solver_node]: 无效解: x=4.304, y=6.991, 距离=14.226 > 阈值0.300
+[INFO] [1754141305.495773548] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.168 > 阈值0.300
+[WARN] [1754141305.497533548] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141305.501615403] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141305.508339241] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141305.520089221] [solver_node]: 当前位置: x=-7.876, y=-0.362, angle=-3.141
+[INFO] [1754141305.523971844] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141305.540800127] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141305.552908923] [solver_node]: 无效解: x=7.597, y=3.388, 距离=15.920 > 阈值0.300
+[INFO] [1754141305.564009880] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.743 > 阈值0.300
+[INFO] [1754141305.564880759] [solver_node]: 无效解: x=7.597, y=0.941, 距离=15.527 > 阈值0.300
+[INFO] [1754141305.565560279] [solver_node]: 无效解: x=1.577, y=6.991, 距离=11.976 > 阈值0.300
+[INFO] [1754141305.566184983] [solver_node]: 无效解: x=4.304, y=0.941, 距离=12.249 > 阈值0.300
+[INFO] [1754141305.566818103] [solver_node]: 无效解: x=4.304, y=6.991, 距离=14.227 > 阈值0.300
+[INFO] [1754141305.567422199] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.169 > 阈值0.300
+[WARN] [1754141305.568142422] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141305.569024982] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141305.601499724] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141305.606458987] [solver_node]: 当前位置: x=-7.885, y=-0.370, angle=-3.140
+[INFO] [1754141305.607699594] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141305.624174693] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141305.630902787] [solver_node]: 无效解: x=7.597, y=3.387, 距离=15.931 > 阈值0.300
+[INFO] [1754141305.654022044] [solver_node]: 无效解: x=4.303, y=3.387, 距离=12.754 > 阈值0.300
+[INFO] [1754141305.674206230] [solver_node]: 无效解: x=7.597, y=0.941, 距离=15.537 > 阈值0.300
+[INFO] [1754141305.675342294] [solver_node]: 无效解: x=1.577, y=6.991, 距离=11.987 > 阈值0.300
+[INFO] [1754141305.676637109] [solver_node]: 无效解: x=4.303, y=0.941, 距离=12.259 > 阈值0.300
+[INFO] [1754141305.683016467] [solver_node]: 无效解: x=4.303, y=6.991, 距离=14.238 > 阈值0.300
+[INFO] [1754141305.698730095] [solver_node]: 无效解: x=1.577, y=3.387, 距离=10.180 > 阈值0.300
+[WARN] [1754141305.700158734] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141305.701653678] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141305.716033417] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141305.729856229] [solver_node]: 当前位置: x=-7.881, y=-0.357, angle=-3.141
+[INFO] [1754141305.731902404] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141305.754197214] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141305.755782685] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.924 > 阈值0.300
+[INFO] [1754141305.757847325] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.747 > 阈值0.300
+[INFO] [1754141305.760764732] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.531 > 阈值0.300
+[INFO] [1754141305.767516698] [solver_node]: 无效解: x=1.577, y=6.992, 距离=11.978 > 阈值0.300
+[INFO] [1754141305.768601785] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.253 > 阈值0.300
+[INFO] [1754141305.769589689] [solver_node]: 无效解: x=4.304, y=6.992, 距离=14.230 > 阈值0.300
+[INFO] [1754141305.774787831] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.172 > 阈值0.300
+[WARN] [1754141305.775660951] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141305.782938997] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141305.817666282] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141305.850792576] [solver_node]: 当前位置: x=-7.875, y=-0.358, angle=3.141
+[INFO] [1754141305.852068096] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141305.858773438] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141305.859581214] [solver_node]: 无效解: x=7.595, y=3.388, 距离=15.917 > 阈值0.300
+[INFO] [1754141305.860337789] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.741 > 阈值0.300
+[INFO] [1754141305.870729338] [solver_node]: 无效解: x=7.595, y=0.939, 距离=15.524 > 阈值0.300
+[INFO] [1754141305.871640858] [solver_node]: 无效解: x=1.578, y=6.994, 距离=11.975 > 阈值0.300
+[INFO] [1754141305.872339290] [solver_node]: 无效解: x=4.304, y=0.939, 距离=12.247 > 阈值0.300
+[INFO] [1754141305.873047737] [solver_node]: 无效解: x=4.304, y=6.994, 距离=14.225 > 阈值0.300
+[INFO] [1754141305.873747289] [solver_node]: 无效解: x=1.578, y=3.388, 距离=10.167 > 阈值0.300
+[WARN] [1754141305.874514937] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141305.875279289] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141305.902157169] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141305.909252782] [solver_node]: 当前位置: x=-7.875, y=-0.357, angle=-3.141
+[INFO] [1754141305.929216264] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141305.942416900] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141305.943487684] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.918 > 阈值0.300
+[INFO] [1754141305.944268132] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.742 > 阈值0.300
+[INFO] [1754141305.951826849] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.526 > 阈值0.300
+[INFO] [1754141305.980320537] [solver_node]: 无效解: x=1.577, y=6.992, 距离=11.974 > 阈值0.300
+[INFO] [1754141305.989744982] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.248 > 阈值0.300
+[INFO] [1754141306.001612146] [solver_node]: 无效解: x=4.304, y=6.992, 距离=14.225 > 阈值0.300
+[INFO] [1754141306.002477330] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.167 > 阈值0.300
+[WARN] [1754141306.003272818] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141306.004050194] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141306.005111089] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141306.042405606] [solver_node]: 当前位置: x=-7.874, y=-0.365, angle=3.141
+[INFO] [1754141306.059389697] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141306.080579546] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141306.081453658] [solver_node]: 无效解: x=7.595, y=3.388, 距离=15.918 > 阈值0.300
+[INFO] [1754141306.082129594] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.743 > 阈值0.300
+[INFO] [1754141306.082764474] [solver_node]: 无效解: x=7.595, y=0.939, 距离=15.524 > 阈值0.300
+[INFO] [1754141306.083409209] [solver_node]: 无效解: x=1.578, y=6.994, 距离=11.978 > 阈值0.300
+[INFO] [1754141306.084036313] [solver_node]: 无效解: x=4.304, y=0.939, 距离=12.247 > 阈值0.300
+[INFO] [1754141306.084698969] [solver_node]: 无效解: x=4.304, y=6.994, 距离=14.228 > 阈值0.300
+[INFO] [1754141306.085332825] [solver_node]: 无效解: x=1.578, y=3.388, 距离=10.169 > 阈值0.300
+[WARN] [1754141306.086063161] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141306.086785272] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141306.104551027] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141306.128331788] [solver_node]: 当前位置: x=-7.875, y=-0.370, angle=-3.141
+[INFO] [1754141306.129651947] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141306.136089257] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141306.143085671] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.921 > 阈值0.300
+[INFO] [1754141306.145444071] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.745 > 阈值0.300
+[INFO] [1754141306.146174182] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.526 > 阈值0.300
+[INFO] [1754141306.146842726] [solver_node]: 无效解: x=1.577, y=6.992, 距离=11.981 > 阈值0.300
+[INFO] [1754141306.147486374] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.249 > 阈值0.300
+[INFO] [1754141306.148108902] [solver_node]: 无效解: x=4.304, y=6.992, 距离=14.231 > 阈值0.300
+[INFO] [1754141306.152226276] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.171 > 阈值0.300
+[WARN] [1754141306.153117988] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141306.153847876] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141306.202385717] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141306.207957555] [solver_node]: 当前位置: x=-7.882, y=-0.373, angle=-3.141
+[INFO] [1754141306.209174099] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141306.234737323] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141306.235628619] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.928 > 阈值0.300
+[INFO] [1754141306.236318251] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.752 > 阈值0.300
+[INFO] [1754141306.237021547] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.534 > 阈值0.300
+[INFO] [1754141306.237671274] [solver_node]: 无效解: x=1.577, y=6.992, 距离=11.988 > 阈值0.300
+[INFO] [1754141306.238408554] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.256 > 阈值0.300
+[INFO] [1754141306.244626632] [solver_node]: 无效解: x=4.304, y=6.992, 距离=14.238 > 阈值0.300
+[INFO] [1754141306.245409992] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.179 > 阈值0.300
+[WARN] [1754141306.246367912] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141306.247120392] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141306.306522837] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141306.318660370] [solver_node]: 当前位置: x=-7.874, y=-0.360, angle=-3.141
+[INFO] [1754141306.319814705] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141306.331439278] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141306.346158697] [solver_node]: 无效解: x=7.597, y=3.388, 距离=15.918 > 阈值0.300
+[INFO] [1754141306.347035657] [solver_node]: 无效解: x=4.303, y=3.388, 距离=12.741 > 阈值0.300
+[INFO] [1754141306.347737129] [solver_node]: 无效解: x=7.597, y=0.941, 距离=15.525 > 阈值0.300
+[INFO] [1754141306.349403400] [solver_node]: 无效解: x=1.577, y=6.991, 距离=11.973 > 阈值0.300
+[INFO] [1754141306.350119464] [solver_node]: 无效解: x=4.303, y=0.941, 距离=12.247 > 阈值0.300
+[INFO] [1754141306.354285543] [solver_node]: 无效解: x=4.303, y=6.991, 距离=14.224 > 阈值0.300
+[INFO] [1754141306.355171527] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.166 > 阈值0.300
+[WARN] [1754141306.356570310] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141306.358605606] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141306.407609911] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141306.420997651] [solver_node]: 当前位置: x=-7.876, y=-0.372, angle=-3.140
+[INFO] [1754141306.432878895] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141306.440305293] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141306.441179564] [solver_node]: 无效解: x=7.597, y=3.387, 距离=15.923 > 阈值0.300
+[INFO] [1754141306.454631944] [solver_node]: 无效解: x=4.303, y=3.387, 距离=12.746 > 阈值0.300
+[INFO] [1754141306.455438824] [solver_node]: 无效解: x=7.597, y=0.941, 距离=15.528 > 阈值0.300
+[INFO] [1754141306.456149896] [solver_node]: 无效解: x=1.577, y=6.991, 距离=11.981 > 阈值0.300
+[INFO] [1754141306.456871176] [solver_node]: 无效解: x=4.303, y=0.941, 距离=12.250 > 阈值0.300
+[INFO] [1754141306.457622631] [solver_node]: 无效解: x=4.303, y=6.991, 距离=14.232 > 阈值0.300
+[INFO] [1754141306.458298855] [solver_node]: 无效解: x=1.577, y=3.387, 距离=10.173 > 阈值0.300
+[WARN] [1754141306.459045735] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141306.459803463] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141306.503718297] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141306.506119577] [solver_node]: 当前位置: x=-7.870, y=-0.374, angle=-3.140
+[INFO] [1754141306.515682742] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141306.553858858] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141306.563483783] [solver_node]: 无效解: x=7.597, y=3.387, 距离=15.918 > 阈值0.300
+[INFO] [1754141306.564617191] [solver_node]: 无效解: x=4.303, y=3.387, 距离=12.742 > 阈值0.300
+[INFO] [1754141306.565708007] [solver_node]: 无效解: x=7.597, y=0.941, 距离=15.523 > 阈值0.300
+[INFO] [1754141306.566642086] [solver_node]: 无效解: x=1.577, y=6.991, 距离=11.978 > 阈值0.300
+[INFO] [1754141306.568704870] [solver_node]: 无效解: x=4.303, y=0.941, 距离=12.245 > 阈值0.300
+[INFO] [1754141306.569605573] [solver_node]: 无效解: x=4.303, y=6.991, 距离=14.228 > 阈值0.300
+[INFO] [1754141306.570394725] [solver_node]: 无效解: x=1.577, y=3.387, 距离=10.168 > 阈值0.300
+[WARN] [1754141306.571217253] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141306.572123141] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141306.619668310] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141306.625866356] [solver_node]: 当前位置: x=-7.880, y=-0.350, angle=-3.140
+[INFO] [1754141306.634155922] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141306.646951534] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141306.647805838] [solver_node]: 无效解: x=7.597, y=3.387, 距离=15.922 > 阈值0.300
+[INFO] [1754141306.648604333] [solver_node]: 无效解: x=4.303, y=3.387, 距离=12.744 > 阈值0.300
+[INFO] [1754141306.649321229] [solver_node]: 无效解: x=7.597, y=0.941, 距离=15.531 > 阈值0.300
+[INFO] [1754141306.650016973] [solver_node]: 无效解: x=1.576, y=6.990, 距离=11.971 > 阈值0.300
+[INFO] [1754141306.650736173] [solver_node]: 无效解: x=4.303, y=0.941, 距离=12.252 > 阈值0.300
+[INFO] [1754141306.651449644] [solver_node]: 无效解: x=4.303, y=6.990, 距离=14.224 > 阈值0.300
+[INFO] [1754141306.652142636] [solver_node]: 无效解: x=1.576, y=3.387, 距离=10.168 > 阈值0.300
+[WARN] [1754141306.654032396] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141306.654840843] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141306.715337017] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141306.721967351] [solver_node]: 当前位置: x=-7.881, y=-0.358, angle=-3.140
+[INFO] [1754141306.737834802] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141306.766041802] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141306.768767177] [solver_node]: 无效解: x=7.597, y=3.387, 距离=15.924 > 阈值0.300
+[INFO] [1754141306.769481032] [solver_node]: 无效解: x=4.303, y=3.387, 距离=12.747 > 阈值0.300
+[INFO] [1754141306.770131432] [solver_node]: 无效解: x=7.597, y=0.941, 距离=15.532 > 阈值0.300
+[INFO] [1754141306.770783272] [solver_node]: 无效解: x=1.576, y=6.990, 距离=11.976 > 阈值0.300
+[INFO] [1754141306.771431208] [solver_node]: 无效解: x=4.303, y=0.941, 距离=12.253 > 阈值0.300
+[INFO] [1754141306.772077512] [solver_node]: 无效解: x=4.303, y=6.990, 距离=14.228 > 阈值0.300
+[INFO] [1754141306.795681024] [solver_node]: 无效解: x=1.576, y=3.387, 距离=10.172 > 阈值0.300
+[WARN] [1754141306.796794560] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141306.797717824] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141306.813253307] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141306.817778138] [solver_node]: 当前位置: x=-7.881, y=-0.360, angle=-3.142
+[INFO] [1754141306.818991705] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141306.841848466] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141306.842978130] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.925 > 阈值0.300
+[INFO] [1754141306.843911090] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.749 > 阈值0.300
+[INFO] [1754141306.844882162] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.532 > 阈值0.300
+[INFO] [1754141306.845781745] [solver_node]: 无效解: x=1.577, y=6.993, 距离=11.981 > 阈值0.300
+[INFO] [1754141306.846465041] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.254 > 阈值0.300
+[INFO] [1754141306.847257393] [solver_node]: 无效解: x=4.304, y=6.993, 距离=14.232 > 阈值0.300
+[INFO] [1754141306.847935409] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.174 > 阈值0.300
+[WARN] [1754141306.848712016] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141306.858092397] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141306.913392349] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141306.916337948] [solver_node]: 当前位置: x=-7.871, y=-0.360, angle=-3.142
+[INFO] [1754141306.924749273] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141306.932215223] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141306.952007505] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.914 > 阈值0.300
+[INFO] [1754141306.952921073] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.738 > 阈值0.300
+[INFO] [1754141306.953647120] [solver_node]: 无效解: x=7.596, y=0.939, 距离=15.521 > 阈值0.300
+[INFO] [1754141306.975088618] [solver_node]: 无效解: x=1.578, y=6.993, 距离=11.972 > 阈值0.300
+[INFO] [1754141306.976008170] [solver_node]: 无效解: x=4.304, y=0.939, 距离=12.244 > 阈值0.300
+[INFO] [1754141306.976752681] [solver_node]: 无效解: x=4.304, y=6.993, 距离=14.223 > 阈值0.300
+[INFO] [1754141306.977911529] [solver_node]: 无效解: x=1.578, y=3.388, 距离=10.164 > 阈值0.300
+[WARN] [1754141306.979254025] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141306.980495048] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141307.015065406] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141307.019759324] [solver_node]: 当前位置: x=-7.873, y=-0.363, angle=-3.141
+[INFO] [1754141307.021760284] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141307.043691541] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141307.056233137] [solver_node]: 无效解: x=7.597, y=3.388, 距离=15.918 > 阈值0.300
+[INFO] [1754141307.094677253] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.741 > 阈值0.300
+[INFO] [1754141307.095560613] [solver_node]: 无效解: x=7.597, y=0.941, 距离=15.525 > 阈值0.300
+[INFO] [1754141307.096220741] [solver_node]: 无效解: x=1.577, y=6.991, 距离=11.975 > 阈值0.300
+[INFO] [1754141307.097122981] [solver_node]: 无效解: x=4.304, y=0.941, 距离=12.246 > 阈值0.300
+[INFO] [1754141307.097776004] [solver_node]: 无效解: x=4.304, y=6.991, 距离=14.225 > 阈值0.300
+[INFO] [1754141307.098395972] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.167 > 阈值0.300
+[WARN] [1754141307.099124420] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141307.099841636] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141307.122340765] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141307.129229595] [solver_node]: 当前位置: x=-7.869, y=-0.352, angle=-3.140
+[INFO] [1754141307.130526747] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141307.143900342] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141307.153027220] [solver_node]: 无效解: x=7.597, y=3.387, 距离=15.912 > 阈值0.300
+[INFO] [1754141307.155957395] [solver_node]: 无效解: x=4.303, y=3.387, 距离=12.734 > 阈值0.300
+[INFO] [1754141307.173778125] [solver_node]: 无效解: x=7.597, y=0.941, 距离=15.520 > 阈值0.300
+[INFO] [1754141307.179225932] [solver_node]: 无效解: x=1.577, y=6.991, 距离=11.964 > 阈值0.300
+[INFO] [1754141307.201776837] [solver_node]: 无效解: x=4.303, y=0.941, 距离=12.241 > 阈值0.300
+[INFO] [1754141307.204507364] [solver_node]: 无效解: x=4.303, y=6.991, 距离=14.216 > 阈值0.300
+[INFO] [1754141307.208568195] [solver_node]: 无效解: x=1.577, y=3.387, 距离=10.159 > 阈值0.300
+[WARN] [1754141307.211297666] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141307.213291297] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141307.217057184] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141307.226168957] [solver_node]: 当前位置: x=-7.883, y=-0.363, angle=-3.140
+[INFO] [1754141307.228762941] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141307.267965489] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141307.272441935] [solver_node]: 无效解: x=7.597, y=3.387, 距离=15.928 > 阈值0.300
+[INFO] [1754141307.274985487] [solver_node]: 无效解: x=4.303, y=3.387, 距离=12.750 > 阈值0.300
+[INFO] [1754141307.275749102] [solver_node]: 无效解: x=7.597, y=0.941, 距离=15.535 > 阈值0.300
+[INFO] [1754141307.277190798] [solver_node]: 无效解: x=1.576, y=6.990, 距离=11.981 > 阈值0.300
+[INFO] [1754141307.279680397] [solver_node]: 无效解: x=4.303, y=0.941, 距离=12.256 > 阈值0.300
+[INFO] [1754141307.303566918] [solver_node]: 无效解: x=4.303, y=6.990, 距离=14.233 > 阈值0.300
+[INFO] [1754141307.306096645] [solver_node]: 无效解: x=1.576, y=3.387, 距离=10.176 > 阈值0.300
+[WARN] [1754141307.307689541] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141307.309223908] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141307.311580707] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141307.349272344] [solver_node]: 当前位置: x=-7.875, y=-0.371, angle=-3.141
+[INFO] [1754141307.350902903] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141307.376701456] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141307.377607855] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.921 > 阈值0.300
+[INFO] [1754141307.378628207] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.745 > 阈值0.300
+[INFO] [1754141307.379646735] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.526 > 阈值0.300
+[INFO] [1754141307.380340206] [solver_node]: 无效解: x=1.577, y=6.992, 距离=11.982 > 阈值0.300
+[INFO] [1754141307.381022702] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.249 > 阈值0.300
+[INFO] [1754141307.384783469] [solver_node]: 无效解: x=4.304, y=6.992, 距离=14.232 > 阈值0.300
+[INFO] [1754141307.385497037] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.172 > 阈值0.300
+[WARN] [1754141307.386350925] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141307.387168012] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141307.407870918] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141307.419863394] [solver_node]: 当前位置: x=-7.880, y=-0.364, angle=-3.141
+[INFO] [1754141307.421833730] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141307.429446751] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141307.430435231] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.924 > 阈值0.300
+[INFO] [1754141307.466166580] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.748 > 阈值0.300
+[INFO] [1754141307.467156916] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.531 > 阈值0.300
+[INFO] [1754141307.467897396] [solver_node]: 无效解: x=1.577, y=6.992, 距离=11.981 > 阈值0.300
+[INFO] [1754141307.468604596] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.253 > 阈值0.300
+[INFO] [1754141307.469236467] [solver_node]: 无效解: x=4.304, y=6.992, 距离=14.232 > 阈值0.300
+[INFO] [1754141307.469849619] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.174 > 阈值0.300
+[WARN] [1754141307.470587507] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141307.471317395] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141307.509023143] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141307.517607877] [solver_node]: 当前位置: x=-7.873, y=-0.364, angle=3.142
+[INFO] [1754141307.518849316] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141307.577367506] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141307.592034062] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.918 > 阈值0.300
+[INFO] [1754141307.607250121] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.742 > 阈值0.300
+[INFO] [1754141307.612348552] [solver_node]: 无效解: x=7.596, y=0.939, 距离=15.524 > 阈值0.300
+[INFO] [1754141307.613379143] [solver_node]: 无效解: x=1.578, y=6.993, 距离=11.977 > 阈值0.300
+[INFO] [1754141307.614163207] [solver_node]: 无效解: x=4.304, y=0.939, 距离=12.247 > 阈值0.300
+[INFO] [1754141307.614915015] [solver_node]: 无效解: x=4.304, y=6.993, 距离=14.227 > 阈值0.300
+[INFO] [1754141307.615609287] [solver_node]: 无效解: x=1.578, y=3.388, 距离=10.168 > 阈值0.300
+[WARN] [1754141307.616377159] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141307.617388902] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141307.619061318] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141307.638584928] [solver_node]: 当前位置: x=-7.885, y=-0.363, angle=-3.141
+[INFO] [1754141307.675667444] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141307.691100752] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141307.696607982] [solver_node]: 无效解: x=7.597, y=3.388, 距离=15.929 > 阈值0.300
+[INFO] [1754141307.697572334] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.752 > 阈值0.300
+[INFO] [1754141307.698338542] [solver_node]: 无效解: x=7.597, y=0.941, 距离=15.536 > 阈值0.300
+[INFO] [1754141307.699045677] [solver_node]: 无效解: x=1.577, y=6.991, 距离=11.984 > 阈值0.300
+[INFO] [1754141307.712120009] [solver_node]: 无效解: x=4.304, y=0.941, 距离=12.258 > 阈值0.300
+[INFO] [1754141307.713850089] [solver_node]: 无效解: x=4.304, y=6.991, 距离=14.235 > 阈值0.300
+[INFO] [1754141307.715571336] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.178 > 阈值0.300
+[WARN] [1754141307.717191368] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141307.718876487] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141307.720757351] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141307.742967648] [solver_node]: 当前位置: x=-7.885, y=-0.364, angle=-3.142
+[INFO] [1754141307.744259584] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141307.750709854] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141307.751470813] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.929 > 阈值0.300
+[INFO] [1754141307.752157725] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.753 > 阈值0.300
+[INFO] [1754141307.753890589] [solver_node]: 无效解: x=7.596, y=0.939, 距离=15.536 > 阈值0.300
+[INFO] [1754141307.754572700] [solver_node]: 无效解: x=1.578, y=6.993, 距离=11.986 > 阈值0.300
+[INFO] [1754141307.755231836] [solver_node]: 无效解: x=4.304, y=0.939, 距离=12.258 > 阈值0.300
+[INFO] [1754141307.755876764] [solver_node]: 无效解: x=4.304, y=6.993, 距离=14.237 > 阈值0.300
+[INFO] [1754141307.756564892] [solver_node]: 无效解: x=1.578, y=3.388, 距离=10.179 > 阈值0.300
+[WARN] [1754141307.757316028] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141307.758036507] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141307.801705006] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141307.813934602] [solver_node]: 当前位置: x=-7.882, y=-0.363, angle=-3.141
+[INFO] [1754141307.829680646] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141307.850838559] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141307.851633375] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.927 > 阈值0.300
+[INFO] [1754141307.852317823] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.750 > 阈值0.300
+[INFO] [1754141307.852998430] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.533 > 阈值0.300
+[INFO] [1754141307.853666046] [solver_node]: 无效解: x=1.577, y=6.992, 距离=11.982 > 阈值0.300
+[INFO] [1754141307.854305566] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.255 > 阈值0.300
+[INFO] [1754141307.854990270] [solver_node]: 无效解: x=4.304, y=6.992, 距离=14.233 > 阈值0.300
+[INFO] [1754141307.855667870] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.176 > 阈值0.300
+[WARN] [1754141307.856396573] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141307.883596437] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141307.906673326] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141307.914280780] [solver_node]: 当前位置: x=-7.880, y=-0.366, angle=-3.141
+[INFO] [1754141307.915493515] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141307.937743717] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141307.938829668] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.925 > 阈值0.300
+[INFO] [1754141307.955460639] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.749 > 阈值0.300
+[INFO] [1754141307.969775387] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.532 > 阈值0.300
+[INFO] [1754141307.970628987] [solver_node]: 无效解: x=1.577, y=6.992, 距离=11.982 > 阈值0.300
+[INFO] [1754141307.971486938] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.254 > 阈值0.300
+[INFO] [1754141307.972237690] [solver_node]: 无效解: x=4.304, y=6.992, 距离=14.233 > 阈值0.300
+[INFO] [1754141307.973017114] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.175 > 阈值0.300
+[WARN] [1754141307.973734522] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141307.974454138] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141308.014553773] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141308.026414730] [solver_node]: 当前位置: x=-7.874, y=-0.366, angle=-3.141
+[INFO] [1754141308.040009190] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141308.059085632] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141308.059989695] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.919 > 阈值0.300
+[INFO] [1754141308.079564025] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.743 > 阈值0.300
+[INFO] [1754141308.081290201] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.525 > 阈值0.300
+[INFO] [1754141308.082064729] [solver_node]: 无效解: x=1.577, y=6.993, 距离=11.978 > 阈值0.300
+[INFO] [1754141308.082800889] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.247 > 阈值0.300
+[INFO] [1754141308.083499672] [solver_node]: 无效解: x=4.304, y=6.993, 距离=14.228 > 阈值0.300
+[INFO] [1754141308.094661429] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.169 > 阈值0.300
+[WARN] [1754141308.100316147] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141308.104303954] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141308.114541839] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141308.118171086] [solver_node]: 当前位置: x=-7.878, y=-0.362, angle=-3.141
+[INFO] [1754141308.144311430] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141308.163015296] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141308.166083519] [solver_node]: 无效解: x=7.597, y=3.388, 距离=15.922 > 阈值0.300
+[INFO] [1754141308.168726462] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.746 > 阈值0.300
+[INFO] [1754141308.184380922] [solver_node]: 无效解: x=7.597, y=0.941, 距离=15.529 > 阈值0.300
+[INFO] [1754141308.186496825] [solver_node]: 无效解: x=1.577, y=6.991, 距离=11.978 > 阈值0.300
+[INFO] [1754141308.188144760] [solver_node]: 无效解: x=4.304, y=0.941, 距离=12.251 > 阈值0.300
+[INFO] [1754141308.203296948] [solver_node]: 无效解: x=4.304, y=6.991, 距离=14.229 > 阈值0.300
+[INFO] [1754141308.208270930] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.171 > 阈值0.300
+[WARN] [1754141308.209470386] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141308.210308178] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141308.211920017] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141308.229691308] [solver_node]: 当前位置: x=-7.874, y=-0.371, angle=-3.141
+[INFO] [1754141308.231203243] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141308.239886537] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141308.257262883] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.920 > 阈值0.300
+[INFO] [1754141308.260128515] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.744 > 阈值0.300
+[INFO] [1754141308.273530558] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.525 > 阈值0.300
+[INFO] [1754141308.275354014] [solver_node]: 无效解: x=1.577, y=6.992, 距离=11.981 > 阈值0.300
+[INFO] [1754141308.277491005] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.248 > 阈值0.300
+[INFO] [1754141308.288817274] [solver_node]: 无效解: x=4.304, y=6.992, 距离=14.230 > 阈值0.300
+[INFO] [1754141308.298461655] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.171 > 阈值0.300
+[WARN] [1754141308.299721462] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141308.300741878] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141308.310973843] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141308.322116880] [solver_node]: 当前位置: x=-7.874, y=-0.372, angle=-3.141
+[INFO] [1754141308.324041391] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141308.358227045] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141308.374771712] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.920 > 阈值0.300
+[INFO] [1754141308.375611903] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.745 > 阈值0.300
+[INFO] [1754141308.376277439] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.526 > 阈值0.300
+[INFO] [1754141308.382128605] [solver_node]: 无效解: x=1.577, y=6.992, 距离=11.982 > 阈值0.300
+[INFO] [1754141308.394397914] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.248 > 阈值0.300
+[INFO] [1754141308.395432441] [solver_node]: 无效解: x=4.304, y=6.992, 距离=14.231 > 阈值0.300
+[INFO] [1754141308.402139383] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.172 > 阈值0.300
+[WARN] [1754141308.403095767] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141308.403833719] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141308.405545430] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141308.417210739] [solver_node]: 当前位置: x=-7.875, y=-0.371, angle=-3.141
+[INFO] [1754141308.419563314] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141308.432995054] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141308.433867790] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.921 > 阈值0.300
+[INFO] [1754141308.434619405] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.745 > 阈值0.300
+[INFO] [1754141308.435488973] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.526 > 阈值0.300
+[INFO] [1754141308.436203149] [solver_node]: 无效解: x=1.577, y=6.993, 距离=11.982 > 阈值0.300
+[INFO] [1754141308.460034470] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.249 > 阈值0.300
+[INFO] [1754141308.470279075] [solver_node]: 无效解: x=4.304, y=6.993, 距离=14.232 > 阈值0.300
+[INFO] [1754141308.477990144] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.172 > 阈值0.300
+[WARN] [1754141308.480143680] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141308.481771039] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141308.514367605] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141308.557025544] [solver_node]: 当前位置: x=-7.881, y=-0.373, angle=-3.140
+[INFO] [1754141308.558709672] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141308.574930019] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141308.576126594] [solver_node]: 无效解: x=7.597, y=3.387, 距离=15.928 > 阈值0.300
+[INFO] [1754141308.577332130] [solver_node]: 无效解: x=4.303, y=3.387, 距离=12.751 > 阈值0.300
+[INFO] [1754141308.582430752] [solver_node]: 无效解: x=7.597, y=0.941, 距离=15.533 > 阈值0.300
+[INFO] [1754141308.583479872] [solver_node]: 无效解: x=1.576, y=6.991, 距离=11.986 > 阈值0.300
+[INFO] [1754141308.584339296] [solver_node]: 无效解: x=4.303, y=0.941, 距离=12.255 > 阈值0.300
+[INFO] [1754141308.585175136] [solver_node]: 无效解: x=4.303, y=6.991, 距离=14.236 > 阈值0.300
+[INFO] [1754141308.585913567] [solver_node]: 无效解: x=1.576, y=3.387, 距离=10.177 > 阈值0.300
+[WARN] [1754141308.586704927] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141308.587571615] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141308.601287803] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141308.644904205] [solver_node]: 当前位置: x=-7.888, y=-0.362, angle=-3.140
+[INFO] [1754141308.663679048] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141308.673146853] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141308.674013444] [solver_node]: 无效解: x=7.597, y=3.387, 距离=15.933 > 阈值0.300
+[INFO] [1754141308.674696196] [solver_node]: 无效解: x=4.303, y=3.387, 距离=12.755 > 阈值0.300
+[INFO] [1754141308.675385380] [solver_node]: 无效解: x=7.597, y=0.941, 距离=15.540 > 阈值0.300
+[INFO] [1754141308.676068708] [solver_node]: 无效解: x=1.576, y=6.990, 距离=11.985 > 阈值0.300
+[INFO] [1754141308.676756932] [solver_node]: 无效解: x=4.303, y=0.941, 距离=12.261 > 阈值0.300
+[INFO] [1754141308.677442723] [solver_node]: 无效解: x=4.303, y=6.990, 距离=14.237 > 阈值0.300
+[INFO] [1754141308.678143907] [solver_node]: 无效解: x=1.576, y=3.387, 距离=10.180 > 阈值0.300
+[WARN] [1754141308.678918595] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141308.679655619] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141308.712146489] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141308.727615860] [solver_node]: 当前位置: x=-7.876, y=-0.365, angle=-3.140
+[INFO] [1754141308.731688371] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141308.757345291] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141308.766704360] [solver_node]: 无效解: x=7.597, y=3.387, 距离=15.922 > 阈值0.300
+[INFO] [1754141308.767612744] [solver_node]: 无效解: x=4.303, y=3.387, 距离=12.745 > 阈值0.300
+[INFO] [1754141308.770754599] [solver_node]: 无效解: x=7.597, y=0.941, 距离=15.528 > 阈值0.300
+[INFO] [1754141308.771557735] [solver_node]: 无效解: x=1.576, y=6.991, 距离=11.977 > 阈值0.300
+[INFO] [1754141308.772643462] [solver_node]: 无效解: x=4.303, y=0.941, 距离=12.250 > 阈值0.300
+[INFO] [1754141308.773368934] [solver_node]: 无效解: x=4.303, y=6.991, 距离=14.228 > 阈值0.300
+[INFO] [1754141308.774231174] [solver_node]: 无效解: x=1.576, y=3.387, 距离=10.170 > 阈值0.300
+[WARN] [1754141308.775040966] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141308.775838085] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141308.814685882] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141308.817191321] [solver_node]: 当前位置: x=-7.873, y=-0.358, angle=-3.141
+[INFO] [1754141308.818405080] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141308.837311731] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141308.838238162] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.916 > 阈值0.300
+[INFO] [1754141308.839000178] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.740 > 阈值0.300
+[INFO] [1754141308.839716306] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.524 > 阈值0.300
+[INFO] [1754141308.840489618] [solver_node]: 无效解: x=1.577, y=6.992, 距离=11.972 > 阈值0.300
+[INFO] [1754141308.841205138] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.246 > 阈值0.300
+[INFO] [1754141308.841927633] [solver_node]: 无效解: x=4.304, y=6.992, 距离=14.223 > 阈值0.300
+[INFO] [1754141308.842649585] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.165 > 阈值0.300
+[WARN] [1754141308.843447665] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141308.844229649] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141308.916337627] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141308.949244817] [solver_node]: 当前位置: x=-7.872, y=-0.362, angle=-3.141
+[INFO] [1754141308.983847206] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141309.006602751] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141309.012497725] [solver_node]: 无效解: x=7.597, y=3.388, 距离=15.917 > 阈值0.300
+[INFO] [1754141309.014892221] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.740 > 阈值0.300
+[INFO] [1754141309.017632476] [solver_node]: 无效解: x=7.597, y=0.941, 距离=15.524 > 阈值0.300
+[INFO] [1754141309.022054682] [solver_node]: 无效解: x=1.577, y=6.991, 距离=11.973 > 阈值0.300
+[INFO] [1754141309.024717786] [solver_node]: 无效解: x=4.304, y=0.941, 距离=12.245 > 阈值0.300
+[INFO] [1754141309.025575865] [solver_node]: 无效解: x=4.304, y=6.991, 距离=14.224 > 阈值0.300
+[INFO] [1754141309.026328569] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.166 > 阈值0.300
+[WARN] [1754141309.027154873] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141309.028955992] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141309.029952920] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141309.041428757] [solver_node]: 当前位置: x=-7.876, y=-0.353, angle=-3.141
+[INFO] [1754141309.075432202] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141309.096974276] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141309.109814624] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.918 > 阈值0.300
+[INFO] [1754141309.112694303] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.741 > 阈值0.300
+[INFO] [1754141309.114308670] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.526 > 阈值0.300
+[INFO] [1754141309.115042078] [solver_node]: 无效解: x=1.577, y=6.992, 距离=11.971 > 阈值0.300
+[INFO] [1754141309.115749598] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.248 > 阈值0.300
+[INFO] [1754141309.116476830] [solver_node]: 无效解: x=4.304, y=6.992, 距离=14.223 > 阈值0.300
+[INFO] [1754141309.117209373] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.166 > 阈值0.300
+[WARN] [1754141309.118625885] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141309.119424093] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141309.121143644] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141309.166054159] [solver_node]: 当前位置: x=-7.876, y=-0.370, angle=-3.141
+[INFO] [1754141309.167599726] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141309.174810092] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141309.175668044] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.922 > 阈值0.300
+[INFO] [1754141309.176453163] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.746 > 阈值0.300
+[INFO] [1754141309.206478210] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.527 > 阈值0.300
+[INFO] [1754141309.208599106] [solver_node]: 无效解: x=1.577, y=6.993, 距离=11.982 > 阈值0.300
+[INFO] [1754141309.210774017] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.250 > 阈值0.300
+[INFO] [1754141309.212198017] [solver_node]: 无效解: x=4.304, y=6.993, 距离=14.232 > 阈值0.300
+[INFO] [1754141309.215807903] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.173 > 阈值0.300
+[WARN] [1754141309.221062238] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141309.222452797] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141309.224730045] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141309.235359514] [solver_node]: 当前位置: x=-7.876, y=-0.374, angle=-3.141
+[INFO] [1754141309.264551153] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141309.290075721] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141309.294604071] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.923 > 阈值0.300
+[INFO] [1754141309.298689862] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.748 > 阈值0.300
+[INFO] [1754141309.310558307] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.528 > 阈值0.300
+[INFO] [1754141309.313921410] [solver_node]: 无效解: x=1.577, y=6.992, 距离=11.985 > 阈值0.300
+[INFO] [1754141309.316588673] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.251 > 阈值0.300
+[INFO] [1754141309.318443168] [solver_node]: 无效解: x=4.304, y=6.992, 距离=14.234 > 阈值0.300
+[INFO] [1754141309.319834112] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.174 > 阈值0.300
+[WARN] [1754141309.321492223] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141309.322367391] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141309.323764319] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141309.340170298] [solver_node]: 当前位置: x=-7.880, y=-0.362, angle=-3.141
+[INFO] [1754141309.351704310] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141309.365356722] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141309.367004977] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.925 > 阈值0.300
+[INFO] [1754141309.367867569] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.748 > 阈值0.300
+[INFO] [1754141309.368617873] [solver_node]: 无效解: x=7.596, y=0.941, 距离=15.532 > 阈值0.300
+[INFO] [1754141309.369613553] [solver_node]: 无效解: x=1.577, y=6.992, 距离=11.980 > 阈值0.300
+[INFO] [1754141309.370443024] [solver_node]: 无效解: x=4.304, y=0.941, 距离=12.253 > 阈值0.300
+[INFO] [1754141309.372860880] [solver_node]: 无效解: x=4.304, y=6.992, 距离=14.231 > 阈值0.300
+[INFO] [1754141309.373989295] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.173 > 阈值0.300
+[WARN] [1754141309.375430671] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141309.376209295] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141309.406451237] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141309.409707556] [solver_node]: 当前位置: x=-7.881, y=-0.363, angle=-3.140
+[INFO] [1754141309.411138116] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141309.435933340] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141309.437146076] [solver_node]: 无效解: x=7.597, y=3.387, 距离=15.926 > 阈值0.300
+[INFO] [1754141309.437877020] [solver_node]: 无效解: x=4.303, y=3.387, 距离=12.749 > 阈值0.300
+[INFO] [1754141309.438520124] [solver_node]: 无效解: x=7.597, y=0.941, 距离=15.533 > 阈值0.300
+[INFO] [1754141309.439161083] [solver_node]: 无效解: x=1.577, y=6.991, 距离=11.980 > 阈值0.300
+[INFO] [1754141309.439876635] [solver_node]: 无效解: x=4.303, y=0.941, 距离=12.254 > 阈值0.300
+[INFO] [1754141309.441242491] [solver_node]: 无效解: x=4.303, y=6.991, 距离=14.232 > 阈值0.300
+[INFO] [1754141309.442156891] [solver_node]: 无效解: x=1.577, y=3.387, 距离=10.174 > 阈值0.300
+[WARN] [1754141309.442927258] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141309.443660922] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141309.508047942] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141309.538828605] [solver_node]: 当前位置: x=-7.878, y=-0.359, angle=-3.140
+[INFO] [1754141309.545896251] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141309.573923538] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141309.579037777] [solver_node]: 无效解: x=7.597, y=3.387, 距离=15.922 > 阈值0.300
+[INFO] [1754141309.579923281] [solver_node]: 无效解: x=4.303, y=3.387, 距离=12.744 > 阈值0.300
+[INFO] [1754141309.580651600] [solver_node]: 无效解: x=7.597, y=0.941, 距离=15.529 > 阈值0.300
+[INFO] [1754141309.583051696] [solver_node]: 无效解: x=1.576, y=6.990, 距离=11.975 > 阈值0.300
+[INFO] [1754141309.583892975] [solver_node]: 无效解: x=4.303, y=0.941, 距离=12.251 > 阈值0.300
+[INFO] [1754141309.591046861] [solver_node]: 无效解: x=4.303, y=6.990, 距离=14.226 > 阈值0.300
+[INFO] [1754141309.591974157] [solver_node]: 无效解: x=1.576, y=3.387, 距离=10.169 > 阈值0.300
+[WARN] [1754141309.592795757] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141309.602038122] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141309.610820487] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141309.623599779] [solver_node]: 当前位置: x=-7.874, y=-0.363, angle=-3.141
+[INFO] [1754141309.625062659] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141309.711983080] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141309.713797192] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.918 > 阈值0.300
+[INFO] [1754141309.714648296] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.742 > 阈值0.300
+[INFO] [1754141309.716166375] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.525 > 阈值0.300
+[INFO] [1754141309.716958855] [solver_node]: 无效解: x=1.577, y=6.992, 距离=11.976 > 阈值0.300
+[INFO] [1754141309.717764615] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.247 > 阈值0.300
+[INFO] [1754141309.718582790] [solver_node]: 无效解: x=4.304, y=6.992, 距离=14.226 > 阈值0.300
+[INFO] [1754141309.719928070] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.168 > 阈值0.300
+[WARN] [1754141309.720790886] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141309.728046499] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141309.729456771] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141309.739965728] [solver_node]: 当前位置: x=-7.872, y=-0.364, angle=-3.141
+[INFO] [1754141309.753576636] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141309.767664791] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141309.768708119] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.917 > 阈值0.300
+[INFO] [1754141309.769626807] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.741 > 阈值0.300
+[INFO] [1754141309.770472663] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.524 > 阈值0.300
+[INFO] [1754141309.771161078] [solver_node]: 无效解: x=1.577, y=6.992, 距离=11.975 > 阈值0.300
+[INFO] [1754141309.771873142] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.246 > 阈值0.300
+[INFO] [1754141309.785002738] [solver_node]: 无效解: x=4.304, y=6.992, 距离=14.225 > 阈值0.300
+[INFO] [1754141309.785907186] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.167 > 阈值0.300
+[WARN] [1754141309.787049170] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141309.787934097] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141309.806154540] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141309.811325034] [solver_node]: 当前位置: x=-7.885, y=-0.363, angle=-3.141
+[INFO] [1754141309.822051143] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141309.877210838] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141309.880260213] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.928 > 阈值0.300
+[INFO] [1754141309.882547348] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.752 > 阈值0.300
+[INFO] [1754141309.885518964] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.535 > 阈值0.300
+[INFO] [1754141309.888040627] [solver_node]: 无效解: x=1.577, y=6.993, 距离=11.985 > 阈值0.300
+[INFO] [1754141309.889858194] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.258 > 阈值0.300
+[INFO] [1754141309.909151404] [solver_node]: 无效解: x=4.304, y=6.993, 距离=14.236 > 阈值0.300
+[INFO] [1754141309.917068714] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.178 > 阈值0.300
+[WARN] [1754141309.919364361] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141309.921149769] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141309.930757478] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141309.950001408] [solver_node]: 当前位置: x=-7.882, y=-0.359, angle=-3.140
+[INFO] [1754141309.977972631] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141310.011775693] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141310.021210666] [solver_node]: 无效解: x=7.597, y=3.387, 距离=15.926 > 阈值0.300
+[INFO] [1754141310.022331082] [solver_node]: 无效解: x=4.303, y=3.387, 距离=12.749 > 阈值0.300
+[INFO] [1754141310.023423786] [solver_node]: 无效解: x=7.597, y=0.941, 距离=15.534 > 阈值0.300
+[INFO] [1754141310.024256553] [solver_node]: 无效解: x=1.576, y=6.990, 距离=11.978 > 阈值0.300
+[INFO] [1754141310.025330377] [solver_node]: 无效解: x=4.303, y=0.941, 距离=12.255 > 阈值0.300
+[INFO] [1754141310.026147401] [solver_node]: 无效解: x=4.303, y=6.990, 距离=14.231 > 阈值0.300
+[INFO] [1754141310.027089992] [solver_node]: 无效解: x=1.576, y=3.387, 距离=10.174 > 阈值0.300
+[WARN] [1754141310.028082856] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141310.029125416] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141310.032219719] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141310.046321539] [solver_node]: 当前位置: x=-7.874, y=-0.365, angle=-3.141
+[INFO] [1754141310.089994101] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141310.138972454] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141310.140149894] [solver_node]: 无效解: x=7.597, y=3.388, 距离=15.919 > 阈值0.300
+[INFO] [1754141310.141480230] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.742 > 阈值0.300
+[INFO] [1754141310.144571749] [solver_node]: 无效解: x=7.597, y=0.941, 距离=15.525 > 阈值0.300
+[INFO] [1754141310.146834436] [solver_node]: 无效解: x=1.577, y=6.991, 距离=11.976 > 阈值0.300
+[INFO] [1754141310.147873476] [solver_node]: 无效解: x=4.304, y=0.941, 距离=12.247 > 阈值0.300
+[INFO] [1754141310.148776099] [solver_node]: 无效解: x=4.304, y=6.991, 距离=14.227 > 阈值0.300
+[INFO] [1754141310.149802563] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.168 > 阈值0.300
+[WARN] [1754141310.150843747] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141310.151758082] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141310.152757954] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141310.172509756] [solver_node]: 当前位置: x=-7.875, y=-0.368, angle=-3.141
+[INFO] [1754141310.175335771] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141310.192710070] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141310.194849493] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.920 > 阈值0.300
+[INFO] [1754141310.196348341] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.744 > 阈值0.300
+[INFO] [1754141310.197660084] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.526 > 阈值0.300
+[INFO] [1754141310.198897588] [solver_node]: 无效解: x=1.577, y=6.993, 距离=11.980 > 阈值0.300
+[INFO] [1754141310.205074834] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.249 > 阈值0.300
+[INFO] [1754141310.207449873] [solver_node]: 无效解: x=4.304, y=6.993, 距离=14.230 > 阈值0.300
+[INFO] [1754141310.209249745] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.171 > 阈值0.300
+[WARN] [1754141310.212303568] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141310.214363407] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141310.216219151] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141310.227123147] [solver_node]: 当前位置: x=-7.874, y=-0.368, angle=-3.141
+[INFO] [1754141310.229600939] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141310.251723972] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141310.253999107] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.919 > 阈值0.300
+[INFO] [1754141310.255485251] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.743 > 阈值0.300
+[INFO] [1754141310.256909058] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.525 > 阈值0.300
+[INFO] [1754141310.259563714] [solver_node]: 无效解: x=1.577, y=6.992, 距离=11.979 > 阈值0.300
+[INFO] [1754141310.261185601] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.247 > 阈值0.300
+[INFO] [1754141310.262771681] [solver_node]: 无效解: x=4.304, y=6.992, 距离=14.229 > 阈值0.300
+[INFO] [1754141310.264201600] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.170 > 阈值0.300
+[WARN] [1754141310.291835608] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141310.292822519] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141310.310350418] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141310.313647057] [solver_node]: 当前位置: x=-7.872, y=-0.371, angle=-3.141
+[INFO] [1754141310.323731950] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141310.337432074] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141310.339623817] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.919 > 阈值0.300
+[INFO] [1754141310.341178409] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.743 > 阈值0.300
+[INFO] [1754141310.342522536] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.524 > 阈值0.300
+[INFO] [1754141310.352483813] [solver_node]: 无效解: x=1.577, y=6.993, 距离=11.980 > 阈值0.300
+[INFO] [1754141310.354232517] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.246 > 阈值0.300
+[INFO] [1754141310.355707588] [solver_node]: 无效解: x=4.304, y=6.993, 距离=14.230 > 阈值0.300
+[INFO] [1754141310.365427585] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.170 > 阈值0.300
+[WARN] [1754141310.367504865] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141310.369218848] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141310.426138831] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141310.453036679] [solver_node]: 当前位置: x=-7.878, y=-0.364, angle=-3.141
+[INFO] [1754141310.455420230] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141310.470510017] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141310.480537822] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.923 > 阈值0.300
+[INFO] [1754141310.482517310] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.746 > 阈值0.300
+[INFO] [1754141310.483959037] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.529 > 阈值0.300
+[INFO] [1754141310.486139229] [solver_node]: 无效解: x=1.577, y=6.992, 距离=11.979 > 阈值0.300
+[INFO] [1754141310.495758746] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.251 > 阈值0.300
+[INFO] [1754141310.497991609] [solver_node]: 无效解: x=4.304, y=6.992, 距离=14.230 > 阈值0.300
+[INFO] [1754141310.499707576] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.172 > 阈值0.300
+[WARN] [1754141310.502603992] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141310.504466551] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141310.511921973] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141310.520336658] [solver_node]: 当前位置: x=-7.876, y=-0.360, angle=-3.140
+[INFO] [1754141310.523107121] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141310.560278054] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141310.574425570] [solver_node]: 无效解: x=7.597, y=3.387, 距离=15.920 > 阈值0.300
+[INFO] [1754141310.575298017] [solver_node]: 无效解: x=4.303, y=3.387, 距离=12.743 > 阈值0.300
+[INFO] [1754141310.575976641] [solver_node]: 无效解: x=7.597, y=0.941, 距离=15.528 > 阈值0.300
+[INFO] [1754141310.576719969] [solver_node]: 无效解: x=1.576, y=6.990, 距离=11.974 > 阈值0.300
+[INFO] [1754141310.577447233] [solver_node]: 无效解: x=4.303, y=0.941, 距离=12.249 > 阈值0.300
+[INFO] [1754141310.583700831] [solver_node]: 无效解: x=4.303, y=6.990, 距离=14.225 > 阈值0.300
+[INFO] [1754141310.588584765] [solver_node]: 无效解: x=1.576, y=3.387, 距离=10.168 > 阈值0.300
+[WARN] [1754141310.590097181] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141310.594482748] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141310.604316601] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141310.612831286] [solver_node]: 当前位置: x=-7.878, y=-0.364, angle=-3.141
+[INFO] [1754141310.620263252] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141310.631600976] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141310.632546960] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.922 > 阈值0.300
+[INFO] [1754141310.639855246] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.746 > 阈值0.300
+[INFO] [1754141310.643627885] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.529 > 阈值0.300
+[INFO] [1754141310.645499916] [solver_node]: 无效解: x=1.577, y=6.992, 距离=11.980 > 阈值0.300
+[INFO] [1754141310.646446700] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.251 > 阈值0.300
+[INFO] [1754141310.647682763] [solver_node]: 无效解: x=4.304, y=6.992, 距离=14.230 > 阈值0.300
+[INFO] [1754141310.656622185] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.172 > 阈值0.300
+[WARN] [1754141310.658518984] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141310.659888072] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141310.722860085] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141310.752117644] [solver_node]: 当前位置: x=-7.876, y=-0.359, angle=-3.141
+[INFO] [1754141310.753396075] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141310.764230568] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141310.765261256] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.919 > 阈值0.300
+[INFO] [1754141310.765976679] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.743 > 阈值0.300
+[INFO] [1754141310.768753223] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.526 > 阈值0.300
+[INFO] [1754141310.769582854] [solver_node]: 无效解: x=1.577, y=6.993, 距离=11.976 > 阈值0.300
+[INFO] [1754141310.770379046] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.249 > 阈值0.300
+[INFO] [1754141310.771079238] [solver_node]: 无效解: x=4.304, y=6.993, 距离=14.226 > 阈值0.300
+[INFO] [1754141310.771763494] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.169 > 阈值0.300
+[WARN] [1754141310.780345667] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141310.781262595] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141310.813118265] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141310.825037109] [solver_node]: 当前位置: x=-7.878, y=-0.356, angle=-3.141
+[INFO] [1754141310.826442293] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141310.871984359] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141310.873990758] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.921 > 阈值0.300
+[INFO] [1754141310.874804390] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.744 > 阈值0.300
+[INFO] [1754141310.875988806] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.529 > 阈值0.300
+[INFO] [1754141310.876938950] [solver_node]: 无效解: x=1.577, y=6.992, 距离=11.975 > 阈值0.300
+[INFO] [1754141310.878173029] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.251 > 阈值0.300
+[INFO] [1754141310.886141699] [solver_node]: 无效解: x=4.304, y=6.992, 距离=14.226 > 阈值0.300
+[INFO] [1754141310.890985185] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.169 > 阈值0.300
+[WARN] [1754141310.915534842] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141310.917583193] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141310.920006808] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141310.927201494] [solver_node]: 当前位置: x=-7.872, y=-0.360, angle=-3.142
+[INFO] [1754141310.929157078] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141310.956086733] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141310.958119629] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.916 > 阈值0.300
+[INFO] [1754141310.960263884] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.740 > 阈值0.300
+[INFO] [1754141310.961714124] [solver_node]: 无效解: x=7.596, y=0.939, 距离=15.523 > 阈值0.300
+[INFO] [1754141310.963242091] [solver_node]: 无效解: x=1.578, y=6.993, 距离=11.974 > 阈值0.300
+[INFO] [1754141310.964795115] [solver_node]: 无效解: x=4.304, y=0.939, 距离=12.245 > 阈值0.300
+[INFO] [1754141310.966397290] [solver_node]: 无效解: x=4.304, y=6.993, 距离=14.224 > 阈值0.300
+[INFO] [1754141310.988974755] [solver_node]: 无效解: x=1.578, y=3.388, 距离=10.166 > 阈值0.300
+[WARN] [1754141310.989886019] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141310.990666979] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141311.008013630] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141311.041440499] [solver_node]: 当前位置: x=-7.871, y=-0.360, angle=-3.141
+[INFO] [1754141311.043944947] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141311.050517937] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141311.051301232] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.915 > 阈值0.300
+[INFO] [1754141311.065360076] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.738 > 阈值0.300
+[INFO] [1754141311.066238060] [solver_node]: 无效解: x=7.596, y=0.940, 距离=15.522 > 阈值0.300
+[INFO] [1754141311.066911436] [solver_node]: 无效解: x=1.577, y=6.993, 距离=11.972 > 阈值0.300
+[INFO] [1754141311.067585996] [solver_node]: 无效解: x=4.304, y=0.940, 距离=12.244 > 阈值0.300
+[INFO] [1754141311.068256971] [solver_node]: 无效解: x=4.304, y=6.993, 距离=14.223 > 阈值0.300
+[INFO] [1754141311.068931851] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.164 > 阈值0.300
+[WARN] [1754141311.069659851] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141311.070385707] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141311.106686528] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141311.118726940] [solver_node]: 当前位置: x=-7.876, y=-0.358, angle=-3.141
+[INFO] [1754141311.122376155] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141311.155796593] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141311.156837840] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.919 > 阈值0.300
+[INFO] [1754141311.157569712] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.743 > 阈值0.300
+[INFO] [1754141311.158261072] [solver_node]: 无效解: x=7.596, y=0.941, 距离=15.527 > 阈值0.300
+[INFO] [1754141311.158940496] [solver_node]: 无效解: x=1.577, y=6.992, 距离=11.974 > 阈值0.300
+[INFO] [1754141311.159599056] [solver_node]: 无效解: x=4.304, y=0.941, 距离=12.249 > 阈值0.300
+[INFO] [1754141311.161943567] [solver_node]: 无效解: x=4.304, y=6.992, 距离=14.225 > 阈值0.300
+[INFO] [1754141311.162760239] [solver_node]: 无效解: x=1.577, y=3.388, 距离=10.168 > 阈值0.300
+[WARN] [1754141311.163518062] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141311.164279502] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141311.206546145] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141311.220850077] [solver_node]: 当前位置: x=-7.876, y=-0.357, angle=-3.140
+[INFO] [1754141311.222950492] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141311.234771961] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141311.235656280] [solver_node]: 无效解: x=7.597, y=3.387, 距离=15.920 > 阈值0.300
+[INFO] [1754141311.236539992] [solver_node]: 无效解: x=4.303, y=3.387, 距离=12.742 > 阈值0.300
+[INFO] [1754141311.237241528] [solver_node]: 无效解: x=7.597, y=0.942, 距离=15.528 > 阈值0.300
+[INFO] [1754141311.237920056] [solver_node]: 无效解: x=1.576, y=6.990, 距离=11.972 > 阈值0.300
+[INFO] [1754141311.238683127] [solver_node]: 无效解: x=4.303, y=0.942, 距离=12.249 > 阈值0.300
+[INFO] [1754141311.243387766] [solver_node]: 无效解: x=4.303, y=6.990, 距离=14.224 > 阈值0.300
+[INFO] [1754141311.244218102] [solver_node]: 无效解: x=1.576, y=3.387, 距离=10.167 > 阈值0.300
+[WARN] [1754141311.245044821] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141311.245796949] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141311.314926336] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141311.320697630] [solver_node]: 当前位置: x=-7.878, y=-0.363, angle=3.141
+[INFO] [1754141311.321895102] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141311.337404921] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141311.338356729] [solver_node]: 无效解: x=7.595, y=3.388, 距离=15.921 > 阈值0.300
+[INFO] [1754141311.339040729] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.746 > 阈值0.300
+[INFO] [1754141311.339706681] [solver_node]: 无效解: x=7.595, y=0.939, 距离=15.528 > 阈值0.300
+[INFO] [1754141311.340374680] [solver_node]: 无效解: x=1.578, y=6.994, 距离=11.981 > 阈值0.300
+[INFO] [1754141311.341059064] [solver_node]: 无效解: x=4.304, y=0.939, 距离=12.251 > 阈值0.300
+[INFO] [1754141311.341709688] [solver_node]: 无效解: x=4.304, y=6.994, 距离=14.231 > 阈值0.300
+[INFO] [1754141311.342348888] [solver_node]: 无效解: x=1.578, y=3.388, 距离=10.172 > 阈值0.300
+[WARN] [1754141311.401090022] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141311.402123110] [solver_node]: 没有合适的解，不发布TF变换
+[INFO] [1754141311.404745317] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754141311.409264931] [solver_node]: 当前位置: x=-7.878, y=-0.359, angle=-3.142
+[INFO] [1754141311.410682179] [solver_node]: 激光距离数据: [ 0.405  4.267  3.863 33.789  0.2  ]
+[INFO] [1754141311.453300662] [solver_node]: 求解器返回 7 个解
+[INFO] [1754141311.455453845] [solver_node]: 无效解: x=7.596, y=3.388, 距离=15.921 > 阈值0.300
+[INFO] [1754141311.456229941] [solver_node]: 无效解: x=4.304, y=3.388, 距离=12.745 > 阈值0.300
+[INFO] [1754141311.508132869] [solver_node]: 无效解: x=7.596, y=0.939, 距离=15.528 > 阈值0.300
+[INFO] [1754141311.509545701] [solver_node]: 无效解: x=1.578, y=6.993, 距离=11.978 > 阈值0.300
+[INFO] [1754141311.510530853] [solver_node]: 无效解: x=4.304, y=0.939, 距离=12.251 > 阈值0.300
+[INFO] [1754141311.513171780] [solver_node]: 无效解: x=4.304, y=6.993, 距离=14.228 > 阈值0.300
+[INFO] [1754141311.515832899] [solver_node]: 无效解: x=1.578, y=3.388, 距离=10.171 > 阈值0.300
+[WARN] [1754141311.518561634] [solver_node]: 没有满足距离要求的解
+[WARN] [1754141311.519395106] [solver_node]: 没有合适的解，不发布TF变换
