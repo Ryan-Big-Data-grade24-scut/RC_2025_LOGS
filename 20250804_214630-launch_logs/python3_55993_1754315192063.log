@@ -1,0 +1,33 @@
+[INFO] [1754315192.738821230] [solver_node]: [PerpendicularDistanceLocalizer] 激光配置 详细内容: 列表长度: 5
+[INFO] [1754315192.741018269] [solver_node]: [PerpendicularDistanceLocalizer] 激光配置[0]: ((0.37685, 1.56608), 1.5708)
+[INFO] [1754315192.742281496] [solver_node]: [PerpendicularDistanceLocalizer] 激光配置[1]: ((0.37685, -1.56608), -1.5708)
+[INFO] [1754315192.743250317] [solver_node]: [PerpendicularDistanceLocalizer] 激光配置[2]: ((0.37645, 0.47385), 0.0)
+[INFO] [1754315192.744174849] [solver_node]: [PerpendicularDistanceLocalizer] 激光配置[3]: ((0.37771, 2.42478), 3.14159)
+[INFO] [1754315192.746754777] [solver_node]: [PerpendicularDistanceLocalizer] 激光配置[4]: ((0.37771, -2.42478), 3.14159)
+[INFO] [1754315192.747930290] [solver_node]: [PerpendicularDistanceLocalizer] 前束索引: [2], 后束索引: [3, 4]
+[INFO] [1754315192.748899495] [solver_node]: [PerpendicularDistanceLocalizer] 左束索引: [0], 右束索引: [1]
+[INFO] [1754315192.750446153] [solver_node]: [PerpendicularDistanceLocalizer] h_values: [0.37684581 0.37684581 0.33497201 0.28475693 0.28475693]
+[INFO] [1754315192.752943326] [solver_node]: [PerpendicularDistanceLocalizer] 垂直距离定位器已初始化，需要调用calibrate()方法进行标定
+[INFO] [1754315192.772699625] [solver_node]: 发布重定位TF: x=0.000, y=0.000
+[INFO] [1754315192.776209045] [solver_node]: SolverNode启动，进入初始化阶段...
+[INFO] [1754315193.928154577] [solver_node]: 发布重定位TF: x=0.000, y=0.000
+[INFO] [1754315194.937829872] [solver_node]: 发布重定位TF: x=0.000, y=0.000
+[INFO] [1754315195.957508070] [solver_node]: 发布重定位TF: x=0.000, y=0.000
+[INFO] [1754315196.961094177] [solver_node]: 发布重定位TF: x=0.000, y=0.000
+[INFO] [1754315197.970299349] [solver_node]: 发布重定位TF: x=0.000, y=0.000
+[INFO] [1754315199.030133262] [solver_node]: 发布重定位TF: x=0.000, y=0.000
+[INFO] [1754315199.997924229] [solver_node]: 发布重定位TF: x=0.000, y=0.000
+[INFO] [1754315201.027047015] [solver_node]: 发布重定位TF: x=0.000, y=0.000
+[INFO] [1754315202.016626260] [solver_node]: 发布重定位TF: x=0.000, y=0.000
+[INFO] [1754315203.032293139] [solver_node]: 发布重定位TF: x=0.000, y=0.000
+[INFO] [1754315204.042188087] [solver_node]: 发布重定位TF: x=0.000, y=0.000
+[INFO] [1754315205.054338346] [solver_node]: 发布重定位TF: x=0.000, y=0.000
+[INFO] [1754315206.057554877] [solver_node]: 发布重定位TF: x=0.000, y=0.000
+[INFO] [1754315207.075359787] [solver_node]: 发布重定位TF: x=0.000, y=0.000
+[INFO] [1754315208.086365798] [solver_node]: 发布重定位TF: x=0.000, y=0.000
+[INFO] [1754315209.099427630] [solver_node]: 发布重定位TF: x=0.000, y=0.000
+[INFO] [1754315209.726308647] [solver_node]: 位置更新线程已停止
+[INFO] [1754315209.740925827] [solver_node]: TF发布线程已停止
+[INFO] [1754315209.820836543] [solver_node]: 重定位计算线程已停止
+[INFO] [1754315209.822572645] [solver_node]: 求解线程已停止
+[INFO] [1754315209.823724253] [solver_node]: SolverNode资源清理完成

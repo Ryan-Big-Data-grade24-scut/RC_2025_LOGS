@@ -1,0 +1,1198 @@
+[INFO] [1754324698.957541136] [solver_node]: [PerpendicularDistanceLocalizer] 激光配置 详细内容: 列表长度: 5
+[INFO] [1754324698.960301348] [solver_node]: [PerpendicularDistanceLocalizer] 激光配置[0]: ((0.37685, 1.56608), 1.5708)
+[INFO] [1754324698.962440972] [solver_node]: [PerpendicularDistanceLocalizer] 激光配置[1]: ((0.37685, -1.56608), -1.5708)
+[INFO] [1754324698.963505504] [solver_node]: [PerpendicularDistanceLocalizer] 激光配置[2]: ((0.37645, 0.47385), 0.0)
+[INFO] [1754324698.964361168] [solver_node]: [PerpendicularDistanceLocalizer] 激光配置[3]: ((0.37771, 2.42478), 3.14159)
+[INFO] [1754324698.965170176] [solver_node]: [PerpendicularDistanceLocalizer] 激光配置[4]: ((0.37771, -2.42478), 3.14159)
+[INFO] [1754324698.966285588] [solver_node]: [PerpendicularDistanceLocalizer] 前束索引: [2], 后束索引: [3, 4]
+[INFO] [1754324698.967095684] [solver_node]: [PerpendicularDistanceLocalizer] 左束索引: [0], 右束索引: [1]
+[INFO] [1754324698.971633497] [solver_node]: [PerpendicularDistanceLocalizer] h_values: [0.37684581 0.37684581 0.33497201 0.28475693 0.28475693]
+[INFO] [1754324698.972473833] [solver_node]: [PerpendicularDistanceLocalizer] 垂直距离定位器已初始化，需要调用calibrate()方法进行标定
+[INFO] [1754324699.035530599] [solver_node]: 发布重定位TF: x=0.000, y=0.000
+[INFO] [1754324699.040317729] [solver_node]: SolverNode启动，进入初始化阶段...
+[INFO] [1754324699.062730277] [solver_node]: 标定数据收集进度: 1/100
+[INFO] [1754324699.117333700] [solver_node]: 标定数据收集进度: 2/100
+[INFO] [1754324699.181519223] [solver_node]: 标定数据收集进度: 3/100
+[INFO] [1754324699.209622854] [solver_node]: 标定数据收集进度: 4/100
+[INFO] [1754324699.260023095] [solver_node]: 标定数据收集进度: 5/100
+[INFO] [1754324699.309877246] [solver_node]: 标定数据收集进度: 6/100
+[INFO] [1754324699.364562015] [solver_node]: 标定数据收集进度: 7/100
+[INFO] [1754324699.424054042] [solver_node]: 标定数据收集进度: 8/100
+[INFO] [1754324699.471945788] [solver_node]: 标定数据收集进度: 9/100
+[INFO] [1754324699.509389690] [solver_node]: 标定数据收集进度: 10/100
+[INFO] [1754324699.564212349] [solver_node]: 标定数据收集进度: 11/100
+[INFO] [1754324699.609903030] [solver_node]: 标定数据收集进度: 12/100
+[INFO] [1754324699.666381912] [solver_node]: 标定数据收集进度: 13/100
+[INFO] [1754324699.709258780] [solver_node]: 标定数据收集进度: 14/100
+[INFO] [1754324699.759821616] [solver_node]: 标定数据收集进度: 15/100
+[INFO] [1754324699.809360657] [solver_node]: 标定数据收集进度: 16/100
+[INFO] [1754324699.870369288] [solver_node]: 标定数据收集进度: 17/100
+[INFO] [1754324699.910582522] [solver_node]: 标定数据收集进度: 18/100
+[INFO] [1754324699.965733924] [solver_node]: 标定数据收集进度: 19/100
+[INFO] [1754324700.009995842] [solver_node]: 标定数据收集进度: 20/100
+[INFO] [1754324700.022084484] [solver_node]: 发布重定位TF: x=0.000, y=0.000
+[INFO] [1754324700.059380191] [solver_node]: 标定数据收集进度: 21/100
+[INFO] [1754324700.109496618] [solver_node]: 标定数据收集进度: 22/100
+[INFO] [1754324700.159683031] [solver_node]: 标定数据收集进度: 23/100
+[INFO] [1754324700.210302187] [solver_node]: 标定数据收集进度: 24/100
+[INFO] [1754324700.259983342] [solver_node]: 标定数据收集进度: 25/100
+[INFO] [1754324700.309804180] [solver_node]: 标定数据收集进度: 26/100
+[INFO] [1754324700.359832317] [solver_node]: 标定数据收集进度: 27/100
+[INFO] [1754324700.409700932] [solver_node]: 标定数据收集进度: 28/100
+[INFO] [1754324700.460576189] [solver_node]: 标定数据收集进度: 29/100
+[INFO] [1754324700.509932090] [solver_node]: 标定数据收集进度: 30/100
+[INFO] [1754324700.560484301] [solver_node]: 标定数据收集进度: 31/100
+[INFO] [1754324700.611203523] [solver_node]: 标定数据收集进度: 32/100
+[INFO] [1754324700.660219866] [solver_node]: 标定数据收集进度: 33/100
+[INFO] [1754324700.709770330] [solver_node]: 标定数据收集进度: 34/100
+[INFO] [1754324700.759486366] [solver_node]: 标定数据收集进度: 35/100
+[INFO] [1754324700.810040113] [solver_node]: 标定数据收集进度: 36/100
+[INFO] [1754324700.863959396] [solver_node]: 标定数据收集进度: 37/100
+[INFO] [1754324700.910586733] [solver_node]: 标定数据收集进度: 38/100
+[INFO] [1754324700.962604604] [solver_node]: 标定数据收集进度: 39/100
+[INFO] [1754324701.009841617] [solver_node]: 标定数据收集进度: 40/100
+[INFO] [1754324701.039503229] [solver_node]: 发布重定位TF: x=0.000, y=0.000
+[INFO] [1754324701.062417258] [solver_node]: 标定数据收集进度: 41/100
+[INFO] [1754324701.109576253] [solver_node]: 标定数据收集进度: 42/100
+[INFO] [1754324701.161224453] [solver_node]: 标定数据收集进度: 43/100
+[INFO] [1754324701.209273449] [solver_node]: 标定数据收集进度: 44/100
+[INFO] [1754324701.262708626] [solver_node]: 标定数据收集进度: 45/100
+[INFO] [1754324701.309204249] [solver_node]: 标定数据收集进度: 46/100
+[INFO] [1754324701.361857523] [solver_node]: 标定数据收集进度: 47/100
+[INFO] [1754324701.409648018] [solver_node]: 标定数据收集进度: 48/100
+[INFO] [1754324701.462572369] [solver_node]: 标定数据收集进度: 49/100
+[INFO] [1754324701.509904936] [solver_node]: 标定数据收集进度: 50/100
+[INFO] [1754324701.559530794] [solver_node]: 标定数据收集进度: 51/100
+[INFO] [1754324701.609256973] [solver_node]: 标定数据收集进度: 52/100
+[INFO] [1754324701.660531726] [solver_node]: 标定数据收集进度: 53/100
+[INFO] [1754324701.709983244] [solver_node]: 标定数据收集进度: 54/100
+[INFO] [1754324701.759875250] [solver_node]: 标定数据收集进度: 55/100
+[INFO] [1754324701.809139533] [solver_node]: 标定数据收集进度: 56/100
+[INFO] [1754324701.861505954] [solver_node]: 标定数据收集进度: 57/100
+[INFO] [1754324701.909805323] [solver_node]: 标定数据收集进度: 58/100
+[INFO] [1754324701.959707985] [solver_node]: 标定数据收集进度: 59/100
+[INFO] [1754324702.010744429] [solver_node]: 标定数据收集进度: 60/100
+[INFO] [1754324702.061209822] [solver_node]: 发布重定位TF: x=0.000, y=0.000
+[INFO] [1754324702.061456707] [solver_node]: 标定数据收集进度: 61/100
+[INFO] [1754324702.111042979] [solver_node]: 标定数据收集进度: 62/100
+[INFO] [1754324702.159583696] [solver_node]: 标定数据收集进度: 63/100
+[INFO] [1754324702.210176196] [solver_node]: 标定数据收集进度: 64/100
+[INFO] [1754324702.259533536] [solver_node]: 标定数据收集进度: 65/100
+[INFO] [1754324702.309763724] [solver_node]: 标定数据收集进度: 66/100
+[INFO] [1754324702.388670098] [solver_node]: 标定数据收集进度: 67/100
+[INFO] [1754324702.409680091] [solver_node]: 标定数据收集进度: 68/100
+[INFO] [1754324702.460145036] [solver_node]: 标定数据收集进度: 69/100
+[INFO] [1754324702.514967279] [solver_node]: 标定数据收集进度: 70/100
+[INFO] [1754324702.577614276] [solver_node]: 标定数据收集进度: 71/100
+[INFO] [1754324702.609542745] [solver_node]: 标定数据收集进度: 72/100
+[INFO] [1754324702.660486259] [solver_node]: 标定数据收集进度: 73/100
+[INFO] [1754324702.709485897] [solver_node]: 标定数据收集进度: 74/100
+[INFO] [1754324702.759776214] [solver_node]: 标定数据收集进度: 75/100
+[INFO] [1754324702.809246421] [solver_node]: 标定数据收集进度: 76/100
+[INFO] [1754324702.859671557] [solver_node]: 标定数据收集进度: 77/100
+[INFO] [1754324702.910088597] [solver_node]: 标定数据收集进度: 78/100
+[INFO] [1754324702.978826652] [solver_node]: 标定数据收集进度: 79/100
+[INFO] [1754324703.010254536] [solver_node]: 标定数据收集进度: 80/100
+[INFO] [1754324703.059310047] [solver_node]: 发布重定位TF: x=0.000, y=0.000
+[INFO] [1754324703.067478423] [solver_node]: 标定数据收集进度: 81/100
+[INFO] [1754324703.111650898] [solver_node]: 标定数据收集进度: 82/100
+[INFO] [1754324703.161180657] [solver_node]: 标定数据收集进度: 83/100
+[INFO] [1754324703.210499244] [solver_node]: 标定数据收集进度: 84/100
+[INFO] [1754324703.263174022] [solver_node]: 标定数据收集进度: 85/100
+[INFO] [1754324703.309561579] [solver_node]: 标定数据收集进度: 86/100
+[INFO] [1754324703.368341143] [solver_node]: 标定数据收集进度: 87/100
+[INFO] [1754324703.409366231] [solver_node]: 标定数据收集进度: 88/100
+[INFO] [1754324703.461611593] [solver_node]: 标定数据收集进度: 89/100
+[INFO] [1754324703.509907633] [solver_node]: 标定数据收集进度: 90/100
+[INFO] [1754324703.569871155] [solver_node]: 标定数据收集进度: 91/100
+[INFO] [1754324703.610832562] [solver_node]: 标定数据收集进度: 92/100
+[INFO] [1754324703.659535201] [solver_node]: 标定数据收集进度: 93/100
+[INFO] [1754324703.713213294] [solver_node]: 标定数据收集进度: 94/100
+[INFO] [1754324703.763105108] [solver_node]: 标定数据收集进度: 95/100
+[INFO] [1754324703.810985908] [solver_node]: 标定数据收集进度: 96/100
+[INFO] [1754324703.869100052] [solver_node]: 标定数据收集进度: 97/100
+[INFO] [1754324703.909558857] [solver_node]: 标定数据收集进度: 98/100
+[INFO] [1754324703.966025194] [solver_node]: 标定数据收集进度: 99/100
+[INFO] [1754324704.010386504] [solver_node]: 标定数据收集进度: 100/100
+[INFO] [1754324704.011730305] [solver_node]: 标定数据收集完成，开始标定...
+[INFO] [1754324704.019424849] [solver_node]: 开始标定，收集到的数据shape: (100, 5)
+[INFO] [1754324704.024212043] [solver_node]: [PerpendicularDistanceLocalizer] 开始标定，扫描数据shape: (100, 5)
+[INFO] [1754324704.030960489] [solver_node]: [PerpendicularDistanceLocalizer] 平均测距值 详细内容: 形状: (5,), 类型: float64
+[INFO] [1754324704.031887194] [solver_node]: [PerpendicularDistanceLocalizer] 平均测距值[0]: 1.1690000295639038
+[INFO] [1754324704.033023536] [solver_node]: [PerpendicularDistanceLocalizer] 平均测距值[1]: 6.103000164031982
+[INFO] [1754324704.033766590] [solver_node]: [PerpendicularDistanceLocalizer] 平均测距值[2]: 7.490930147171021
+[INFO] [1754324704.034531340] [solver_node]: [PerpendicularDistanceLocalizer] 平均测距值[3]: 1.8878200078010559
+[INFO] [1754324704.035268858] [solver_node]: [PerpendicularDistanceLocalizer] 平均测距值[4]: 1.964660017490387
+[INFO] [1754324704.036067433] [solver_node]: [PerpendicularDistanceLocalizer] h_values 详细内容: 形状: (5,), 类型: float64
+[INFO] [1754324704.036788214] [solver_node]: [PerpendicularDistanceLocalizer] h_values[0]: 0.37684580873135426
+[INFO] [1754324704.037490595] [solver_node]: [PerpendicularDistanceLocalizer] h_values[1]: 0.37684580873135426
+[INFO] [1754324704.038174960] [solver_node]: [PerpendicularDistanceLocalizer] h_values[2]: 0.33497201345916283
+[INFO] [1754324704.038933534] [solver_node]: [PerpendicularDistanceLocalizer] h_values[3]: 0.2847569265233284
+[INFO] [1754324704.039665388] [solver_node]: [PerpendicularDistanceLocalizer] h_values[4]: 0.2847569265233284
+[INFO] [1754324704.040817089] [solver_node]: [PerpendicularDistanceLocalizer] 标定完成: m=10.037, n=8.026
+[INFO] [1754324704.041527855] [solver_node]: [PerpendicularDistanceLocalizer] 前后左右平均距离: 前=7.826, 后=2.211, 左=1.546, 右=6.480
+[INFO] [1754324704.042224604] [solver_node]: [PerpendicularDistanceLocalizer] 计算的初始位姿: x=2.211, y=6.480, phi=1.571
+[INFO] [1754324704.042939465] [solver_node]: 标定完成: m=9.960, n=7.970
+[INFO] [1754324704.043681367] [solver_node]: 标定得到的初始位姿: x=2.211, y=6.480, phi=1.571
+[INFO] [1754324704.044994384] [solver_node]: LIO位置: x=0.121, y=-1.019
+[INFO] [1754324704.045733469] [solver_node]: Started偏移: x=2.090, y=7.499
+[INFO] [1754324704.046766641] [solver_node]: 初始化阶段完成，进入运行阶段
+[INFO] [1754324704.076873060] [solver_node]: 发布重定位TF: x=0.000, y=0.000
+[INFO] [1754324705.005930411] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.000, current_y=0.000, current_angle=0.000
+[INFO] [1754324705.041707208] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.121, current_y=-1.015, current_angle=0.129
+[INFO] [1754324705.139411627] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.124, current_y=-1.014, current_angle=0.129
+[INFO] [1754324705.140092664] [solver_node]: 发布重定位TF: x=-0.041, y=-0.033
+[INFO] [1754324705.214724812] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.111, current_y=-1.023, current_angle=0.130
+[INFO] [1754324705.246051798] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.116, current_y=-1.014, current_angle=0.129
+[INFO] [1754324705.296415300] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.127, current_y=-1.021, current_angle=0.128
+[INFO] [1754324705.334161574] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.121, current_y=-1.018, current_angle=0.130
+[INFO] [1754324705.417404827] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.121, current_y=-1.018, current_angle=0.130
+[INFO] [1754324705.455981036] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.116, current_y=-1.014, current_angle=0.129
+[INFO] [1754324705.494238712] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.121, current_y=-1.023, current_angle=0.129
+[INFO] [1754324705.535560189] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.121, current_y=-1.023, current_angle=0.129
+[INFO] [1754324705.622587096] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.122, current_y=-1.019, current_angle=0.129
+[INFO] [1754324705.661660787] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.122, current_y=-1.011, current_angle=0.129
+[INFO] [1754324705.697494641] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.113, current_y=-1.023, current_angle=0.130
+[INFO] [1754324705.725320282] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.113, current_y=-1.023, current_angle=0.130
+[INFO] [1754324705.772179878] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.116, current_y=-1.011, current_angle=0.130
+[INFO] [1754324705.818952689] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.117, current_y=-1.017, current_angle=0.129
+[INFO] [1754324705.872729983] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.114, current_y=-1.028, current_angle=0.130
+[INFO] [1754324705.962158088] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.114, current_y=-1.028, current_angle=0.130
+[INFO] [1754324705.976242671] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.126, current_y=-1.018, current_angle=0.129
+[INFO] [1754324706.032488747] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.131, current_y=-1.007, current_angle=0.129
+[INFO] [1754324706.065559829] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.131, current_y=-1.007, current_angle=0.129
+[INFO] [1754324706.124609157] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.124, current_y=-1.014, current_angle=0.129
+[INFO] [1754324706.126131746] [solver_node]: 发布重定位TF: x=-0.043, y=-0.029
+[INFO] [1754324706.177845512] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.114, current_y=-1.020, current_angle=0.130
+[INFO] [1754324706.216499323] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.121, current_y=-1.014, current_angle=0.130
+[INFO] [1754324706.282386123] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.112, current_y=-1.018, current_angle=0.130
+[INFO] [1754324706.319448640] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.112, current_y=-1.018, current_angle=0.130
+[INFO] [1754324706.369062720] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.119, current_y=-1.014, current_angle=0.129
+[INFO] [1754324706.431573264] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.119, current_y=-1.019, current_angle=0.131
+[INFO] [1754324706.465978163] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.119, current_y=-1.019, current_angle=0.131
+[INFO] [1754324706.520622513] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.121, current_y=-1.016, current_angle=0.128
+[INFO] [1754324706.565262772] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.122, current_y=-1.011, current_angle=0.129
+[INFO] [1754324706.621121288] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.122, current_y=-1.011, current_angle=0.129
+[INFO] [1754324706.662347563] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.121, current_y=-1.009, current_angle=0.129
+[INFO] [1754324706.744700303] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.114, current_y=-1.013, current_angle=0.129
+[INFO] [1754324706.770643796] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.115, current_y=-1.018, current_angle=0.129
+[INFO] [1754324706.840949686] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.115, current_y=-1.018, current_angle=0.129
+[INFO] [1754324706.869703408] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.125, current_y=-1.018, current_angle=0.129
+[INFO] [1754324706.915414054] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.123, current_y=-1.012, current_angle=0.128
+[INFO] [1754324706.980167777] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.119, current_y=-1.016, current_angle=0.130
+[INFO] [1754324707.024626400] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.119, current_y=-1.016, current_angle=0.130
+[INFO] [1754324707.086040636] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.126, current_y=-1.014, current_angle=0.129
+[INFO] [1754324707.098296353] [solver_node]: 发布重定位TF: x=-0.036, y=-0.031
+[INFO] [1754324707.131857236] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.123, current_y=-1.020, current_angle=0.129
+[INFO] [1754324707.166743968] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.124, current_y=-1.018, current_angle=0.128
+[INFO] [1754324707.215210602] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.124, current_y=-1.018, current_angle=0.128
+[INFO] [1754324707.273944180] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.128, current_y=-1.018, current_angle=0.130
+[INFO] [1754324707.331376933] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.125, current_y=-1.017, current_angle=0.128
+[INFO] [1754324707.369917397] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.115, current_y=-1.014, current_angle=0.129
+[INFO] [1754324707.413620262] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.115, current_y=-1.014, current_angle=0.129
+[INFO] [1754324707.462720348] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.119, current_y=-1.012, current_angle=0.130
+[INFO] [1754324707.517560541] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.128, current_y=-1.017, current_angle=0.129
+[INFO] [1754324707.573121099] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.119, current_y=-1.018, current_angle=0.129
+[INFO] [1754324707.628806268] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.119, current_y=-1.018, current_angle=0.129
+[INFO] [1754324707.673879718] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.130, current_y=-1.014, current_angle=0.129
+[INFO] [1754324707.720888245] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.130, current_y=-1.017, current_angle=0.128
+[INFO] [1754324707.767065428] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.130, current_y=-1.017, current_angle=0.128
+[INFO] [1754324707.817359200] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.128, current_y=-1.011, current_angle=0.129
+[INFO] [1754324707.863227321] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.117, current_y=-1.014, current_angle=0.128
+[INFO] [1754324707.918567140] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.112, current_y=-1.016, current_angle=0.129
+[INFO] [1754324707.986579451] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.111, current_y=-1.017, current_angle=0.130
+[INFO] [1754324708.019458785] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.111, current_y=-1.017, current_angle=0.130
+[INFO] [1754324708.102317005] [solver_node]: 求解成功: x'=0.084, y=-1.047, current_x=0.125, current_y=-1.017, current_angle=0.127
+[INFO] [1754324708.112458891] [solver_node]: 发布重定位TF: x=-0.028, y=-0.030
+[INFO] [1754324708.156054681] [solver_node]: 求解成功: x'=0.084, y=-1.047, current_x=0.125, current_y=-1.017, current_angle=0.127
+[INFO] [1754324708.168787911] [solver_node]: 求解成功: x'=0.084, y=-1.047, current_x=0.119, current_y=-1.022, current_angle=0.128
+[INFO] [1754324708.220716145] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.122, current_y=-1.018, current_angle=0.128
+[INFO] [1754324708.267836801] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.129, current_y=-1.012, current_angle=0.129
+[INFO] [1754324708.312602278] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.129, current_y=-1.012, current_angle=0.129
+[INFO] [1754324708.391239811] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.124, current_y=-1.021, current_angle=0.128
+[INFO] [1754324708.413132764] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.121, current_y=-1.019, current_angle=0.129
+[INFO] [1754324708.468411557] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.121, current_y=-1.019, current_angle=0.129
+[INFO] [1754324708.537334412] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.120, current_y=-1.016, current_angle=0.130
+[INFO] [1754324708.571424617] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.116, current_y=-1.019, current_angle=0.128
+[INFO] [1754324708.620756163] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.128, current_y=-1.014, current_angle=0.128
+[INFO] [1754324708.672187268] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.128, current_y=-1.014, current_angle=0.128
+[INFO] [1754324708.717676246] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.129, current_y=-1.009, current_angle=0.129
+[INFO] [1754324708.775218985] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.119, current_y=-1.016, current_angle=0.128
+[INFO] [1754324708.822170582] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.122, current_y=-1.018, current_angle=0.128
+[INFO] [1754324708.874319492] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.122, current_y=-1.018, current_angle=0.128
+[INFO] [1754324708.919287116] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.126, current_y=-1.012, current_angle=0.129
+[INFO] [1754324708.964241908] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.015, current_angle=0.128
+[INFO] [1754324709.040078941] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.015, current_angle=0.128
+[INFO] [1754324709.071443847] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.129, current_y=-1.031, current_angle=0.128
+[INFO] [1754324709.122390302] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.131, current_y=-1.012, current_angle=0.129
+[INFO] [1754324709.126540172] [solver_node]: 发布重定位TF: x=-0.046, y=-0.016
+[INFO] [1754324709.201935820] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.131, current_y=-1.015, current_angle=0.128
+[INFO] [1754324709.213894091] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.131, current_y=-1.015, current_angle=0.128
+[INFO] [1754324709.273313825] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.117, current_y=-1.032, current_angle=0.130
+[INFO] [1754324709.321708969] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.102, current_y=-1.023, current_angle=0.128
+[INFO] [1754324709.377442714] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.116, current_y=-1.011, current_angle=0.128
+[INFO] [1754324709.435297106] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.116, current_y=-1.011, current_angle=0.128
+[INFO] [1754324709.472321766] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.119, current_y=-1.027, current_angle=0.128
+[INFO] [1754324709.543648954] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.119, current_y=-1.026, current_angle=0.130
+[INFO] [1754324709.566002075] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.118, current_y=-1.017, current_angle=0.129
+[INFO] [1754324709.626348034] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.118, current_y=-1.017, current_angle=0.129
+[INFO] [1754324709.681686316] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.113, current_y=-1.024, current_angle=0.129
+[INFO] [1754324709.746552423] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.118, current_y=-1.014, current_angle=0.129
+[INFO] [1754324709.809851621] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.118, current_y=-1.014, current_angle=0.129
+[INFO] [1754324709.838565566] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.119, current_y=-1.020, current_angle=0.129
+[INFO] [1754324709.873367720] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.126, current_y=-1.026, current_angle=0.129
+[INFO] [1754324709.932664475] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.111, current_y=-1.018, current_angle=0.130
+[INFO] [1754324710.000289610] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.117, current_y=-1.017, current_angle=0.129
+[INFO] [1754324710.012308426] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.117, current_y=-1.017, current_angle=0.129
+[INFO] [1754324710.092488963] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.109, current_y=-1.017, current_angle=0.130
+[INFO] [1754324710.119365145] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.109, current_y=-1.017, current_angle=0.130
+[INFO] [1754324710.155814946] [solver_node]: 发布重定位TF: x=-0.026, y=-0.031
+[INFO] [1754324710.165976479] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.114, current_y=-1.020, current_angle=0.129
+[INFO] [1754324710.233376554] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.113, current_y=-1.016, current_angle=0.130
+[INFO] [1754324710.275556509] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.125, current_y=-1.035, current_angle=0.130
+[INFO] [1754324710.323318457] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.125, current_y=-1.035, current_angle=0.130
+[INFO] [1754324710.371028212] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.127, current_y=-1.017, current_angle=0.130
+[INFO] [1754324710.419274008] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.114, current_y=-1.014, current_angle=0.129
+[INFO] [1754324710.497858131] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.114, current_y=-1.014, current_angle=0.129
+[INFO] [1754324710.581414155] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.119, current_y=-1.015, current_angle=0.128
+[INFO] [1754324710.603998353] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.113, current_y=-1.024, current_angle=0.129
+[INFO] [1754324710.631477394] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.129, current_y=-1.015, current_angle=0.129
+[INFO] [1754324710.666878215] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.129, current_y=-1.015, current_angle=0.129
+[INFO] [1754324710.725435820] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.124, current_y=-1.018, current_angle=0.129
+[INFO] [1754324710.772777344] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.118, current_y=-1.029, current_angle=0.129
+[INFO] [1754324710.822953577] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.118, current_y=-1.029, current_angle=0.129
+[INFO] [1754324710.870842055] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.121, current_y=-1.019, current_angle=0.130
+[INFO] [1754324710.920361635] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.127, current_y=-1.015, current_angle=0.129
+[INFO] [1754324710.965949687] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.124, current_y=-1.028, current_angle=0.128
+[INFO] [1754324711.023100929] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.124, current_y=-1.028, current_angle=0.128
+[INFO] [1754324711.076217665] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.119, current_y=-1.018, current_angle=0.129
+[INFO] [1754324711.122316349] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.124, current_y=-1.014, current_angle=0.130
+[INFO] [1754324711.175021013] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.124, current_y=-1.014, current_angle=0.130
+[INFO] [1754324711.188055976] [solver_node]: 发布重定位TF: x=-0.041, y=-0.033
+[INFO] [1754324711.225112444] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.121, current_y=-1.017, current_angle=0.129
+[INFO] [1754324711.337101254] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.118, current_y=-1.015, current_angle=0.129
+[INFO] [1754324711.374227802] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.117, current_y=-1.019, current_angle=0.130
+[INFO] [1754324711.393420801] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.117, current_y=-1.019, current_angle=0.130
+[INFO] [1754324711.420448025] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.125, current_y=-1.014, current_angle=0.129
+[INFO] [1754324711.467448326] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.125, current_y=-1.014, current_angle=0.129
+[INFO] [1754324711.516829536] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.130, current_y=-1.001, current_angle=0.129
+[INFO] [1754324711.586588662] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.139, current_y=-1.008, current_angle=0.129
+[INFO] [1754324711.621525890] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.139, current_y=-1.008, current_angle=0.129
+[INFO] [1754324711.668912246] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.127, current_y=-1.013, current_angle=0.129
+[INFO] [1754324711.713564279] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.119, current_y=-1.010, current_angle=0.129
+[INFO] [1754324711.789839527] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.113, current_y=-1.011, current_angle=0.129
+[INFO] [1754324711.814118988] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.113, current_y=-1.011, current_angle=0.129
+[INFO] [1754324711.879966937] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.123, current_y=-1.010, current_angle=0.128
+[INFO] [1754324711.924505944] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.114, current_y=-1.019, current_angle=0.129
+[INFO] [1754324711.972952320] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.121, current_y=-1.021, current_angle=0.131
+[INFO] [1754324712.072643461] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.121, current_y=-1.021, current_angle=0.131
+[INFO] [1754324712.120076569] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.116, current_y=-1.019, current_angle=0.129
+[INFO] [1754324712.150006568] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.109, current_y=-1.020, current_angle=0.129
+[INFO] [1754324712.194208832] [solver_node]: 发布重定位TF: x=-0.026, y=-0.027
+[INFO] [1754324712.208690639] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.109, current_y=-1.020, current_angle=0.129
+[INFO] [1754324712.223742759] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.133, current_y=-1.020, current_angle=0.128
+[INFO] [1754324712.267891551] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.117, current_y=-1.020, current_angle=0.128
+[INFO] [1754324712.330171657] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.117, current_y=-1.020, current_angle=0.128
+[INFO] [1754324712.381653834] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.123, current_y=-1.013, current_angle=0.129
+[INFO] [1754324712.442711997] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.116, current_y=-1.013, current_angle=0.130
+[INFO] [1754324712.489078590] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.113, current_y=-1.013, current_angle=0.130
+[INFO] [1754324712.518309439] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.113, current_y=-1.013, current_angle=0.130
+[INFO] [1754324712.595744516] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.114, current_y=-1.012, current_angle=0.130
+[INFO] [1754324712.629687069] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.121, current_y=-1.017, current_angle=0.129
+[INFO] [1754324712.674756870] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.122, current_y=-1.014, current_angle=0.129
+[INFO] [1754324712.724363459] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.122, current_y=-1.014, current_angle=0.129
+[INFO] [1754324712.767935376] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.129, current_y=-1.017, current_angle=0.128
+[INFO] [1754324712.835986310] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.125, current_y=-1.020, current_angle=0.129
+[INFO] [1754324712.880969453] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.128, current_y=-1.013, current_angle=0.129
+[INFO] [1754324712.954611659] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.128, current_y=-1.013, current_angle=0.129
+[INFO] [1754324712.992865205] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.110, current_y=-1.017, current_angle=0.129
+[INFO] [1754324713.025643224] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.116, current_y=-1.017, current_angle=0.129
+[INFO] [1754324713.085585398] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.116, current_y=-1.017, current_angle=0.129
+[INFO] [1754324713.130831682] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.112, current_y=-1.024, current_angle=0.129
+[INFO] [1754324713.202069234] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.121, current_y=-1.015, current_angle=0.129
+[INFO] [1754324713.217792632] [solver_node]: 发布重定位TF: x=-0.038, y=-0.032
+[INFO] [1754324713.233683744] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.120, current_y=-1.013, current_angle=0.127
+[INFO] [1754324713.266607302] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.120, current_y=-1.013, current_angle=0.127
+[INFO] [1754324713.310456568] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.130, current_y=-1.011, current_angle=0.129
+[INFO] [1754324713.368235117] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.128, current_y=-1.015, current_angle=0.128
+[INFO] [1754324713.413081842] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.128, current_y=-1.015, current_angle=0.128
+[INFO] [1754324713.470150490] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.114, current_y=-1.011, current_angle=0.129
+[INFO] [1754324713.513438593] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.115, current_y=-1.012, current_angle=0.127
+[INFO] [1754324713.567701077] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.122, current_y=-1.017, current_angle=0.128
+[INFO] [1754324713.612908032] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.122, current_y=-1.017, current_angle=0.128
+[INFO] [1754324713.662972454] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.124, current_y=-1.019, current_angle=0.127
+[INFO] [1754324713.721274949] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.121, current_y=-1.010, current_angle=0.129
+[INFO] [1754324713.771384652] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.121, current_y=-1.010, current_angle=0.129
+[INFO] [1754324713.832861222] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.110, current_y=-1.020, current_angle=0.129
+[INFO] [1754324713.867789490] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.126, current_y=-1.022, current_angle=0.128
+[INFO] [1754324713.938113873] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.135, current_y=-1.015, current_angle=0.127
+[INFO] [1754324713.960520819] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.135, current_y=-1.015, current_angle=0.127
+[INFO] [1754324714.013945240] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.131, current_y=-1.012, current_angle=0.128
+[INFO] [1754324714.070014733] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.127, current_y=-1.016, current_angle=0.129
+[INFO] [1754324714.112404771] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.126, current_y=-1.017, current_angle=0.127
+[INFO] [1754324714.166922716] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.126, current_y=-1.017, current_angle=0.127
+[INFO] [1754324714.208049786] [solver_node]: 发布重定位TF: x=-0.045, y=-0.031
+[INFO] [1754324714.212996951] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.128, current_y=-1.016, current_angle=0.128
+[INFO] [1754324714.267375084] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.125, current_y=-1.025, current_angle=0.129
+[INFO] [1754324714.318956174] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.115, current_y=-1.015, current_angle=0.129
+[INFO] [1754324714.373548136] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.115, current_y=-1.015, current_angle=0.129
+[INFO] [1754324714.443333949] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.100, current_y=-1.021, current_angle=0.129
+[INFO] [1754324714.469402051] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.126, current_y=-1.015, current_angle=0.129
+[INFO] [1754324714.518596472] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.126, current_y=-1.015, current_angle=0.129
+[INFO] [1754324714.565360768] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.127, current_y=-1.017, current_angle=0.129
+[INFO] [1754324714.624086791] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.118, current_y=-1.020, current_angle=0.129
+[INFO] [1754324714.681331314] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.116, current_y=-1.018, current_angle=0.129
+[INFO] [1754324714.733369756] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.116, current_y=-1.018, current_angle=0.129
+[INFO] [1754324714.766859405] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.113, current_y=-1.021, current_angle=0.128
+[INFO] [1754324714.829878435] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.127, current_y=-1.017, current_angle=0.129
+[INFO] [1754324714.873948537] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.119, current_y=-1.024, current_angle=0.129
+[INFO] [1754324714.924452615] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.119, current_y=-1.024, current_angle=0.129
+[INFO] [1754324714.972127327] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.125, current_y=-1.015, current_angle=0.129
+[INFO] [1754324715.020274593] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.113, current_y=-1.010, current_angle=0.128
+[INFO] [1754324715.060721043] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.113, current_y=-1.010, current_angle=0.128
+[INFO] [1754324715.113075171] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.116, current_y=-1.011, current_angle=0.130
+[INFO] [1754324715.167019664] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.111, current_y=-1.028, current_angle=0.129
+[INFO] [1754324715.214908652] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.117, current_y=-1.018, current_angle=0.129
+[INFO] [1754324715.230057063] [solver_node]: 发布重定位TF: x=-0.033, y=-0.036
+[INFO] [1754324715.269463173] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.117, current_y=-1.018, current_angle=0.129
+[INFO] [1754324715.318702363] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.122, current_y=-1.016, current_angle=0.129
+[INFO] [1754324715.369071462] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.116, current_y=-1.017, current_angle=0.129
+[INFO] [1754324715.429420106] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.116, current_y=-1.014, current_angle=0.129
+[INFO] [1754324715.484129318] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.116, current_y=-1.014, current_angle=0.129
+[INFO] [1754324715.555744861] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.127, current_y=-1.011, current_angle=0.129
+[INFO] [1754324715.604958994] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.127, current_y=-1.025, current_angle=0.129
+[INFO] [1754324715.630754099] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.118, current_y=-1.013, current_angle=0.129
+[INFO] [1754324715.710640515] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.118, current_y=-1.013, current_angle=0.129
+[INFO] [1754324715.754887740] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.124, current_y=-1.020, current_angle=0.128
+[INFO] [1754324715.768830720] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.125, current_y=-1.015, current_angle=0.129
+[INFO] [1754324715.814392625] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.125, current_y=-1.015, current_angle=0.129
+[INFO] [1754324715.863477380] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.122, current_y=-1.021, current_angle=0.129
+[INFO] [1754324715.944326055] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.121, current_y=-1.017, current_angle=0.129
+[INFO] [1754324715.995561858] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.111, current_y=-1.016, current_angle=0.130
+[INFO] [1754324716.018240296] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.111, current_y=-1.016, current_angle=0.130
+[INFO] [1754324716.061387116] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.116, current_y=-1.015, current_angle=0.130
+[INFO] [1754324716.138764974] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.119, current_y=-1.017, current_angle=0.129
+[INFO] [1754324716.165214778] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.122, current_y=-1.009, current_angle=0.129
+[INFO] [1754324716.213407708] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.122, current_y=-1.009, current_angle=0.129
+[INFO] [1754324716.226347053] [solver_node]: 发布重定位TF: x=-0.037, y=-0.030
+[INFO] [1754324716.269652436] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.123, current_y=-1.015, current_angle=0.129
+[INFO] [1754324716.323645410] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.126, current_y=-1.007, current_angle=0.129
+[INFO] [1754324716.371712738] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.111, current_y=-1.018, current_angle=0.128
+[INFO] [1754324716.417235954] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.111, current_y=-1.018, current_angle=0.128
+[INFO] [1754324716.475531216] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.109, current_y=-1.025, current_angle=0.129
+[INFO] [1754324716.522532379] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.127, current_y=-1.011, current_angle=0.129
+[INFO] [1754324716.568233327] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.127, current_y=-1.011, current_angle=0.129
+[INFO] [1754324716.611059693] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.126, current_y=-1.017, current_angle=0.128
+[INFO] [1754324716.665909035] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.125, current_y=-1.015, current_angle=0.129
+[INFO] [1754324716.721684858] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.020, current_angle=0.129
+[INFO] [1754324716.785936455] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.020, current_angle=0.129
+[INFO] [1754324716.823811304] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.114, current_y=-1.014, current_angle=0.130
+[INFO] [1754324716.876729186] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.116, current_y=-1.015, current_angle=0.128
+[INFO] [1754324716.914474370] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.116, current_y=-1.015, current_angle=0.128
+[INFO] [1754324716.977014287] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.116, current_y=-1.019, current_angle=0.128
+[INFO] [1754324717.020139282] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.137, current_y=-1.018, current_angle=0.128
+[INFO] [1754324717.072592323] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.126, current_y=-1.015, current_angle=0.128
+[INFO] [1754324717.140606230] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.126, current_y=-1.015, current_angle=0.128
+[INFO] [1754324717.165286113] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.120, current_y=-1.009, current_angle=0.129
+[INFO] [1754324717.224678676] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.124, current_y=-1.015, current_angle=0.129
+[INFO] [1754324717.243443473] [solver_node]: 发布重定位TF: x=-0.037, y=-0.038
+[INFO] [1754324717.270471976] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.124, current_y=-1.015, current_angle=0.129
+[INFO] [1754324717.314708512] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.122, current_y=-1.017, current_angle=0.129
+[INFO] [1754324717.366242752] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.123, current_y=-1.013, current_angle=0.129
+[INFO] [1754324717.418141799] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.123, current_y=-1.013, current_angle=0.129
+[INFO] [1754324717.480488752] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.122, current_y=-1.018, current_angle=0.129
+[INFO] [1754324717.521959828] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.116, current_y=-1.013, current_angle=0.129
+[INFO] [1754324717.569752430] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.126, current_y=-1.013, current_angle=0.129
+[INFO] [1754324717.624191524] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.137, current_y=-1.014, current_angle=0.129
+[INFO] [1754324717.689883308] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.137, current_y=-1.014, current_angle=0.129
+[INFO] [1754324717.732162463] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.129, current_y=-1.016, current_angle=0.130
+[INFO] [1754324717.769808348] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.016, current_angle=0.131
+[INFO] [1754324717.820538445] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.016, current_angle=0.131
+[INFO] [1754324717.869939269] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.114, current_y=-1.013, current_angle=0.128
+[INFO] [1754324717.917892642] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.117, current_y=-1.016, current_angle=0.127
+[INFO] [1754324717.963175854] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.117, current_y=-1.016, current_angle=0.127
+[INFO] [1754324718.036955596] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.114, current_y=-1.020, current_angle=0.130
+[INFO] [1754324718.086755499] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.123, current_y=-1.018, current_angle=0.129
+[INFO] [1754324718.125433851] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.118, current_y=-1.017, current_angle=0.128
+[INFO] [1754324718.163623298] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.118, current_y=-1.017, current_angle=0.128
+[INFO] [1754324718.224364941] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.116, current_y=-1.018, current_angle=0.129
+[INFO] [1754324718.260758130] [solver_node]: 发布重定位TF: x=-0.033, y=-0.029
+[INFO] [1754324718.287917004] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.118, current_y=-1.018, current_angle=0.129
+[INFO] [1754324718.315731346] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.118, current_y=-1.018, current_angle=0.129
+[INFO] [1754324718.364049749] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.124, current_y=-1.027, current_angle=0.128
+[INFO] [1754324718.427489587] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.115, current_y=-1.017, current_angle=0.128
+[INFO] [1754324718.462660705] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.114, current_y=-1.013, current_angle=0.130
+[INFO] [1754324718.524580770] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.114, current_y=-1.013, current_angle=0.130
+[INFO] [1754324718.569692842] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.122, current_y=-1.013, current_angle=0.129
+[INFO] [1754324718.618426389] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.127, current_y=-1.019, current_angle=0.128
+[INFO] [1754324718.663699552] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.110, current_y=-1.015, current_angle=0.129
+[INFO] [1754324718.723319798] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.110, current_y=-1.015, current_angle=0.129
+[INFO] [1754324718.770340194] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.115, current_y=-1.019, current_angle=0.129
+[INFO] [1754324718.816732418] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.127, current_y=-1.017, current_angle=0.128
+[INFO] [1754324718.887427430] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.114, current_y=-1.018, current_angle=0.130
+[INFO] [1754324718.916030170] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.114, current_y=-1.018, current_angle=0.130
+[INFO] [1754324718.965712983] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.125, current_y=-1.017, current_angle=0.129
+[INFO] [1754324719.026180029] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.128, current_y=-1.020, current_angle=0.128
+[INFO] [1754324719.070480182] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.128, current_y=-1.020, current_angle=0.128
+[INFO] [1754324719.113545079] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.125, current_y=-1.020, current_angle=0.129
+[INFO] [1754324719.180768058] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.133, current_y=-1.014, current_angle=0.127
+[INFO] [1754324719.215154074] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.133, current_y=-1.014, current_angle=0.127
+[INFO] [1754324719.277664358] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.112, current_y=-1.016, current_angle=0.130
+[INFO] [1754324719.278498389] [solver_node]: 发布重定位TF: x=-0.052, y=-0.033
+[INFO] [1754324719.311882658] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.118, current_y=-1.017, current_angle=0.129
+[INFO] [1754324719.417032488] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.118, current_y=-1.017, current_angle=0.129
+[INFO] [1754324719.448135114] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.123, current_y=-1.018, current_angle=0.129
+[INFO] [1754324719.472773077] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.125, current_y=-1.018, current_angle=0.128
+[INFO] [1754324719.516617125] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.123, current_y=-1.008, current_angle=0.129
+[INFO] [1754324719.572324082] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.123, current_y=-1.008, current_angle=0.129
+[INFO] [1754324719.656595986] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.119, current_y=-1.011, current_angle=0.128
+[INFO] [1754324719.698455293] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.023, current_angle=0.128
+[INFO] [1754324719.717232699] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.023, current_angle=0.128
+[INFO] [1754324719.775997889] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.115, current_y=-1.019, current_angle=0.128
+[INFO] [1754324719.829805002] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.119, current_y=-1.017, current_angle=0.129
+[INFO] [1754324719.870415102] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.127, current_y=-1.015, current_angle=0.129
+[INFO] [1754324719.924272744] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.127, current_y=-1.015, current_angle=0.129
+[INFO] [1754324719.991049827] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.114, current_y=-1.018, current_angle=0.130
+[INFO] [1754324720.013728105] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.112, current_y=-1.022, current_angle=0.130
+[INFO] [1754324720.087522438] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.021, current_angle=0.129
+[INFO] [1754324720.126183830] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.021, current_angle=0.129
+[INFO] [1754324720.167019533] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.107, current_y=-1.024, current_angle=0.130
+[INFO] [1754324720.221589157] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.119, current_y=-1.017, current_angle=0.129
+[INFO] [1754324720.302542407] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.126, current_y=-1.018, current_angle=0.129
+[INFO] [1754324720.303746589] [solver_node]: 发布重定位TF: x=-0.037, y=-0.030
+[INFO] [1754324720.326073469] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.126, current_y=-1.018, current_angle=0.129
+[INFO] [1754324720.361117161] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.019, current_angle=0.129
+[INFO] [1754324720.421645935] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.124, current_y=-1.011, current_angle=0.129
+[INFO] [1754324720.475246452] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.124, current_y=-1.011, current_angle=0.129
+[INFO] [1754324720.519700847] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.133, current_y=-1.012, current_angle=0.128
+[INFO] [1754324720.572316258] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.118, current_y=-1.020, current_angle=0.129
+[INFO] [1754324720.628426166] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.122, current_y=-1.021, current_angle=0.129
+[INFO] [1754324720.684335878] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.122, current_y=-1.021, current_angle=0.129
+[INFO] [1754324720.720871086] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.125, current_y=-1.022, current_angle=0.128
+[INFO] [1754324720.766778788] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.142, current_y=-1.020, current_angle=0.129
+[INFO] [1754324720.812046095] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.142, current_y=-1.020, current_angle=0.129
+[INFO] [1754324720.865404303] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.112, current_y=-1.010, current_angle=0.129
+[INFO] [1754324720.940685512] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.122, current_y=-1.014, current_angle=0.127
+[INFO] [1754324721.003793214] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.122, current_y=-1.014, current_angle=0.127
+[INFO] [1754324721.016469322] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.122, current_y=-1.016, current_angle=0.129
+[INFO] [1754324721.073985816] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.122, current_y=-1.016, current_angle=0.129
+[INFO] [1754324721.167673830] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.111, current_y=-1.022, current_angle=0.129
+[INFO] [1754324721.183019940] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.118, current_y=-1.021, current_angle=0.128
+[INFO] [1754324721.274664716] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.109, current_y=-1.023, current_angle=0.129
+[INFO] [1754324721.301883847] [solver_node]: 发布重定位TF: x=-0.027, y=-0.024
+[INFO] [1754324721.362246697] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.124, current_y=-1.011, current_angle=0.129
+[INFO] [1754324721.374978230] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.120, current_y=-1.028, current_angle=0.131
+[INFO] [1754324721.458135489] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.126, current_y=-1.015, current_angle=0.128
+[INFO] [1754324721.483446008] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.126, current_y=-1.015, current_angle=0.128
+[INFO] [1754324721.516870885] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.115, current_y=-1.012, current_angle=0.128
+[INFO] [1754324721.562909598] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.115, current_y=-1.012, current_angle=0.128
+[INFO] [1754324721.616954667] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.126, current_y=-1.016, current_angle=0.128
+[INFO] [1754324721.662679805] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.136, current_y=-1.012, current_angle=0.129
+[INFO] [1754324721.727320816] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.136, current_y=-1.012, current_angle=0.129
+[INFO] [1754324721.772434455] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.120, current_y=-1.011, current_angle=0.130
+[INFO] [1754324721.822277878] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.119, current_y=-1.017, current_angle=0.128
+[INFO] [1754324721.875977309] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.114, current_y=-1.019, current_angle=0.129
+[INFO] [1754324721.941177593] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.114, current_y=-1.019, current_angle=0.129
+[INFO] [1754324721.992096012] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.119, current_y=-1.013, current_angle=0.130
+[INFO] [1754324722.015492960] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.117, current_y=-1.014, current_angle=0.129
+[INFO] [1754324722.070856965] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.114, current_y=-1.014, current_angle=0.128
+[INFO] [1754324722.113355835] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.114, current_y=-1.014, current_angle=0.128
+[INFO] [1754324722.179573130] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.118, current_y=-1.015, current_angle=0.130
+[INFO] [1754324722.232463842] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.127, current_y=-1.018, current_angle=0.128
+[INFO] [1754324722.268469279] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.127, current_y=-1.018, current_angle=0.128
+[INFO] [1754324722.297088691] [solver_node]: 发布重定位TF: x=-0.034, y=-0.026
+[INFO] [1754324722.330341630] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.116, current_y=-1.021, current_angle=0.129
+[INFO] [1754324722.369275090] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.122, current_y=-1.013, current_angle=0.130
+[INFO] [1754324722.416345181] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.126, current_y=-1.012, current_angle=0.127
+[INFO] [1754324722.478719877] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.126, current_y=-1.012, current_angle=0.127
+[INFO] [1754324722.513669486] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.124, current_y=-1.008, current_angle=0.129
+[INFO] [1754324722.576317275] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.125, current_y=-1.014, current_angle=0.130
+[INFO] [1754324722.633620709] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.118, current_y=-1.014, current_angle=0.129
+[INFO] [1754324722.681049399] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.118, current_y=-1.014, current_angle=0.129
+[INFO] [1754324722.736751970] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.123, current_y=-1.022, current_angle=0.128
+[INFO] [1754324722.792195145] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.129, current_y=-1.004, current_angle=0.129
+[INFO] [1754324722.823941752] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.129, current_y=-1.004, current_angle=0.129
+[INFO] [1754324722.866810293] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.137, current_y=-1.011, current_angle=0.128
+[INFO] [1754324722.926868433] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.130, current_y=-1.013, current_angle=0.128
+[INFO] [1754324722.964428300] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.013, current_angle=0.130
+[INFO] [1754324723.042605465] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.013, current_angle=0.130
+[INFO] [1754324723.065401441] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.115, current_y=-1.015, current_angle=0.127
+[INFO] [1754324723.127741832] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.111, current_y=-1.015, current_angle=0.129
+[INFO] [1754324723.189652006] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.111, current_y=-1.015, current_angle=0.129
+[INFO] [1754324723.239645032] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.014, current_angle=0.127
+[INFO] [1754324723.265883215] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.129, current_y=-1.011, current_angle=0.128
+[INFO] [1754324723.296479592] [solver_node]: 发布重定位TF: x=-0.047, y=-0.036
+[INFO] [1754324723.345431958] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.018, current_angle=0.128
+[INFO] [1754324723.382973456] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.018, current_angle=0.128
+[INFO] [1754324723.424311184] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.118, current_y=-1.015, current_angle=0.129
+[INFO] [1754324723.468575239] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.120, current_y=-1.011, current_angle=0.129
+[INFO] [1754324723.527551439] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.120, current_y=-1.011, current_angle=0.129
+[INFO] [1754324723.573538566] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.118, current_y=-1.018, current_angle=0.129
+[INFO] [1754324723.632688817] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.119, current_y=-1.024, current_angle=0.128
+[INFO] [1754324723.669050933] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.126, current_y=-1.014, current_angle=0.130
+[INFO] [1754324723.731794372] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.126, current_y=-1.014, current_angle=0.130
+[INFO] [1754324723.775932056] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.119, current_y=-1.024, current_angle=0.129
+[INFO] [1754324723.832997917] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.117, current_y=-1.017, current_angle=0.128
+[INFO] [1754324723.883710059] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.119, current_y=-1.011, current_angle=0.129
+[INFO] [1754324723.923812565] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.119, current_y=-1.011, current_angle=0.129
+[INFO] [1754324723.963846077] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.020, current_angle=0.129
+[INFO] [1754324724.020121651] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.124, current_y=-1.021, current_angle=0.128
+[INFO] [1754324724.068280594] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.124, current_y=-1.021, current_angle=0.128
+[INFO] [1754324724.116281550] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.117, current_y=-1.019, current_angle=0.127
+[INFO] [1754324724.170016276] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.124, current_y=-1.014, current_angle=0.128
+[INFO] [1754324724.219130213] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.124, current_y=-1.014, current_angle=0.128
+[INFO] [1754324724.267688203] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.123, current_y=-1.026, current_angle=0.129
+[INFO] [1754324724.313178232] [solver_node]: 发布重定位TF: x=-0.044, y=-0.032
+[INFO] [1754324724.328378643] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.127, current_y=-1.015, current_angle=0.130
+[INFO] [1754324724.404640316] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.117, current_y=-1.017, current_angle=0.129
+[INFO] [1754324724.416382390] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.117, current_y=-1.017, current_angle=0.129
+[INFO] [1754324724.461784514] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.119, current_y=-1.025, current_angle=0.127
+[INFO] [1754324724.515928496] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.109, current_y=-1.026, current_angle=0.129
+[INFO] [1754324724.584353927] [solver_node]: 求解成功: x'=0.081, y=-1.047, current_x=0.109, current_y=-1.014, current_angle=0.130
+[INFO] [1754324724.627283877] [solver_node]: 求解成功: x'=0.081, y=-1.047, current_x=0.109, current_y=-1.014, current_angle=0.130
+[INFO] [1754324724.681206575] [solver_node]: 求解成功: x'=0.081, y=-1.047, current_x=0.105, current_y=-1.021, current_angle=0.130
+[INFO] [1754324724.718781193] [solver_node]: 求解成功: x'=0.081, y=-1.047, current_x=0.121, current_y=-1.021, current_angle=0.129
+[INFO] [1754324724.772098600] [solver_node]: 求解成功: x'=0.081, y=-1.047, current_x=0.121, current_y=-1.021, current_angle=0.129
+[INFO] [1754324724.826170101] [solver_node]: 求解成功: x'=0.081, y=-1.047, current_x=0.130, current_y=-1.015, current_angle=0.130
+[INFO] [1754324724.867723481] [solver_node]: 求解成功: x'=0.081, y=-1.047, current_x=0.120, current_y=-1.020, current_angle=0.129
+[INFO] [1754324724.913120516] [solver_node]: 求解成功: x'=0.081, y=-1.047, current_x=0.115, current_y=-1.023, current_angle=0.129
+[INFO] [1754324724.972271535] [solver_node]: 求解成功: x'=0.081, y=-1.047, current_x=0.118, current_y=-1.012, current_angle=0.128
+[INFO] [1754324725.017063984] [solver_node]: 求解成功: x'=0.081, y=-1.047, current_x=0.118, current_y=-1.012, current_angle=0.128
+[INFO] [1754324725.065786265] [solver_node]: 求解成功: x'=0.081, y=-1.047, current_x=0.114, current_y=-1.025, current_angle=0.129
+[INFO] [1754324725.121631910] [solver_node]: 求解成功: x'=0.081, y=-1.047, current_x=0.108, current_y=-1.032, current_angle=0.129
+[INFO] [1754324725.165483957] [solver_node]: 求解成功: x'=0.081, y=-1.047, current_x=0.108, current_y=-1.032, current_angle=0.129
+[INFO] [1754324725.230128230] [solver_node]: 求解成功: x'=0.081, y=-1.047, current_x=0.120, current_y=-1.025, current_angle=0.128
+[INFO] [1754324725.263352911] [solver_node]: 求解成功: x'=0.081, y=-1.047, current_x=0.128, current_y=-1.025, current_angle=0.129
+[INFO] [1754324725.318184265] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.128, current_y=-1.025, current_angle=0.129
+[INFO] [1754324725.325623987] [solver_node]: 发布重定位TF: x=-0.045, y=-0.022
+[INFO] [1754324725.403596636] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.114, current_y=-1.026, current_angle=0.129
+[INFO] [1754324725.421521161] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.119, current_y=-1.027, current_angle=0.129
+[INFO] [1754324725.486575937] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.114, current_y=-1.018, current_angle=0.130
+[INFO] [1754324725.529734723] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.114, current_y=-1.018, current_angle=0.130
+[INFO] [1754324725.585228266] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.118, current_y=-1.018, current_angle=0.129
+[INFO] [1754324725.619229857] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.115, current_y=-1.015, current_angle=0.130
+[INFO] [1754324725.664175012] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.115, current_y=-1.015, current_angle=0.130
+[INFO] [1754324725.719079264] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.116, current_y=-1.031, current_angle=0.128
+[INFO] [1754324725.766067945] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.126, current_y=-1.027, current_angle=0.129
+[INFO] [1754324725.836126814] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.126, current_y=-1.027, current_angle=0.129
+[INFO] [1754324725.880919935] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.114, current_y=-1.010, current_angle=0.130
+[INFO] [1754324725.916101484] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.126, current_y=-1.013, current_angle=0.128
+[INFO] [1754324725.963020244] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.125, current_y=-1.026, current_angle=0.128
+[INFO] [1754324726.017778637] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.125, current_y=-1.026, current_angle=0.128
+[INFO] [1754324726.098913583] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.122, current_y=-1.015, current_angle=0.130
+[INFO] [1754324726.116057006] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.118, current_y=-1.014, current_angle=0.129
+[INFO] [1754324726.170093913] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.119, current_y=-1.014, current_angle=0.129
+[INFO] [1754324726.214748918] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.119, current_y=-1.014, current_angle=0.129
+[INFO] [1754324726.290462292] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.113, current_y=-1.019, current_angle=0.131
+[INFO] [1754324726.313622818] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.120, current_y=-1.029, current_angle=0.129
+[INFO] [1754324726.333379185] [solver_node]: 发布重定位TF: x=-0.037, y=-0.033
+[INFO] [1754324726.372093600] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.120, current_y=-1.029, current_angle=0.129
+[INFO] [1754324726.422488808] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.022, current_angle=0.129
+[INFO] [1754324726.467624782] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.118, current_y=-1.020, current_angle=0.129
+[INFO] [1754324726.511923909] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.113, current_y=-1.011, current_angle=0.129
+[INFO] [1754324726.565842894] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.113, current_y=-1.011, current_angle=0.129
+[INFO] [1754324726.610754480] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.115, current_y=-1.025, current_angle=0.128
+[INFO] [1754324726.668146266] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.124, current_y=-1.017, current_angle=0.129
+[INFO] [1754324726.712099690] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.112, current_y=-1.017, current_angle=0.129
+[INFO] [1754324726.765360391] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.112, current_y=-1.017, current_angle=0.129
+[INFO] [1754324726.819641943] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.098, current_y=-1.019, current_angle=0.130
+[INFO] [1754324726.866194008] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.104, current_y=-1.016, current_angle=0.129
+[INFO] [1754324726.920824462] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.112, current_y=-1.023, current_angle=0.130
+[INFO] [1754324726.967866008] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.112, current_y=-1.023, current_angle=0.130
+[INFO] [1754324727.010516976] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.112, current_y=-1.018, current_angle=0.129
+[INFO] [1754324727.068843211] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.125, current_y=-1.020, current_angle=0.130
+[INFO] [1754324727.127674895] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.125, current_y=-1.020, current_angle=0.130
+[INFO] [1754324727.180239167] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.128, current_y=-1.019, current_angle=0.129
+[INFO] [1754324727.213934192] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.128, current_y=-1.016, current_angle=0.128
+[INFO] [1754324727.262955166] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.021, current_angle=0.129
+[INFO] [1754324727.316256412] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.021, current_angle=0.129
+[INFO] [1754324727.370935283] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.123, current_y=-1.017, current_angle=0.129
+[INFO] [1754324727.383451291] [solver_node]: 发布重定位TF: x=-0.046, y=-0.032
+[INFO] [1754324727.415167560] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.013, current_angle=0.129
+[INFO] [1754324727.468898221] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.128, current_y=-1.012, current_angle=0.129
+[INFO] [1754324727.513018144] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.128, current_y=-1.012, current_angle=0.129
+[INFO] [1754324727.567043083] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.131, current_y=-1.015, current_angle=0.129
+[INFO] [1754324727.612240978] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.018, current_angle=0.127
+[INFO] [1754324727.700625851] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.109, current_y=-1.013, current_angle=0.129
+[INFO] [1754324727.733681505] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.109, current_y=-1.013, current_angle=0.129
+[INFO] [1754324727.766995723] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.127, current_y=-1.011, current_angle=0.127
+[INFO] [1754324727.831058384] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.116, current_y=-1.014, current_angle=0.128
+[INFO] [1754324727.904495332] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.116, current_y=-1.014, current_angle=0.128
+[INFO] [1754324727.918812814] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.117, current_y=-1.018, current_angle=0.128
+[INFO] [1754324727.964481053] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.124, current_y=-1.015, current_angle=0.129
+[INFO] [1754324728.041337648] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.122, current_y=-1.015, current_angle=0.128
+[INFO] [1754324728.080089695] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.122, current_y=-1.015, current_angle=0.128
+[INFO] [1754324728.117387187] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.119, current_y=-1.015, current_angle=0.128
+[INFO] [1754324728.205813980] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.123, current_y=-1.014, current_angle=0.128
+[INFO] [1754324728.220713873] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.123, current_y=-1.014, current_angle=0.128
+[INFO] [1754324728.292282145] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.126, current_y=-1.012, current_angle=0.128
+[INFO] [1754324728.333327067] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.130, current_y=-1.015, current_angle=0.128
+[INFO] [1754324728.377712146] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.113, current_y=-1.017, current_angle=0.130
+[INFO] [1754324728.378360254] [solver_node]: 发布重定位TF: x=-0.044, y=-0.036
+[INFO] [1754324728.411540870] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.113, current_y=-1.017, current_angle=0.130
+[INFO] [1754324728.467729465] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.125, current_y=-1.018, current_angle=0.129
+[INFO] [1754324728.511749930] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.125, current_y=-1.022, current_angle=0.129
+[INFO] [1754324728.561767850] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.125, current_y=-1.022, current_angle=0.129
+[INFO] [1754324728.632493259] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.111, current_y=-1.018, current_angle=0.129
+[INFO] [1754324728.671799908] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.111, current_y=-1.021, current_angle=0.129
+[INFO] [1754324728.722368655] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.118, current_y=-1.012, current_angle=0.128
+[INFO] [1754324728.773454883] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.118, current_y=-1.012, current_angle=0.128
+[INFO] [1754324728.817429971] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.118, current_y=-1.015, current_angle=0.129
+[INFO] [1754324728.882787920] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.122, current_y=-1.015, current_angle=0.128
+[INFO] [1754324728.936425843] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.123, current_y=-1.014, current_angle=0.129
+[INFO] [1754324728.969898656] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.123, current_y=-1.014, current_angle=0.129
+[INFO] [1754324729.052826307] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.131, current_y=-1.021, current_angle=0.129
+[INFO] [1754324729.123810728] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.131, current_y=-1.021, current_angle=0.129
+[INFO] [1754324729.137316323] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.125, current_y=-1.025, current_angle=0.129
+[INFO] [1754324729.189438250] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.125, current_y=-1.025, current_angle=0.129
+[INFO] [1754324729.223718438] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.102, current_y=-1.021, current_angle=0.130
+[INFO] [1754324729.278849797] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.118, current_y=-1.015, current_angle=0.129
+[INFO] [1754324729.314459161] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.118, current_y=-1.015, current_angle=0.129
+[INFO] [1754324729.373954377] [solver_node]: 发布重定位TF: x=-0.036, y=-0.033
+[INFO] [1754324729.374573140] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.106, current_y=-1.026, current_angle=0.129
+[INFO] [1754324729.436831512] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.112, current_y=-1.021, current_angle=0.129
+[INFO] [1754324729.491629872] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.128, current_y=-1.017, current_angle=0.129
+[INFO] [1754324729.532508775] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.128, current_y=-1.017, current_angle=0.129
+[INFO] [1754324729.566419356] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.129, current_y=-1.023, current_angle=0.128
+[INFO] [1754324729.632254241] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.127, current_y=-1.022, current_angle=0.129
+[INFO] [1754324729.665313926] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.118, current_y=-1.017, current_angle=0.129
+[INFO] [1754324729.721320054] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.118, current_y=-1.017, current_angle=0.129
+[INFO] [1754324729.785376570] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.116, current_y=-1.017, current_angle=0.130
+[INFO] [1754324729.826685016] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.111, current_y=-1.021, current_angle=0.130
+[INFO] [1754324729.867498222] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.017, current_angle=0.130
+[INFO] [1754324729.912037032] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.017, current_angle=0.130
+[INFO] [1754324729.979115940] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.111, current_y=-1.018, current_angle=0.129
+[INFO] [1754324730.015795213] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.109, current_y=-1.019, current_angle=0.129
+[INFO] [1754324730.099106550] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.131, current_y=-1.017, current_angle=0.130
+[INFO] [1754324730.150673074] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.131, current_y=-1.017, current_angle=0.130
+[INFO] [1754324730.187819939] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.128, current_y=-1.021, current_angle=0.128
+[INFO] [1754324730.214189036] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.114, current_y=-1.011, current_angle=0.129
+[INFO] [1754324730.264071498] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.114, current_y=-1.011, current_angle=0.129
+[INFO] [1754324730.320766885] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.118, current_y=-1.021, current_angle=0.129
+[INFO] [1754324730.366825307] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.122, current_y=-1.017, current_angle=0.128
+[INFO] [1754324730.386809070] [solver_node]: 发布重定位TF: x=-0.036, y=-0.026
+[INFO] [1754324730.410797675] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.122, current_y=-1.017, current_angle=0.128
+[INFO] [1754324730.476371275] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.121, current_y=-1.013, current_angle=0.129
+[INFO] [1754324730.519670446] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.119, current_y=-1.013, current_angle=0.130
+[INFO] [1754324730.581799758] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.119, current_y=-1.012, current_angle=0.130
+[INFO] [1754324730.681602921] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.119, current_y=-1.012, current_angle=0.130
+[INFO] [1754324730.697137002] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.117, current_y=-1.012, current_angle=0.130
+[INFO] [1754324730.721940086] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.130, current_y=-1.012, current_angle=0.129
+[INFO] [1754324730.766168298] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.130, current_y=-1.012, current_angle=0.129
+[INFO] [1754324730.833604845] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.133, current_y=-1.021, current_angle=0.129
+[INFO] [1754324730.869224705] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.117, current_y=-1.013, current_angle=0.129
+[INFO] [1754324730.926797997] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.111, current_y=-1.016, current_angle=0.129
+[INFO] [1754324730.971415177] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.111, current_y=-1.016, current_angle=0.129
+[INFO] [1754324731.026950382] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.121, current_y=-1.014, current_angle=0.129
+[INFO] [1754324731.078343335] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.117, current_y=-1.020, current_angle=0.129
+[INFO] [1754324731.134830175] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.117, current_y=-1.020, current_angle=0.129
+[INFO] [1754324731.164592551] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.122, current_y=-1.012, current_angle=0.129
+[INFO] [1754324731.229161204] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.120, current_y=-1.014, current_angle=0.130
+[INFO] [1754324731.262261113] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.123, current_y=-1.020, current_angle=0.128
+[INFO] [1754324731.330592236] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.123, current_y=-1.020, current_angle=0.128
+[INFO] [1754324731.403423763] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.123, current_y=-1.017, current_angle=0.129
+[INFO] [1754324731.424240341] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.115, current_y=-1.021, current_angle=0.129
+[INFO] [1754324731.427288621] [solver_node]: 发布重定位TF: x=-0.040, y=-0.027
+[INFO] [1754324731.503091915] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.121, current_y=-1.019, current_angle=0.129
+[INFO] [1754324731.578939913] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.121, current_y=-1.019, current_angle=0.129
+[INFO] [1754324731.596454158] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.128, current_y=-1.010, current_angle=0.129
+[INFO] [1754324731.652664288] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.128, current_y=-1.010, current_angle=0.129
+[INFO] [1754324731.671399003] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.128, current_y=-1.010, current_angle=0.129
+[INFO] [1754324731.732042752] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.129, current_y=-1.015, current_angle=0.127
+[INFO] [1754324731.768457091] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.123, current_y=-1.010, current_angle=0.129
+[INFO] [1754324731.818034970] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.122, current_y=-1.013, current_angle=0.129
+[INFO] [1754324731.861411135] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.122, current_y=-1.013, current_angle=0.129
+[INFO] [1754324731.914934047] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.013, current_angle=0.129
+[INFO] [1754324731.978839552] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.118, current_y=-1.010, current_angle=0.129
+[INFO] [1754324732.018742244] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.120, current_y=-1.016, current_angle=0.129
+[INFO] [1754324732.064283600] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.120, current_y=-1.016, current_angle=0.129
+[INFO] [1754324732.111229558] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.128, current_y=-1.015, current_angle=0.129
+[INFO] [1754324732.167286565] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.122, current_y=-1.011, current_angle=0.129
+[INFO] [1754324732.212651598] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.111, current_y=-1.020, current_angle=0.129
+[INFO] [1754324732.277874951] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.111, current_y=-1.020, current_angle=0.129
+[INFO] [1754324732.311028845] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.112, current_y=-1.019, current_angle=0.129
+[INFO] [1754324732.375844639] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.124, current_y=-1.012, current_angle=0.129
+[INFO] [1754324732.412607720] [solver_node]: 发布重定位TF: x=-0.030, y=-0.028
+[INFO] [1754324732.438512808] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.129, current_y=-1.009, current_angle=0.129
+[INFO] [1754324732.463948864] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.129, current_y=-1.009, current_angle=0.129
+[INFO] [1754324732.535567279] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.127, current_y=-1.014, current_angle=0.129
+[INFO] [1754324732.578690895] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.122, current_y=-1.011, current_angle=0.130
+[INFO] [1754324732.625988123] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.124, current_y=-1.015, current_angle=0.129
+[INFO] [1754324732.671904014] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.124, current_y=-1.015, current_angle=0.129
+[INFO] [1754324732.718220713] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.130, current_y=-1.020, current_angle=0.128
+[INFO] [1754324732.774942500] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.124, current_y=-1.014, current_angle=0.129
+[INFO] [1754324732.830099715] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.124, current_y=-1.014, current_angle=0.129
+[INFO] [1754324732.866300898] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.129, current_y=-1.009, current_angle=0.127
+[INFO] [1754324732.930343877] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.017, current_angle=0.128
+[INFO] [1754324732.993637210] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.114, current_y=-1.017, current_angle=0.129
+[INFO] [1754324733.028688132] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.114, current_y=-1.017, current_angle=0.129
+[INFO] [1754324733.062371092] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.122, current_y=-1.019, current_angle=0.128
+[INFO] [1754324733.116743395] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.119, current_y=-1.021, current_angle=0.129
+[INFO] [1754324733.180008664] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.119, current_y=-1.021, current_angle=0.129
+[INFO] [1754324733.228679037] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.119, current_y=-1.017, current_angle=0.130
+[INFO] [1754324733.263339520] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.117, current_y=-1.017, current_angle=0.130
+[INFO] [1754324733.319679540] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.123, current_y=-1.016, current_angle=0.129
+[INFO] [1754324733.364576788] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.123, current_y=-1.016, current_angle=0.129
+[INFO] [1754324733.427349503] [solver_node]: 发布重定位TF: x=-0.041, y=-0.031
+[INFO] [1754324733.427881097] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.113, current_y=-1.015, current_angle=0.129
+[INFO] [1754324733.497074475] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.124, current_y=-1.011, current_angle=0.130
+[INFO] [1754324733.545478860] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.126, current_y=-1.020, current_angle=0.129
+[INFO] [1754324733.573528276] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.126, current_y=-1.020, current_angle=0.129
+[INFO] [1754324733.647607184] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.120, current_y=-1.011, current_angle=0.128
+[INFO] [1754324733.702231044] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.123, current_y=-1.018, current_angle=0.128
+[INFO] [1754324733.763058572] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.123, current_y=-1.018, current_angle=0.128
+[INFO] [1754324733.801459091] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.116, current_y=-1.022, current_angle=0.129
+[INFO] [1754324733.828882991] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.118, current_y=-1.024, current_angle=0.128
+[INFO] [1754324733.867104756] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.123, current_y=-1.013, current_angle=0.129
+[INFO] [1754324733.910654331] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.123, current_y=-1.013, current_angle=0.129
+[INFO] [1754324733.970894455] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.119, current_y=-1.019, current_angle=0.128
+[INFO] [1754324734.016561765] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.135, current_y=-1.017, current_angle=0.128
+[INFO] [1754324734.072112778] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.124, current_y=-1.007, current_angle=0.129
+[INFO] [1754324734.144097471] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.124, current_y=-1.007, current_angle=0.129
+[INFO] [1754324734.189015392] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.124, current_y=-1.013, current_angle=0.130
+[INFO] [1754324734.226495158] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.117, current_y=-1.017, current_angle=0.129
+[INFO] [1754324734.270951725] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.117, current_y=-1.017, current_angle=0.129
+[INFO] [1754324734.330752641] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.117, current_y=-1.017, current_angle=0.129
+[INFO] [1754324734.411577626] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.117, current_y=-1.018, current_angle=0.129
+[INFO] [1754324734.474572553] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.111, current_y=-1.018, current_angle=0.128
+[INFO] [1754324734.485523028] [solver_node]: 发布重定位TF: x=-0.034, y=-0.029
+[INFO] [1754324734.524724106] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.116, current_y=-1.010, current_angle=0.131
+[INFO] [1754324734.543057982] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.116, current_y=-1.010, current_angle=0.131
+[INFO] [1754324734.568040525] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.114, current_y=-1.021, current_angle=0.129
+[INFO] [1754324734.639558906] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.113, current_y=-1.028, current_angle=0.130
+[INFO] [1754324734.664842446] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.113, current_y=-1.028, current_angle=0.130
+[INFO] [1754324734.718513488] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.116, current_y=-1.018, current_angle=0.129
+[INFO] [1754324734.763067082] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.120, current_y=-1.019, current_angle=0.128
+[INFO] [1754324734.828916686] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.115, current_y=-1.016, current_angle=0.129
+[INFO] [1754324734.875848307] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.115, current_y=-1.016, current_angle=0.129
+[INFO] [1754324734.929753882] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.126, current_y=-1.012, current_angle=0.131
+[INFO] [1754324734.968456838] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.113, current_y=-1.020, current_angle=0.129
+[INFO] [1754324735.044716619] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.113, current_y=-1.020, current_angle=0.129
+[INFO] [1754324735.069226289] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.110, current_y=-1.016, current_angle=0.131
+[INFO] [1754324735.119588950] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.024, current_angle=0.129
+[INFO] [1754324735.163315615] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.124, current_y=-1.018, current_angle=0.129
+[INFO] [1754324735.229369223] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.124, current_y=-1.018, current_angle=0.129
+[INFO] [1754324735.268752352] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.012, current_angle=0.129
+[INFO] [1754324735.334307518] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.117, current_y=-1.013, current_angle=0.129
+[INFO] [1754324735.367830923] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.115, current_y=-1.017, current_angle=0.129
+[INFO] [1754324735.418622935] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.115, current_y=-1.017, current_angle=0.129
+[INFO] [1754324735.448323197] [solver_node]: 发布重定位TF: x=-0.033, y=-0.031
+[INFO] [1754324735.474073466] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.111, current_y=-1.017, current_angle=0.129
+[INFO] [1754324735.526802859] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.116, current_y=-1.021, current_angle=0.129
+[INFO] [1754324735.574885413] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.118, current_y=-1.015, current_angle=0.130
+[INFO] [1754324735.622428822] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.118, current_y=-1.015, current_angle=0.130
+[INFO] [1754324735.667897600] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.114, current_y=-1.017, current_angle=0.130
+[INFO] [1754324735.726067541] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.127, current_y=-1.008, current_angle=0.129
+[INFO] [1754324735.775041568] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.127, current_y=-1.008, current_angle=0.129
+[INFO] [1754324735.831738010] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.124, current_y=-1.019, current_angle=0.129
+[INFO] [1754324735.865218566] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.114, current_y=-1.014, current_angle=0.129
+[INFO] [1754324735.927176385] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.114, current_y=-1.019, current_angle=0.130
+[INFO] [1754324735.975073112] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.114, current_y=-1.019, current_angle=0.130
+[INFO] [1754324736.026169579] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.119, current_y=-1.018, current_angle=0.129
+[INFO] [1754324736.074433672] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.122, current_y=-1.028, current_angle=0.129
+[INFO] [1754324736.127178713] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.122, current_y=-1.028, current_angle=0.129
+[INFO] [1754324736.177031380] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.016, current_angle=0.129
+[INFO] [1754324736.227372440] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.127, current_y=-1.013, current_angle=0.129
+[INFO] [1754324736.286320379] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.124, current_y=-1.019, current_angle=0.130
+[INFO] [1754324736.318974583] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.124, current_y=-1.019, current_angle=0.130
+[INFO] [1754324736.362175831] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.124, current_y=-1.017, current_angle=0.129
+[INFO] [1754324736.445305754] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.125, current_y=-1.014, current_angle=0.129
+[INFO] [1754324736.494359367] [solver_node]: 发布重定位TF: x=-0.043, y=-0.034
+[INFO] [1754324736.495793505] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.117, current_y=-1.010, current_angle=0.129
+[INFO] [1754324736.549911019] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.117, current_y=-1.010, current_angle=0.129
+[INFO] [1754324736.562162926] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.117, current_y=-1.012, current_angle=0.129
+[INFO] [1754324736.618094393] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.115, current_y=-1.019, current_angle=0.129
+[INFO] [1754324736.663243037] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.115, current_y=-1.019, current_angle=0.129
+[INFO] [1754324736.736834768] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.114, current_y=-1.022, current_angle=0.128
+[INFO] [1754324736.769378058] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.111, current_y=-1.011, current_angle=0.129
+[INFO] [1754324736.825658332] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.119, current_y=-1.015, current_angle=0.130
+[INFO] [1754324736.870511931] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.119, current_y=-1.015, current_angle=0.130
+[INFO] [1754324736.915751296] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.116, current_y=-1.015, current_angle=0.128
+[INFO] [1754324736.967417757] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.112, current_y=-1.013, current_angle=0.130
+[INFO] [1754324737.012368605] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.112, current_y=-1.013, current_angle=0.130
+[INFO] [1754324737.068353865] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.125, current_y=-1.012, current_angle=0.129
+[INFO] [1754324737.115907417] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.122, current_y=-1.017, current_angle=0.128
+[INFO] [1754324737.170364009] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.117, current_y=-1.010, current_angle=0.129
+[INFO] [1754324737.215042308] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.117, current_y=-1.010, current_angle=0.129
+[INFO] [1754324737.268886697] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.020, current_angle=0.128
+[INFO] [1754324737.324992887] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.113, current_y=-1.021, current_angle=0.128
+[INFO] [1754324737.367212868] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.115, current_y=-1.020, current_angle=0.129
+[INFO] [1754324737.423154672] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.115, current_y=-1.020, current_angle=0.129
+[INFO] [1754324737.481750156] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.123, current_y=-1.014, current_angle=0.128
+[INFO] [1754324737.507592779] [solver_node]: 发布重定位TF: x=-0.033, y=-0.028
+[INFO] [1754324737.529547073] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.123, current_y=-1.017, current_angle=0.128
+[INFO] [1754324737.569618183] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.117, current_y=-1.009, current_angle=0.129
+[INFO] [1754324737.623272232] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.117, current_y=-1.009, current_angle=0.129
+[INFO] [1754324737.670217645] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.120, current_y=-1.014, current_angle=0.127
+[INFO] [1754324737.728210654] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.125, current_y=-1.017, current_angle=0.129
+[INFO] [1754324737.799161375] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.124, current_y=-1.016, current_angle=0.129
+[INFO] [1754324737.813479944] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.124, current_y=-1.016, current_angle=0.129
+[INFO] [1754324737.867429967] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.124, current_y=-1.015, current_angle=0.129
+[INFO] [1754324737.915944145] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.118, current_y=-1.019, current_angle=0.129
+[INFO] [1754324737.965686633] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.118, current_y=-1.019, current_angle=0.129
+[INFO] [1754324738.033281548] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.120, current_y=-1.015, current_angle=0.129
+[INFO] [1754324738.069273958] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.118, current_y=-1.014, current_angle=0.128
+[INFO] [1754324738.120043729] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.119, current_y=-1.019, current_angle=0.129
+[INFO] [1754324738.168055978] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.119, current_y=-1.019, current_angle=0.129
+[INFO] [1754324738.243992071] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.119, current_y=-1.019, current_angle=0.128
+[INFO] [1754324738.266613257] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.129, current_y=-1.010, current_angle=0.129
+[INFO] [1754324738.344108931] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.127, current_y=-1.018, current_angle=0.128
+[INFO] [1754324738.366951850] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.127, current_y=-1.018, current_angle=0.128
+[INFO] [1754324738.415549389] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.112, current_y=-1.011, current_angle=0.130
+[INFO] [1754324738.463808234] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.123, current_y=-1.008, current_angle=0.129
+[INFO] [1754324738.496644682] [solver_node]: 发布重定位TF: x=-0.031, y=-0.037
+[INFO] [1754324738.537538462] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.123, current_y=-1.008, current_angle=0.129
+[INFO] [1754324738.566647385] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.120, current_y=-1.023, current_angle=0.129
+[INFO] [1754324738.629039515] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.118, current_y=-1.017, current_angle=0.129
+[INFO] [1754324738.693573702] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.124, current_y=-1.016, current_angle=0.129
+[INFO] [1754324738.715962244] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.124, current_y=-1.016, current_angle=0.129
+[INFO] [1754324738.762387519] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.012, current_angle=0.129
+[INFO] [1754324738.814723015] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.126, current_y=-1.018, current_angle=0.129
+[INFO] [1754324738.872389586] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.126, current_y=-1.018, current_angle=0.129
+[INFO] [1754324738.940548191] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.123, current_y=-1.009, current_angle=0.129
+[INFO] [1754324738.977178021] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.125, current_y=-1.010, current_angle=0.129
+[INFO] [1754324739.041053891] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.126, current_y=-1.020, current_angle=0.129
+[INFO] [1754324739.082603363] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.126, current_y=-1.020, current_angle=0.129
+[INFO] [1754324739.116243954] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.133, current_y=-1.024, current_angle=0.129
+[INFO] [1754324739.225501719] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.115, current_y=-1.018, current_angle=0.128
+[INFO] [1754324739.244508022] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.133, current_y=-1.011, current_angle=0.129
+[INFO] [1754324739.306434352] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.133, current_y=-1.011, current_angle=0.129
+[INFO] [1754324739.324469341] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.119, current_y=-1.007, current_angle=0.129
+[INFO] [1754324739.369789604] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.113, current_y=-1.020, current_angle=0.129
+[INFO] [1754324739.415174155] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.113, current_y=-1.020, current_angle=0.129
+[INFO] [1754324739.465821236] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.113, current_y=-1.030, current_angle=0.131
+[INFO] [1754324739.482728717] [solver_node]: 发布重定位TF: x=-0.031, y=-0.017
+[INFO] [1754324739.521925154] [solver_node]: 求解成功: x'=0.081, y=-1.047, current_x=0.119, current_y=-1.023, current_angle=0.129
+[INFO] [1754324739.590373588] [solver_node]: 求解成功: x'=0.081, y=-1.047, current_x=0.133, current_y=-1.019, current_angle=0.128
+[INFO] [1754324739.613537152] [solver_node]: 求解成功: x'=0.081, y=-1.047, current_x=0.133, current_y=-1.019, current_angle=0.128
+[INFO] [1754324739.685253167] [solver_node]: 求解成功: x'=0.081, y=-1.047, current_x=0.129, current_y=-1.012, current_angle=0.129
+[INFO] [1754324739.744037070] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.127, current_y=-1.014, current_angle=0.129
+[INFO] [1754324739.792175977] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.013, current_angle=0.129
+[INFO] [1754324739.818214027] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.013, current_angle=0.129
+[INFO] [1754324739.882259691] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.095, current_y=-1.027, current_angle=0.129
+[INFO] [1754324739.942331042] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.115, current_y=-1.042, current_angle=0.131
+[INFO] [1754324740.008766383] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.115, current_y=-1.042, current_angle=0.131
+[INFO] [1754324740.031755640] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.116, current_y=-1.015, current_angle=0.130
+[INFO] [1754324740.071167633] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.114, current_y=-1.024, current_angle=0.130
+[INFO] [1754324740.119079687] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.117, current_y=-1.018, current_angle=0.129
+[INFO] [1754324740.170001397] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.117, current_y=-1.018, current_angle=0.129
+[INFO] [1754324740.222265019] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.110, current_y=-1.016, current_angle=0.129
+[INFO] [1754324740.265503003] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.110, current_y=-1.018, current_angle=0.129
+[INFO] [1754324740.317674496] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.110, current_y=-1.018, current_angle=0.129
+[INFO] [1754324740.361434761] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.102, current_y=-1.019, current_angle=0.128
+[INFO] [1754324740.440678243] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.109, current_y=-1.019, current_angle=0.130
+[INFO] [1754324740.476178355] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.120, current_y=-1.021, current_angle=0.129
+[INFO] [1754324740.520603881] [solver_node]: 发布重定位TF: x=-0.026, y=-0.028
+[INFO] [1754324740.548775025] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.120, current_y=-1.021, current_angle=0.129
+[INFO] [1754324740.589852617] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.115, current_y=-1.017, current_angle=0.130
+[INFO] [1754324740.641572454] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.127, current_y=-1.017, current_angle=0.130
+[INFO] [1754324740.664624912] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.127, current_y=-1.017, current_angle=0.130
+[INFO] [1754324740.731737161] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.127, current_y=-1.019, current_angle=0.128
+[INFO] [1754324740.795456995] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.122, current_y=-1.020, current_angle=0.130
+[INFO] [1754324740.890191451] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.122, current_y=-1.009, current_angle=0.129
+[INFO] [1754324740.912037743] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.118, current_y=-1.019, current_angle=0.129
+[INFO] [1754324740.945201204] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.118, current_y=-1.019, current_angle=0.129
+[INFO] [1754324740.984597421] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.120, current_y=-1.022, current_angle=0.129
+[INFO] [1754324741.017750002] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.121, current_y=-1.023, current_angle=0.129
+[INFO] [1754324741.096607172] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.023, current_angle=0.129
+[INFO] [1754324741.121927256] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.127, current_y=-1.010, current_angle=0.130
+[INFO] [1754324741.167017082] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.113, current_y=-1.017, current_angle=0.130
+[INFO] [1754324741.228758575] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.113, current_y=-1.017, current_angle=0.130
+[INFO] [1754324741.261775217] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.127, current_y=-1.014, current_angle=0.129
+[INFO] [1754324741.336605593] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.123, current_y=-1.014, current_angle=0.129
+[INFO] [1754324741.374658776] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.111, current_y=-1.019, current_angle=0.129
+[INFO] [1754324741.459270196] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.111, current_y=-1.019, current_angle=0.129
+[INFO] [1754324741.496416131] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.117, current_y=-1.017, current_angle=0.129
+[INFO] [1754324741.519174280] [solver_node]: 发布重定位TF: x=-0.035, y=-0.030
+[INFO] [1754324741.551130391] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.122, current_y=-1.018, current_angle=0.128
+[INFO] [1754324741.578786422] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.112, current_y=-1.019, current_angle=0.129
+[INFO] [1754324741.614033890] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.112, current_y=-1.019, current_angle=0.129
+[INFO] [1754324741.667788291] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.117, current_y=-1.008, current_angle=0.130
+[INFO] [1754324741.742053440] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.112, current_y=-1.020, current_angle=0.129
+[INFO] [1754324741.781325078] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.112, current_y=-1.020, current_angle=0.129
+[INFO] [1754324741.841991800] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.104, current_y=-1.014, current_angle=0.129
+[INFO] [1754324741.871188084] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.110, current_y=-1.017, current_angle=0.132
+[INFO] [1754324741.925945736] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.127, current_y=-1.010, current_angle=0.129
+[INFO] [1754324741.968425945] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.127, current_y=-1.010, current_angle=0.129
+[INFO] [1754324742.017726985] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.019, current_angle=0.128
+[INFO] [1754324742.091293656] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.120, current_y=-1.017, current_angle=0.128
+[INFO] [1754324742.144530864] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.118, current_y=-1.018, current_angle=0.128
+[INFO] [1754324742.173133953] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.118, current_y=-1.018, current_angle=0.128
+[INFO] [1754324742.229325456] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.116, current_y=-1.020, current_angle=0.129
+[INFO] [1754324742.263002174] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.117, current_y=-1.018, current_angle=0.128
+[INFO] [1754324742.337483007] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.117, current_y=-1.018, current_angle=0.128
+[INFO] [1754324742.405516264] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.114, current_y=-1.020, current_angle=0.129
+[INFO] [1754324742.437580665] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.110, current_y=-1.015, current_angle=0.129
+[INFO] [1754324742.503655294] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.112, current_y=-1.011, current_angle=0.130
+[INFO] [1754324742.526933996] [solver_node]: 发布重定位TF: x=-0.028, y=-0.033
+[INFO] [1754324742.570707285] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.112, current_y=-1.011, current_angle=0.130
+[INFO] [1754324742.620290441] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.124, current_y=-1.019, current_angle=0.129
+[INFO] [1754324742.653897719] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.129, current_y=-1.017, current_angle=0.128
+[INFO] [1754324742.666043031] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.129, current_y=-1.017, current_angle=0.128
+[INFO] [1754324742.721594074] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.125, current_y=-1.014, current_angle=0.129
+[INFO] [1754324742.791540647] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.124, current_y=-1.014, current_angle=0.128
+[INFO] [1754324742.820252473] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.010, current_angle=0.128
+[INFO] [1754324742.875132912] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.010, current_angle=0.128
+[INFO] [1754324742.921212035] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.125, current_y=-1.014, current_angle=0.129
+[INFO] [1754324742.967502811] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.122, current_y=-1.015, current_angle=0.128
+[INFO] [1754324743.014258203] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.125, current_y=-1.011, current_angle=0.127
+[INFO] [1754324743.063496681] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.125, current_y=-1.011, current_angle=0.127
+[INFO] [1754324743.136521806] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.113, current_y=-1.019, current_angle=0.131
+[INFO] [1754324743.169086184] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.118, current_y=-1.015, current_angle=0.129
+[INFO] [1754324743.218912800] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.118, current_y=-1.015, current_angle=0.129
+[INFO] [1754324743.292140393] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.011, current_angle=0.128
+[INFO] [1754324743.317482397] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.112, current_y=-1.019, current_angle=0.127
+[INFO] [1754324743.375326602] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.117, current_y=-1.009, current_angle=0.129
+[INFO] [1754324743.426062324] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.117, current_y=-1.009, current_angle=0.129
+[INFO] [1754324743.487966860] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.115, current_y=-1.016, current_angle=0.128
+[INFO] [1754324743.528831679] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.124, current_y=-1.018, current_angle=0.128
+[INFO] [1754324743.529165829] [solver_node]: 发布重定位TF: x=-0.035, y=-0.038
+[INFO] [1754324743.584901035] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.124, current_y=-1.018, current_angle=0.128
+[INFO] [1754324743.651391895] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.115, current_y=-1.011, current_angle=0.130
+[INFO] [1754324743.668419410] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.123, current_y=-1.011, current_angle=0.128
+[INFO] [1754324743.731838310] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.114, current_y=-1.011, current_angle=0.129
+[INFO] [1754324743.773821229] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.114, current_y=-1.011, current_angle=0.129
+[INFO] [1754324743.836312784] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.112, current_y=-1.015, current_angle=0.127
+[INFO] [1754324743.872009251] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.118, current_y=-1.016, current_angle=0.129
+[INFO] [1754324743.929834768] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.118, current_y=-1.019, current_angle=0.129
+[INFO] [1754324743.976334379] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.118, current_y=-1.019, current_angle=0.129
+[INFO] [1754324744.016118986] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.112, current_y=-1.014, current_angle=0.129
+[INFO] [1754324744.071044353] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.016, current_angle=0.128
+[INFO] [1754324744.127437554] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.117, current_y=-1.014, current_angle=0.129
+[INFO] [1754324744.167583928] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.117, current_y=-1.014, current_angle=0.129
+[INFO] [1754324744.214556028] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.131, current_y=-1.018, current_angle=0.127
+[INFO] [1754324744.316994272] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.119, current_y=-1.012, current_angle=0.128
+[INFO] [1754324744.328847931] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.119, current_y=-1.012, current_angle=0.128
+[INFO] [1754324744.362585674] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.121, current_y=-1.017, current_angle=0.128
+[INFO] [1754324744.437724854] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.115, current_y=-1.027, current_angle=0.129
+[INFO] [1754324744.473305927] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.115, current_y=-1.027, current_angle=0.129
+[INFO] [1754324744.529302610] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.118, current_y=-1.022, current_angle=0.129
+[INFO] [1754324744.529885596] [solver_node]: 发布重定位TF: x=-0.032, y=-0.020
+[INFO] [1754324744.564517692] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.119, current_y=-1.021, current_angle=0.128
+[INFO] [1754324744.652378995] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.120, current_y=-1.019, current_angle=0.129
+[INFO] [1754324744.664392817] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.120, current_y=-1.019, current_angle=0.129
+[INFO] [1754324744.721175562] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.113, current_y=-1.014, current_angle=0.129
+[INFO] [1754324744.766846102] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.118, current_y=-1.016, current_angle=0.128
+[INFO] [1754324745.531019127] [solver_node]: 发布重定位TF: x=-0.030, y=-0.024
+[INFO] [1754324746.542438538] [solver_node]: 发布重定位TF: x=-0.030, y=-0.024
+[INFO] [1754324746.789190389] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.127, current_y=-1.016, current_angle=0.129
+[INFO] [1754324746.816121638] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.132, current_y=-1.015, current_angle=0.130
+[INFO] [1754324746.902796999] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.122, current_y=-1.019, current_angle=0.129
+[INFO] [1754324746.926380570] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.122, current_y=-1.019, current_angle=0.129
+[INFO] [1754324746.985920517] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.127, current_y=-1.006, current_angle=0.129
+[INFO] [1754324747.034650153] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.122, current_y=-1.015, current_angle=0.128
+[INFO] [1754324747.099658521] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.122, current_y=-1.015, current_angle=0.128
+[INFO] [1754324747.114513835] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.125, current_y=-1.019, current_angle=0.128
+[INFO] [1754324747.199815985] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.135, current_y=-1.018, current_angle=0.129
+[INFO] [1754324747.232454636] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.125, current_y=-1.019, current_angle=0.128
+[INFO] [1754324747.299989642] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.125, current_y=-1.019, current_angle=0.128
+[INFO] [1754324747.334541288] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.118, current_y=-1.019, current_angle=0.128
+[INFO] [1754324747.370893735] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.125, current_y=-1.012, current_angle=0.129
+[INFO] [1754324747.427528732] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.125, current_y=-1.012, current_angle=0.129
+[INFO] [1754324747.509268289] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.124, current_y=-1.011, current_angle=0.128
+[INFO] [1754324747.536355765] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.129, current_y=-1.015, current_angle=0.128
+[INFO] [1754324747.553601715] [solver_node]: 发布重定位TF: x=-0.047, y=-0.032
+[INFO] [1754324747.574696344] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.122, current_y=-1.010, current_angle=0.128
+[INFO] [1754324747.621049808] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.122, current_y=-1.010, current_angle=0.128
+[INFO] [1754324747.677962090] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.120, current_y=-1.013, current_angle=0.128
+[INFO] [1754324747.712491592] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.129, current_y=-1.012, current_angle=0.129
+[INFO] [1754324747.774970825] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.009, current_angle=0.129
+[INFO] [1754324747.832869685] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.009, current_angle=0.129
+[INFO] [1754324747.894016222] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.115, current_y=-1.014, current_angle=0.128
+[INFO] [1754324747.936037702] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.119, current_y=-1.022, current_angle=0.128
+[INFO] [1754324747.969566352] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.126, current_y=-1.015, current_angle=0.127
+[INFO] [1754324748.013679711] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.126, current_y=-1.015, current_angle=0.127
+[INFO] [1754324748.085724112] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.130, current_y=-1.015, current_angle=0.127
+[INFO] [1754324748.127129900] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.123, current_y=-1.023, current_angle=0.130
+[INFO] [1754324748.202850241] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.123, current_y=-1.023, current_angle=0.130
+[INFO] [1754324748.227240675] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.114, current_y=-1.019, current_angle=0.130
+[INFO] [1754324748.287994980] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.120, current_y=-1.014, current_angle=0.129
+[INFO] [1754324748.340012772] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.124, current_y=-1.018, current_angle=0.128
+[INFO] [1754324748.364378598] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.124, current_y=-1.018, current_angle=0.128
+[INFO] [1754324748.435945678] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.125, current_y=-1.016, current_angle=0.128
+[INFO] [1754324748.498551569] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.122, current_y=-1.016, current_angle=0.129
+[INFO] [1754324748.537691140] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.122, current_y=-1.016, current_angle=0.129
+[INFO] [1754324748.571938075] [solver_node]: 发布重定位TF: x=-0.040, y=-0.031
+[INFO] [1754324748.588366667] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.120, current_y=-1.021, current_angle=0.129
+[INFO] [1754324748.634783171] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.113, current_y=-1.014, current_angle=0.128
+[INFO] [1754324748.681823207] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.113, current_y=-1.014, current_angle=0.128
+[INFO] [1754324748.737426985] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.107, current_y=-1.018, current_angle=0.129
+[INFO] [1754324748.773576356] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.115, current_y=-1.016, current_angle=0.129
+[INFO] [1754324748.861997828] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.116, current_y=-1.020, current_angle=0.129
+[INFO] [1754324748.897869754] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.116, current_y=-1.020, current_angle=0.129
+[INFO] [1754324748.961220362] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.113, current_y=-1.018, current_angle=0.129
+[INFO] [1754324748.973047973] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.120, current_y=-1.013, current_angle=0.129
+[INFO] [1754324749.028755145] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.126, current_y=-1.009, current_angle=0.128
+[INFO] [1754324749.064680287] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.126, current_y=-1.009, current_angle=0.128
+[INFO] [1754324749.129662798] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.013, current_angle=0.129
+[INFO] [1754324749.190027752] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.122, current_y=-1.008, current_angle=0.129
+[INFO] [1754324749.251691801] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.122, current_y=-1.008, current_angle=0.129
+[INFO] [1754324749.267227960] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.124, current_y=-1.017, current_angle=0.129
+[INFO] [1754324749.355009323] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.023, current_angle=0.129
+[INFO] [1754324749.367229772] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.122, current_y=-1.013, current_angle=0.128
+[INFO] [1754324749.421827228] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.122, current_y=-1.013, current_angle=0.128
+[INFO] [1754324749.468568698] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.113, current_y=-1.019, current_angle=0.128
+[INFO] [1754324749.525906875] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.112, current_y=-1.016, current_angle=0.129
+[INFO] [1754324749.593407033] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.119, current_y=-1.014, current_angle=0.129
+[INFO] [1754324749.594019076] [solver_node]: 发布重定位TF: x=-0.031, y=-0.032
+[INFO] [1754324749.662571893] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.119, current_y=-1.014, current_angle=0.129
+[INFO] [1754324749.702893628] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.112, current_y=-1.024, current_angle=0.129
+[INFO] [1754324749.714898298] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.109, current_y=-1.025, current_angle=0.128
+[INFO] [1754324749.766405776] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.109, current_y=-1.025, current_angle=0.128
+[INFO] [1754324749.834495960] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.119, current_y=-1.022, current_angle=0.129
+[INFO] [1754324749.888689120] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.131, current_y=-1.019, current_angle=0.129
+[INFO] [1754324749.928850373] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.109, current_y=-1.022, current_angle=0.130
+[INFO] [1754324749.961784324] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.109, current_y=-1.022, current_angle=0.130
+[INFO] [1754324750.043100512] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.113, current_y=-1.019, current_angle=0.130
+[INFO] [1754324750.085612688] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.113, current_y=-1.027, current_angle=0.129
+[INFO] [1754324750.126263486] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.113, current_y=-1.027, current_angle=0.129
+[INFO] [1754324750.180697866] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.107, current_y=-1.019, current_angle=0.130
+[INFO] [1754324750.249397693] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.113, current_y=-1.015, current_angle=0.129
+[INFO] [1754324750.312182050] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.112, current_y=-1.021, current_angle=0.129
+[INFO] [1754324750.324495814] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.116, current_y=-1.016, current_angle=0.130
+[INFO] [1754324750.369932684] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.116, current_y=-1.016, current_angle=0.130
+[INFO] [1754324750.427892920] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.119, current_y=-1.008, current_angle=0.129
+[INFO] [1754324750.496069442] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.126, current_y=-1.028, current_angle=0.128
+[INFO] [1754324750.530838819] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.126, current_y=-1.028, current_angle=0.128
+[INFO] [1754324750.573749434] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.113, current_y=-1.027, current_angle=0.131
+[INFO] [1754324750.599922717] [solver_node]: 发布重定位TF: x=-0.031, y=-0.020
+[INFO] [1754324750.628263464] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.115, current_y=-1.023, current_angle=0.129
+[INFO] [1754324750.668860276] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.115, current_y=-1.023, current_angle=0.129
+[INFO] [1754324750.713779153] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.131, current_y=-1.019, current_angle=0.128
+[INFO] [1754324750.769818522] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.122, current_y=-1.017, current_angle=0.130
+[INFO] [1754324750.818742401] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.018, current_angle=0.129
+[INFO] [1754324750.905124154] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.123, current_y=-1.023, current_angle=0.129
+[INFO] [1754324750.920114894] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.123, current_y=-1.023, current_angle=0.129
+[INFO] [1754324750.992000540] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.116, current_y=-1.022, current_angle=0.129
+[INFO] [1754324751.023340670] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.128, current_y=-1.011, current_angle=0.129
+[INFO] [1754324751.088651986] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.119, current_y=-1.013, current_angle=0.129
+[INFO] [1754324751.118963585] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.119, current_y=-1.013, current_angle=0.129
+[INFO] [1754324751.179236408] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.114, current_y=-1.015, current_angle=0.129
+[INFO] [1754324751.212852420] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.114, current_y=-1.015, current_angle=0.129
+[INFO] [1754324751.269420631] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.119, current_y=-1.020, current_angle=0.130
+[INFO] [1754324751.318474463] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.020, current_angle=0.128
+[INFO] [1754324751.372602853] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.115, current_y=-1.021, current_angle=0.130
+[INFO] [1754324751.425845019] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.115, current_y=-1.021, current_angle=0.130
+[INFO] [1754324751.474505788] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.019, current_angle=0.130
+[INFO] [1754324751.517667320] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.123, current_y=-1.017, current_angle=0.128
+[INFO] [1754324751.566856547] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.123, current_y=-1.027, current_angle=0.129
+[INFO] [1754324751.634886441] [solver_node]: 发布重定位TF: x=-0.041, y=-0.030
+[INFO] [1754324751.646609505] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.123, current_y=-1.015, current_angle=0.130
+[INFO] [1754324751.675941118] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.123, current_y=-1.015, current_angle=0.130
+[INFO] [1754324751.781365174] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.116, current_y=-1.015, current_angle=0.129
+[INFO] [1754324751.809653727] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.113, current_y=-1.009, current_angle=0.129
+[INFO] [1754324751.845073676] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.113, current_y=-1.009, current_angle=0.129
+[INFO] [1754324751.871921563] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.012, current_angle=0.130
+[INFO] [1754324751.927785217] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.115, current_y=-1.015, current_angle=0.129
+[INFO] [1754324751.964491366] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.115, current_y=-1.015, current_angle=0.129
+[INFO] [1754324752.047118521] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.122, current_y=-1.025, current_angle=0.129
+[INFO] [1754324752.061450593] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.133, current_y=-1.016, current_angle=0.129
+[INFO] [1754324752.138121511] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.125, current_y=-1.016, current_angle=0.130
+[INFO] [1754324752.180716504] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.125, current_y=-1.016, current_angle=0.130
+[INFO] [1754324752.219753223] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.117, current_y=-1.014, current_angle=0.130
+[INFO] [1754324752.263730098] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.013, current_angle=0.129
+[INFO] [1754324752.325863691] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.020, current_angle=0.128
+[INFO] [1754324752.370906250] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.020, current_angle=0.128
+[INFO] [1754324752.423857018] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.118, current_y=-1.018, current_angle=0.129
+[INFO] [1754324752.468306541] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.124, current_y=-1.013, current_angle=0.129
+[INFO] [1754324752.524237428] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.124, current_y=-1.013, current_angle=0.129
+[INFO] [1754324752.571073843] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.116, current_y=-1.011, current_angle=0.129
+[INFO] [1754324752.628375379] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.124, current_y=-1.013, current_angle=0.128
+[INFO] [1754324752.631074661] [solver_node]: 发布重定位TF: x=-0.034, y=-0.035
+[INFO] [1754324752.676539691] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.016, current_angle=0.130
+[INFO] [1754324752.722945219] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.016, current_angle=0.130
+[INFO] [1754324752.777918648] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.127, current_y=-1.019, current_angle=0.128
+[INFO] [1754324752.812669880] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.122, current_y=-1.022, current_angle=0.128
+[INFO] [1754324752.862282059] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.128, current_y=-1.011, current_angle=0.129
+[INFO] [1754324752.958834527] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.128, current_y=-1.011, current_angle=0.129
+[INFO] [1754324752.990972463] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.119, current_y=-1.019, current_angle=0.129
+[INFO] [1754324753.053210218] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.125, current_y=-1.016, current_angle=0.128
+[INFO] [1754324753.074210957] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.124, current_y=-1.006, current_angle=0.129
+[INFO] [1754324753.139766757] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.124, current_y=-1.006, current_angle=0.129
+[INFO] [1754324753.187119822] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.123, current_y=-1.019, current_angle=0.129
+[INFO] [1754324753.229600892] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.123, current_y=-1.020, current_angle=0.127
+[INFO] [1754324753.281677308] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.123, current_y=-1.020, current_angle=0.127
+[INFO] [1754324753.319854588] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.125, current_y=-1.015, current_angle=0.128
+[INFO] [1754324753.368471388] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.120, current_y=-1.016, current_angle=0.128
+[INFO] [1754324753.412526471] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.120, current_y=-1.016, current_angle=0.128
+[INFO] [1754324753.477714137] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.022, current_angle=0.128
+[INFO] [1754324753.520628399] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.120, current_y=-1.015, current_angle=0.128
+[INFO] [1754324753.567096072] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.134, current_y=-1.011, current_angle=0.128
+[INFO] [1754324753.626719698] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.125, current_y=-1.010, current_angle=0.128
+[INFO] [1754324753.639190136] [solver_node]: 发布重定位TF: x=-0.053, y=-0.035
+[INFO] [1754324753.661762520] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.125, current_y=-1.010, current_angle=0.128
+[INFO] [1754324753.748614393] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.117, current_y=-1.008, current_angle=0.129
+[INFO] [1754324753.784266794] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.116, current_y=-1.013, current_angle=0.128
+[INFO] [1754324753.818208955] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.116, current_y=-1.013, current_angle=0.128
+[INFO] [1754324753.863877701] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.120, current_y=-1.011, current_angle=0.128
+[INFO] [1754324753.920544857] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.117, current_y=-1.019, current_angle=0.129
+[INFO] [1754324753.965756730] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.012, current_angle=0.128
+[INFO] [1754324754.013507562] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.012, current_angle=0.128
+[INFO] [1754324754.071019854] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.121, current_y=-1.022, current_angle=0.129
+[INFO] [1754324754.118059536] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.117, current_y=-1.016, current_angle=0.129
+[INFO] [1754324754.164453671] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.117, current_y=-1.016, current_angle=0.129
+[INFO] [1754324754.231776703] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.116, current_y=-1.029, current_angle=0.129
+[INFO] [1754324754.272087366] [solver_node]: 求解成功: x'=0.083, y=-1.047, current_x=0.124, current_y=-1.021, current_angle=0.128
+[INFO] [1754324754.316166994] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.128, current_y=-1.017, current_angle=0.129
+[INFO] [1754324754.365312763] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.128, current_y=-1.017, current_angle=0.129
+[INFO] [1754324754.420473460] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.113, current_y=-1.027, current_angle=0.131
+[INFO] [1754324754.465807543] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.122, current_y=-1.020, current_angle=0.128
+[INFO] [1754324754.524294572] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.118, current_y=-1.021, current_angle=0.129
+[INFO] [1754324754.594625244] [solver_node]: 求解成功: x'=0.081, y=-1.047, current_x=0.118, current_y=-1.021, current_angle=0.129
+[INFO] [1754324754.621183877] [solver_node]: 求解成功: x'=0.081, y=-1.047, current_x=0.113, current_y=-1.012, current_angle=0.129
+[INFO] [1754324754.654175749] [solver_node]: 发布重定位TF: x=-0.032, y=-0.035
+[INFO] [1754324754.664951052] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.117, current_y=-1.026, current_angle=0.129
+[INFO] [1754324754.720258599] [solver_node]: 求解成功: x'=0.081, y=-1.047, current_x=0.115, current_y=-1.012, current_angle=0.129
+[INFO] [1754324754.770463300] [solver_node]: 求解成功: x'=0.081, y=-1.047, current_x=0.115, current_y=-1.012, current_angle=0.129
+[INFO] [1754324754.828945369] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.119, current_y=-1.016, current_angle=0.129
+[INFO] [1754324754.863691993] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.110, current_y=-1.019, current_angle=0.128
+[INFO] [1754324754.920088104] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.018, current_angle=0.129
+[INFO] [1754324754.981867482] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.121, current_y=-1.018, current_angle=0.129
+[INFO] [1754324755.033701845] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.124, current_y=-1.026, current_angle=0.128
+[INFO] [1754324755.090552140] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.123, current_y=-1.019, current_angle=0.129
+[INFO] [1754324755.129181172] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.123, current_y=-1.019, current_angle=0.129
+[INFO] [1754324755.162953794] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.118, current_y=-1.027, current_angle=0.131
+[INFO] [1754324755.216666527] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.124, current_y=-1.013, current_angle=0.129
+[INFO] [1754324755.266458388] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.123, current_y=-1.023, current_angle=0.129
+[INFO] [1754324755.328674702] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.123, current_y=-1.023, current_angle=0.129
+[INFO] [1754324755.361951315] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.125, current_y=-1.019, current_angle=0.129
+[INFO] [1754324755.418230944] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.128, current_y=-1.016, current_angle=0.129
+[INFO] [1754324755.464585621] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.128, current_y=-1.016, current_angle=0.129
+[INFO] [1754324755.528513167] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.137, current_y=-1.026, current_angle=0.129
+[INFO] [1754324755.561895222] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.126, current_y=-1.025, current_angle=0.129
+[INFO] [1754324755.626075924] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.125, current_y=-1.013, current_angle=0.130
+[INFO] [1754324755.657128848] [solver_node]: 发布重定位TF: x=-0.043, y=-0.034
+[INFO] [1754324755.670128031] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.116, current_y=-1.024, current_angle=0.130
+[INFO] [1754324755.724848783] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.116, current_y=-1.024, current_angle=0.130
+[INFO] [1754324755.770426903] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.122, current_y=-1.020, current_angle=0.129
+[INFO] [1754324755.831429370] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.130, current_y=-1.019, current_angle=0.130
+[INFO] [1754324755.898439692] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.130, current_y=-1.019, current_angle=0.130
+[INFO] [1754324755.964552974] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.125, current_y=-1.018, current_angle=0.129
+[INFO] [1754324755.979435584] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.120, current_y=-1.019, current_angle=0.129
+[INFO] [1754324756.051244075] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.125, current_y=-1.022, current_angle=0.128
+[INFO] [1754324756.109273623] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.135, current_y=-1.012, current_angle=0.130
+[INFO] [1754324756.121109265] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.135, current_y=-1.012, current_angle=0.130
+[INFO] [1754324756.170720707] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.122, current_y=-1.019, current_angle=0.128
+[INFO] [1754324756.265214127] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.122, current_y=-1.019, current_angle=0.128
+[INFO] [1754324756.319703290] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.128, current_y=-1.008, current_angle=0.130
+[INFO] [1754324756.340377655] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.129, current_y=-1.019, current_angle=0.128
+[INFO] [1754324756.369666738] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.129, current_y=-1.019, current_angle=0.128
+[INFO] [1754324756.432772380] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.115, current_y=-1.021, current_angle=0.128
+[INFO] [1754324756.469546145] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.122, current_y=-1.020, current_angle=0.130
+[INFO] [1754324756.518425509] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.117, current_y=-1.014, current_angle=0.129
+[INFO] [1754324756.590998142] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.117, current_y=-1.014, current_angle=0.129
+[INFO] [1754324756.613756833] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.116, current_y=-1.014, current_angle=0.129
+[INFO] [1754324756.669773704] [solver_node]: 发布重定位TF: x=-0.034, y=-0.033
+[INFO] [1754324756.698050673] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.104, current_y=-1.006, current_angle=0.130
+[INFO] [1754324756.713109254] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.104, current_y=-1.006, current_angle=0.130
+[INFO] [1754324756.768770055] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.124, current_y=-1.019, current_angle=0.129
+[INFO] [1754324756.823563096] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.125, current_y=-1.021, current_angle=0.128
+[INFO] [1754324756.869548999] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.125, current_y=-1.021, current_angle=0.128
+[INFO] [1754324756.923421703] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.129, current_y=-1.016, current_angle=0.128
+[INFO] [1754324757.011267096] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.126, current_y=-1.017, current_angle=0.128
+[INFO] [1754324757.025585536] [solver_node]: 求解成功: x'=0.082, y=-1.047, current_x=0.122, current_y=-1.016, current_angle=0.128
+[INFO] [1754324757.048334051] [solver_node]: 求解线程已停止
+[INFO] [1754324757.049308213] [solver_node]: TF发布线程已停止
+[INFO] [1754324757.091827171] [solver_node]: 位置更新线程已停止
+[INFO] [1754324757.129694972] [solver_node]: 重定位计算线程已停止
+[INFO] [1754324757.130918643] [solver_node]: SolverNode资源清理完成

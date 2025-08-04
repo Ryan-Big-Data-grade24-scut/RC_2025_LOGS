@@ -1,0 +1,12 @@
+[INFO] [1754314480.032129344] [solver_node]: [PerpendicularDistanceLocalizer] 激光配置 详细内容: 列表长度: 5
+[INFO] [1754314480.033111446] [solver_node]: [PerpendicularDistanceLocalizer] 激光配置[0]: ((0.37685, 1.56608), 1.5708)
+[INFO] [1754314480.033998089] [solver_node]: [PerpendicularDistanceLocalizer] 激光配置[1]: ((0.37685, -1.56608), -1.5708)
+[INFO] [1754314480.034755193] [solver_node]: [PerpendicularDistanceLocalizer] 激光配置[2]: ((0.37645, 0.47385), 0.0)
+[INFO] [1754314480.035447304] [solver_node]: [PerpendicularDistanceLocalizer] 激光配置[3]: ((0.37771, 2.42478), 3.14159)
+[INFO] [1754314480.036166072] [solver_node]: [PerpendicularDistanceLocalizer] 激光配置[4]: ((0.37771, -2.42478), 3.14159)
+[INFO] [1754314480.037004394] [solver_node]: [PerpendicularDistanceLocalizer] 前束索引: [2], 后束索引: [3, 4]
+[INFO] [1754314480.037727417] [solver_node]: [PerpendicularDistanceLocalizer] 左束索引: [0], 右束索引: [1]
+[INFO] [1754314480.043745403] [solver_node]: [PerpendicularDistanceLocalizer] h_values: [0.37684581 0.37684581 0.33497201 0.28475693 0.28475693]
+[INFO] [1754314480.044614222] [solver_node]: [PerpendicularDistanceLocalizer] 垂直距离定位器已初始化，需要调用calibrate()方法进行标定
+[INFO] [1754314480.047990327] [solver_node]: SolverNode启动，进入初始化阶段...
+[INFO] [1754314499.746370376] [solver_node]: SolverNode资源清理完成
