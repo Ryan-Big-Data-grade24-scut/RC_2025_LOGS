@@ -1,0 +1,1050 @@
+[INFO] [1754297552.873901749] [solver_node]: [PerpendicularDistanceLocalizer] 激光配置 详细内容: 列表长度: 5
+[INFO] [1754297552.874812345] [solver_node]: [PerpendicularDistanceLocalizer] 激光配置[0]: ((0.37685, 1.56608), 1.5708)
+[INFO] [1754297552.875488028] [solver_node]: [PerpendicularDistanceLocalizer] 激光配置[1]: ((0.37685, -1.56608), -1.5708)
+[INFO] [1754297552.876149599] [solver_node]: [PerpendicularDistanceLocalizer] 激光配置[2]: ((0.37645, 0.47385), 0.0)
+[INFO] [1754297552.876811971] [solver_node]: [PerpendicularDistanceLocalizer] 激光配置[3]: ((0.37771, 2.42478), 3.14159)
+[INFO] [1754297552.877493574] [solver_node]: [PerpendicularDistanceLocalizer] 激光配置[4]: ((0.37771, -2.42478), 3.14159)
+[INFO] [1754297552.878291082] [solver_node]: [PerpendicularDistanceLocalizer] 前束索引: [2], 后束索引: [3, 4]
+[INFO] [1754297552.878952205] [solver_node]: [PerpendicularDistanceLocalizer] 左束索引: [0], 右束索引: [1]
+[INFO] [1754297552.882276189] [solver_node]: [PerpendicularDistanceLocalizer] h_values: [0.37684581 0.37684581 0.33497201 0.28475693 0.28475693]
+[INFO] [1754297552.882999649] [solver_node]: [PerpendicularDistanceLocalizer] 垂直距离定位器已初始化，需要调用calibrate()方法进行标定
+[INFO] [1754297552.891519530] [solver_node]: SolverNode启动，进入初始化阶段，需要收集100次激光数据进行标定...
+[INFO] [1754297552.899282032] [solver_node]: 标定数据收集进度: 1/100
+[INFO] [1754297552.908897502] [solver_node]: 标定数据收集进度: 2/100
+[INFO] [1754297552.918868142] [solver_node]: 标定数据收集进度: 3/100
+[INFO] [1754297552.929335489] [solver_node]: 标定数据收集进度: 4/100
+[INFO] [1754297552.938981008] [solver_node]: 标定数据收集进度: 5/100
+[INFO] [1754297552.949145121] [solver_node]: 标定数据收集进度: 6/100
+[INFO] [1754297552.959076081] [solver_node]: 标定数据收集进度: 7/100
+[INFO] [1754297552.969083842] [solver_node]: 标定数据收集进度: 8/100
+[INFO] [1754297552.978984562] [solver_node]: 标定数据收集进度: 9/100
+[INFO] [1754297552.988664481] [solver_node]: 标定数据收集进度: 10/100
+[INFO] [1754297552.998839058] [solver_node]: 标定数据收集进度: 11/100
+[INFO] [1754297553.009081795] [solver_node]: 标定数据收集进度: 12/100
+[INFO] [1754297553.018934451] [solver_node]: 标定数据收集进度: 13/100
+[INFO] [1754297553.028702242] [solver_node]: 标定数据收集进度: 14/100
+[INFO] [1754297553.038609746] [solver_node]: 标定数据收集进度: 15/100
+[INFO] [1754297553.048660323] [solver_node]: 标定数据收集进度: 16/100
+[INFO] [1754297553.058516146] [solver_node]: 标定数据收集进度: 17/100
+[INFO] [1754297553.068697380] [solver_node]: 标定数据收集进度: 18/100
+[INFO] [1754297553.078599763] [solver_node]: 标定数据收集进度: 19/100
+[INFO] [1754297553.088586820] [solver_node]: 标定数据收集进度: 20/100
+[INFO] [1754297553.098591700] [solver_node]: 标定数据收集进度: 21/100
+[INFO] [1754297553.108648165] [solver_node]: 标定数据收集进度: 22/100
+[INFO] [1754297553.118472788] [solver_node]: 标定数据收集进度: 23/100
+[INFO] [1754297553.128591173] [solver_node]: 标定数据收集进度: 24/100
+[INFO] [1754297553.138484021] [solver_node]: 标定数据收集进度: 25/100
+[INFO] [1754297553.148509125] [solver_node]: 标定数据收集进度: 26/100
+[INFO] [1754297553.158450101] [solver_node]: 标定数据收集进度: 27/100
+[INFO] [1754297553.168483654] [solver_node]: 标定数据收集进度: 28/100
+[INFO] [1754297553.178461334] [solver_node]: 标定数据收集进度: 29/100
+[INFO] [1754297553.188490182] [solver_node]: 标定数据收集进度: 30/100
+[INFO] [1754297553.198605431] [solver_node]: 标定数据收集进度: 31/100
+[INFO] [1754297553.208599752] [solver_node]: 标定数据收集进度: 32/100
+[INFO] [1754297553.218541912] [solver_node]: 标定数据收集进度: 33/100
+[INFO] [1754297553.228576040] [solver_node]: 标定数据收集进度: 34/100
+[INFO] [1754297553.238955194] [solver_node]: 标定数据收集进度: 35/100
+[INFO] [1754297553.249880079] [solver_node]: 标定数据收集进度: 36/100
+[INFO] [1754297553.259381021] [solver_node]: 标定数据收集进度: 37/100
+[INFO] [1754297553.268764746] [solver_node]: 标定数据收集进度: 38/100
+[INFO] [1754297553.279309757] [solver_node]: 标定数据收集进度: 39/100
+[INFO] [1754297553.289442862] [solver_node]: 标定数据收集进度: 40/100
+[INFO] [1754297553.299817280] [solver_node]: 标定数据收集进度: 41/100
+[INFO] [1754297553.309772784] [solver_node]: 标定数据收集进度: 42/100
+[INFO] [1754297553.319413311] [solver_node]: 标定数据收集进度: 43/100
+[INFO] [1754297553.329523152] [solver_node]: 标定数据收集进度: 44/100
+[INFO] [1754297553.339468224] [solver_node]: 标定数据收集进度: 45/100
+[INFO] [1754297553.349220655] [solver_node]: 标定数据收集进度: 46/100
+[INFO] [1754297553.359283776] [solver_node]: 标定数据收集进度: 47/100
+[INFO] [1754297553.369600818] [solver_node]: 标定数据收集进度: 48/100
+[INFO] [1754297553.380019236] [solver_node]: 标定数据收集进度: 49/100
+[INFO] [1754297553.391287674] [solver_node]: 标定数据收集进度: 50/100
+[INFO] [1754297553.399715011] [solver_node]: 标定数据收集进度: 51/100
+[INFO] [1754297553.409133297] [solver_node]: 标定数据收集进度: 52/100
+[INFO] [1754297553.419170561] [solver_node]: 标定数据收集进度: 53/100
+[INFO] [1754297553.429509683] [solver_node]: 标定数据收集进度: 54/100
+[INFO] [1754297553.439778277] [solver_node]: 标定数据收集进度: 55/100
+[INFO] [1754297553.450986619] [solver_node]: 标定数据收集进度: 56/100
+[INFO] [1754297553.470196440] [solver_node]: 标定数据收集进度: 57/100
+[INFO] [1754297553.475397905] [solver_node]: 标定数据收集进度: 58/100
+[INFO] [1754297553.480241416] [solver_node]: 标定数据收集进度: 59/100
+[INFO] [1754297553.490538234] [solver_node]: 标定数据收集进度: 60/100
+[INFO] [1754297553.499582534] [solver_node]: 标定数据收集进度: 61/100
+[INFO] [1754297553.508724914] [solver_node]: 标定数据收集进度: 62/100
+[INFO] [1754297553.518595778] [solver_node]: 标定数据收集进度: 63/100
+[INFO] [1754297553.528530514] [solver_node]: 标定数据收集进度: 64/100
+[INFO] [1754297553.538992292] [solver_node]: 标定数据收集进度: 65/100
+[INFO] [1754297553.549236118] [solver_node]: 标定数据收集进度: 66/100
+[INFO] [1754297553.559317222] [solver_node]: 标定数据收集进度: 67/100
+[INFO] [1754297553.568669076] [solver_node]: 标定数据收集进度: 68/100
+[INFO] [1754297553.578583171] [solver_node]: 标定数据收集进度: 69/100
+[INFO] [1754297553.588713396] [solver_node]: 标定数据收集进度: 70/100
+[INFO] [1754297553.598752261] [solver_node]: 标定数据收集进度: 71/100
+[INFO] [1754297553.608588628] [solver_node]: 标定数据收集进度: 72/100
+[INFO] [1754297553.618542533] [solver_node]: 标定数据收集进度: 73/100
+[INFO] [1754297553.628693558] [solver_node]: 标定数据收集进度: 74/100
+[INFO] [1754297553.638973575] [solver_node]: 标定数据收集进度: 75/100
+[INFO] [1754297553.648978744] [solver_node]: 标定数据收集进度: 76/100
+[INFO] [1754297553.659087304] [solver_node]: 标定数据收集进度: 77/100
+[INFO] [1754297553.668646167] [solver_node]: 标定数据收集进度: 78/100
+[INFO] [1754297553.678545862] [solver_node]: 标定数据收集进度: 79/100
+[INFO] [1754297553.689239258] [solver_node]: 标定数据收集进度: 80/100
+[INFO] [1754297553.698837545] [solver_node]: 标定数据收集进度: 81/100
+[INFO] [1754297553.708771449] [solver_node]: 标定数据收集进度: 82/100
+[INFO] [1754297553.719090346] [solver_node]: 标定数据收集进度: 83/100
+[INFO] [1754297553.728897434] [solver_node]: 标定数据收集进度: 84/100
+[INFO] [1754297553.738590985] [solver_node]: 标定数据收集进度: 85/100
+[INFO] [1754297553.749370237] [solver_node]: 标定数据收集进度: 86/100
+[INFO] [1754297553.759480494] [solver_node]: 标定数据收集进度: 87/100
+[INFO] [1754297553.769452574] [solver_node]: 标定数据收集进度: 88/100
+[INFO] [1754297553.779523438] [solver_node]: 标定数据收集进度: 89/100
+[INFO] [1754297553.789706752] [solver_node]: 标定数据收集进度: 90/100
+[INFO] [1754297553.799238766] [solver_node]: 标定数据收集进度: 91/100
+[INFO] [1754297553.809425215] [solver_node]: 标定数据收集进度: 92/100
+[INFO] [1754297553.819467535] [solver_node]: 标定数据收集进度: 93/100
+[INFO] [1754297553.829359103] [solver_node]: 标定数据收集进度: 94/100
+[INFO] [1754297553.839490832] [solver_node]: 标定数据收集进度: 95/100
+[INFO] [1754297553.849618145] [solver_node]: 标定数据收集进度: 96/100
+[INFO] [1754297553.859245200] [solver_node]: 标定数据收集进度: 97/100
+[INFO] [1754297553.868882686] [solver_node]: 标定数据收集进度: 98/100
+[INFO] [1754297553.878806382] [solver_node]: 标定数据收集进度: 99/100
+[INFO] [1754297553.889485602] [solver_node]: 标定数据收集进度: 100/100
+[INFO] [1754297553.890413830] [solver_node]: 标定数据收集完成，开始标定过程...
+[INFO] [1754297553.891339083] [solver_node]: 开始标定，收集到的数据shape: (100, 5)
+[INFO] [1754297553.892264239] [solver_node]: [PerpendicularDistanceLocalizer] 开始标定，扫描数据shape: (100, 5)
+[INFO] [1754297553.894580186] [solver_node]: [PerpendicularDistanceLocalizer] 平均测距值 详细内容: 形状: (5,), 类型: float64
+[INFO] [1754297553.895559615] [solver_node]: [PerpendicularDistanceLocalizer] 平均测距值[0]: 0.1459999978542328
+[INFO] [1754297553.896484644] [solver_node]: [PerpendicularDistanceLocalizer] 平均测距值[1]: 7.076000213623047
+[INFO] [1754297553.897680713] [solver_node]: [PerpendicularDistanceLocalizer] 平均测距值[2]: 7.564000129699707
+[INFO] [1754297553.898429165] [solver_node]: [PerpendicularDistanceLocalizer] 平均测距值[3]: 1.7760000228881836
+[INFO] [1754297553.899070448] [solver_node]: [PerpendicularDistanceLocalizer] 平均测距值[4]: 1.7850199675559997
+[INFO] [1754297553.899784724] [solver_node]: [PerpendicularDistanceLocalizer] h_values 详细内容: 形状: (5,), 类型: float64
+[INFO] [1754297553.900449975] [solver_node]: [PerpendicularDistanceLocalizer] h_values[0]: 0.37684580873135426
+[INFO] [1754297553.901156506] [solver_node]: [PerpendicularDistanceLocalizer] h_values[1]: 0.37684580873135426
+[INFO] [1754297553.901861214] [solver_node]: [PerpendicularDistanceLocalizer] h_values[2]: 0.33497201345916283
+[INFO] [1754297553.902503137] [solver_node]: [PerpendicularDistanceLocalizer] h_values[3]: 0.2847569265233284
+[INFO] [1754297553.903140260] [solver_node]: [PerpendicularDistanceLocalizer] h_values[4]: 0.2847569265233284
+[INFO] [1754297553.904659787] [solver_node]: [PerpendicularDistanceLocalizer] 标定完成: m=9.964, n=7.976
+[INFO] [1754297553.905408271] [solver_node]: [PerpendicularDistanceLocalizer] 前后左右平均距离: 前=7.899, 后=2.065, 左=0.523, 右=7.453
+[INFO] [1754297553.906066546] [solver_node]: [PerpendicularDistanceLocalizer] 计算的初始位姿: x=2.065, y=7.453, phi=1.571
+[INFO] [1754297553.906708085] [solver_node]: 标定完成: m=9.964, n=7.976
+[INFO] [1754297553.907380312] [solver_node]: 初始位姿: x=2.065, y=7.453, phi=1.571
+[INFO] [1754297553.908874687] [solver_node]: 初始化阶段完成，进入运行阶段
+[INFO] [1754297553.910488487] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297553.911681517] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297553.918466542] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297553.920629016] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297553.928783488] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297553.938629871] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297553.948679200] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297553.958542319] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297553.968507968] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297553.979644917] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297553.992948886] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297553.999466485] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.012079346] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297554.013968731] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297554.014678303] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.019496246] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297554.023854219] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754297554.024748303] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297554.025856532] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297554.029474694] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.039659863] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.049878952] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.060208250] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.069570919] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.079060981] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.089017797] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.099034677] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.108894149] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297554.110558957] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.118008945] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297554.121552322] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.130305420] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297554.131376433] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754297554.132187669] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297554.133237754] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297554.139121430] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.149459368] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.160955167] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.169410856] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.179127415] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.189863147] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.199447801] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.209685194] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297554.214398241] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297554.215478182] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.219024343] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.228695206] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297554.235982953] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754297554.236807149] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297554.238848823] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297554.239781659] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.248582310] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.259831836] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.268783207] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.278662103] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.288654023] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.298609815] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.308470822] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297554.309719628] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.319975838] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297554.320506528] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.328762056] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.338566871] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297554.341404805] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754297554.342198345] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297554.343161838] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297554.348698376] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.358752921] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.368659048] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.379096859] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.388859370] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.398787642] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.408491464] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297554.409608334] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.414892135] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297554.418712378] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.428601353] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.438681530] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297554.445700732] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754297554.446529472] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297554.447536389] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297554.449221069] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.458803035] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.468917036] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.479429566] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.490221650] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.498949436] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.508461450] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297554.509795473] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.520807974] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.522818671] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297554.528795564] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.538562843] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.548886093] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297554.551190968] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754297554.552117757] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297554.553158306] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297554.558902557] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.568923790] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.578839069] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.588668269] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.598876158] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.608600077] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297554.609768690] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.620598343] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297554.621317098] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.629220496] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.638918047] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.649247665] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297554.656715317] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754297554.659737987] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297554.660390406] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.662450128] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297554.669155665] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.680494887] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.694735340] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.699040161] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.708942416] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297554.710137718] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.714841197] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297554.720518568] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.729372019] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.738883425] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.749425107] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.759188546] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297554.766429701] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754297554.769274675] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297554.770188471] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.772426370] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297554.779388228] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.788976722] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.798729025] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.808582960] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297554.809963767] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.820958540] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297554.821436622] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.829350357] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.839203204] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.850232537] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.859623078] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.868765362] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297554.875225874] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754297554.876021429] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297554.877070330] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297554.878935619] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.888719795] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.898803267] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.908361297] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297554.909412054] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.919138373] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297554.919952521] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.928670387] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.938660195] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.949032661] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.958717444] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.968745268] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.978572356] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297554.980414220] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754297554.981209072] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297554.982185205] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297554.988541460] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297554.998497156] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.009044150] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297555.010302524] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.016204473] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297555.019146855] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.029205367] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.038847718] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.049558297] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.058831110] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.068762197] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.079601994] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297555.086277546] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754297555.087309583] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297555.089546777] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297555.090773727] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.099216616] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.108737334] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297555.109953691] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.122039093] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.124359617] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297555.129039351] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.138863974] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.148914647] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.158683814] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.168787926] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.178750406] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.188924439] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297555.192641001] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754297555.193488717] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297555.194482130] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297555.198882247] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.208680854] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297555.209862044] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.220015148] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.222719641] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297555.228841143] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.239583882] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.249158232] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.259159080] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.269074936] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.279020744] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.289215609] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297555.297123199] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754297555.299913388] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297555.300528207] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.302815002] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297555.309105817] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297555.310705888] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.320439791] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297555.320691888] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.328851735] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.339053000] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.348932888] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.358815911] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.368773847] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.378716295] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.388667447] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.398818472] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297555.405312871] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754297555.406137899] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297555.407123376] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297555.408636151] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297555.409779516] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.415897722] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297555.418868072] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.429107577] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.438833832] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.448915224] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.458854536] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.469178970] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.478791208] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.488836120] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.498761480] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.508600215] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297555.510357376] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297555.511926951] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754297555.512748267] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297555.513745552] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297555.521463317] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297555.521771191] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.528997849] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.539024745] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.548814425] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.558875977] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.568890233] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.578715880] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.588894457] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.598695464] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.608517271] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297555.609565501] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297555.619958990] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[INFO] [1754297555.621049876] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297555.621398837] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297555.622946557] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297555.624020546] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297555.629017914] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.638778793] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.648807641] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.658712329] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.668710361] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.678677449] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.688752793] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.698842858] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.708500792] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297555.709561725] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.716513983] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297555.718900906] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297555.726381710] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754297555.727269490] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297555.730552962] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.731768232] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297555.738936906] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.748782970] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.758815146] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.768740985] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.778711081] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.789148764] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.798798186] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.808504089] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297555.809581182] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.815275865] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297555.818808554] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.828744826] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297555.834296661] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754297555.835130681] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297555.836156029] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297555.839503534] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.848924027] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.858721578] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.868833755] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.878691082] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.888816443] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.898669674] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.908504633] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297555.909575614] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.920771316] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297555.921039157] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.928803131] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.941065398] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297555.942401500] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754297555.943286176] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297555.944368102] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297555.949120860] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.959129645] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.969393534] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.979487950] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.989199805] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297555.999315278] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.008866491] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297556.011100902] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.019037452] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297556.019700207] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.029476574] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.039051628] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297556.047616181] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[INFO] [1754297556.050349282] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297556.051643305] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297556.052680493] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297556.059016748] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.068863547] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.078744074] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.088767098] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.098682826] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.108475097] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297556.109539646] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.116358271] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297556.119451502] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.129415293] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.139187596] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.149476637] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297556.156743104] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754297556.158618665] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297556.159224012] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.161313046] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297556.168785690] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.178721226] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.190690275] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.199044427] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.208640729] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297556.209746046] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.221224725] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297556.222938718] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.229139835] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.239050347] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.250401505] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.259444012] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297556.264194627] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754297556.265124584] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297556.266222509] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297556.269267548] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.279393100] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.289682397] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.299063114] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.308611064] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297556.309771934] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.319932558] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297556.320422897] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.329333979] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.338718344] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.350381376] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.359668461] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.368822425] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297556.371720199] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754297556.372920364] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297556.374132242] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297556.378888137] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.389106170] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.398781864] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.408786392] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297556.410003358] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.417439970] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297556.418727528] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.428875321] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.439764237] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.449143546] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.458944777] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.468695159] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297556.479898221] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[INFO] [1754297556.480213295] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297556.482273529] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297556.483319230] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297556.488938168] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.498856584] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.508666135] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297556.509818141] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.515560568] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297556.518944456] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.528969784] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.538716487] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.548857848] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.558839912] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.568810391] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.578715111] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297556.585900937] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754297556.586871758] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297556.589155801] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297556.590079453] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.599004712] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.608651702] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297556.610126397] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.621211730] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297556.621729429] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.629786204] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.639297865] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.648742038] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.658874567] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.668727926] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.678661414] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.688711254] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297556.692269927] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754297556.693095659] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297556.694084944] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297556.698771718] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.708582453] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297556.709651930] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.718563685] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297556.719167560] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.728838646] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.738727686] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.748720822] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.758667301] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.768653269] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.778606117] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.788697109] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297556.800861008] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[INFO] [1754297556.801141265] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297556.803179675] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297556.804225088] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297556.808751413] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297556.809914587] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.815959480] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297556.818894694] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.828818710] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.838777829] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.848786165] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.858714021] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.868704309] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.878706501] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.888695221] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.898777349] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297556.907320878] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[INFO] [1754297556.909493912] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[WARN] [1754297556.910763934] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297556.911203936] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.913518315] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297556.920389452] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297556.921451025] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.928856341] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.938762276] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.948796565] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.958713668] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.968810292] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.978737060] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.988945749] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297556.999022853] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.008578291] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297557.009695832] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.017649694] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297557.018989637] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297557.021339376] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754297557.022136084] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297557.023119993] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297557.029045333] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.038851300] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.048875476] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.058747587] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.068703186] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.078835907] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.089069044] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.098800098] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.108550385] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297557.109609878] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.114258700] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297557.124148572] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297557.129847959] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[INFO] [1754297557.130153560] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297557.132265122] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297557.133464008] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297557.139087811] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.148857074] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.158870561] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.168735377] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.179102882] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.189786197] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.198927201] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.208600015] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297557.209695796] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.221117451] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297557.221774862] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.228785232] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297557.236454004] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754297557.237347481] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297557.240705993] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297557.241339660] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.248954192] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.258833407] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.268792815] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.278991904] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.288828015] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.298743006] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.308564845] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297557.309606482] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.319763587] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297557.320226821] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.328721421] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.338599517] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297557.343397396] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754297557.344214935] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297557.345307709] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297557.348695949] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.358708957] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.368599148] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.378527003] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.388651724] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.398651452] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.408430858] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297557.409401103] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.416277584] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297557.419030397] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.428619787] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.438593563] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297557.448971020] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[INFO] [1754297557.451005046] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297557.452609150] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297557.453878948] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297557.458748443] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.468556234] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.478618394] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.488548105] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.499061468] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.508567241] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297557.509691022] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.523568177] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297557.523748530] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.528808266] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.538903066] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.550356305] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297557.556943824] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754297557.557884181] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297557.562209482] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.564616085] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297557.569288619] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.579864446] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.589252907] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.599188698] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.609034345] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297557.610273583] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.623083692] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297557.625511672] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.630030350] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.639001401] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.648976968] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.658761271] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.670819249] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297557.671650069] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754297557.673230012] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297557.674376610] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297557.679342489] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.688967911] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.698982295] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.708814310] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297557.710179501] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.720884352] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297557.721711556] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.729568970] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.739904379] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.749149031] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.759314808] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.768806469] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.778983446] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297557.781628386] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754297557.782475654] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297557.783504491] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297557.788796069] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.798967477] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.808973957] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297557.810319212] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.819911769] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297557.820222459] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.829274694] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.839516215] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.849525255] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.859154453] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.869034948] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.878877523] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297557.886377655] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754297557.887243771] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297557.890225225] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297557.892789878] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.898951347] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.908508929] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297557.909567302] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.920233177] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297557.920576219] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.928768706] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.938716465] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.949015971] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.958754897] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.969021442] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.978658000] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297557.988929313] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297557.994000314] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754297557.994826557] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297557.995859394] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297557.998805489] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.008550335] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297558.009618436] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.017077192] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297558.018930705] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.028937312] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.039229841] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.049684483] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.059636979] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.069496002] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.079397585] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.089655970] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.100285524] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297558.102026589] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754297558.102852417] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297558.103820517] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297558.108539164] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297558.113278450] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.114226455] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297558.118798957] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.128955549] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.138699820] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.148594107] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.158965484] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.168842587] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.179017772] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.188831291] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.198807818] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297558.206457199] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754297558.207555412] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297558.210072832] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297558.210856164] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297558.212397163] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.223257727] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297558.223902786] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.229166651] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.238814857] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.248823673] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.258769640] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.268704535] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.278687623] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.288620758] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.298668966] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.308564405] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297558.309566138] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297558.312595945] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754297558.313408812] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297558.320417038] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297558.322342423] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297558.322628856] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.328856310] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.338677125] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.348797941] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.358724260] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.368882133] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.378726884] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.388751956] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.398719139] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.408638034] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297558.409693815] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.420092649] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297558.420578827] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297558.423215608] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754297558.424040444] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297558.425998725] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297558.429358997] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.438919459] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.449003283] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.458948610] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.469051186] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.479642405] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.490246199] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.499445411] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.508939217] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297558.510307671] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.520534376] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.521564941] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297558.530802329] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297558.532660834] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754297558.533547270] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297558.534567243] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297558.538842111] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.548760974] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.558659806] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.568652013] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.578772318] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.588658509] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.598654940] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.608497515] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297558.609515376] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.620246755] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297558.620574469] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.628880556] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297558.638561051] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[INFO] [1754297558.639856097] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297558.641973931] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297558.642965520] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297558.648831660] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.658757723] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.668745322] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.678717242] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.688684106] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.698710969] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.708589768] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297558.709598509] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.719204443] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297558.719760990] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.729139626] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.738785944] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297558.745320664] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754297558.746119419] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297558.747101984] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297558.748793288] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.758930776] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.770054189] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.779089209] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.789269129] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.799460122] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.809257736] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297558.810492206] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.819171672] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297558.819914427] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.829476201] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.838921110] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.848863909] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297558.851718739] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754297558.852528407] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297558.853536251] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297558.859127670] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.869105574] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.879625432] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.889552199] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.899456374] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.909058276] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297558.910329386] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.921566912] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297558.922248899] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.929382629] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.939265364] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.948922722] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.960264088] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297558.963048550] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754297558.963966442] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297558.965081999] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297558.969141859] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.979730165] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.989643972] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297558.999984950] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.009556323] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297559.010831433] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.017618890] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297559.020541527] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.029636131] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.039106224] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.048789886] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.058703501] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297559.068666076] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[INFO] [1754297559.070102243] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297559.072084940] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297559.073149362] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297559.078737644] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.088673883] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.098706187] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.108508826] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297559.109480894] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.120635571] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297559.120835028] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.129729823] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.139366572] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.149131259] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.159054090] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.169002713] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297559.177075584] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754297559.179230858] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297559.179796525] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.182671674] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297559.189120633] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.198851815] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.208817111] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297559.209939164] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.220489134] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297559.220671407] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.229130583] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.239249639] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.249538008] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.259667912] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.269505687] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.279512455] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297559.285581060] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754297559.286438888] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297559.289536918] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297559.290601755] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.299238533] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.309034579] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297559.310503770] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.320780875] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.322296210] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297559.329283155] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.338851809] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.349165362] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.358929760] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.368757359] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.378705310] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.388776878] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297559.392851298] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754297559.393706950] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297559.394714923] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297559.398762366] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.408545004] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297559.409575185] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.419877186] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297559.420310340] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.428910381] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.438749948] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.449034061] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.458879292] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.468921931] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.478772026] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.488788650] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297559.499710366] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[INFO] [1754297559.500696162] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297559.502365962] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297559.504663989] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297559.509057258] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297559.510231376] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.520295424] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297559.520857378] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.529349515] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.539211002] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.549034088] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.559169496] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.568909703] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.579010295] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.588905510] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.599045590] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297559.607459710] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754297559.610288844] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297559.611235824] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297559.615872678] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297559.617564622] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297559.617763919] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.620778941] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.629114789] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.639004852] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.648795715] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.658953107] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.668832386] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.678714609] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.688714560] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.698692720] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.708514655] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297559.709490275] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.719662164] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297559.721508380] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297559.722674850] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754297559.724495947] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297559.725537103] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297559.729286881] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.739091184] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.748954943] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.758980110] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.768973118] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.778923021] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.789138174] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.798999373] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.808737499] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297559.809863904] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.821382839] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297559.822470076] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297559.829044252] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[INFO] [1754297559.831093541] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297559.833865427] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297559.834907192] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297559.838967467] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.848896154] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.858780969] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.868755576] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.878731912] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.888688087] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.899157481] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.908566486] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297559.909596411] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.922532696] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.923625981] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297559.928865014] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.940349517] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297559.941471250] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754297559.943319355] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297559.944348384] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297559.948901718] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.958933221] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.968766996] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.978704163] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.988666067] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297559.998660834] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297560.008545681] [solver_node]: 已提交静态TF发布任务: translation=(-2.065, -7.453, 0.0)
+[INFO] [1754297560.009592534] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297560.020705963] [solver_node]: 发布静态变换完成: translation=(-2.065, -7.453, 0.0), 无旋转
+[INFO] [1754297560.021290830] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297560.028929906] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297560.038825441] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297560.046964519] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754297560.048829872] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297560.050206423] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297560.054025577] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754297560.058908224] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297560.068835119] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297560.078745246] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754297560.088759693] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754297560.157114162] [solver_node]: 获取TF失败: "chassis_link" passed to lookupTransform argument source_frame does not exist. 
+[WARN] [1754297560.158009462] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754297560.158664601] [solver_node]: 求解循环已停止
+[INFO] [1754297560.159679710] [solver_node]: SolverNode资源清理完成

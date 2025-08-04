@@ -1,0 +1,739 @@
+[INFO] [1754305420.991116759] [solver_node]: [PerpendicularDistanceLocalizer] 激光配置 详细内容: 列表长度: 5
+[INFO] [1754305420.991994689] [solver_node]: [PerpendicularDistanceLocalizer] 激光配置[0]: ((0.37685, 1.56608), 1.5708)
+[INFO] [1754305420.992681290] [solver_node]: [PerpendicularDistanceLocalizer] 激光配置[1]: ((0.37685, -1.56608), -1.5708)
+[INFO] [1754305420.993334130] [solver_node]: [PerpendicularDistanceLocalizer] 激光配置[2]: ((0.37645, 0.47385), 0.0)
+[INFO] [1754305420.994030714] [solver_node]: [PerpendicularDistanceLocalizer] 激光配置[3]: ((0.37771, 2.42478), 3.14159)
+[INFO] [1754305420.994708738] [solver_node]: [PerpendicularDistanceLocalizer] 激光配置[4]: ((0.37771, -2.42478), 3.14159)
+[INFO] [1754305420.995521836] [solver_node]: [PerpendicularDistanceLocalizer] 前束索引: [2], 后束索引: [3, 4]
+[INFO] [1754305420.996404375] [solver_node]: [PerpendicularDistanceLocalizer] 左束索引: [0], 右束索引: [1]
+[INFO] [1754305420.998694802] [solver_node]: [PerpendicularDistanceLocalizer] h_values: [0.37684581 0.37684581 0.33497201 0.28475693 0.28475693]
+[INFO] [1754305420.999407963] [solver_node]: [PerpendicularDistanceLocalizer] 垂直距离定位器已初始化，需要调用calibrate()方法进行标定
+[INFO] [1754305421.010026491] [solver_node]: SolverNode启动，进入初始化阶段...
+[INFO] [1754305464.003897554] [solver_node]: 标定数据收集进度: 1/500
+[INFO] [1754305464.010842025] [solver_node]: 标定数据收集进度: 2/500
+[INFO] [1754305464.020776555] [solver_node]: 标定数据收集进度: 3/500
+[INFO] [1754305464.030589352] [solver_node]: 标定数据收集进度: 4/500
+[INFO] [1754305464.041032124] [solver_node]: 标定数据收集进度: 5/500
+[INFO] [1754305464.051386605] [solver_node]: 标定数据收集进度: 6/500
+[INFO] [1754305464.064736648] [solver_node]: 标定数据收集进度: 7/500
+[INFO] [1754305464.072153488] [solver_node]: 标定数据收集进度: 8/500
+[INFO] [1754305464.080901415] [solver_node]: 标定数据收集进度: 9/500
+[INFO] [1754305464.091139924] [solver_node]: 标定数据收集进度: 10/500
+[INFO] [1754305464.100371005] [solver_node]: 标定数据收集进度: 11/500
+[INFO] [1754305464.115266575] [solver_node]: 标定数据收集进度: 12/500
+[INFO] [1754305464.120702929] [solver_node]: 标定数据收集进度: 13/500
+[INFO] [1754305464.130335175] [solver_node]: 标定数据收集进度: 14/500
+[INFO] [1754305464.142999946] [solver_node]: 标定数据收集进度: 15/500
+[INFO] [1754305464.150349776] [solver_node]: 标定数据收集进度: 16/500
+[INFO] [1754305464.161055789] [solver_node]: 标定数据收集进度: 17/500
+[INFO] [1754305464.170596769] [solver_node]: 标定数据收集进度: 18/500
+[INFO] [1754305464.181444707] [solver_node]: 标定数据收集进度: 19/500
+[INFO] [1754305464.190932981] [solver_node]: 标定数据收集进度: 20/500
+[INFO] [1754305464.203055557] [solver_node]: 标定数据收集进度: 21/500
+[INFO] [1754305464.215036079] [solver_node]: 标定数据收集进度: 22/500
+[INFO] [1754305464.224033263] [solver_node]: 标定数据收集进度: 23/500
+[INFO] [1754305464.238296203] [solver_node]: 标定数据收集进度: 24/500
+[INFO] [1754305464.241782951] [solver_node]: 标定数据收集进度: 25/500
+[INFO] [1754305464.250351096] [solver_node]: 标定数据收集进度: 26/500
+[INFO] [1754305464.261119000] [solver_node]: 标定数据收集进度: 27/500
+[INFO] [1754305464.270978519] [solver_node]: 标定数据收集进度: 28/500
+[INFO] [1754305464.281022524] [solver_node]: 标定数据收集进度: 29/500
+[INFO] [1754305464.291004608] [solver_node]: 标定数据收集进度: 30/500
+[INFO] [1754305464.301691996] [solver_node]: 标定数据收集进度: 31/500
+[INFO] [1754305464.310713726] [solver_node]: 标定数据收集进度: 32/500
+[INFO] [1754305464.322463296] [solver_node]: 标定数据收集进度: 33/500
+[INFO] [1754305464.334402857] [solver_node]: 标定数据收集进度: 34/500
+[INFO] [1754305464.342883127] [solver_node]: 标定数据收集进度: 35/500
+[INFO] [1754305464.350406819] [solver_node]: 标定数据收集进度: 36/500
+[INFO] [1754305464.360286595] [solver_node]: 标定数据收集进度: 37/500
+[INFO] [1754305464.371164134] [solver_node]: 标定数据收集进度: 38/500
+[INFO] [1754305464.380564757] [solver_node]: 标定数据收集进度: 39/500
+[INFO] [1754305464.390762912] [solver_node]: 标定数据收集进度: 40/500
+[INFO] [1754305464.403526822] [solver_node]: 标定数据收集进度: 41/500
+[INFO] [1754305464.410439772] [solver_node]: 标定数据收集进度: 42/500
+[INFO] [1754305464.420442528] [solver_node]: 标定数据收集进度: 43/500
+[INFO] [1754305464.432333800] [solver_node]: 标定数据收集进度: 44/500
+[INFO] [1754305464.440510955] [solver_node]: 标定数据收集进度: 45/500
+[INFO] [1754305464.451312139] [solver_node]: 标定数据收集进度: 46/500
+[INFO] [1754305464.461166922] [solver_node]: 标定数据收集进度: 47/500
+[INFO] [1754305464.470988008] [solver_node]: 标定数据收集进度: 48/500
+[INFO] [1754305464.480112653] [solver_node]: 标定数据收集进度: 49/500
+[INFO] [1754305464.491952242] [solver_node]: 标定数据收集进度: 50/500
+[INFO] [1754305464.500440800] [solver_node]: 标定数据收集进度: 51/500
+[INFO] [1754305464.510242333] [solver_node]: 标定数据收集进度: 52/500
+[INFO] [1754305464.522202119] [solver_node]: 标定数据收集进度: 53/500
+[INFO] [1754305464.530664981] [solver_node]: 标定数据收集进度: 54/500
+[INFO] [1754305464.541331344] [solver_node]: 标定数据收集进度: 55/500
+[INFO] [1754305464.551561917] [solver_node]: 标定数据收集进度: 56/500
+[INFO] [1754305464.560502939] [solver_node]: 标定数据收集进度: 57/500
+[INFO] [1754305464.571768780] [solver_node]: 标定数据收集进度: 58/500
+[INFO] [1754305464.581298271] [solver_node]: 标定数据收集进度: 59/500
+[INFO] [1754305464.608165564] [solver_node]: 标定数据收集进度: 60/500
+[INFO] [1754305464.610961951] [solver_node]: 标定数据收集进度: 61/500
+[INFO] [1754305464.613956138] [solver_node]: 标定数据收集进度: 62/500
+[INFO] [1754305464.627387400] [solver_node]: 标定数据收集进度: 63/500
+[INFO] [1754305464.632761128] [solver_node]: 标定数据收集进度: 64/500
+[INFO] [1754305464.646180869] [solver_node]: 标定数据收集进度: 65/500
+[INFO] [1754305464.651591750] [solver_node]: 标定数据收集进度: 66/500
+[INFO] [1754305464.665971430] [solver_node]: 标定数据收集进度: 67/500
+[INFO] [1754305464.671437289] [solver_node]: 标定数据收集进度: 68/500
+[INFO] [1754305464.681669749] [solver_node]: 标定数据收集进度: 69/500
+[INFO] [1754305464.691210921] [solver_node]: 标定数据收集进度: 70/500
+[INFO] [1754305464.700521620] [solver_node]: 标定数据收集进度: 71/500
+[INFO] [1754305464.711897289] [solver_node]: 标定数据收集进度: 72/500
+[INFO] [1754305464.724029721] [solver_node]: 标定数据收集进度: 73/500
+[INFO] [1754305464.731513635] [solver_node]: 标定数据收集进度: 74/500
+[INFO] [1754305464.741212157] [solver_node]: 标定数据收集进度: 75/500
+[INFO] [1754305464.751507883] [solver_node]: 标定数据收集进度: 76/500
+[INFO] [1754305464.760707891] [solver_node]: 标定数据收集进度: 77/500
+[INFO] [1754305464.772552153] [solver_node]: 标定数据收集进度: 78/500
+[INFO] [1754305464.784247385] [solver_node]: 标定数据收集进度: 79/500
+[INFO] [1754305464.794316095] [solver_node]: 标定数据收集进度: 80/500
+[INFO] [1754305464.804161246] [solver_node]: 标定数据收集进度: 81/500
+[INFO] [1754305464.814233413] [solver_node]: 标定数据收集进度: 82/500
+[INFO] [1754305464.822195840] [solver_node]: 标定数据收集进度: 83/500
+[INFO] [1754305464.831303428] [solver_node]: 标定数据收集进度: 84/500
+[INFO] [1754305464.841794266] [solver_node]: 标定数据收集进度: 85/500
+[INFO] [1754305464.851249642] [solver_node]: 标定数据收集进度: 86/500
+[INFO] [1754305464.861367795] [solver_node]: 标定数据收集进度: 87/500
+[INFO] [1754305464.875943482] [solver_node]: 标定数据收集进度: 88/500
+[INFO] [1754305464.886156677] [solver_node]: 标定数据收集进度: 89/500
+[INFO] [1754305464.895396078] [solver_node]: 标定数据收集进度: 90/500
+[INFO] [1754305464.908083250] [solver_node]: 标定数据收集进度: 91/500
+[INFO] [1754305464.915633087] [solver_node]: 标定数据收集进度: 92/500
+[INFO] [1754305464.922938307] [solver_node]: 标定数据收集进度: 93/500
+[INFO] [1754305464.930734872] [solver_node]: 标定数据收集进度: 94/500
+[INFO] [1754305464.943578370] [solver_node]: 标定数据收集进度: 95/500
+[INFO] [1754305464.951195857] [solver_node]: 标定数据收集进度: 96/500
+[INFO] [1754305464.960953548] [solver_node]: 标定数据收集进度: 97/500
+[INFO] [1754305464.970890030] [solver_node]: 标定数据收集进度: 98/500
+[INFO] [1754305464.980421921] [solver_node]: 标定数据收集进度: 99/500
+[INFO] [1754305464.991174336] [solver_node]: 标定数据收集进度: 100/500
+[INFO] [1754305465.001531601] [solver_node]: 标定数据收集进度: 101/500
+[INFO] [1754305465.016757294] [solver_node]: 标定数据收集进度: 102/500
+[INFO] [1754305465.028525584] [solver_node]: 标定数据收集进度: 103/500
+[INFO] [1754305465.036072380] [solver_node]: 标定数据收集进度: 104/500
+[INFO] [1754305465.046658132] [solver_node]: 标定数据收集进度: 105/500
+[INFO] [1754305465.052141463] [solver_node]: 标定数据收集进度: 106/500
+[INFO] [1754305465.068164624] [solver_node]: 标定数据收集进度: 107/500
+[INFO] [1754305465.071083703] [solver_node]: 标定数据收集进度: 108/500
+[INFO] [1754305465.081563276] [solver_node]: 标定数据收集进度: 109/500
+[INFO] [1754305465.091196098] [solver_node]: 标定数据收集进度: 110/500
+[INFO] [1754305465.102493939] [solver_node]: 标定数据收集进度: 111/500
+[INFO] [1754305465.111676377] [solver_node]: 标定数据收集进度: 112/500
+[INFO] [1754305465.124197654] [solver_node]: 标定数据收集进度: 113/500
+[INFO] [1754305465.136904249] [solver_node]: 标定数据收集进度: 114/500
+[INFO] [1754305465.142950320] [solver_node]: 标定数据收集进度: 115/500
+[INFO] [1754305465.150599967] [solver_node]: 标定数据收集进度: 116/500
+[INFO] [1754305465.160392795] [solver_node]: 标定数据收集进度: 117/500
+[INFO] [1754305465.170970579] [solver_node]: 标定数据收集进度: 118/500
+[INFO] [1754305465.181772531] [solver_node]: 标定数据收集进度: 119/500
+[INFO] [1754305465.191578031] [solver_node]: 标定数据收集进度: 120/500
+[INFO] [1754305465.207697835] [solver_node]: 标定数据收集进度: 121/500
+[INFO] [1754305465.219789081] [solver_node]: 标定数据收集进度: 122/500
+[INFO] [1754305465.223490076] [solver_node]: 标定数据收集进度: 123/500
+[INFO] [1754305465.232492956] [solver_node]: 标定数据收集进度: 124/500
+[INFO] [1754305465.241638465] [solver_node]: 标定数据收集进度: 125/500
+[INFO] [1754305465.253369633] [solver_node]: 标定数据收集进度: 126/500
+[INFO] [1754305465.260797193] [solver_node]: 标定数据收集进度: 127/500
+[INFO] [1754305465.270358269] [solver_node]: 标定数据收集进度: 128/500
+[INFO] [1754305465.281626253] [solver_node]: 标定数据收集进度: 129/500
+[INFO] [1754305465.290486695] [solver_node]: 标定数据收集进度: 130/500
+[INFO] [1754305465.301790905] [solver_node]: 标定数据收集进度: 131/500
+[INFO] [1754305465.310334504] [solver_node]: 标定数据收集进度: 132/500
+[INFO] [1754305465.324641700] [solver_node]: 标定数据收集进度: 133/500
+[INFO] [1754305465.330520085] [solver_node]: 标定数据收集进度: 134/500
+[INFO] [1754305465.341768613] [solver_node]: 标定数据收集进度: 135/500
+[INFO] [1754305465.350576797] [solver_node]: 标定数据收集进度: 136/500
+[INFO] [1754305465.360698981] [solver_node]: 标定数据收集进度: 137/500
+[INFO] [1754305465.372019895] [solver_node]: 标定数据收集进度: 138/500
+[INFO] [1754305465.380930323] [solver_node]: 标定数据收集进度: 139/500
+[INFO] [1754305465.390693742] [solver_node]: 标定数据收集进度: 140/500
+[INFO] [1754305465.403747902] [solver_node]: 标定数据收集进度: 141/500
+[INFO] [1754305465.410370729] [solver_node]: 标定数据收集进度: 142/500
+[INFO] [1754305465.420349163] [solver_node]: 标定数据收集进度: 143/500
+[INFO] [1754305465.431569146] [solver_node]: 标定数据收集进度: 144/500
+[INFO] [1754305465.440707518] [solver_node]: 标定数据收集进度: 145/500
+[INFO] [1754305465.450704929] [solver_node]: 标定数据收集进度: 146/500
+[INFO] [1754305465.460680100] [solver_node]: 标定数据收集进度: 147/500
+[INFO] [1754305465.470466079] [solver_node]: 标定数据收集进度: 148/500
+[INFO] [1754305465.480402912] [solver_node]: 标定数据收集进度: 149/500
+[INFO] [1754305465.490694958] [solver_node]: 标定数据收集进度: 150/500
+[INFO] [1754305465.500625838] [solver_node]: 标定数据收集进度: 151/500
+[INFO] [1754305465.514780645] [solver_node]: 标定数据收集进度: 152/500
+[INFO] [1754305465.522722111] [solver_node]: 标定数据收集进度: 153/500
+[INFO] [1754305465.535130456] [solver_node]: 标定数据收集进度: 154/500
+[INFO] [1754305465.540809858] [solver_node]: 标定数据收集进度: 155/500
+[INFO] [1754305465.550377749] [solver_node]: 标定数据收集进度: 156/500
+[INFO] [1754305465.560396889] [solver_node]: 标定数据收集进度: 157/500
+[INFO] [1754305465.570545090] [solver_node]: 标定数据收集进度: 158/500
+[INFO] [1754305465.580521060] [solver_node]: 标定数据收集进度: 159/500
+[INFO] [1754305465.590438692] [solver_node]: 标定数据收集进度: 160/500
+[INFO] [1754305465.600717937] [solver_node]: 标定数据收集进度: 161/500
+[INFO] [1754305465.611266216] [solver_node]: 标定数据收集进度: 162/500
+[INFO] [1754305465.622206124] [solver_node]: 标定数据收集进度: 163/500
+[INFO] [1754305465.634708360] [solver_node]: 标定数据收集进度: 164/500
+[INFO] [1754305465.640906980] [solver_node]: 标定数据收集进度: 165/500
+[INFO] [1754305465.650411606] [solver_node]: 标定数据收集进度: 166/500
+[INFO] [1754305465.660263412] [solver_node]: 标定数据收集进度: 167/500
+[INFO] [1754305465.670693990] [solver_node]: 标定数据收集进度: 168/500
+[INFO] [1754305465.680556069] [solver_node]: 标定数据收集进度: 169/500
+[INFO] [1754305465.691092475] [solver_node]: 标定数据收集进度: 170/500
+[INFO] [1754305465.701122271] [solver_node]: 标定数据收集进度: 171/500
+[INFO] [1754305465.711293480] [solver_node]: 标定数据收集进度: 172/500
+[INFO] [1754305465.725748938] [solver_node]: 标定数据收集进度: 173/500
+[INFO] [1754305465.731132649] [solver_node]: 标定数据收集进度: 174/500
+[INFO] [1754305465.740816609] [solver_node]: 标定数据收集进度: 175/500
+[INFO] [1754305465.750718400] [solver_node]: 标定数据收集进度: 176/500
+[INFO] [1754305465.762066067] [solver_node]: 标定数据收集进度: 177/500
+[INFO] [1754305465.774060861] [solver_node]: 标定数据收集进度: 178/500
+[INFO] [1754305465.781343584] [solver_node]: 标定数据收集进度: 179/500
+[INFO] [1754305465.793396524] [solver_node]: 标定数据收集进度: 180/500
+[INFO] [1754305465.804182507] [solver_node]: 标定数据收集进度: 181/500
+[INFO] [1754305465.810708339] [solver_node]: 标定数据收集进度: 182/500
+[INFO] [1754305465.828712754] [solver_node]: 标定数据收集进度: 183/500
+[INFO] [1754305465.831005540] [solver_node]: 标定数据收集进度: 184/500
+[INFO] [1754305465.842031531] [solver_node]: 标定数据收集进度: 185/500
+[INFO] [1754305465.850348851] [solver_node]: 标定数据收集进度: 186/500
+[INFO] [1754305465.860942795] [solver_node]: 标定数据收集进度: 187/500
+[INFO] [1754305465.871004880] [solver_node]: 标定数据收集进度: 188/500
+[INFO] [1754305465.884317481] [solver_node]: 标定数据收集进度: 189/500
+[INFO] [1754305465.894974115] [solver_node]: 标定数据收集进度: 190/500
+[INFO] [1754305465.906577600] [solver_node]: 标定数据收集进度: 191/500
+[INFO] [1754305465.910389127] [solver_node]: 标定数据收集进度: 192/500
+[INFO] [1754305465.921359565] [solver_node]: 标定数据收集进度: 193/500
+[INFO] [1754305465.930778523] [solver_node]: 标定数据收集进度: 194/500
+[INFO] [1754305465.940463603] [solver_node]: 标定数据收集进度: 195/500
+[INFO] [1754305465.950334418] [solver_node]: 标定数据收集进度: 196/500
+[INFO] [1754305465.960590174] [solver_node]: 标定数据收集进度: 197/500
+[INFO] [1754305465.971861198] [solver_node]: 标定数据收集进度: 198/500
+[INFO] [1754305465.981634281] [solver_node]: 标定数据收集进度: 199/500
+[INFO] [1754305465.990741325] [solver_node]: 标定数据收集进度: 200/500
+[INFO] [1754305466.002185539] [solver_node]: 标定数据收集进度: 201/500
+[INFO] [1754305466.012424462] [solver_node]: 标定数据收集进度: 202/500
+[INFO] [1754305466.021257223] [solver_node]: 标定数据收集进度: 203/500
+[INFO] [1754305466.031566740] [solver_node]: 标定数据收集进度: 204/500
+[INFO] [1754305466.040430542] [solver_node]: 标定数据收集进度: 205/500
+[INFO] [1754305466.050782717] [solver_node]: 标定数据收集进度: 206/500
+[INFO] [1754305466.060532022] [solver_node]: 标定数据收集进度: 207/500
+[INFO] [1754305466.071530428] [solver_node]: 标定数据收集进度: 208/500
+[INFO] [1754305466.085017562] [solver_node]: 标定数据收集进度: 209/500
+[INFO] [1754305466.093748015] [solver_node]: 标定数据收集进度: 210/500
+[INFO] [1754305466.101830125] [solver_node]: 标定数据收集进度: 211/500
+[INFO] [1754305466.110648646] [solver_node]: 标定数据收集进度: 212/500
+[INFO] [1754305466.128605474] [solver_node]: 标定数据收集进度: 213/500
+[INFO] [1754305466.140541737] [solver_node]: 标定数据收集进度: 214/500
+[INFO] [1754305466.145476023] [solver_node]: 标定数据收集进度: 215/500
+[INFO] [1754305466.150442887] [solver_node]: 标定数据收集进度: 216/500
+[INFO] [1754305466.160454570] [solver_node]: 标定数据收集进度: 217/500
+[INFO] [1754305466.170520463] [solver_node]: 标定数据收集进度: 218/500
+[INFO] [1754305466.181278764] [solver_node]: 标定数据收集进度: 219/500
+[INFO] [1754305466.191082215] [solver_node]: 标定数据收集进度: 220/500
+[INFO] [1754305466.200459603] [solver_node]: 标定数据收集进度: 221/500
+[INFO] [1754305466.212094031] [solver_node]: 标定数据收集进度: 222/500
+[INFO] [1754305466.220637918] [solver_node]: 标定数据收集进度: 223/500
+[INFO] [1754305466.236958464] [solver_node]: 标定数据收集进度: 224/500
+[INFO] [1754305466.245862364] [solver_node]: 标定数据收集进度: 225/500
+[INFO] [1754305466.251030931] [solver_node]: 标定数据收集进度: 226/500
+[INFO] [1754305466.261926005] [solver_node]: 标定数据收集进度: 227/500
+[INFO] [1754305466.271449862] [solver_node]: 标定数据收集进度: 228/500
+[INFO] [1754305466.282034749] [solver_node]: 标定数据收集进度: 229/500
+[INFO] [1754305466.292110466] [solver_node]: 标定数据收集进度: 230/500
+[INFO] [1754305466.300755508] [solver_node]: 标定数据收集进度: 231/500
+[INFO] [1754305466.319792215] [solver_node]: 标定数据收集进度: 232/500
+[INFO] [1754305466.322018470] [solver_node]: 标定数据收集进度: 233/500
+[INFO] [1754305466.331966790] [solver_node]: 标定数据收集进度: 234/500
+[INFO] [1754305466.344495234] [solver_node]: 标定数据收集进度: 235/500
+[INFO] [1754305466.351911401] [solver_node]: 标定数据收集进度: 236/500
+[INFO] [1754305466.361209554] [solver_node]: 标定数据收集进度: 237/500
+[INFO] [1754305466.370609151] [solver_node]: 标定数据收集进度: 238/500
+[INFO] [1754305466.381851565] [solver_node]: 标定数据收集进度: 239/500
+[INFO] [1754305466.391147671] [solver_node]: 标定数据收集进度: 240/500
+[INFO] [1754305466.402617357] [solver_node]: 标定数据收集进度: 241/500
+[INFO] [1754305466.411400452] [solver_node]: 标定数据收集进度: 242/500
+[INFO] [1754305466.421613262] [solver_node]: 标定数据收集进度: 243/500
+[INFO] [1754305466.431861017] [solver_node]: 标定数据收集进度: 244/500
+[INFO] [1754305466.440488714] [solver_node]: 标定数据收集进度: 245/500
+[INFO] [1754305466.451775930] [solver_node]: 标定数据收集进度: 246/500
+[INFO] [1754305466.460822811] [solver_node]: 标定数据收集进度: 247/500
+[INFO] [1754305466.471033861] [solver_node]: 标定数据收集进度: 248/500
+[INFO] [1754305466.482712770] [solver_node]: 标定数据收集进度: 249/500
+[INFO] [1754305466.491963530] [solver_node]: 标定数据收集进度: 250/500
+[INFO] [1754305466.510200016] [solver_node]: 标定数据收集进度: 251/500
+[INFO] [1754305466.512769739] [solver_node]: 标定数据收集进度: 252/500
+[INFO] [1754305466.522318237] [solver_node]: 标定数据收集进度: 253/500
+[INFO] [1754305466.537777985] [solver_node]: 标定数据收集进度: 254/500
+[INFO] [1754305466.542828404] [solver_node]: 标定数据收集进度: 255/500
+[INFO] [1754305466.552522731] [solver_node]: 标定数据收集进度: 256/500
+[INFO] [1754305466.561111676] [solver_node]: 标定数据收集进度: 257/500
+[INFO] [1754305466.570611788] [solver_node]: 标定数据收集进度: 258/500
+[INFO] [1754305466.580513035] [solver_node]: 标定数据收集进度: 259/500
+[INFO] [1754305466.590935868] [solver_node]: 标定数据收集进度: 260/500
+[INFO] [1754305466.600760696] [solver_node]: 标定数据收集进度: 261/500
+[INFO] [1754305466.612339474] [solver_node]: 标定数据收集进度: 262/500
+[INFO] [1754305466.622752899] [solver_node]: 标定数据收集进度: 263/500
+[INFO] [1754305466.637570192] [solver_node]: 标定数据收集进度: 264/500
+[INFO] [1754305466.642393275] [solver_node]: 标定数据收集进度: 265/500
+[INFO] [1754305466.650300403] [solver_node]: 标定数据收集进度: 266/500
+[INFO] [1754305466.660288725] [solver_node]: 标定数据收集进度: 267/500
+[INFO] [1754305466.677070568] [solver_node]: 标定数据收集进度: 268/500
+[INFO] [1754305466.683191456] [solver_node]: 标定数据收集进度: 269/500
+[INFO] [1754305466.692185663] [solver_node]: 标定数据收集进度: 270/500
+[INFO] [1754305466.701780467] [solver_node]: 标定数据收集进度: 271/500
+[INFO] [1754305466.714849058] [solver_node]: 标定数据收集进度: 272/500
+[INFO] [1754305466.723215946] [solver_node]: 标定数据收集进度: 273/500
+[INFO] [1754305466.735171730] [solver_node]: 标定数据收集进度: 274/500
+[INFO] [1754305466.742204427] [solver_node]: 标定数据收集进度: 275/500
+[INFO] [1754305466.751426450] [solver_node]: 标定数据收集进度: 276/500
+[INFO] [1754305466.760972132] [solver_node]: 标定数据收集进度: 277/500
+[INFO] [1754305466.787525489] [solver_node]: 标定数据收集进度: 278/500
+[INFO] [1754305466.793239963] [solver_node]: 标定数据收集进度: 279/500
+[INFO] [1754305466.796237989] [solver_node]: 标定数据收集进度: 280/500
+[INFO] [1754305466.802615015] [solver_node]: 标定数据收集进度: 281/500
+[INFO] [1754305466.817404339] [solver_node]: 标定数据收集进度: 282/500
+[INFO] [1754305466.822676942] [solver_node]: 标定数据收集进度: 283/500
+[INFO] [1754305466.833162785] [solver_node]: 标定数据收集进度: 284/500
+[INFO] [1754305466.840394017] [solver_node]: 标定数据收集进度: 285/500
+[INFO] [1754305466.850655213] [solver_node]: 标定数据收集进度: 286/500
+[INFO] [1754305466.860375845] [solver_node]: 标定数据收集进度: 287/500
+[INFO] [1754305466.870601552] [solver_node]: 标定数据收集进度: 288/500
+[INFO] [1754305466.882323567] [solver_node]: 标定数据收集进度: 289/500
+[INFO] [1754305466.890623125] [solver_node]: 标定数据收集进度: 290/500
+[INFO] [1754305466.915331840] [solver_node]: 标定数据收集进度: 291/500
+[INFO] [1754305466.919166568] [solver_node]: 标定数据收集进度: 292/500
+[INFO] [1754305466.922440860] [solver_node]: 标定数据收集进度: 293/500
+[INFO] [1754305466.932358555] [solver_node]: 标定数据收集进度: 294/500
+[INFO] [1754305466.949131310] [solver_node]: 标定数据收集进度: 295/500
+[INFO] [1754305466.954452874] [solver_node]: 标定数据收集进度: 296/500
+[INFO] [1754305466.960552066] [solver_node]: 标定数据收集进度: 297/500
+[INFO] [1754305466.970797517] [solver_node]: 标定数据收集进度: 298/500
+[INFO] [1754305466.980821104] [solver_node]: 标定数据收集进度: 299/500
+[INFO] [1754305466.991501963] [solver_node]: 标定数据收集进度: 300/500
+[INFO] [1754305467.017855407] [solver_node]: 标定数据收集进度: 301/500
+[INFO] [1754305467.022687226] [solver_node]: 标定数据收集进度: 302/500
+[INFO] [1754305467.026843309] [solver_node]: 标定数据收集进度: 303/500
+[INFO] [1754305467.030552496] [solver_node]: 标定数据收集进度: 304/500
+[INFO] [1754305467.041006945] [solver_node]: 标定数据收集进度: 305/500
+[INFO] [1754305467.051483795] [solver_node]: 标定数据收集进度: 306/500
+[INFO] [1754305467.060265450] [solver_node]: 标定数据收集进度: 307/500
+[INFO] [1754305467.070292332] [solver_node]: 标定数据收集进度: 308/500
+[INFO] [1754305467.080834337] [solver_node]: 标定数据收集进度: 309/500
+[INFO] [1754305467.090514071] [solver_node]: 标定数据收集进度: 310/500
+[INFO] [1754305467.100277296] [solver_node]: 标定数据收集进度: 311/500
+[INFO] [1754305467.112133011] [solver_node]: 标定数据收集进度: 312/500
+[INFO] [1754305467.122004623] [solver_node]: 标定数据收集进度: 313/500
+[INFO] [1754305467.132475841] [solver_node]: 标定数据收集进度: 314/500
+[INFO] [1754305467.140716165] [solver_node]: 标定数据收集进度: 315/500
+[INFO] [1754305467.151631302] [solver_node]: 标定数据收集进度: 316/500
+[INFO] [1754305467.160799370] [solver_node]: 标定数据收集进度: 317/500
+[INFO] [1754305467.170471616] [solver_node]: 标定数据收集进度: 318/500
+[INFO] [1754305467.183722900] [solver_node]: 标定数据收集进度: 319/500
+[INFO] [1754305467.195367632] [solver_node]: 标定数据收集进度: 320/500
+[INFO] [1754305467.201939768] [solver_node]: 标定数据收集进度: 321/500
+[INFO] [1754305467.212854842] [solver_node]: 标定数据收集进度: 322/500
+[INFO] [1754305467.221288548] [solver_node]: 标定数据收集进度: 323/500
+[INFO] [1754305467.231532206] [solver_node]: 标定数据收集进度: 324/500
+[INFO] [1754305467.242529426] [solver_node]: 标定数据收集进度: 325/500
+[INFO] [1754305467.251521424] [solver_node]: 标定数据收集进度: 326/500
+[INFO] [1754305467.260985151] [solver_node]: 标定数据收集进度: 327/500
+[INFO] [1754305467.271971971] [solver_node]: 标定数据收集进度: 328/500
+[INFO] [1754305467.282167115] [solver_node]: 标定数据收集进度: 329/500
+[INFO] [1754305467.291394353] [solver_node]: 标定数据收集进度: 330/500
+[INFO] [1754305467.303261781] [solver_node]: 标定数据收集进度: 331/500
+[INFO] [1754305467.311092905] [solver_node]: 标定数据收集进度: 332/500
+[INFO] [1754305467.320341424] [solver_node]: 标定数据收集进度: 333/500
+[INFO] [1754305467.332586977] [solver_node]: 标定数据收集进度: 334/500
+[INFO] [1754305467.340592348] [solver_node]: 标定数据收集进度: 335/500
+[INFO] [1754305467.355225697] [solver_node]: 标定数据收集进度: 336/500
+[INFO] [1754305467.360677954] [solver_node]: 标定数据收集进度: 337/500
+[INFO] [1754305467.371089041] [solver_node]: 标定数据收集进度: 338/500
+[INFO] [1754305467.381470976] [solver_node]: 标定数据收集进度: 339/500
+[INFO] [1754305467.392468293] [solver_node]: 标定数据收集进度: 340/500
+[INFO] [1754305467.400842413] [solver_node]: 标定数据收集进度: 341/500
+[INFO] [1754305467.424743801] [solver_node]: 标定数据收集进度: 342/500
+[INFO] [1754305467.429733450] [solver_node]: 标定数据收集进度: 343/500
+[INFO] [1754305467.433672533] [solver_node]: 标定数据收集进度: 344/500
+[INFO] [1754305467.442867514] [solver_node]: 标定数据收集进度: 345/500
+[INFO] [1754305467.457638276] [solver_node]: 标定数据收集进度: 346/500
+[INFO] [1754305467.461043836] [solver_node]: 标定数据收集进度: 347/500
+[INFO] [1754305467.478455235] [solver_node]: 标定数据收集进度: 348/500
+[INFO] [1754305467.484880487] [solver_node]: 标定数据收集进度: 349/500
+[INFO] [1754305467.491073889] [solver_node]: 标定数据收集进度: 350/500
+[INFO] [1754305467.501091235] [solver_node]: 标定数据收集进度: 351/500
+[INFO] [1754305467.514307158] [solver_node]: 标定数据收集进度: 352/500
+[INFO] [1754305467.522079305] [solver_node]: 标定数据收集进度: 353/500
+[INFO] [1754305467.532562876] [solver_node]: 标定数据收集进度: 354/500
+[INFO] [1754305467.541817731] [solver_node]: 标定数据收集进度: 355/500
+[INFO] [1754305467.552317270] [solver_node]: 标定数据收集进度: 356/500
+[INFO] [1754305467.564391840] [solver_node]: 标定数据收集进度: 357/500
+[INFO] [1754305467.570562906] [solver_node]: 标定数据收集进度: 358/500
+[INFO] [1754305467.584431524] [solver_node]: 标定数据收集进度: 359/500
+[INFO] [1754305467.594745233] [solver_node]: 标定数据收集进度: 360/500
+[INFO] [1754305467.602574118] [solver_node]: 标定数据收集进度: 361/500
+[INFO] [1754305467.613089049] [solver_node]: 标定数据收集进度: 362/500
+[INFO] [1754305467.624584143] [solver_node]: 标定数据收集进度: 363/500
+[INFO] [1754305467.631696619] [solver_node]: 标定数据收集进度: 364/500
+[INFO] [1754305467.643378055] [solver_node]: 标定数据收集进度: 365/500
+[INFO] [1754305467.652456744] [solver_node]: 标定数据收集进度: 366/500
+[INFO] [1754305467.661340866] [solver_node]: 标定数据收集进度: 367/500
+[INFO] [1754305467.671015512] [solver_node]: 标定数据收集进度: 368/500
+[INFO] [1754305467.680981528] [solver_node]: 标定数据收集进度: 369/500
+[INFO] [1754305467.694068647] [solver_node]: 标定数据收集进度: 370/500
+[INFO] [1754305467.701335656] [solver_node]: 标定数据收集进度: 371/500
+[INFO] [1754305467.712421295] [solver_node]: 标定数据收集进度: 372/500
+[INFO] [1754305467.721737944] [solver_node]: 标定数据收集进度: 373/500
+[INFO] [1754305467.732571511] [solver_node]: 标定数据收集进度: 374/500
+[INFO] [1754305467.741571189] [solver_node]: 标定数据收集进度: 375/500
+[INFO] [1754305467.751492756] [solver_node]: 标定数据收集进度: 376/500
+[INFO] [1754305467.760743931] [solver_node]: 标定数据收集进度: 377/500
+[INFO] [1754305467.770468979] [solver_node]: 标定数据收集进度: 378/500
+[INFO] [1754305467.780677147] [solver_node]: 标定数据收集进度: 379/500
+[INFO] [1754305467.790862371] [solver_node]: 标定数据收集进度: 380/500
+[INFO] [1754305467.800448726] [solver_node]: 标定数据收集进度: 381/500
+[INFO] [1754305467.811464251] [solver_node]: 标定数据收集进度: 382/500
+[INFO] [1754305467.823645258] [solver_node]: 标定数据收集进度: 383/500
+[INFO] [1754305467.831247926] [solver_node]: 标定数据收集进度: 384/500
+[INFO] [1754305467.841145076] [solver_node]: 标定数据收集进度: 385/500
+[INFO] [1754305467.850764456] [solver_node]: 标定数据收集进度: 386/500
+[INFO] [1754305467.860709287] [solver_node]: 标定数据收集进度: 387/500
+[INFO] [1754305467.870914544] [solver_node]: 标定数据收集进度: 388/500
+[INFO] [1754305467.880743659] [solver_node]: 标定数据收集进度: 389/500
+[INFO] [1754305467.890525477] [solver_node]: 标定数据收集进度: 390/500
+[INFO] [1754305467.903609075] [solver_node]: 标定数据收集进度: 391/500
+[INFO] [1754305467.910499751] [solver_node]: 标定数据收集进度: 392/500
+[INFO] [1754305467.926893546] [solver_node]: 标定数据收集进度: 393/500
+[INFO] [1754305467.933015682] [solver_node]: 标定数据收集进度: 394/500
+[INFO] [1754305467.941391306] [solver_node]: 标定数据收集进度: 395/500
+[INFO] [1754305467.951266887] [solver_node]: 标定数据收集进度: 396/500
+[INFO] [1754305467.964121422] [solver_node]: 标定数据收集进度: 397/500
+[INFO] [1754305467.970617363] [solver_node]: 标定数据收集进度: 398/500
+[INFO] [1754305467.983908937] [solver_node]: 标定数据收集进度: 399/500
+[INFO] [1754305467.990696249] [solver_node]: 标定数据收集进度: 400/500
+[INFO] [1754305468.000926690] [solver_node]: 标定数据收集进度: 401/500
+[INFO] [1754305468.011305937] [solver_node]: 标定数据收集进度: 402/500
+[INFO] [1754305468.023745511] [solver_node]: 标定数据收集进度: 403/500
+[INFO] [1754305468.031833284] [solver_node]: 标定数据收集进度: 404/500
+[INFO] [1754305468.042118607] [solver_node]: 标定数据收集进度: 405/500
+[INFO] [1754305468.050674460] [solver_node]: 标定数据收集进度: 406/500
+[INFO] [1754305468.061358741] [solver_node]: 标定数据收集进度: 407/500
+[INFO] [1754305468.073160917] [solver_node]: 标定数据收集进度: 408/500
+[INFO] [1754305468.083735626] [solver_node]: 标定数据收集进度: 409/500
+[INFO] [1754305468.090589403] [solver_node]: 标定数据收集进度: 410/500
+[INFO] [1754305468.100581659] [solver_node]: 标定数据收集进度: 411/500
+[INFO] [1754305468.111062765] [solver_node]: 标定数据收集进度: 412/500
+[INFO] [1754305468.126656563] [solver_node]: 标定数据收集进度: 413/500
+[INFO] [1754305468.132743177] [solver_node]: 标定数据收集进度: 414/500
+[INFO] [1754305468.143457731] [solver_node]: 标定数据收集进度: 415/500
+[INFO] [1754305468.151744679] [solver_node]: 标定数据收集进度: 416/500
+[INFO] [1754305468.160928555] [solver_node]: 标定数据收集进度: 417/500
+[INFO] [1754305468.171598435] [solver_node]: 标定数据收集进度: 418/500
+[INFO] [1754305468.184403238] [solver_node]: 标定数据收集进度: 419/500
+[INFO] [1754305468.191017391] [solver_node]: 标定数据收集进度: 420/500
+[INFO] [1754305468.202230043] [solver_node]: 标定数据收集进度: 421/500
+[INFO] [1754305468.210711077] [solver_node]: 标定数据收集进度: 422/500
+[INFO] [1754305468.222888883] [solver_node]: 标定数据收集进度: 423/500
+[INFO] [1754305468.233570859] [solver_node]: 标定数据收集进度: 424/500
+[INFO] [1754305468.240730088] [solver_node]: 标定数据收集进度: 425/500
+[INFO] [1754305468.251363646] [solver_node]: 标定数据收集进度: 426/500
+[INFO] [1754305468.260563011] [solver_node]: 标定数据收集进度: 427/500
+[INFO] [1754305468.273693938] [solver_node]: 标定数据收集进度: 428/500
+[INFO] [1754305468.283318693] [solver_node]: 标定数据收集进度: 429/500
+[INFO] [1754305468.295090980] [solver_node]: 标定数据收集进度: 430/500
+[INFO] [1754305468.304298760] [solver_node]: 标定数据收集进度: 431/500
+[INFO] [1754305468.311719950] [solver_node]: 标定数据收集进度: 432/500
+[INFO] [1754305468.321570729] [solver_node]: 标定数据收集进度: 433/500
+[INFO] [1754305468.330817103] [solver_node]: 标定数据收集进度: 434/500
+[INFO] [1754305468.342078268] [solver_node]: 标定数据收集进度: 435/500
+[INFO] [1754305468.351055641] [solver_node]: 标定数据收集进度: 436/500
+[INFO] [1754305468.374594678] [solver_node]: 标定数据收集进度: 437/500
+[INFO] [1754305468.376937737] [solver_node]: 标定数据收集进度: 438/500
+[INFO] [1754305468.382556783] [solver_node]: 标定数据收集进度: 439/500
+[INFO] [1754305468.391437768] [solver_node]: 标定数据收集进度: 440/500
+[INFO] [1754305468.400707855] [solver_node]: 标定数据收集进度: 441/500
+[INFO] [1754305468.411366182] [solver_node]: 标定数据收集进度: 442/500
+[INFO] [1754305468.421707539] [solver_node]: 标定数据收集进度: 443/500
+[INFO] [1754305468.431368168] [solver_node]: 标定数据收集进度: 444/500
+[INFO] [1754305468.440425447] [solver_node]: 标定数据收集进度: 445/500
+[INFO] [1754305468.451048989] [solver_node]: 标定数据收集进度: 446/500
+[INFO] [1754305468.460545964] [solver_node]: 标定数据收集进度: 447/500
+[INFO] [1754305468.472365357] [solver_node]: 标定数据收集进度: 448/500
+[INFO] [1754305468.480307461] [solver_node]: 标定数据收集进度: 449/500
+[INFO] [1754305468.490867769] [solver_node]: 标定数据收集进度: 450/500
+[INFO] [1754305468.501410284] [solver_node]: 标定数据收集进度: 451/500
+[INFO] [1754305468.510481516] [solver_node]: 标定数据收集进度: 452/500
+[INFO] [1754305468.521956833] [solver_node]: 标定数据收集进度: 453/500
+[INFO] [1754305468.531274089] [solver_node]: 标定数据收集进度: 454/500
+[INFO] [1754305468.542029412] [solver_node]: 标定数据收集进度: 455/500
+[INFO] [1754305468.556820718] [solver_node]: 标定数据收集进度: 456/500
+[INFO] [1754305468.562580537] [solver_node]: 标定数据收集进度: 457/500
+[INFO] [1754305468.570290536] [solver_node]: 标定数据收集进度: 458/500
+[INFO] [1754305468.580401101] [solver_node]: 标定数据收集进度: 459/500
+[INFO] [1754305468.590432654] [solver_node]: 标定数据收集进度: 460/500
+[INFO] [1754305468.600111716] [solver_node]: 标定数据收集进度: 461/500
+[INFO] [1754305468.611114760] [solver_node]: 标定数据收集进度: 462/500
+[INFO] [1754305468.625331261] [solver_node]: 标定数据收集进度: 463/500
+[INFO] [1754305468.631167114] [solver_node]: 标定数据收集进度: 464/500
+[INFO] [1754305468.640929762] [solver_node]: 标定数据收集进度: 465/500
+[INFO] [1754305468.652278995] [solver_node]: 标定数据收集进度: 466/500
+[INFO] [1754305468.664870670] [solver_node]: 标定数据收集进度: 467/500
+[INFO] [1754305468.670692796] [solver_node]: 标定数据收集进度: 468/500
+[INFO] [1754305468.682340374] [solver_node]: 标定数据收集进度: 469/500
+[INFO] [1754305468.693328826] [solver_node]: 标定数据收集进度: 470/500
+[INFO] [1754305468.702276085] [solver_node]: 标定数据收集进度: 471/500
+[INFO] [1754305468.720503095] [solver_node]: 标定数据收集进度: 472/500
+[INFO] [1754305468.726512811] [solver_node]: 标定数据收集进度: 473/500
+[INFO] [1754305468.731763588] [solver_node]: 标定数据收集进度: 474/500
+[INFO] [1754305468.741493339] [solver_node]: 标定数据收集进度: 475/500
+[INFO] [1754305468.755248128] [solver_node]: 标定数据收集进度: 476/500
+[INFO] [1754305468.770415223] [solver_node]: 标定数据收集进度: 477/500
+[INFO] [1754305468.774027894] [solver_node]: 标定数据收集进度: 478/500
+[INFO] [1754305468.791922669] [solver_node]: 标定数据收集进度: 479/500
+[INFO] [1754305468.793964693] [solver_node]: 标定数据收集进度: 480/500
+[INFO] [1754305468.800466970] [solver_node]: 标定数据收集进度: 481/500
+[INFO] [1754305468.816649653] [solver_node]: 标定数据收集进度: 482/500
+[INFO] [1754305468.821772969] [solver_node]: 标定数据收集进度: 483/500
+[INFO] [1754305468.832663721] [solver_node]: 标定数据收集进度: 484/500
+[INFO] [1754305468.841008879] [solver_node]: 标定数据收集进度: 485/500
+[INFO] [1754305468.851330363] [solver_node]: 标定数据收集进度: 486/500
+[INFO] [1754305468.860786376] [solver_node]: 标定数据收集进度: 487/500
+[INFO] [1754305468.874013083] [solver_node]: 标定数据收集进度: 488/500
+[INFO] [1754305468.883054009] [solver_node]: 标定数据收集进度: 489/500
+[INFO] [1754305468.890494912] [solver_node]: 标定数据收集进度: 490/500
+[INFO] [1754305468.900902830] [solver_node]: 标定数据收集进度: 491/500
+[INFO] [1754305468.911488356] [solver_node]: 标定数据收集进度: 492/500
+[INFO] [1754305468.922201757] [solver_node]: 标定数据收集进度: 493/500
+[INFO] [1754305468.930646119] [solver_node]: 标定数据收集进度: 494/500
+[INFO] [1754305468.941833809] [solver_node]: 标定数据收集进度: 495/500
+[INFO] [1754305468.951936949] [solver_node]: 标定数据收集进度: 496/500
+[INFO] [1754305468.963387497] [solver_node]: 标定数据收集进度: 497/500
+[INFO] [1754305468.981039671] [solver_node]: 标定数据收集进度: 498/500
+[INFO] [1754305468.984821052] [solver_node]: 标定数据收集进度: 499/500
+[INFO] [1754305468.990329247] [solver_node]: 标定数据收集进度: 500/500
+[INFO] [1754305468.991987961] [solver_node]: 标定数据收集完成，开始标定...
+[INFO] [1754305468.993569649] [solver_node]: 开始标定，收集到的数据shape: (500, 5)
+[INFO] [1754305468.995116359] [solver_node]: [PerpendicularDistanceLocalizer] 开始标定，扫描数据shape: (500, 5)
+[INFO] [1754305469.001106811] [solver_node]: [PerpendicularDistanceLocalizer] 平均测距值 详细内容: 形状: (5,), 类型: float64
+[INFO] [1754305469.002724404] [solver_node]: [PerpendicularDistanceLocalizer] 平均测距值[0]: 0.1561980036199093
+[INFO] [1754305469.005293902] [solver_node]: [PerpendicularDistanceLocalizer] 平均测距值[1]: 7.074999809265137
+[INFO] [1754305469.007973932] [solver_node]: [PerpendicularDistanceLocalizer] 平均测距值[2]: 5.016679877996444
+[INFO] [1754305469.009933969] [solver_node]: [PerpendicularDistanceLocalizer] 平均测距值[3]: 1.1367720131874084
+[INFO] [1754305469.011522921] [solver_node]: [PerpendicularDistanceLocalizer] 平均测距值[4]: 0.5052859971523285
+[INFO] [1754305469.013498575] [solver_node]: [PerpendicularDistanceLocalizer] h_values 详细内容: 形状: (5,), 类型: float64
+[INFO] [1754305469.015352752] [solver_node]: [PerpendicularDistanceLocalizer] h_values[0]: 0.37684580873135426
+[INFO] [1754305469.017948843] [solver_node]: [PerpendicularDistanceLocalizer] h_values[1]: 0.37684580873135426
+[INFO] [1754305469.019572964] [solver_node]: [PerpendicularDistanceLocalizer] h_values[2]: 0.33497201345916283
+[INFO] [1754305469.020357856] [solver_node]: [PerpendicularDistanceLocalizer] h_values[3]: 0.2847569265233284
+[INFO] [1754305469.021849524] [solver_node]: [PerpendicularDistanceLocalizer] h_values[4]: 0.2847569265233284
+[INFO] [1754305469.023672980] [solver_node]: [PerpendicularDistanceLocalizer] 标定完成: m=6.457, n=7.985
+[INFO] [1754305469.025888706] [solver_node]: [PerpendicularDistanceLocalizer] 前后左右平均距离: 前=5.352, 后=1.106, 左=0.533, 右=7.452
+[INFO] [1754305469.027701410] [solver_node]: [PerpendicularDistanceLocalizer] 计算的初始位姿: x=1.106, y=7.452, phi=1.571
+[INFO] [1754305469.028420667] [solver_node]: 标定完成: m=9.960, n=7.970
+[INFO] [1754305469.029073746] [solver_node]: 标定得到的初始位姿: x=1.106, y=7.452, phi=1.571
+[INFO] [1754305469.030216026] [solver_node]: LIO位置: x=-0.004, y=0.001
+[INFO] [1754305469.031556746] [solver_node]: Started偏移: x=1.110, y=7.451
+[INFO] [1754305469.033354409] [solver_node]: 初始化阶段完成，进入运行阶段
+[ERROR] [1754305469.058358680] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305469.185374122] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305469.304898325] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305469.437198529] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305469.565665318] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305469.677673736] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305469.801750643] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305469.946851585] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305470.062397339] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305470.178107477] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305470.295612207] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305470.427007568] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305470.551125361] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305470.663606490] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305470.823019698] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305470.939535400] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305471.043396128] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305471.178635132] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305471.294059074] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305471.442012571] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305471.560094942] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305471.664133686] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305471.792062514] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305471.895455955] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305472.032844248] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305472.136272818] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305472.247180337] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305472.372549576] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305472.497165861] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305472.609854882] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305472.711645475] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305472.816766584] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305472.954846955] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305473.060372681] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305473.192761194] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305473.294513185] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305473.401245637] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305473.516650998] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305473.652820475] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305473.754812250] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305473.883247634] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305473.985568508] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305474.088260460] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305474.190885464] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305474.292800939] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305474.405592345] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305474.507665393] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305474.611013623] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305474.712871272] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305474.814585716] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305474.916348547] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305475.018016236] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305475.120017242] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305475.226253946] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305475.327879803] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305475.438904321] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305475.541278652] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305475.664951160] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305475.801093317] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305475.916629895] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305476.047122861] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305476.152400931] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305476.272056874] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305476.392328198] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305476.535889927] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305476.646860898] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305476.785787043] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305476.908842240] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305477.015250332] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305477.151980966] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305477.280062277] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305477.435509140] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305477.565172170] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305477.667921536] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305477.770263880] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305477.890507577] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305477.994679905] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305478.112948485] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305478.233896580] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305478.345293659] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305478.464802344] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305478.582570074] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305478.692013326] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305478.794656952] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305478.902148840] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305479.005977691] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305479.108726367] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305480.609567146] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305480.715113510] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305480.848432696] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305480.974395023] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305481.075956829] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305481.177702446] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305481.289610458] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305481.399114964] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305481.510986335] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305481.649347250] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305481.755755107] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305481.865933268] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305481.968070163] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305482.071866916] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305482.174983932] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305482.280257277] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305482.386410332] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305482.490405937] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305482.597152420] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305482.700415201] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305482.844303173] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305482.972826621] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305483.075504032] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305483.176988120] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305483.295771387] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305483.398159185] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305483.526187886] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305483.645821998] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305483.764201892] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305483.884632479] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305483.987568168] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305484.092083967] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305484.194989150] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305484.298077316] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305484.417139975] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305484.527686281] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305484.652210789] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305484.765384000] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305484.867768334] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305484.971110460] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305485.072736874] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305485.196013810] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305485.302250745] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305486.354724600] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305488.015824664] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305488.129163859] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305488.233324667] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305488.351620285] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305488.469379309] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305488.884597340] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305489.008669728] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305489.123148377] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305489.225066637] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305489.327403823] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305489.442125136] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305489.553054738] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305489.661891470] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305489.763469847] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305489.877554018] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305490.019768283] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305490.140946058] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305490.246716982] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305490.357779700] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305490.459647006] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305490.569145703] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305490.672557061] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305490.776014245] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305490.887889565] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305491.028386704] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305491.141029593] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305491.265749877] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305491.367359950] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305491.486564082] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305491.602697007] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305491.738797798] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305491.860691491] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305491.962402336] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305492.064022965] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305492.222591628] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305492.354563631] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305492.484874074] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305492.603791723] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305492.706742793] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305492.833865738] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305492.994212668] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305493.113575155] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305493.246327493] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305493.361373355] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305493.462884593] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305493.565659553] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305493.701081068] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305493.830015263] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305493.957421600] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305494.064483897] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305494.211990601] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305494.327823680] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305494.430401346] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305494.533340879] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305494.640046905] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305494.767912190] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305494.908071483] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305495.047577214] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305495.155319682] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305495.260946368] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305495.367700098] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305495.469465633] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305495.577232101] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305495.678836958] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305495.799953723] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305495.939090507] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305496.058543564] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305496.173326127] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[ERROR] [1754305496.279718494] [solver_node]: 求解线程错误: 'PerpendicularDistanceLocalizer' object has no attribute 'filter_solutions'
+[INFO] [1754305503.878248010] [solver_node]: 求解线程已停止
+[INFO] [1754305503.881450034] [solver_node]: Odom TF更新线程已停止
+[INFO] [1754305503.930948693] [solver_node]: 重定位线程已停止
+[INFO] [1754305503.939386630] [solver_node]: 位置更新线程已停止
+[INFO] [1754305503.941670448] [solver_node]: SolverNode资源清理完成

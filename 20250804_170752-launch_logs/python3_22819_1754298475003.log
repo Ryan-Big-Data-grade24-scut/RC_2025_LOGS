@@ -1,0 +1,519 @@
+[INFO] [1754298475.499744499] [solver_node]: [PerpendicularDistanceLocalizer] 激光配置 详细内容: 列表长度: 5
+[INFO] [1754298475.500737180] [solver_node]: [PerpendicularDistanceLocalizer] 激光配置[0]: ((0.37685, 1.56608), 1.5708)
+[INFO] [1754298475.502011144] [solver_node]: [PerpendicularDistanceLocalizer] 激光配置[1]: ((0.37685, -1.56608), -1.5708)
+[INFO] [1754298475.502970193] [solver_node]: [PerpendicularDistanceLocalizer] 激光配置[2]: ((0.37645, 0.47385), 0.0)
+[INFO] [1754298475.503876506] [solver_node]: [PerpendicularDistanceLocalizer] 激光配置[3]: ((0.37771, 2.42478), 3.14159)
+[INFO] [1754298475.507419131] [solver_node]: [PerpendicularDistanceLocalizer] 激光配置[4]: ((0.37771, -2.42478), 3.14159)
+[INFO] [1754298475.508358308] [solver_node]: [PerpendicularDistanceLocalizer] 前束索引: [2], 后束索引: [3, 4]
+[INFO] [1754298475.509075658] [solver_node]: [PerpendicularDistanceLocalizer] 左束索引: [0], 右束索引: [1]
+[INFO] [1754298475.517188022] [solver_node]: [PerpendicularDistanceLocalizer] h_values: [0.37684581 0.37684581 0.33497201 0.28475693 0.28475693]
+[INFO] [1754298475.518146015] [solver_node]: [PerpendicularDistanceLocalizer] 垂直距离定位器已初始化，需要调用calibrate()方法进行标定
+[INFO] [1754298475.536410794] [solver_node]: SolverNode启动，进入初始化阶段，需要收集100次激光数据进行标定...
+[INFO] [1754298475.936865164] [solver_node]: 标定数据收集进度: 1/100
+[INFO] [1754298475.947528336] [solver_node]: 标定数据收集进度: 2/100
+[INFO] [1754298475.963282051] [solver_node]: 标定数据收集进度: 3/100
+[INFO] [1754298475.969491101] [solver_node]: 标定数据收集进度: 4/100
+[INFO] [1754298476.003563996] [solver_node]: 标定数据收集进度: 5/100
+[INFO] [1754298476.030482296] [solver_node]: 标定数据收集进度: 6/100
+[INFO] [1754298476.080270281] [solver_node]: 标定数据收集进度: 7/100
+[INFO] [1754298476.453896015] [solver_node]: 标定数据收集进度: 8/100
+[INFO] [1754298476.455780512] [solver_node]: 标定数据收集进度: 9/100
+[INFO] [1754298476.465156248] [solver_node]: 标定数据收集进度: 10/100
+[INFO] [1754298476.469263038] [solver_node]: 标定数据收集进度: 11/100
+[INFO] [1754298476.472673054] [solver_node]: 标定数据收集进度: 12/100
+[INFO] [1754298476.482964991] [solver_node]: 标定数据收集进度: 13/100
+[INFO] [1754298476.492250133] [solver_node]: 标定数据收集进度: 14/100
+[INFO] [1754298476.498423247] [solver_node]: 标定数据收集进度: 15/100
+[INFO] [1754298476.503370429] [solver_node]: 标定数据收集进度: 16/100
+[INFO] [1754298476.512361553] [solver_node]: 标定数据收集进度: 17/100
+[INFO] [1754298476.522265742] [solver_node]: 标定数据收集进度: 18/100
+[INFO] [1754298476.534108669] [solver_node]: 标定数据收集进度: 19/100
+[INFO] [1754298476.571944862] [solver_node]: 标定数据收集进度: 20/100
+[INFO] [1754298476.578609725] [solver_node]: 标定数据收集进度: 21/100
+[INFO] [1754298476.590166345] [solver_node]: 标定数据收集进度: 22/100
+[INFO] [1754298476.598687097] [solver_node]: 标定数据收集进度: 23/100
+[INFO] [1754298476.612187863] [solver_node]: 标定数据收集进度: 24/100
+[INFO] [1754298476.620568165] [solver_node]: 标定数据收集进度: 25/100
+[INFO] [1754298476.629167222] [solver_node]: 标定数据收集进度: 26/100
+[INFO] [1754298476.633966242] [solver_node]: 标定数据收集进度: 27/100
+[INFO] [1754298476.637614629] [solver_node]: 标定数据收集进度: 28/100
+[INFO] [1754298476.647460193] [solver_node]: 标定数据收集进度: 29/100
+[INFO] [1754298476.665680747] [solver_node]: 标定数据收集进度: 30/100
+[INFO] [1754298476.671156382] [solver_node]: 标定数据收集进度: 31/100
+[INFO] [1754298476.693638576] [solver_node]: 标定数据收集进度: 32/100
+[INFO] [1754298476.696192392] [solver_node]: 标定数据收集进度: 33/100
+[INFO] [1754298476.698475678] [solver_node]: 标定数据收集进度: 34/100
+[INFO] [1754298476.701116886] [solver_node]: 标定数据收集进度: 35/100
+[INFO] [1754298476.703466476] [solver_node]: 标定数据收集进度: 36/100
+[INFO] [1754298476.706053636] [solver_node]: 标定数据收集进度: 37/100
+[INFO] [1754298476.712325535] [solver_node]: 标定数据收集进度: 38/100
+[INFO] [1754298476.728022770] [solver_node]: 标定数据收集进度: 39/100
+[INFO] [1754298476.755985495] [solver_node]: 标定数据收集进度: 40/100
+[INFO] [1754298476.761907535] [solver_node]: 标定数据收集进度: 41/100
+[INFO] [1754298476.764439686] [solver_node]: 标定数据收集进度: 42/100
+[INFO] [1754298476.769743256] [solver_node]: 标定数据收集进度: 43/100
+[INFO] [1754298476.792304171] [solver_node]: 标定数据收集进度: 44/100
+[INFO] [1754298476.824615737] [solver_node]: 标定数据收集进度: 45/100
+[INFO] [1754298476.834891865] [solver_node]: 标定数据收集进度: 46/100
+[INFO] [1754298476.839946760] [solver_node]: 标定数据收集进度: 47/100
+[INFO] [1754298476.851781527] [solver_node]: 标定数据收集进度: 48/100
+[INFO] [1754298476.857575373] [solver_node]: 标定数据收集进度: 49/100
+[INFO] [1754298476.887023904] [solver_node]: 标定数据收集进度: 50/100
+[INFO] [1754298476.896164662] [solver_node]: 标定数据收集进度: 51/100
+[INFO] [1754298476.913513944] [solver_node]: 标定数据收集进度: 52/100
+[INFO] [1754298476.918800106] [solver_node]: 标定数据收集进度: 53/100
+[INFO] [1754298476.922595757] [solver_node]: 标定数据收集进度: 54/100
+[INFO] [1754298476.930981211] [solver_node]: 标定数据收集进度: 55/100
+[INFO] [1754298476.934960385] [solver_node]: 标定数据收集进度: 56/100
+[INFO] [1754298476.947866361] [solver_node]: 标定数据收集进度: 57/100
+[INFO] [1754298476.952679846] [solver_node]: 标定数据收集进度: 58/100
+[INFO] [1754298476.960449263] [solver_node]: 标定数据收集进度: 59/100
+[INFO] [1754298476.971692728] [solver_node]: 标定数据收集进度: 60/100
+[INFO] [1754298476.981129968] [solver_node]: 标定数据收集进度: 61/100
+[INFO] [1754298476.992845822] [solver_node]: 标定数据收集进度: 62/100
+[INFO] [1754298477.002471736] [solver_node]: 标定数据收集进度: 63/100
+[INFO] [1754298477.021368008] [solver_node]: 标定数据收集进度: 64/100
+[INFO] [1754298477.054164379] [solver_node]: 标定数据收集进度: 65/100
+[INFO] [1754298477.069617579] [solver_node]: 标定数据收集进度: 66/100
+[INFO] [1754298477.096756745] [solver_node]: 标定数据收集进度: 67/100
+[INFO] [1754298477.130006240] [solver_node]: 标定数据收集进度: 68/100
+[INFO] [1754298477.141868495] [solver_node]: 标定数据收集进度: 69/100
+[INFO] [1754298477.154252642] [solver_node]: 标定数据收集进度: 70/100
+[INFO] [1754298477.164521186] [solver_node]: 标定数据收集进度: 71/100
+[INFO] [1754298477.176029902] [solver_node]: 标定数据收集进度: 72/100
+[INFO] [1754298477.185305924] [solver_node]: 标定数据收集进度: 73/100
+[INFO] [1754298477.221490711] [solver_node]: 标定数据收集进度: 74/100
+[INFO] [1754298477.232015897] [solver_node]: 标定数据收集进度: 75/100
+[INFO] [1754298477.240439592] [solver_node]: 标定数据收集进度: 76/100
+[INFO] [1754298477.251988756] [solver_node]: 标定数据收集进度: 77/100
+[INFO] [1754298477.264879724] [solver_node]: 标定数据收集进度: 78/100
+[INFO] [1754298477.276595898] [solver_node]: 标定数据收集进度: 79/100
+[INFO] [1754298477.288100645] [solver_node]: 标定数据收集进度: 80/100
+[INFO] [1754298477.300451257] [solver_node]: 标定数据收集进度: 81/100
+[INFO] [1754298477.312805164] [solver_node]: 标定数据收集进度: 82/100
+[INFO] [1754298477.352005914] [solver_node]: 标定数据收集进度: 83/100
+[INFO] [1754298477.377913932] [solver_node]: 标定数据收集进度: 84/100
+[INFO] [1754298477.410501053] [solver_node]: 标定数据收集进度: 85/100
+[INFO] [1754298477.419337296] [solver_node]: 标定数据收集进度: 86/100
+[INFO] [1754298477.437794140] [solver_node]: 标定数据收集进度: 87/100
+[INFO] [1754298477.453832722] [solver_node]: 标定数据收集进度: 88/100
+[INFO] [1754298477.469589861] [solver_node]: 标定数据收集进度: 89/100
+[INFO] [1754298477.482606527] [solver_node]: 标定数据收集进度: 90/100
+[INFO] [1754298477.508278895] [solver_node]: 标定数据收集进度: 91/100
+[INFO] [1754298477.529070417] [solver_node]: 标定数据收集进度: 92/100
+[INFO] [1754298477.541195554] [solver_node]: 标定数据收集进度: 93/100
+[INFO] [1754298477.547316315] [solver_node]: 标定数据收集进度: 94/100
+[INFO] [1754298477.551711045] [solver_node]: 标定数据收集进度: 95/100
+[INFO] [1754298477.556412016] [solver_node]: 标定数据收集进度: 96/100
+[INFO] [1754298477.587770902] [solver_node]: 标定数据收集进度: 97/100
+[INFO] [1754298477.595698496] [solver_node]: 标定数据收集进度: 98/100
+[INFO] [1754298477.601834553] [solver_node]: 标定数据收集进度: 99/100
+[INFO] [1754298477.607219435] [solver_node]: 标定数据收集进度: 100/100
+[INFO] [1754298477.608645273] [solver_node]: 标定数据收集完成，开始标定过程...
+[INFO] [1754298477.625360533] [solver_node]: 开始标定，收集到的数据shape: (100, 5)
+[INFO] [1754298477.626550336] [solver_node]: [PerpendicularDistanceLocalizer] 开始标定，扫描数据shape: (100, 5)
+[INFO] [1754298477.631695216] [solver_node]: [PerpendicularDistanceLocalizer] 平均测距值 详细内容: 形状: (5,), 类型: float64
+[INFO] [1754298477.633273887] [solver_node]: [PerpendicularDistanceLocalizer] 平均测距值[0]: 0.14800000190734863
+[INFO] [1754298477.649043794] [solver_node]: [PerpendicularDistanceLocalizer] 平均测距值[1]: 7.0729399585723876
+[INFO] [1754298477.650464831] [solver_node]: [PerpendicularDistanceLocalizer] 平均测距值[2]: 7.550000190734863
+[INFO] [1754298477.651589546] [solver_node]: [PerpendicularDistanceLocalizer] 平均测距值[3]: 1.7914500081539153
+[INFO] [1754298477.652658612] [solver_node]: [PerpendicularDistanceLocalizer] 平均测距值[4]: 1.7960000038146973
+[INFO] [1754298477.653928416] [solver_node]: [PerpendicularDistanceLocalizer] h_values 详细内容: 形状: (5,), 类型: float64
+[INFO] [1754298477.655055658] [solver_node]: [PerpendicularDistanceLocalizer] h_values[0]: 0.37684580873135426
+[INFO] [1754298477.666908825] [solver_node]: [PerpendicularDistanceLocalizer] h_values[1]: 0.37684580873135426
+[INFO] [1754298477.668292774] [solver_node]: [PerpendicularDistanceLocalizer] h_values[2]: 0.33497201345916283
+[INFO] [1754298477.669444017] [solver_node]: [PerpendicularDistanceLocalizer] h_values[3]: 0.2847569265233284
+[INFO] [1754298477.670729085] [solver_node]: [PerpendicularDistanceLocalizer] h_values[4]: 0.2847569265233284
+[INFO] [1754298477.672940849] [solver_node]: [PerpendicularDistanceLocalizer] 标定完成: m=9.963, n=7.975
+[INFO] [1754298477.674491072] [solver_node]: [PerpendicularDistanceLocalizer] 前后左右平均距离: 前=7.885, 后=2.078, 左=0.525, 右=7.450
+[INFO] [1754298477.676145263] [solver_node]: [PerpendicularDistanceLocalizer] 计算的初始位姿: x=2.078, y=7.450, phi=1.571
+[INFO] [1754298477.679393134] [solver_node]: 标定完成: m=9.963, n=7.975
+[INFO] [1754298477.681179934] [solver_node]: 初始位姿: x=2.078, y=7.450, phi=1.571
+[INFO] [1754298477.696036169] [solver_node]: 初始化阶段完成，进入运行阶段
+[INFO] [1754298477.698614625] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298477.700361810] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298477.707899192] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754298477.708712800] [solver_node]: 解列表: [(2.078369432614924, 7.449815765129365, 0.0), (7.885084704086738, 0.5248158128130807, 3.141592653589793)]
+[INFO] [1754298477.727546128] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298477.730037607] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298477.734791283] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298477.739439935] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298477.744136171] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298477.746256063] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298477.757696138] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298477.760243937] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298477.769110132] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298477.774259140] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298477.779287379] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298477.793357495] [solver_node]: 已提交静态TF发布任务: translation=(-2.078, -7.450, 0.0)
+[INFO] [1754298477.798351685] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298477.802884752] [solver_node]: 发布静态变换完成: translation=(-2.078, -7.450, 0.0), 无旋转
+[INFO] [1754298477.804413214] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298477.809795056] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754298477.821047258] [solver_node]: 获取TF失败: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754298477.821984898] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754298477.823014764] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298477.825705157] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754298477.826474476] [solver_node]: 解列表: [(2.078369432614924, 7.449815765129365, 0.0), (7.885084704086738, 0.5248158128130807, 3.141592653589793)]
+[INFO] [1754298477.832405892] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298477.848156471] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298477.850594958] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298477.860941902] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298477.870283462] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298477.880420804] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298477.884519275] [solver_node]: 已提交静态TF发布任务: translation=(-2.078, -7.450, 0.0)
+[INFO] [1754298477.896061815] [solver_node]: 发布静态变换完成: translation=(-2.078, -7.450, 0.0), 无旋转
+[INFO] [1754298477.897972328] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298477.906660794] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298477.919686899] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298477.923426134] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298477.929651632] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754298477.936013676] [solver_node]: 获取TF失败: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754298477.936951445] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754298477.938078751] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754298477.938767014] [solver_node]: 解列表: [(2.078869634793879, 7.449815765129365, 0.0), (7.884584501907783, 0.5248158128130807, 3.141592653589793)]
+[INFO] [1754298477.945073985] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298477.950281713] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298477.959538248] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298477.968176920] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298477.981502261] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298477.990511721] [solver_node]: 已提交静态TF发布任务: translation=(-2.078, -7.450, 0.0)
+[INFO] [1754298478.004657229] [solver_node]: 发布静态变换完成: translation=(-2.078, -7.450, 0.0), 无旋转
+[INFO] [1754298478.005840856] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.009148023] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.021437866] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.033325785] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.035763920] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.043704218] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.051261025] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754298478.058165089] [solver_node]: 获取TF失败: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754298478.059053385] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754298478.060139828] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754298478.060811226] [solver_node]: 解列表: [(2.078869634793879, 7.449815765129365, 0.0), (7.884584501907783, 0.5248158128130807, 3.141592653589793)]
+[INFO] [1754298478.063687765] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.075010591] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.100942801] [solver_node]: 已提交静态TF发布任务: translation=(-2.078, -7.450, 0.0)
+[INFO] [1754298478.106347907] [solver_node]: 发布静态变换完成: translation=(-2.078, -7.450, 0.0), 无旋转
+[INFO] [1754298478.107734416] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.112242906] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.140932262] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.144593928] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.150976132] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.164746149] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.170708988] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754298478.181933925] [solver_node]: 获取TF失败: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754298478.182874286] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754298478.186500816] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.193737075] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754298478.212307969] [solver_node]: 解列表: [(2.078869634793879, 7.449815765129365, 0.0), (7.884584501907783, 0.5248158128130807, 3.141592653589793)]
+[INFO] [1754298478.213762831] [solver_node]: 发布静态变换完成: translation=(-2.078, -7.450, 0.0), 无旋转
+[INFO] [1754298478.218966591] [solver_node]: 已提交静态TF发布任务: translation=(-2.078, -7.450, 0.0)
+[INFO] [1754298478.224272849] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.227468431] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.230365226] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.236153472] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.243624805] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.267157985] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.282229966] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.292453262] [solver_node]: 发布静态变换完成: translation=(-2.078, -7.450, 0.0), 无旋转
+[INFO] [1754298478.295861581] [solver_node]: 已提交静态TF发布任务: translation=(-2.078, -7.450, 0.0)
+[INFO] [1754298478.298247940] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.303341555] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.310685848] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.315583750] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.319640747] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.324393624] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.332151328] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754298478.336132645] [solver_node]: 获取TF失败: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754298478.337104527] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754298478.338414811] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754298478.339178242] [solver_node]: 解列表: [(2.0791196464763892, 7.449815765129365, 0.0), (7.884334490225273, 0.5248158128130807, 3.141592653589793)]
+[INFO] [1754298478.357004424] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.363016673] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.375109650] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.385742901] [solver_node]: 已提交静态TF发布任务: translation=(-2.078, -7.450, 0.0)
+[INFO] [1754298478.408397128] [solver_node]: 发布静态变换完成: translation=(-2.078, -7.450, 0.0), 无旋转
+[INFO] [1754298478.412216972] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.427649084] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.435743976] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.441665599] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.448156156] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.455139837] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.463049735] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.469872903] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754298478.475950303] [solver_node]: 获取TF失败: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754298478.476845704] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754298478.481068527] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.487204041] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754298478.488130641] [solver_node]: 解列表: [(2.0791196464763892, 7.449815765129365, 0.0), (7.884334490225273, 0.5248158128130807, 3.141592653589793)]
+[INFO] [1754298478.507748616] [solver_node]: 发布静态变换完成: translation=(-2.078, -7.450, 0.0), 无旋转
+[INFO] [1754298478.510647236] [solver_node]: 已提交静态TF发布任务: translation=(-2.078, -7.450, 0.0)
+[INFO] [1754298478.516628987] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.522258704] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.531984075] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.536474517] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.552131303] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.557495673] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.563574514] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.570809941] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.578067737] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.584904953] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.589328834] [solver_node]: 已提交静态TF发布任务: translation=(-2.078, -7.450, 0.0)
+[INFO] [1754298478.593316104] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754298478.606015294] [solver_node]: 获取TF失败: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754298478.608140338] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754298478.610269446] [solver_node]: 发布静态变换完成: translation=(-2.078, -7.450, 0.0), 无旋转
+[INFO] [1754298478.612457882] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.616463808] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754298478.618421234] [solver_node]: 解列表: [(2.0803696452842964, 7.449815765129365, 0.0), (7.883084491417366, 0.5248158128130807, 3.141592653589793)]
+[INFO] [1754298478.634342087] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.652406928] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.664055260] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.677834045] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.686280908] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.702223969] [solver_node]: 已提交静态TF发布任务: translation=(-2.078, -7.450, 0.0)
+[INFO] [1754298478.713734636] [solver_node]: 发布静态变换完成: translation=(-2.078, -7.450, 0.0), 无旋转
+[INFO] [1754298478.719349281] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754298478.736149438] [solver_node]: 获取TF失败: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754298478.741442287] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754298478.744282634] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.753930852] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754298478.754699755] [solver_node]: 解列表: [(2.0803696452842964, 7.449315764116086, 0.0), (7.883084491417366, 0.5253158138263596, 3.141592653589793)]
+[INFO] [1754298478.758946931] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.766299639] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.770206684] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.773627484] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.778215655] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.782285037] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.789888212] [solver_node]: 已提交静态TF发布任务: translation=(-2.078, -7.450, 0.0)
+[INFO] [1754298478.799852273] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.804011736] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.807559129] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.810790231] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.813138893] [solver_node]: 发布静态变换完成: translation=(-2.078, -7.450, 0.0), 无旋转
+[INFO] [1754298478.835345372] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.838013205] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.840235658] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.850085254] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.858227474] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.867642538] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754298478.878454191] [solver_node]: 获取TF失败: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754298478.879487513] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754298478.880435489] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.882212434] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754298478.882938713] [solver_node]: 解列表: [(2.0803696452842964, 7.449315764116086, 0.0), (7.883084491417366, 0.5253158138263596, 3.141592653589793)]
+[INFO] [1754298478.885384048] [solver_node]: 已提交静态TF发布任务: translation=(-2.078, -7.450, 0.0)
+[INFO] [1754298478.889702008] [solver_node]: 发布静态变换完成: translation=(-2.078, -7.450, 0.0), 无旋转
+[INFO] [1754298478.895410189] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.902300558] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.940419378] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.950503504] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.953521772] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.955833474] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.959072448] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298478.961613624] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754298478.990952394] [solver_node]: 获取TF失败: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754298478.991892883] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754298478.996361308] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.004658762] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754298479.005480625] [solver_node]: 解列表: [(2.080119633601786, 7.444815851854123, 0.0), (7.883334503099876, 0.5298157260883225, 3.141592653589793)]
+[INFO] [1754298479.009294389] [solver_node]: 已提交静态TF发布任务: translation=(-2.078, -7.450, 0.0)
+[INFO] [1754298479.020634815] [solver_node]: 发布静态变换完成: translation=(-2.078, -7.450, 0.0), 无旋转
+[INFO] [1754298479.024356674] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.031352323] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.037768959] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.054848830] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.060354450] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.065161727] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.070551089] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.075529023] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.082407616] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.086430981] [solver_node]: 已提交静态TF发布任务: translation=(-2.078, -7.450, 0.0)
+[INFO] [1754298479.094986293] [solver_node]: 发布静态变换完成: translation=(-2.078, -7.450, 0.0), 无旋转
+[INFO] [1754298479.098526038] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.104054058] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.109512125] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.115196178] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754298479.118806259] [solver_node]: 获取TF失败: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754298479.119726620] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754298479.120832262] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754298479.121629230] [solver_node]: 解列表: [(2.080119633601786, 7.444815851854123, 0.0), (7.883334503099876, 0.5298157260883225, 3.141592653589793)]
+[INFO] [1754298479.124963501] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.127790727] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.130117661] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.143352889] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.149570035] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.158027458] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.167854301] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.177360822] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.187055665] [solver_node]: 发布静态变换完成: translation=(-2.078, -7.450, 0.0), 无旋转
+[INFO] [1754298479.191000469] [solver_node]: 已提交静态TF发布任务: translation=(-2.078, -7.450, 0.0)
+[INFO] [1754298479.197747252] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.206180067] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.213929227] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.227232552] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754298479.229315483] [solver_node]: 获取TF失败: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754298479.238843156] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754298479.244627498] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.250254815] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754298479.251073798] [solver_node]: 解列表: [(2.080119633601786, 7.444815851854123, 0.0), (7.883334503099876, 0.5298157260883225, 3.141592653589793)]
+[INFO] [1754298479.251894190] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.254967627] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.257033726] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.267913571] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.276900599] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.300870327] [solver_node]: 发布静态变换完成: translation=(-2.078, -7.450, 0.0), 无旋转
+[INFO] [1754298479.306500620] [solver_node]: 已提交静态TF发布任务: translation=(-2.078, -7.450, 0.0)
+[INFO] [1754298479.314767897] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.322709315] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.332352445] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.340613642] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.346116637] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.348935800] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754298479.352755739] [solver_node]: 获取TF失败: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754298479.353632804] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754298479.354842767] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.362422230] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754298479.363215805] [solver_node]: 解列表: [(2.080119633601786, 7.449315764116086, 0.0), (7.883334503099876, 0.5253158138263596, 3.141592653589793)]
+[INFO] [1754298479.371702380] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.382625330] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.387984804] [solver_node]: 已提交静态TF发布任务: translation=(-2.078, -7.450, 0.0)
+[INFO] [1754298479.390948992] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.394450017] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.413899702] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.429615657] [solver_node]: 发布静态变换完成: translation=(-2.078, -7.450, 0.0), 无旋转
+[INFO] [1754298479.435680674] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.443901166] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.446341285] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.459910980] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.463467493] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.465796187] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.470767497] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754298479.478810740] [solver_node]: 获取TF失败: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1754298479.479911839] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754298479.483870627] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754298479.485249744] [solver_node]: 已提交静态TF发布任务: translation=(-2.078, -7.450, 0.0)
+[INFO] [1754298479.487222403] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754298479.493770464] [solver_node]: 发布静态变换完成: translation=(-2.078, -7.450, 0.0), 无旋转
+[INFO] [1754298479.494695625] [solver_node]: 解列表: [(2.080119633601786, 7.449315764116086, 0.0), (7.883334503099876, 0.5253158138263596, 3.141592653589793)]
+[INFO] [1754298479.505061161] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.527610268] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.530662200] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.533951799] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.536113739] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.544007445] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.551721149] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.566244101] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.576195873] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.585313751] [solver_node]: 已提交静态TF发布任务: translation=(-2.078, -7.450, 0.0)
+[INFO] [1754298479.588473716] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.591161997] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754298479.600432068] [solver_node]: 获取TF失败: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754298479.603590785] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754298479.607870441] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754298479.608798194] [solver_node]: 解列表: [(2.080119633601786, 7.449315764116086, 0.0), (7.883334503099876, 0.5253158138263596, 3.141592653589793)]
+[INFO] [1754298479.611745357] [solver_node]: 发布静态变换完成: translation=(-2.078, -7.450, 0.0), 无旋转
+[INFO] [1754298479.619804505] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.630491164] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.634780676] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.642756527] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.655237251] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.678684862] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.682496066] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.686355910] [solver_node]: 已提交静态TF发布任务: translation=(-2.078, -7.450, 0.0)
+[INFO] [1754298479.692392190] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.694902006] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.707581324] [solver_node]: 发布静态变换完成: translation=(-2.078, -7.450, 0.0), 无旋转
+[INFO] [1754298479.711024492] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.714589229] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754298479.722608600] [solver_node]: 获取TF失败: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1754298479.724539978] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754298479.731652237] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754298479.733222043] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.737475203] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754298479.738332267] [solver_node]: 解列表: [(2.080119633601786, 7.449315764116086, 0.0), (7.883334503099876, 0.5253158138263596, 3.141592653589793)]
+[INFO] [1754298479.741090789] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.744401604] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.748039142] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.757409949] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.768600454] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.789770763] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.791669725] [solver_node]: 已提交静态TF发布任务: translation=(-2.078, -7.450, 0.0)
+[INFO] [1754298479.801751195] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.804083761] [solver_node]: 发布静态变换完成: translation=(-2.078, -7.450, 0.0), 无旋转
+[INFO] [1754298479.806760714] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.810700463] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.818938236] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.829916162] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.845184337] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754298479.876446772] [solver_node]: 获取TF失败: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754298479.881298786] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754298479.882488525] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.887570204] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754298479.889748465] [solver_node]: 解列表: [(2.080119633601786, 7.449315764116086, 0.0), (7.883334503099876, 0.5253158138263596, 3.141592653589793)]
+[INFO] [1754298479.890915964] [solver_node]: 已提交静态TF发布任务: translation=(-2.078, -7.450, 0.0)
+[INFO] [1754298479.904877342] [solver_node]: 发布静态变换完成: translation=(-2.078, -7.450, 0.0), 无旋转
+[INFO] [1754298479.906205002] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.919208420] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.936231459] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298479.976699100] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754298480.008319012] [solver_node]: 获取TF失败: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754298480.009220236] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754298480.010236469] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298480.019664173] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754298480.020403636] [solver_node]: 解列表: [(2.080119633601786, 7.449315764116086, 0.0), (7.883334503099876, 0.5253158138263596, 3.141592653589793)]
+[INFO] [1754298480.032563302] [solver_node]: 发布静态变换完成: translation=(-2.078, -7.450, 0.0), 无旋转
+[INFO] [1754298480.034518520] [solver_node]: 已提交静态TF发布任务: translation=(-2.078, -7.450, 0.0)
+[INFO] [1754298480.037191793] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298480.049724678] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298480.052882915] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298480.054991959] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298480.057712112] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298480.060303689] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298480.063166467] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298480.068485749] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298480.079994656] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298480.083746211] [solver_node]: 已提交静态TF发布任务: translation=(-2.078, -7.450, 0.0)
+[INFO] [1754298480.088077452] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298480.093251484] [solver_node]: 发布静态变换完成: translation=(-2.078, -7.450, 0.0), 无旋转
+[INFO] [1754298480.096518202] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298480.114689092] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298480.125255303] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754298480.134414300] [solver_node]: 获取TF失败: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754298480.135405509] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754298480.141764449] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298480.152424740] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754298480.155040957] [solver_node]: 解列表: [(2.080119633601786, 7.449315764116086, 0.0), (7.883334503099876, 0.5253158138263596, 3.141592653589793)]
+[INFO] [1754298480.173978029] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298480.189635487] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298480.202898171] [solver_node]: 发布静态变换完成: translation=(-2.078, -7.450, 0.0), 无旋转
+[INFO] [1754298480.208209261] [solver_node]: 已提交静态TF发布任务: translation=(-2.078, -7.450, 0.0)
+[INFO] [1754298480.215624050] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298480.223630781] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298480.226430359] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298480.228900270] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298480.231385189] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298480.234140799] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298480.237242844] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298480.240583707] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298480.247751966] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298480.258913734] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298480.269497929] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298480.278425884] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754298480.282244127] [solver_node]: 获取TF失败: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1754298480.283177480] [solver_node]: 已提交静态TF发布任务: translation=(-2.078, -7.450, 0.0)
+[WARN] [1754298480.291683352] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754298480.293899436] [solver_node]: 发布静态变换完成: translation=(-2.078, -7.450, 0.0), 无旋转
+[INFO] [1754298480.294966998] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298480.309536510] [solver_node]: 垂直距离定位器返回 2 个解
+[INFO] [1754298480.310392774] [solver_node]: 解列表: [(2.080119633601786, 7.449315764116086, 0.0), (7.883334503099876, 0.5253158138263596, 3.141592653589793)]
+[INFO] [1754298480.313671685] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298480.317216230] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298480.324399081] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298480.330083358] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298480.348650091] [solver_node]: 收到5个激光点，处理后5个有效点
+[INFO] [1754298480.355115527] [solver_node]: 收到5个激光点，处理后5个有效点
+[WARN] [1754298480.418540311] [solver_node]: 获取TF失败: Could not find a connection between 'chassis_map' and 'chassis_link' because they are not part of the same tree.Tf has two or more unconnected trees.
+[WARN] [1754298480.419403807] [solver_node]: 无法获取TF变换，跳过求解
+[INFO] [1754298480.420074630] [solver_node]: 求解循环已停止
+[INFO] [1754298480.431186957] [solver_node]: SolverNode资源清理完成
